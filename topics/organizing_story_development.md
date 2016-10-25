@@ -13,7 +13,12 @@ You do not need to follow these in any particular order. Choose the path of leas
 
 ## Plot
 
-1. Map critical beats
+1. Write critical beats
+  - Decision points
+  - Conflict resolution 
+2. Write optional beats.
+  -  These become possible branches in your narrative.
+  -  
 
 
 ## Structure
