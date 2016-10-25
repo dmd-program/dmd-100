@@ -7,6 +7,10 @@ In fictional film or literature, character types are used to enable viewers to e
 - Animated Race Car: [Cars (2006)](http://www.imdb.com/title/tt0317219/)
 - Homicidal car tire: [Rubber (2010)](http://www.imdb.com/title/tt1612774/)
 
+## Characterization
+
+In the process of characterization, a writer will develop traits of a character according to how they will serve the story's plot requirements. Characters are often inspired by people from real life, but often become simplified and adapted as needed.
+
 ## Character profile
 
 Creating a character profile is helpful to describe the way in which a character connects with and supports the telling of a story. 
@@ -39,9 +43,6 @@ Creating a character profile is helpful to describe the way in which a character
   - Meetings with other characters
   - How are character flaws introduced into the story?
 
-## Characterization
-
-In the process of characterization, a writer will develop traits of a character according to how they will serve the story's plot requirements. Characters are often inspired by people from real life, but often become simplified and adapted as needed.
 
 ## Types in fictional stories
 
