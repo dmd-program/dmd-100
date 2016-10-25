@@ -1,4 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/dmd-program/dmd-course-materials.png?label=ready&title=Ready)](https://waffle.io/dmd-program/dmd-course-materials)
 # Digital Multimedia Design 100
 
 
