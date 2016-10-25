@@ -8,31 +8,6 @@
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Project Management](toolkit/project_management.md)
    * [Recommended Tools](introduction/recommended_tools.md)
-* unused
-   * [Tell me a story](practice/tell_me_a_story.md)
-   * [Story breakdown](practice/story_breakdown.md)
-   * [Non-linear Narrative](practice/non-linear_narrative.md)
-   * [Linear Narrative](practice/linear_narrative.md)
-   * [Design Fiction Project](projects/design_fiction_project.md)
-   * [Design Intervention](practice/design_intervention.md)
-   * Design Methods
-       * [Inspire](toolkit/inspire.md)
-       * [Futurecasting](toolkit/futurecasting.md)
-       * [Immerse and observe](toolkit/immerse_and_observe.md)
-       * [Interview](toolkit/interview.md)
-       * [User stories](toolkit/user_stories.md)
-       * [Prototype](toolkit/prototype.md)
-       * [Insights](toolkit/insights.md)
-       * [Journey map](toolkit/journey_map.md)
-   * [Interactive Story Project](projects/interactive_story_project.md)
-   * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
-   * [Lesson 2: Discursive Design](lessons/discursive_design.md)
-       * Topics
-           * [Discursive design](topics/discursive_design.md)
-       * Discursive Design Case Study
-       * Activities
-           * [Future Living](practice/future_living.md)
-           * [Dwelling Design](practice/dwelling_design.md)
 * Units
    * [Unit 01](toolkit/lessons.md)
        * Unit 01 Description
@@ -148,6 +123,31 @@
                * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
            * Activity
                * [Open Source Gift](practice/open_source_gift.md)
+* unused
+   * [Tell me a story](practice/tell_me_a_story.md)
+   * [Story breakdown](practice/story_breakdown.md)
+   * [Non-linear Narrative](practice/non-linear_narrative.md)
+   * [Linear Narrative](practice/linear_narrative.md)
+   * [Design Fiction Project](projects/design_fiction_project.md)
+   * [Design Intervention](practice/design_intervention.md)
+   * Design Methods
+       * [Inspire](toolkit/inspire.md)
+       * [Futurecasting](toolkit/futurecasting.md)
+       * [Immerse and observe](toolkit/immerse_and_observe.md)
+       * [Interview](toolkit/interview.md)
+       * [User stories](toolkit/user_stories.md)
+       * [Prototype](toolkit/prototype.md)
+       * [Insights](toolkit/insights.md)
+       * [Journey map](toolkit/journey_map.md)
+   * [Interactive Story Project](projects/interactive_story_project.md)
+   * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
+   * [Lesson 2: Discursive Design](lessons/discursive_design.md)
+       * Topics
+           * [Discursive design](topics/discursive_design.md)
+       * Discursive Design Case Study
+       * Activities
+           * [Future Living](practice/future_living.md)
+           * [Dwelling Design](practice/dwelling_design.md)
 * Topics
    * Principles
    * Methods
