@@ -46,7 +46,7 @@ Creating a character profile is helpful to describe the way in which a character
 
 ## Types in fictional stories
 
-Characters are often a combination of the following types:
+Characters are often one or a combination of the following types:
 
 1. Main character
   - The story typically follows this character most closely. They are needed to resolve the conflict.
