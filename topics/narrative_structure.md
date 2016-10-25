@@ -52,7 +52,7 @@ To develop the critical path:
 2. Determine essential actions and decisions
 3. Identify the optional narrative interactions that build around the central story
 
-#### Linear structural patterns
+#### Linear narrative structural models
 ##### Branching
 
 The branching structure is the structure used in choose your own adventure books and most interactive narratives. One problem with branching structures is the tendency to create overly complicated story paths.
@@ -82,7 +82,7 @@ In this quasi-linear structure, users are given the opportunity to explore multi
 
 This bi-linear structure encourages users to move through a story vertically and laterally, where lateral movement represents plot points and vertical movement represents the gathering information and details surrounding the plot.
 
-#### Non-linear structural patterns
+#### Non-linear structural models
 
 ##### Sandbox or open-world
 
