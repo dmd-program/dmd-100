@@ -169,5 +169,4 @@
        * Digital imaging
        * 3D
        * Web
-* Toolkit
 
