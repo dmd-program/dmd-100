@@ -6,6 +6,7 @@
    * [Measuring success](introduction/measuring_success.md)
    * [References](introduction/references.md)
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
+   * [Project Management](toolkit/project_management.md)
    * [Recommended Tools](introduction/recommended_tools.md)
 * unused
    * [Tell me a story](practice/tell_me_a_story.md)
@@ -170,5 +171,4 @@
        * Web
 * Toolkit
    * Program structure
-   * [Project Management](toolkit/project_management.md)
 
