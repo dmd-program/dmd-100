@@ -1,5 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/dmd-program/dmd-course-materials.png?label=ready&title=Ready)](https://waffle.io/dmd-program/dmd-course-materials)
-# Digital Multimedia Design
+# Digital Multimedia Design 100
 
 
 This book is meant to be a companion as you progress through your education in the Digital Multimedia Design Program. Topics will be continually added and removed as necessary.
