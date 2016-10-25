@@ -24,5 +24,5 @@ You do not need to follow these in any particular order. Choose the path of leas
 
 ## Media
 1. Types
-  - **Trans-media:** Trans-media refers to the idea that a narrative is experienced across multiple forms of media. A good example of a trans-media narrative is documented in the film, [The Institute, 2013,](http://www.theinstitutemovie.com/
+  - **Trans-media:** Trans-media refers to the idea that a narrative is experienced across multiple forms of media. A good example of a trans-media narrative is documented in the film, [The Institute, 2013,](http://www.theinstitutemovie.com.
   - Single-channel
