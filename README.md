@@ -1,7 +1,7 @@
-# Digital Multimedia Design 100
+# DMD 100: Digital Multimedia Design Foundations
 
 
-This book is meant to be a companion as you progress through your education in the Digital Multimedia Design Program. Topics will be continually added and removed as necessary.
+DMD 100 introduces concepts, skills, language and principles of practice in art and design, communication, and information sciences.
 
 ## Contributors
 *In alphabetical order by last name*
