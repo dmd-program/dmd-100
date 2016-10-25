@@ -18,4 +18,4 @@ In many educational institutions, the grade point average (GPA) measures a stude
    - iterate to the best result within constraints
    - apply time an energy
  5. Skill
-   - what you can do
+   - what you can "bring to the table"
