@@ -123,28 +123,28 @@
                * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
            * Activity
                * [Open Source Gift](practice/open_source_gift.md)
-* Topics
-   * Principles
-   * Methods
-       * Research
-       * [Statement writing](topics/statement_writing.md)
-       * [The design brief](topics/the_design_brief.md)
-       * Brainwriting
-   * Fields
-       * Animation and VFX
-       * Architecture
-       * Entrepreneurship
-       * [Experience Design](topics/experience_design.md)
-       * Game design
-       * [Graphic design](topics/graphic_design.md)
-       * Industrial design
-   * Tools and Technology
-       * Automation
-       * [Programming](topics/programming.md)
-       * Digital imaging
-       * 3D
-       * Web
 * unused
+   * Topics
+       * Principles
+       * Methods
+           * Research
+           * [Statement writing](topics/statement_writing.md)
+           * [The design brief](topics/the_design_brief.md)
+           * Brainwriting
+       * Fields
+           * Animation and VFX
+           * Architecture
+           * Entrepreneurship
+           * [Experience Design](topics/experience_design.md)
+           * Game design
+           * [Graphic design](topics/graphic_design.md)
+           * Industrial design
+       * Tools and Technology
+           * Automation
+           * [Programming](topics/programming.md)
+           * Digital imaging
+           * 3D
+           * Web
    * [Tell me a story](practice/tell_me_a_story.md)
    * [Story breakdown](practice/story_breakdown.md)
    * [Non-linear Narrative](practice/non-linear_narrative.md)
