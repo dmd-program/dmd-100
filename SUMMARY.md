@@ -71,7 +71,7 @@
                * [Organizing story development](topics/organizing_story_development.md)
                * [Audience](topics/audience.md)
                * [Character](topics/character.md)
-               * Plot
+               * [Plot](topics/plot.md)
                * [Narrative structure](topics/narrative_structure.md)
                * [Hypertext](topics/hypertext.md)
                * [Media](topics/narrative-media.md)
