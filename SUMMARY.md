@@ -171,5 +171,4 @@
    * Program structure
    * [Project Management](toolkit/project_management.md)
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
-   * [Materials](toolkit/materials.md)
 
