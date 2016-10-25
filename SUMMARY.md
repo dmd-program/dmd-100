@@ -5,6 +5,7 @@
    * [How to use this book](introduction/how_to_use_this_book.md)
    * [Measuring success](introduction/measuring_success.md)
    * [References](introduction/references.md)
+   * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Recommended Tools](introduction/recommended_tools.md)
 * unused
    * [Tell me a story](practice/tell_me_a_story.md)
@@ -170,5 +171,4 @@
 * Toolkit
    * Program structure
    * [Project Management](toolkit/project_management.md)
-   * [Documentation Guidelines](toolkit/documentation_guidelines.md)
 
