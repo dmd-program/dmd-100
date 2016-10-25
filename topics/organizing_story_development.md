@@ -21,3 +21,8 @@ You do not need to follow these in any particular order. Choose the path of leas
 1. Choose a model
   - It helps to sketch on paper
 2.   
+
+## Media
+1. Types
+  - **Trans-media:** Trans-media refers to the idea that a narrative is experienced across multiple forms of media. A good example of a trans-media narrative is documented in the film, [The Institute](http://www.theinstitutemovie.com/
+  - Single-channel
