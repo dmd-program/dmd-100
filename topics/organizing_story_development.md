@@ -2,18 +2,22 @@
 
 You do not need to follow these in any particular order. Choose the path of least resistance when quickly prototyping a narrative.
 
+## Setting
+
+## POV
+
+
+
 ## Character
 
-1. Choose a genre
-2. Define the audience
-3. Identify characters
-  1. Assign characterization types to characters
-  2. Develop character profiles
-  3. Identify tropes to apply to characters or change characters to avoid unwanted tropes
+1. Assign characterization types to characters
+2. Develop character profiles
+3. Identify tropes to apply to characters or change characters to avoid unwanted tropes
 
 ## Plot
 
-1. Write critical beats (decision points)
+1. Theme
+2. Write critical beats (decision points)
   - Supports critical story path
   - Include elements:
     - Exposition
@@ -27,7 +31,7 @@ You do not need to follow these in any particular order. Choose the path of leas
 
 1. Choose or design a structure model
   - Should support critical story path and desired supplemental story interaction
-  - Linear or non-liinear?
+  - Linear or non-linear?
 2. 
 
 ## Media
