@@ -14,17 +14,21 @@ You do not need to follow these in any particular order. Choose the path of leas
 ## Plot
 
 1. Write critical beats (decision points)
-  - Conflict resolution 
+  - Supports critical story path
+  - Include elements:
+    - Exposition
+    - Conflict
+    - Resolution 
 2. Write optional beats.
   -  These become possible branches in your narrative.
-  -  
 
 
 ## Structure
 
-1. Choose a model
-  - It helps to sketch on paper
-2.   
+1. Choose or design a structure model
+  - Should support critical story path and desired supplemental story interaction
+  - Linear or non-liinear?
+2. 
 
 ## Media
 1. Types
