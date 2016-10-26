@@ -14,4 +14,4 @@ But what about when giving a presentation at work where you want to prove the vi
 - **Activist:** general public, politicians, 
 - **Professor:** students, colleagues, tenure and promotion committees, publications
 
-Each of these situations involves strategy, which is developed to guide the design process.
+Each of these situations involves strategy, which is developed to guide the design process. It is helpful to model the 
