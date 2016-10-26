@@ -10,8 +10,17 @@
  
  This short story called [story], by [author] is a good example of a 
  
-### Scope and constraints
- 
+### process
+- discover
+  - locate 5 news articles to be the seed for story ideas
+  - Free associate as many words related to the articles as possible.
+- define
+  - Write short sentences based on those words
+  - Define the main themes of the story
+- develop
+  - characters, plot
+- deliver
+  - Twine
 ### Technical format
 
 - **Video:** Video of a sample project being created
