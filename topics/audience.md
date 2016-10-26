@@ -1,15 +1,17 @@
 # Audience
 
-When a car maker creates a car, there is quite a lot of design considerations, the major one of which is the person who will be buying the car. This is the same with any product or service. It's easy to recognize the audience when you are making a product because the product is designed around the customer's wants and needs.
+When a car manufacturer designs a car, the first consideration is who will be buying the car. There is no benefit in making a car that no one will buy. This is the same with any product or service. It's easy to recognize the audience when you are making a product because the product is designed around the customer's wants and needs. If you are unsure who a car design is targeting, look to their marketing for insights.
 
-But what about in a work presentation where you want your team's ideas to be taken seriously, or an interview where you have to seem competent in a situation where you have very little information, or a community mural where you want to inspire young children to dream bigger? Each of those instances where things are being make, be they slides, a painting, or a conversation, the audience should drive the decision making process. If they aren't the focus, a bad outcome is more likely to occur.
+But what about when giving a presentation at work where you want to prove the viability of your team's ideas, or going an interview where you have to demonstrate competence to an employer, or organizing a mural project where you want to inspire the community to dream bigger? Each of those instances is a kind of strategic conversation that includes an act of making – be they slides, a painting, or a conversation – and if the audience isn't considered in the decision making process, a bad outcome is likely to occur.
 
 **Here are some examples of audience:**
 
 - **Architect:** building inhabitants, engineers, code inspectors, construction workers
-- **A supermarket owner:** shoppers, suppliers, workers
+- **A supermarket owner:** shoppers, food suppliers, workers
 - **Hollywood film producer:** causal movie-goers, hardcore fans
-- **Politician:** voters, foreign leaders
-- **Book publisher:** genre fan-base
-- **Activist:** general public
-- **Professor:** students, colleagues, promotion committees
+- **Politician:** voters, foreign leaders, political parties, campaign contributors
+- **Writer:** readers, publisher, critics
+- **Activist:** general public, politicians, 
+- **Professor:** students, colleagues, tenure and promotion committees, publications
+
+Each of these situations involves strategy, which is developed to guide the design process.
