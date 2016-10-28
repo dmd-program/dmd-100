@@ -12,22 +12,28 @@ In this project, you will go through a design thinking process that inspires a h
 ## Process
 
 ### Discover
-  1. Choose three categories that seem the most interesting from the following list:
-    - education
-    - economy
-    - health/wellness
-    - transportation
-    - technology
-    - government
-    - freedom
-    - justice
-    - democracy
-    - business/trade
-    - environment
-    - food/agriculture
-    - energy
-    - labor
-  2. Now that you have selected three categories, write them across the top of a sheet of paper to form three columns. Imagine an ideal or positive situation for that category for the year 2045. Respond to each category with a short one-sentence description of as many scenarios as you can think of. Try to have an inspiration source for your ideas, though you do not need to mention it. Inspiration can come from film, books, news, personal experiences, etc. For example, a news article for drone pizza delivery might inspire an idea for aerial, internet connected drones to bring virtual doctor consultations to remote villages. Write at least one response per category, but feel free to write down as many as you like. Limit yourself to 10 minutes. **Take a photo of this process and post it to the Studio Project feed**
+
+1. Form group of 3-4 people
+2. Choose three categories that seem the most interesting from the following list:
+  - education
+  - economy
+  - health/wellness
+  - transportation
+  - technology
+  - government
+  - freedom
+  - justice
+  - democracy
+  - business/trade
+  - environment
+  - food/agriculture
+  - energy
+  - labor
+3. Now that you have selected three categories, write them across the top of a sheet of paper to form three columns. Imagine an ideal or positive situation for that category for the year 2045. Respond to each category with a short one-sentence description of as many scenarios as you can think of. Try to have an inspiration source for your ideas, though you do not need to mention it. Inspiration can come from film, books, news, personal experiences, etc. For example, a news article for drone pizza delivery might inspire an idea for aerial, internet connected drones to bring virtual doctor consultations to remote villages. Write at least one response per category, but feel free to write down as many as you like. Limit yourself to 20 minutes. **Take a photo of this process and post it to the Studio Project feed**
+
+**Sentence structure:** The way it was, and the way it is now.
+
+**Example sentences:** Government officials used to have a conflict of interest with their constituents, but then the 
 
 ### Define
 
@@ -40,6 +46,9 @@ In this project, you will go through a design thinking process that inspires a h
   -  Characters
   -  Conflict
   -  Resolution
+
+Produce Draft 1, get feedback
+Draft 2, get feedback
 
 ### Deliver
 
