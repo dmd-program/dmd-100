@@ -14,7 +14,6 @@
        * [Lesson 1: What is Design?](lessons/introduction.md)
            * Case studies
                * [Design Case Study](lessons/what-is-design/design_case_study.md)
-               * d
            * Topics
                * [What is Design?](topics/what_is_design.md)
                * [Critical thinking](topics/critical_thinking.md)
@@ -23,7 +22,7 @@
                * [Sustainable design](topics/sustainable_design.md)
                * [Double diamond](topics/double_diamond.md)
                * [Concept development](topics/concept_development.md)
-           * Read and Discuss
+           * Read and Respond
                * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
                * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
                * [Chapter 3.What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
