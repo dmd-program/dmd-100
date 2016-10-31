@@ -11,10 +11,6 @@
    * [Unit 01](toolkit/lessons.md)
        * Unit 01 Description
        * [Icebreaker: Visual Telephone](icebreakers/icebreaker_visual_telephone.md)
-       * Unit 01 Project
-           * [Ritual](projects/ritual.md)
-           * Tutorials
-               * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
        * [Lesson 1: What is Design?](lessons/introduction.md)
            * Topics
                * [What is Design?](topics/what_is_design.md)
@@ -33,6 +29,10 @@
                * [Visual Manual](practice/visual_manual.md)
                * [Daily Design Journal](practice/daily_design_journal.md)
        * Lesson 2: Interface and Experience
+           * Unit 01 Project
+               * [Ritual](projects/ritual.md)
+               * Tutorials
+                   * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
            * Case studies
                * [Visual Design Case Study](topics/visual_design_case_study.md)
                * [UX Case Study](topics/ux_case_study.md)
