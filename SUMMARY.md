@@ -34,8 +34,8 @@
                * [Daily Design Journal](practice/daily_design_journal.md)
        * Lesson 2: Visual Design
            * Case studies
+               * [Visual Design Case Study](topics/visual_design_case_study.md)
                * d
-           * [Visual Design Case Study](topics/visual_design_case_study.md)
            * [Digital Service or Product Project](projects/digital_service_or_product.md)
            * Topics
                * Identity
