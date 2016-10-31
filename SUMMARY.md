@@ -12,6 +12,7 @@
        * Unit 01 Description
        * [Icebreaker: Visual Telephone](icebreakers/icebreaker_visual_telephone.md)
        * [Lesson 1: What is Design?](lessons/introduction.md)
+           * Case studies
            * Topics
                * [What is Design?](topics/what_is_design.md)
                * [Critical thinking](topics/critical_thinking.md)
@@ -28,7 +29,6 @@
            * Activities
                * [Visual Manual](practice/visual_manual.md)
                * [Daily Design Journal](practice/daily_design_journal.md)
-           * Case studies
        * Lesson 2: Interface and Experience
            * Unit 01 Project
                * [Ritual](projects/ritual.md)
