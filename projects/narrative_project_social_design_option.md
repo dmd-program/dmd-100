@@ -13,26 +13,29 @@ For this project, you will create a hypertext story focused on building a better
 
 ### Discover
 
-#### Brainstorming
-1. Form group of 3-4 people and hold a real-time discussion or video chat.
-  - Roles: Assign someone to be a record the ideas.
-2. As a group, choose three categories that seem the most interesting from the following list (or add your own category):
+#### Question development
+1. Choose a random object from a random object generator. Here is [one](http://roger.redevised.com/). (2 mins)
+2. Brainwriting. This process will help with lateral thinking. Write as many reactions to this object as you can as one word responses. If you write sentences, put a one word description in parenthesis next to it. (10 mins)
+3. Choose one reaction.
+2. Write the reaction from step 3 in front of three different categories chosen from the following list (or add your own category if it's missing below):
   - education
   - economy
-  - health/wellness
+  - health
+  - wellness
   - transportation
   - technology
   - government
   - freedom
   - justice
   - democracy
-  - business/trade
+  - business
+  - trade
   - environment
-  - food/agriculture
+  - food
+  - agriculture
   - energy
   - labor
-  - other...
-3. Now that you have selected three categories, write the categories onto paper, or into a shared document (Google docs, Box notes, etc). Everyone in the session should see the paper/document.
+3. Now that you have selected three categories, write the words pairs onto paper, or into a shared document (Google docs, Box notes, etc). Everyone in the session should see the paper/document.
 4. Imagine an ideal or positive situation for that category for the year 2045. Think of a one-sentence description to explain that scenario. Try to have an inspiration source for your ideas, though you do not need to mention it. Inspiration can come from film, books, news, personal experiences, etc. For example, a news article for [drone pizza delivery](https://www.washingtonpost.com/news/innovations/wp/2016/08/25/hungry-your-pizza-drone-will-be-there-in-30-minutes/) might inspire an idea for aerial, internet-connected drones to bring virtual doctor consultations to remote villages. Write at least one response per category, but feel free to write down as many as you like. Limit yourself to 20 minutes. **Take a photo of this process and post it to the Studio Project feed**
 
 ### Define
