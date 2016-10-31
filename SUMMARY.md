@@ -48,6 +48,7 @@
                * [Chapter 6. Designs of Darkness](practice/bad_design.md)
            * Activities
                * [Design an Interface](practice/design_an_interface.md)
+               * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
                * [Make a Brand](practice/make_a_brand.md)
        * [Lesson 3: UX](lessons/ux.md)
            * Topics
@@ -57,7 +58,6 @@
                * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
                * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
            * Activities
-               * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
    * Unit 02
        * Unit 02 Project
            * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
