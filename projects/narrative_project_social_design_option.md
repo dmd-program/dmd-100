@@ -17,8 +17,8 @@ For this project, you will create a hypertext story focused on building a better
 1. In your journal, write three objects from your home. If you cannot think of any, choose three objects from a random object generator. Here is [one](http://roger.redevised.com/). (2 mins)
 2. Free association writing. (10 mins)
   - On a journal page, write as many adjectives to this object as you can as one word responses.
-3. Choose three reactions.
-2. Write the reaction from step 3 in front of one of the categories chosen from the following list (or add your own category if it's missing below):
+3. Choose three adjectives.
+2. Choose a focus word. Write the reaction from step 3 in front of one of the categories chosen from the following list.:
   - education
   - economy
   - health
@@ -36,7 +36,7 @@ For this project, you will create a hypertext story focused on building a better
   - agriculture
   - energy
   - labor
-3. Now that you have selected three categories, write the words pairs onto paper, or into a shared document (Google docs, Box notes, etc). Everyone in the session should see the paper/document.
+3. Now that you have selected one categories, write the words pairs onto paper, or into a shared document (Google docs, Box notes, etc). Everyone in the session should see the paper/document.
 4. Imagine an ideal or positive situation for that category for the year 2047. Think of a one-sentence description to explain that scenario. Try to have an inspiration source for your ideas, though you do not need to mention it. Inspiration can come from film, books, news, personal experiences, etc. For example, a news article for [drone pizza delivery](https://www.washingtonpost.com/news/innovations/wp/2016/08/25/hungry-your-pizza-drone-will-be-there-in-30-minutes/) might inspire an idea for aerial, internet-connected drones to bring virtual doctor consultations to remote villages. Write at least one response per category, but feel free to write down as many as you like. Limit yourself to 20 minutes. **Take a photo of this process and post it to the Studio Project feed**
 
 ### Define
