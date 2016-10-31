@@ -5,8 +5,8 @@
 For this project, you will create a hypertext story focused on building a better future world, set in the year 2047. A hypertext story is one that is told through a series of hyperlinks, each hyperlink leading to another node in the story. You will follow a design process that will help you generate ideas, create drafts, obtain feedback, and iterate towards a solution.
 
 ## Tools
-- Pencil
-- Paper
+- Pencil/pen
+- Journal
 - Internet Access
 
 ## Process
