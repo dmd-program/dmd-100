@@ -40,7 +40,7 @@
            * [Digital Service or Product Project](projects/digital_service_or_product.md)
            * Topics
                * Identity
-               * [User Experience Design](topics/user_experience_design.md)
+               * [User Experience Design](topics/interaction_design.md)
                * [Elements of Visual Design](topics/elements_of_visual_design.md)
                * [Principles of Visual Design](topics/principles_of_visual_design.md)
                * Semiotics
