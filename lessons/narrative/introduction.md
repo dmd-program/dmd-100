@@ -2,7 +2,9 @@
 
 The stories we are surround by and consume affect our attitudes and beliefs. These stories are how we make sense of the world. This suggests that the people who tell stories ultimately have great power in shaping society. Everything a designer does will be in support of telling stories and by extension, shape the world we inhabit.
 
-> Storytelling has a long history as a mechanism of knowledge transfer and can be considered a rapid immersion in an experience. [1]
+> Storytelling has a long history as a mechanism of knowledge transfer and can be considered a rapid immersion in an experience.
+>   
+>   – Jon Kolko [1]
 
 The goal of this lesson is not to teach you every facet and application of storytelling. Mastering this subject, as with most subjects, will take quite a long time. Instead, you will learn about common elements of story-telling, structural models, methods for building stories, and you will practice creating and telling a story of your design.
 
