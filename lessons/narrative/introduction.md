@@ -1,6 +1,6 @@
 # Introduction
 
-The stories we are surround by and consume affect our attitudes and beliefs. These stories are how we make sense of the world. This suggests that the people who tell stories ultimately have great power in shaping society. Everything a designer does will be in support of telling stories and by extension, shape the world we inhabit.
+The stories we are surround by and consume affect our attitudes and beliefs through the transfer of knowledge. These stories are how we make sense of the world. This suggests that the people who tell stories ultimately have great power in shaping society. Everything a designer does will be in support of telling stories and by extension, shape the world we inhabit.
 
 > Storytelling has a long history as a mechanism of knowledge transfer and can be considered a rapid immersion in an experience: One cannot experience time travel, but one can gain knowledge about the act of time travel through a rich compelling, and highly experiential story.
 >   
