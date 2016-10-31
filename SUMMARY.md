@@ -33,6 +33,7 @@
                * [Visual Manual](practice/visual_manual.md)
                * [Daily Design Journal](practice/daily_design_journal.md)
        * Lesson 2: Visual Design
+           * [Digital Service or Product Project](projects/digital_service_or_product.md)
            * Topics
                * Identity
                * [Elements of Visual Design](topics/elements_of_visual_design.md)
@@ -49,7 +50,6 @@
                * [Make a Brand](practice/make_a_brand.md)
        * [Lesson 3: UX](lessons/ux.md)
            * Topics
-               * [Digital Service or Product Project](projects/digital_service_or_product.md)
                * [Mental model](topics/mental_model.md)
            * [UX Case Study](topics/ux_case_study.md)
            * Read and Discuss
