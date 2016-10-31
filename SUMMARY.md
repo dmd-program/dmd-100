@@ -38,6 +38,7 @@
                * [Elements of Visual Design](topics/elements_of_visual_design.md)
                * [Principles of Visual Design](topics/principles_of_visual_design.md)
                * Semiotics
+               * [Wireframing](topics/wireframing.md)
                * Principles of Interaction
            * [Visual Design Case Study](topics/visual_design_case_study.md)
            * Read and Discuss
@@ -48,7 +49,6 @@
                * [Make a Brand](practice/make_a_brand.md)
        * [Lesson 3: UX](lessons/ux.md)
            * Topics
-               * [Wireframing](topics/wireframing.md)
                * [Digital Service or Product Project](projects/digital_service_or_product.md)
                * [Mental model](topics/mental_model.md)
            * [UX Case Study](topics/ux_case_study.md)
