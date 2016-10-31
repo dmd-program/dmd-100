@@ -45,8 +45,8 @@
            * Read and Discuss
                * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
                * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
+               * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
                * [Chapter 6. Designs of Darkness](practice/bad_design.md)
-           * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
            * Activities
                * [Design an Interface](practice/design_an_interface.md)
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
