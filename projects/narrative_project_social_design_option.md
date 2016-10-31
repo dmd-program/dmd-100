@@ -34,10 +34,11 @@ For this project, you will create a hypertext story focused on building a better
   - environment
   - food
   - agriculture
+  - ecosystem
   - energy
   - labor
-3. Now that you have created three word-pairs, write each one onto a separate journal page.
-4. Imagine it is the year 2047 and an ideal or positive situation has occurred, inspired by your word-pair. Think of a one-sentence description to explain that scenario. Try to have an inspiration source for your ideas, though you do not need to mention it. Inspiration can come from film, books, news, personal experiences, etc. For example, a news article for [drone pizza delivery](https://www.washingtonpost.com/news/innovations/wp/2016/08/25/hungry-your-pizza-drone-will-be-there-in-30-minutes/) might inspire an idea for aerial, internet-connected drones to bring virtual doctor consultations to remote villages. Write at least one response per category, but feel free to write down as many as you like. Limit yourself to 20 minutes. **Take photos or scan your journal pages and post them to the Studio Project feed**
+4. Now that you have created three word-pairs, write each one onto a separate journal page.
+  - Imagine it is the year 2047 and an ideal or positive situation has occurred, inspired by the word-pair. Think of one-sentence descriptions to explain the scenario. Try to have an inspiration source for your ideas, though you do not need to mention it. Inspiration can come from film, books, news, personal experiences, etc. For example, a news article for [drone pizza delivery](https://www.washingtonpost.com/news/innovations/wp/2016/08/25/hungry-your-pizza-drone-will-be-there-in-30-minutes/) might inspire an idea for aerial, internet-connected drones to bring virtual doctor consultations to remote villages. Write at least one response per category, but feel free to write down as many as you like. Limit yourself to 20 minutes. **Take photos or scan your journal pages and post them to the Studio Project feed**
 
 ### Define
 
