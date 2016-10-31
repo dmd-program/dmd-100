@@ -2,7 +2,7 @@
 
 ## Brief:
 
-In this project, you will go through a design thinking process that will help you generate ideas to make for a hypertext narrative. In your story, you will imagine a better future world for the year 2045.
+In this project, you will create a hypertext story. A hypertext story is one that is told through a series of hyperlinks. You will go through a design thinking process that will help you generate ideas, . In your story, you will imagine a better future world for the year 2045, and create a
 
 ## Tools
 - Pencil
