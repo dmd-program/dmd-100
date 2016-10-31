@@ -4,7 +4,7 @@ The stories we are surround by and consume affect our attitudes and beliefs. The
 
 > Storytelling has a long history as a mechanism of knowledge transfer and can be considered a rapid immersion in an experience. [1]
 
-In this lesson, you will learn about key elements of story-telling, structural models, and will practice making your own story.
+The goal of this lesson is not to teach you every facet and application of storytelling. Mastering this subject, as with most subjects, will take quite a long time. Instead, you will learn about common elements of story-telling, structural models, methods for building stories, and you will practice creating and telling a story of your design.
 
 
 # Citation
