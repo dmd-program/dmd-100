@@ -38,17 +38,13 @@ For this project, you will create a hypertext story focused on building a better
   - energy
   - labor
 3. Now that you have selected three categories, write the words pairs onto paper, or into a shared document (Google docs, Box notes, etc). Everyone in the session should see the paper/document.
-4. Imagine an ideal or positive situation for that category for the year 2045. Think of a one-sentence description to explain that scenario. Try to have an inspiration source for your ideas, though you do not need to mention it. Inspiration can come from film, books, news, personal experiences, etc. For example, a news article for [drone pizza delivery](https://www.washingtonpost.com/news/innovations/wp/2016/08/25/hungry-your-pizza-drone-will-be-there-in-30-minutes/) might inspire an idea for aerial, internet-connected drones to bring virtual doctor consultations to remote villages. Write at least one response per category, but feel free to write down as many as you like. Limit yourself to 20 minutes. **Take a photo of this process and post it to the Studio Project feed**
+4. Imagine an ideal or positive situation for that category for the year 2047. Think of a one-sentence description to explain that scenario. Try to have an inspiration source for your ideas, though you do not need to mention it. Inspiration can come from film, books, news, personal experiences, etc. For example, a news article for [drone pizza delivery](https://www.washingtonpost.com/news/innovations/wp/2016/08/25/hungry-your-pizza-drone-will-be-there-in-30-minutes/) might inspire an idea for aerial, internet-connected drones to bring virtual doctor consultations to remote villages. Write at least one response per category, but feel free to write down as many as you like. Limit yourself to 20 minutes. **Take a photo of this process and post it to the Studio Project feed**
 
 ### Define
 
-1. Choose one of the category responses. Write the response as a short sentence that explains the way it *was* in 2017, and the way it *is* in 2047. **"In the year 2017 [the way it was], but now in 2047 [how it's better world]."** . An example sentence would be *In 2017, the Earth's wildlife was experiencing a high rate of extinction, but now in 2047 all of the world's endangered wildlife species are back to healthy populations.*
+1. Choose one of the category responses. Write the response as a short sentence that explains the way it *was* in 2017, and the way it *is* in 2047. **"In the year 2017 [the way it was], but now in 2047 [how it's better world]."** . An example sentence would be *In 2017, the Earth's wildlife was experiencing a high rate of extinction, but now in 2047 almost all of the world's endangered wildlife species are back to healthy populations.*
 2. Define your **audience**. Who would need to see this story in order for it to become a reality?
 
-
-**Sentence structure:** 
-
-**Example sentences:** Government officials used to have a conflict of interest with their constituents, but then the 
 ### Develop
 
 1. You will now use Twine to create a fictional, yet ***plausible*** narrative that describes how this imagined future you have described came to be. For example, shape-shifting lizard people are not plausible, but technology developed to enable a person to change their appearance at will is plausible. Develop and include the following in your story.
