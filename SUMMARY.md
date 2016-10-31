@@ -40,13 +40,13 @@
            * [Digital Service or Product Project](projects/digital_service_or_product.md)
            * Topics
                * Identity
+               * User Experience Design
                * [Elements of Visual Design](topics/elements_of_visual_design.md)
                * [Principles of Visual Design](topics/principles_of_visual_design.md)
                * Semiotics
                * [Wireframing](topics/wireframing.md)
                * [Mental model](topics/mental_model.md)
                * [Principles of Interaction](topics/principles_of_interaction.md)
-               * User Experience Design
            * Read and Discuss
                * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
                * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
