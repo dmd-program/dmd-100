@@ -46,6 +46,7 @@
                * [Wireframing](topics/wireframing.md)
                * [Mental model](topics/mental_model.md)
                * [Principles of Interaction](topics/principles_of_interaction.md)
+               * User Experience Design
            * Read and Discuss
                * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
                * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
