@@ -18,7 +18,7 @@ For this project, you will create a hypertext story focused on building a better
 2. Free association writing. (10 mins)
   - On a journal page, write as many adjectives about this object as you can.
   - Circle three adjectives.
-3. Choose a focus word from the list below. Write the adjectives circled from step 2 in front of your chosen focus word, creating three word-pairs:
+3. Choose a focus word from the list below. Write the adjectives circled from the previous step in front of your chosen focus word, creating three word-pairs:
   - education
   - economy
   - health
@@ -36,8 +36,8 @@ For this project, you will create a hypertext story focused on building a better
   - agriculture
   - energy
   - labor
-3. Now that you have created three word-pairs, write them onto a new journal page.
-4. Imagine an ideal or positive situation for that category for the year 2047. Think of a one-sentence description to explain that scenario. Try to have an inspiration source for your ideas, though you do not need to mention it. Inspiration can come from film, books, news, personal experiences, etc. For example, a news article for [drone pizza delivery](https://www.washingtonpost.com/news/innovations/wp/2016/08/25/hungry-your-pizza-drone-will-be-there-in-30-minutes/) might inspire an idea for aerial, internet-connected drones to bring virtual doctor consultations to remote villages. Write at least one response per category, but feel free to write down as many as you like. Limit yourself to 20 minutes. **Take photos or scan your journal pages and post them to the Studio Project feed**
+3. Now that you have created three word-pairs, write each one onto a separate journal page.
+4. Imagine it is the year 2047 and an ideal or positive situation has occurred, inspired by your word-pair. Think of a one-sentence description to explain that scenario. Try to have an inspiration source for your ideas, though you do not need to mention it. Inspiration can come from film, books, news, personal experiences, etc. For example, a news article for [drone pizza delivery](https://www.washingtonpost.com/news/innovations/wp/2016/08/25/hungry-your-pizza-drone-will-be-there-in-30-minutes/) might inspire an idea for aerial, internet-connected drones to bring virtual doctor consultations to remote villages. Write at least one response per category, but feel free to write down as many as you like. Limit yourself to 20 minutes. **Take photos or scan your journal pages and post them to the Studio Project feed**
 
 ### Define
 
