@@ -32,7 +32,7 @@
            * Activities
                * [Visual Manual](practice/visual_manual.md)
                * [Daily Design Journal](practice/daily_design_journal.md)
-       * Lesson 2: Visual Design
+       * Lesson 2: Interface and Experience
            * Case studies
                * [Visual Design Case Study](topics/visual_design_case_study.md)
                * [UX Case Study](topics/ux_case_study.md)
