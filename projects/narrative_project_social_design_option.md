@@ -14,7 +14,7 @@ For this project, you will create a hypertext story focused on building a better
 ### Discover
 
 #### Question development
-1. Choose a random object from a random object generator. Here is [one](http://roger.redevised.com/). (2 mins)
+1. In your journal, write three objects from your home. If you cannot think of any, choose three objects from a random object generator. Here is [one](http://roger.redevised.com/). (2 mins)
 2. Free associate. This process will help with lateral thinking. (10 mins)
   - On a journal page, write as many reactions to this object as you can as one word responses.
   - If you write sentences, put a one word description in parenthesis next to it. 
