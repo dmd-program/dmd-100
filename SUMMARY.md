@@ -34,6 +34,7 @@
                * [Daily Design Journal](practice/daily_design_journal.md)
        * Lesson 2: Visual Design
            * [Digital Service or Product Project](projects/digital_service_or_product.md)
+           * [Visual Design Case Study](topics/visual_design_case_study.md)
            * Topics
                * Identity
                * [Elements of Visual Design](topics/elements_of_visual_design.md)
@@ -41,7 +42,6 @@
                * Semiotics
                * [Wireframing](topics/wireframing.md)
                * Principles of Interaction
-           * [Visual Design Case Study](topics/visual_design_case_study.md)
            * Read and Discuss
                * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
                * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
