@@ -18,7 +18,7 @@ For this project, you will create a hypertext story focused on building a better
 2. Free association writing. (10 mins)
   - On a journal page, write as many adjectives about this object as you can.
 3. Circle three adjectives.
-2. Choose a focus word from the list below. Write the adjectives circled from step three in front of your chosen focus word:
+2. Choose a focus word from the list below. Write the adjectives circled from step three in front of your chosen focus word, creating three word-pairs:
   - education
   - economy
   - health
