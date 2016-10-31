@@ -15,7 +15,9 @@ For this project, you will create a hypertext story focused on building a better
 
 #### Question development
 1. Choose a random object from a random object generator. Here is [one](http://roger.redevised.com/). (2 mins)
-2. Brainwriting. This process will help with lateral thinking. Write as many reactions to this object as you can as one word responses. If you write sentences, put a one word description in parenthesis next to it. (10 mins)
+2. Free associate. This process will help with lateral thinking. (10 mins)
+  - On a jounral page, write as many reactions to this object as you can as one word responses.
+  - If you write sentences, put a one word description in parenthesis next to it. 
 3. Choose one reaction.
 2. Write the reaction from step 3 in front of three different categories chosen from the following list (or add your own category if it's missing below):
   - education
