@@ -33,6 +33,7 @@
                * [Visual Manual](practice/visual_manual.md)
                * [Daily Design Journal](practice/daily_design_journal.md)
        * Lesson 2: Visual Design
+           * Case studies
            * [Digital Service or Product Project](projects/digital_service_or_product.md)
            * [Visual Design Case Study](topics/visual_design_case_study.md)
            * Topics
@@ -53,7 +54,6 @@
                * [Design an Interface](practice/design_an_interface.md)
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
                * [Make a Brand](practice/make_a_brand.md)
-           * Case studies
        * [Lesson 3: UX](lessons/ux.md)
            * Topics
            * [UX Case Study](topics/ux_case_study.md)
