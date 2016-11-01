@@ -58,7 +58,7 @@
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
                * [Make a Brand](practice/make_a_brand.md)
            * Listening
-               * [Narrative Case Study](lessons/narrative/narrative_case_study.md)
+               * [10,000 Years](lessons/narrative/narrative_case_study.md)
                * [Of mice and men](listening/of_mice_and_men.md)
        * Lesson 3: Storytelling
            * [Introduction](lessons/narrative/introduction.md)
