@@ -24,9 +24,7 @@ This is first draft quality, do not worry about making it perfect. It can be fra
 
 1. Props 
   - Start out feedback by giving props to the writer for something that was well done, positive, interesting, or insightful.
-2. Comments and suggestions:
-  - Could you easily identify the structural elements?
-  - Could something be added or changed to increase dramatic contrast?
+2. Leave comments, questions, and suggestions:
   - What are some themes you found in the story?
-  -  Did something unexpected happen in the story, or did you think it was about one thing, and then it became about another?
-  -  What do you think motivated the characters?
+  - Did something unexpected happen in the story, or did you think it was about one thing, and then it became about another?
+  - What do you think motivated the characters?
