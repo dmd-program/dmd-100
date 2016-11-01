@@ -74,6 +74,7 @@
                * Point of view
                * Theme
            * [Narrative Case Study](lessons/narrative/narrative_case_study.md)
+           * Of mice and men
            * Read and Discuss
                * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
                * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
@@ -85,7 +86,6 @@
                    * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
            * Activities
                * [Object story](practice/object_story.md)
-           * Of mice and men
    * Unit 02
    * Unit 03
        * Unit 03 Project
