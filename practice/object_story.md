@@ -19,3 +19,6 @@ This is a first draft, do not worry about making it perfect. When you have writt
   - World as it is now
 
 **Note:** These components are more of a checklist, and are not meant to always be used in chronological order. 
+
+## Draft 1 Feedback
+
