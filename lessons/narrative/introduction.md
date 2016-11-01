@@ -1,7 +1,5 @@
 # Storytelling
 
-![](../../assets/narrative-lesson-diagram.png)
-
 We are surrounded by stories that affect our attitudes, beliefs, and perceptions of reality. Historically, stories are how humans have transferred knowledge from generation to generation. These stories are how we make sense of the world. The people who tell stories that are consumed the most ultimately have great power in shaping society. Everything a designer does will be in support of telling stories and by extension, shape the world we inhabit.
 
 > Storytelling has a long history as a mechanism of knowledge transfer and can be considered a rapid immersion in an experience: One cannot experience time travel, but one can gain knowledge about the act of time travel through a rich compelling, and highly experiential story.
@@ -10,12 +8,16 @@ We are surrounded by stories that affect our attitudes, beliefs, and perceptions
 
 The goal of this lesson is not to teach you every facet and application of storytelling. Mastering this subject, as with most subjects, will take quite a long time. Instead, you will learn about common elements of story-telling, structural models, and methods for building stories that you can apply as a framework for most of what you create and communicate as a designer.
 
+
+![DMD Course Lesson Plot Diagram](../../assets/narrative-lesson-diagram.png)
+
+
 In this lesson, you will complete the following: 
 
 1. Read, watch, and listen to lesson topics and case studies
-2. Reading assignment quick responses
-3. Activities
-4. You will create and tell an interactive story of your design.
+2. Reading assignment short reflections
+3. Two Activities
+4. Interactive story project
 5. End-of-lesson course-wide discussion
 
 # Citation
