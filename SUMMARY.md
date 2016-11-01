@@ -47,7 +47,7 @@
                * [Mental model](topics/mental_model.md)
                * [Principles of Interaction](topics/principles_of_interaction.md)
            * Listening
-               * [UX Case Study](topics/ux_case_study.md)
+               * [Unpleasant Design](topics/ux_case_study.md)
                * [10,000 Years](lessons/narrative/narrative_case_study.md)
                * [Of mice and men](listening/of_mice_and_men.md)
            * Read and Discuss
