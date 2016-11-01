@@ -54,7 +54,6 @@
                * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
                * [Chapter 6. Designs of Darkness](practice/bad_design.md)
                * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
-               * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
            * Activities
                * [Design an Interface](practice/design_an_interface.md)
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
@@ -78,6 +77,7 @@
            * Listening
                * [10,000 Years](lessons/narrative/narrative_case_study.md)
            * Readings
+               * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
                * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
                * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
            * Project
