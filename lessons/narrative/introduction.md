@@ -2,9 +2,13 @@
 
 We are surrounded by stories that affect our attitudes, beliefs, and perceptions of reality. Historically, stories are how humans have transferred knowledge from generation to generation. These stories are how we make sense of the world. The people who tell stories that are consumed the most ultimately have great power in shaping society. Everything a designer does will be in support of telling stories and by extension, shape the world we inhabit.
 
+Watch the host of This American Life, Ira Glass, talk about the power of storytelling: [Ira Glass on Storytelling](https://www.youtube.com/watch?v=K1NQKrbVslk) **(13:07)**
+
 > Storytelling has a long history as a mechanism of knowledge transfer and can be considered a rapid immersion in an experience: One cannot experience time travel, but one can gain knowledge about the act of time travel through a rich compelling, and highly experiential story.
 >   
 >   – Jon Kolko [1]
+
+## Objective
 
 The goal of this lesson is not to teach you every facet and application of storytelling. Mastering this subject, as with most subjects, will take quite a long time. Instead, you will learn about common elements of story-telling, structural models, and methods for building stories that you can apply as a framework for most of what you create and communicate as a designer.
 
