@@ -20,5 +20,8 @@ This is a first draft, do not worry about making it perfect. When you have writt
 
 **Note:** These components are more of a checklist, and are not meant to always be used in chronological order. 
 
-## Draft 1 Feedback
+## Draft Feedback
 
+1. Shout-outs
+  - For the story that you read, give the writer a shout-out for something that was well done, positive, interesting, or insightful.
+2. 
