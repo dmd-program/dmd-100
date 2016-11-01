@@ -1,15 +1,12 @@
 # Giorgio Vasari and the Permutations of Design
 
-
-**Read:**
-
 Giorgio Vasari and the Permutations of Design (p. 62-82) in Design and Truth by Robert Grudin
 
-**Writing prompt:**
+## Writing prompt
 
 In this chapter, Grudin...
 
-**Writing guidelines:**
+## Writing guidelines
 
 1. Write a response to the writing prompt on your course blog.
 2. Length: (150-300 words)
