@@ -59,8 +59,9 @@ For this project, you will create a hypertext story focused on building a better
   -  Characters
   -  Plot: critical pathway nodes
   -  Plot: optional nodes
-Produce Draft 1, get feedback
-Draft 2, get feedback
+4. Iterate
+  1. Produce Draft 1, get feedback
+  2. Draft 2, get feedback
 
 ### Deliver
 
