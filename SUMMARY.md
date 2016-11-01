@@ -58,6 +58,7 @@
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
                * [Make a Brand](practice/make_a_brand.md)
            * Listening
+               * [Narrative Case Study](lessons/narrative/narrative_case_study.md)
                * d
        * Lesson 3: Storytelling
            * [Introduction](lessons/narrative/introduction.md)
@@ -75,7 +76,6 @@
                * Resolution
                * Point of view
                * Theme
-           * [Narrative Case Study](lessons/narrative/narrative_case_study.md)
            * Of mice and men
            * Read and Discuss
                * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
