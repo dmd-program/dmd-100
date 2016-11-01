@@ -2,7 +2,7 @@
 
 For this activity, you will be creating a short story about an object. Write a story (500 words minimum) from the objects perspective. Who does it interact with? Where is does the story take place? What conflict might arise?
 
-This is first draft quality, do not worry about making it perfect. It can be fragmented, scattered,. When you have written the story, upload to the Studio for the other students to read.
+This is first draft quality, do not worry about making it perfect. It can be fragmented, scattered, tangential. When you have written the story, upload to the Studio for the other students to read.
 
 ## Steps to completion:
 Please choose and complete one of the story options
@@ -30,6 +30,7 @@ Please choose and complete one of the story options
 2. Leave comments, questions, and suggestions:
   - What are some themes you found in the story?
   - Did something unexpected happen in the story, or did you think it was about one thing, and then it became about another?
-  - What do you think motivated the characters?
+  - What were the interesting parts?
+  - What were the uninteresting parts?
   - Could details given at the beginning align with details at the end of the story?
   - Does the story stay on an expected path, or does it stray from the setup at the beginning?
