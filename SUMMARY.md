@@ -48,7 +48,6 @@
                * [Principles of Interaction](topics/principles_of_interaction.md)
            * Listening
                * [Unpleasant Design](topics/ux_case_study.md)
-               * [10,000 Years](lessons/narrative/narrative_case_study.md)
                * [Of mice and men](listening/of_mice_and_men.md)
            * Read and Discuss
                * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
@@ -63,6 +62,7 @@
        * Lesson 3: Storytelling
            * [Introduction](lessons/narrative/introduction.md)
            * Listening
+               * [10,000 Years](lessons/narrative/narrative_case_study.md)
                * d
            * Topics
                * [Narrative](topics/narrative.md)
