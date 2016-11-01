@@ -11,6 +11,9 @@ For this activity, you will write a second draft of your first story(500 words m
   - Raising the stakes
   - Moment of change
   - World as it is now
+3. Read the story aloud to yourself
+  - This helps you see if it has good energy 
+4. Submit story to the Studio
 
 **Note:** These components are more of a checklist, and are not meant to always be used in chronological order. 
 
