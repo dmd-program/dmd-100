@@ -62,6 +62,8 @@
                * [Make a Brand](practice/make_a_brand.md)
        * Lesson 3: Storytelling
            * [Introduction](lessons/narrative/introduction.md)
+           * Listening
+               * d
            * Topics
                * [Narrative](topics/narrative.md)
                * [Narrative structure](topics/narrative_structure.md)
@@ -87,8 +89,6 @@
                    * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
            * Activities
                * [Object story](practice/object_story.md)
-           * Listening
-               * d
    * Unit 02
    * Unit 03
        * Unit 03 Project
