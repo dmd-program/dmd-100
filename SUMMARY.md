@@ -59,7 +59,7 @@
                * [Make a Brand](practice/make_a_brand.md)
            * Listening
                * [Narrative Case Study](lessons/narrative/narrative_case_study.md)
-               * Of mice and men
+               * [Of mice and men](listening/of_mice_and_men.md)
        * Lesson 3: Storytelling
            * [Introduction](lessons/narrative/introduction.md)
            * Topics
