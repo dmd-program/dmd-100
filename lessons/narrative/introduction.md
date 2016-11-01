@@ -1,6 +1,6 @@
 # Storytelling
 
-We are surrounded by stories that affect our attitudes, beliefs, and perceptions of reality. Historically, stories are how humans have transferred knowledge from generation to generation. These stories are how we make sense of the world. The people who tell stories that are consumed the most ultimately have great power in shaping society. Everything a designer does will be in support of telling stories and by extension, shape the world we inhabit.
+We are surrounded by stories that affect our attitudes, beliefs, and perceptions of reality. Historically, stories are how humans have transferred knowledge from generation to generation. These stories are how we make sense of the world and the people who tell the stories that are consumed the most ultimately have the greatest impact on society. Everything a designer does will be in support of telling stories and by extension, shape the world we inhabit.
 
 Watch the host of This American Life, Ira Glass, talk about the power of storytelling: [Ira Glass on Storytelling](https://www.youtube.com/watch?v=K1NQKrbVslk) **(13:07)**
 
