@@ -8,6 +8,7 @@ For this project, you will create a hypertext story focused on building a better
 - Pencil/pen
 - Journal
 - Internet Access
+- Twine
 
 ## Process
 
