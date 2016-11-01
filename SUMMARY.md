@@ -36,7 +36,6 @@
                * Tutorials
                    * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
            * Case studies
-               * [UX Case Study](topics/ux_case_study.md)
            * [Digital Service or Product Project](projects/digital_service_or_product.md)
            * Topics
                * Identity
@@ -48,6 +47,7 @@
                * [Mental model](topics/mental_model.md)
                * [Principles of Interaction](topics/principles_of_interaction.md)
            * Listening
+               * [UX Case Study](topics/ux_case_study.md)
                * [10,000 Years](lessons/narrative/narrative_case_study.md)
                * [Of mice and men](listening/of_mice_and_men.md)
            * Read and Discuss
