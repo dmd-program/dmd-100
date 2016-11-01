@@ -63,7 +63,6 @@
            * [Introduction](lessons/narrative/introduction.md)
            * Listening
                * [10,000 Years](lessons/narrative/narrative_case_study.md)
-               * d
            * Topics
                * [Narrative](topics/narrative.md)
                * [Narrative structure](topics/narrative_structure.md)
