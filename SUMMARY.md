@@ -36,7 +36,6 @@
                * Tutorials
                    * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
            * Case studies
-               * [Visual Design Case Study](topics/visual_design_case_study.md)
                * [UX Case Study](topics/ux_case_study.md)
            * [Digital Service or Product Project](projects/digital_service_or_product.md)
            * Topics
@@ -75,6 +74,7 @@
                * Point of view
                * Theme
            * [Narrative Case Study](lessons/narrative/narrative_case_study.md)
+           * [Visual Design Case Study](topics/visual_design_case_study.md)
            * Read and Discuss
                * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
                * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
