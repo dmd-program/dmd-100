@@ -82,7 +82,7 @@
            * Read and Discuss
                * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
                * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
-           * Storytelling Project
+           * Project
                * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
                * [Narrative Project: Civic Imagination](projects/narrative_project_social_design_option.md)
                * Tutorials
