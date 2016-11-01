@@ -60,7 +60,6 @@
            * Listening
                * [Narrative Case Study](lessons/narrative/narrative_case_study.md)
                * Of mice and men
-               * d
        * Lesson 3: Storytelling
            * [Introduction](lessons/narrative/introduction.md)
            * Topics
