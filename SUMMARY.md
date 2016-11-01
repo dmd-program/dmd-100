@@ -88,7 +88,7 @@
                    * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
            * Activities
                * [Object story](practice/object_story.md)
-               * [Object Story Draft 2](practice/object_story_draft_2.md)
+               * [Write a story Draft 2](practice/object_story_draft_2.md)
    * Unit 02
    * Unit 03
        * Unit 03 Project
