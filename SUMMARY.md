@@ -58,6 +58,10 @@
                * [Design an Interface](practice/design_an_interface.md)
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
                * [Make a Brand](practice/make_a_brand.md)
+       * [Lesson 3: UX](lessons/ux.md)
+           * Topics
+           * Read and Discuss
+           * Activities
        * [Lesson 4: Storytelling](lessons/narrative.md)
            * [Introduction](lessons/narrative/introduction.md)
            * Topics
@@ -86,10 +90,6 @@
                    * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
            * Activities
                * [Object story](practice/object_story.md)
-       * [Lesson 3: UX](lessons/ux.md)
-           * Topics
-           * Read and Discuss
-           * Activities
    * Unit 02
    * Unit 03
        * Unit 03 Project
