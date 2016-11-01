@@ -9,7 +9,7 @@ The stories we are surround by and consume affect our attitudes and beliefs thro
 The goal of this lesson is not to teach you every facet and application of storytelling. Mastering this subject, as with most subjects, will take quite a long time. Instead, you will learn about common elements of story-telling, structural models, and methods for building stories that you can apply as a framework for just about everything you make in your design careers.
 
 In this lesson, you will: 
-
+![](../../assets/narrative-lesson-diagram.png)
 1. Read, watch, and listen to lesson topics and case studies
 2. Reading assignment quick responses
 3. Activities
