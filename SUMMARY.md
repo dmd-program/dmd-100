@@ -7,6 +7,38 @@
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Project Management](toolkit/project_management.md)
    * [Recommended Tools](introduction/recommended_tools.md)
+* Lesson 3: Storytelling
+   * [Introduction](lessons/narrative/introduction.md)
+   * Topics
+       * [Narrative](topics/narrative.md)
+       * [Narrative structure](topics/narrative_structure.md)
+       * [Organizing story development](topics/organizing_story_development.md)
+       * [Audience](topics/audience.md)
+       * [Character](topics/character.md)
+       * [Plot](topics/plot.md)
+       * [Hypertext](topics/hypertext.md)
+       * [Media](topics/narrative-media.md)
+       * Setting
+       * Conflict
+       * Resolution
+       * Point of view
+       * Theme
+   * Listening
+       * [10,000 Years](lessons/narrative/narrative_case_study.md)
+   * Readings
+       * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
+       * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
+       * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
+   * Project
+       * [Narrative Project: Civic Imagination](projects/narrative_project_social_design_option.md)
+       * Tutorials
+           * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
+           * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
+   * Activities
+       * [Write a story: draft 1](practice/object_story.md)
+       * [Write a story: draft 2](practice/object_story_draft_2.md)
+   * Discussions
+       * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
 * Units
    * [Unit 01](toolkit/lessons.md)
        * Unit 01 Description
