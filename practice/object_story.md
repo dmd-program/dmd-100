@@ -2,7 +2,7 @@
 
 For this activity, you will be creating a short story about an object. Write a story (500 words minimum) from the objects perspective. Who does it interact with? Where is does the story take place? What conflict might arise?
 
-This is a first draft, do not worry about making it perfect. When you have written the story, upload to the Studio for the other students to read.
+This is first draft quality, do not worry about making it perfect. It can be fragmented, scattered,. When you have written the story, upload to the Studio for the other students to read.
 
 ##Steps to completion:
 
