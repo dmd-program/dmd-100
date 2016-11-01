@@ -47,6 +47,9 @@
                * [Wireframing](topics/wireframing.md)
                * [Mental model](topics/mental_model.md)
                * [Principles of Interaction](topics/principles_of_interaction.md)
+           * Listening
+               * [10,000 Years](lessons/narrative/narrative_case_study.md)
+               * [Of mice and men](listening/of_mice_and_men.md)
            * Read and Discuss
                * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
                * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
@@ -57,9 +60,6 @@
                * [Design an Interface](practice/design_an_interface.md)
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
                * [Make a Brand](practice/make_a_brand.md)
-           * Listening
-               * [10,000 Years](lessons/narrative/narrative_case_study.md)
-               * [Of mice and men](listening/of_mice_and_men.md)
        * Lesson 3: Storytelling
            * [Introduction](lessons/narrative/introduction.md)
            * Topics
