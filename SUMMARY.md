@@ -58,38 +58,38 @@
                * [Design an Interface](practice/design_an_interface.md)
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
                * [Make a Brand](practice/make_a_brand.md)
+       * [Lesson 4: Storytelling](lessons/narrative.md)
+           * [Introduction](lessons/narrative/introduction.md)
+           * Topics
+               * [Narrative](topics/narrative.md)
+               * [Organizing story development](topics/organizing_story_development.md)
+               * [Audience](topics/audience.md)
+               * [Character](topics/character.md)
+               * [Plot](topics/plot.md)
+               * [Narrative structure](topics/narrative_structure.md)
+               * [Hypertext](topics/hypertext.md)
+               * [Media](topics/narrative-media.md)
+               * Setting
+               * Conflict
+               * Resolution
+               * Point of view
+               * Theme
+           * [Narrative Case Study](lessons/narrative/narrative_case_study.md)
+           * Read and Discuss
+               * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
+               * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
+           * Unit 02 Project
+               * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
+               * [Narrative Project: Civic Imagination](projects/narrative_project_social_design_option.md)
+               * Tutorials
+                   * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
+                   * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
+           * Activities
+               * [Object story](practice/object_story.md)
        * [Lesson 3: UX](lessons/ux.md)
            * Topics
            * Read and Discuss
            * Activities
-   * [Lesson 4: Storytelling](lessons/narrative.md)
-       * [Introduction](lessons/narrative/introduction.md)
-       * Topics
-           * [Narrative](topics/narrative.md)
-           * [Organizing story development](topics/organizing_story_development.md)
-           * [Audience](topics/audience.md)
-           * [Character](topics/character.md)
-           * [Plot](topics/plot.md)
-           * [Narrative structure](topics/narrative_structure.md)
-           * [Hypertext](topics/hypertext.md)
-           * [Media](topics/narrative-media.md)
-           * Setting
-           * Conflict
-           * Resolution
-           * Point of view
-           * Theme
-       * [Narrative Case Study](lessons/narrative/narrative_case_study.md)
-       * Read and Discuss
-           * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
-           * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
-       * Unit 02 Project
-           * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
-           * [Narrative Project: Civic Imagination](projects/narrative_project_social_design_option.md)
-           * Tutorials
-               * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
-               * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
-       * Activities
-           * [Object story](practice/object_story.md)
    * Unit 02
    * Unit 03
        * Unit 03 Project
