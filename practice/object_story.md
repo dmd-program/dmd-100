@@ -4,21 +4,31 @@ For this activity, you will be creating a short story about an object. Write a s
 
 This is first draft quality, do not worry about making it perfect. It can be fragmented, scattered,. When you have written the story, upload to the Studio for the other students to read.
 
-##Steps to completion:
+## Steps to completion:
+Please choose and complete one of the story options
+
+### Story option 1: Conflicting objects
 
 1. Choose an object that you have owned for at least two years.
-2. Choose a [genre](https://en.wikipedia.org/wiki/List_of_genres)
-3. Include the following characters
+2. Write a story from the perspective of that object
+3. Include the following in the story
   - Protagonist
   - Antagonist
-4. Write a story. Use these structural components as a guide:
-  - The world as it was
-  - And then one day...
-  - Raising the stakes
-  - Moment of change
-  - World as it is now
+  - Setting
+  - Conflict
+  - Resolution
 
-**Note:** These components are more of a checklist, and are not meant to always be used in chronological order. 
+### Story option 2: Personal tale
+
+1. Tell a personal story or a story as told to you by a friend that you have permission to share.
+  - Consider the tell-ability of this story. Typically you want a story that isn't too boring or too shocking for the given audience. Only share what you are comfortable sharing.
+2. Write a story from the perspective of that object
+3. Include the following in the story
+  - Protagonist
+  - Antagonist
+  - Setting
+  - Conflict
+  - Resolution
 
 ## Feedback Instructions
 
