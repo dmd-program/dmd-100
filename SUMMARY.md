@@ -57,7 +57,7 @@
                * [Design an Interface](practice/design_an_interface.md)
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
                * [Make a Brand](practice/make_a_brand.md)
-       * [Lesson 3: Storytelling](lessons/narrative.md)
+       * Lesson 3: Storytelling
            * [Introduction](lessons/narrative/introduction.md)
            * Topics
                * [Narrative](topics/narrative.md)
