@@ -35,7 +35,6 @@
                * [Ritual](projects/ritual.md)
                * Tutorials
                    * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
-           * Case studies
            * [Digital Service or Product Project](projects/digital_service_or_product.md)
            * Topics
                * Identity
