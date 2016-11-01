@@ -31,3 +31,5 @@ Please choose and complete one of the story options
   - What are some themes you found in the story?
   - Did something unexpected happen in the story, or did you think it was about one thing, and then it became about another?
   - What do you think motivated the characters?
+  - Could details given at the beginning align with details at the end of the story?
+  - Does the story stay on an expected path, or does it stray from the setup at the beginning?
