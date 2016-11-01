@@ -88,7 +88,6 @@
                    * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
            * Activities
                * [Object story](practice/object_story.md)
-               * [Tell a story](practice/tell_a_story.md)
    * Unit 02
    * Unit 03
        * Unit 03 Project
