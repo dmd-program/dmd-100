@@ -20,8 +20,13 @@ This is a first draft, do not worry about making it perfect. When you have writt
 
 **Note:** These components are more of a checklist, and are not meant to always be used in chronological order. 
 
-## Draft Feedback
+## Feedback
 
 1. Shout-outs
   - For the story that you read, give the writer a shout-out for something that was well done, positive, interesting, or insightful.
-2. 
+2. Questions to help guide feedback
+  - Could you easily identify the structural elements?
+  - Could something be added or changed to increase dramatic contrast?
+  - What are some themes you found in the story?
+  -  Did something unexpected happen in the story, or did you think it was about one thing, and then it became about another?
+  -  What do you think motivated the characters?
