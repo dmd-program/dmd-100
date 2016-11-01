@@ -17,11 +17,13 @@ Please choose and complete one of the story options
   - Setting
   - Conflict
   - Resolution
+4. Submit story to the Studio
 
 ### Story option 2: Personal tale
 
 1. Tell a personal story or a story as told to you by a friend that you have permission to share.
   - Consider the tell-ability of this story. Typically you want a story that isn't too boring or too shocking for the given audience. Only share what you are comfortable sharing.
+2. Submit story to the Studio
 
 ## Feedback Instructions
 
