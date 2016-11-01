@@ -14,7 +14,7 @@ The goal of this lesson is not to teach you every facet and application of story
 
 In this lesson, you will complete the following: 
 
-1. Read, watch, and listen to lesson topics and case studies
+1. Read, watch, and listen to lesson topics and media
 2. Reading assignment short reflections
 3. Two Activities
 4. Interactive story project
