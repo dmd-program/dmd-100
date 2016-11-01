@@ -85,6 +85,7 @@
                    * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
            * Activities
                * [Object story](practice/object_story.md)
+           * Of mice and men
    * Unit 02
    * Unit 03
        * Unit 03 Project
