@@ -22,8 +22,8 @@ This is a first draft, do not worry about making it perfect. When you have writt
 
 ## Feedback
 
-1. Shout-outs
-  - For the story that you read, give the writer a shout-out for something that was well done, positive, interesting, or insightful.
+1. Props 
+  - Start out feedback by giving props to the writer for something that was well done, positive, interesting, or insightful.
 2. Questions to help guide feedback
   - Could you easily identify the structural elements?
   - Could something be added or changed to increase dramatic contrast?
