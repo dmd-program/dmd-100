@@ -31,7 +31,7 @@
                * [Daily Design Journal](practice/daily_design_journal.md)
                * End of lesson discussion
        * Lesson 2: Interface and Experience
-           * Unit 01 Project
+           * Project
                * [Ritual](projects/ritual.md)
                * Tutorials
                    * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
