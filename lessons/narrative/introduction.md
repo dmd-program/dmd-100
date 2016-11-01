@@ -12,7 +12,7 @@ In this lesson, you will:
 
 1. Read, watch, and listen to lesson topics and case studies
 2. Reading assignment quick responses
-3. Storytelling activities
+3. Activities
 4. You will create and tell an interactive story of your design.
 5. End-of-lesson course-wide discussion
 
