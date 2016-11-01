@@ -11,7 +11,7 @@ This is a first draft, do not worry about making it perfect. When you have writt
 3. Include the following characters
   - Protagonist
   - Antagonist
-4. Write a story. Use these structural components as a gudie:
+4. Write a story. Use these structural components as a guide:
   - The world as it was
   - And then one day...
   - Raising the stakes
