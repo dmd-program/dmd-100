@@ -89,7 +89,7 @@
                * [Write a story: draft 1](practice/object_story.md)
                * [Write a story: draft 2](practice/object_story_draft_2.md)
            * Discussions
-               * End of lesson discussion
+               * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
    * Unit 02
    * Unit 03
        * Unit 03 Project
