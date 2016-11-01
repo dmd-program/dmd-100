@@ -8,7 +8,7 @@ Watch the host of This American Life, Ira Glass, talk about the power of storyte
 >   
 >   – Jon Kolko [1]
 
-## Objective
+## Lesson Objective
 
 The goal of this lesson is not to teach you every facet and application of storytelling. Mastering this subject, as with most subjects, will take quite a long time. Instead, you will learn about common elements of story-telling, structural models, and methods for building stories that you can apply as a framework for most of what you create and communicate as a designer.
 
