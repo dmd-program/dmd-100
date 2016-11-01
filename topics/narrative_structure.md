@@ -38,7 +38,7 @@ The story-line in an interactive narrative work is not predetermined. The story 
 An interactive narrative is comprised of decision or action points called nodes, where the user impacts the unfolding of the narrative by making a choice or performing an action. The choice the user makes can determine which branching narrative path is taken. The decisions themselves are part of the plot, which handles dramatization of the events.
 
 
-![Branching paths](../interactive-narrative-branching-paths.png)
+![Branching paths](../assets/interactive-narrative-branching-paths.png)
 
 For example, let's say you are playing a hypertext narrative, and your character is a young woman who sees a hooded figure shoplifting. The options to proceed include a) tell the shopkeeper, b) follow the shoplifter, or c) do nothing. Depending on which choice you select, the story may unfold in three different ways.
 
@@ -64,21 +64,21 @@ The branching structure is the structure used in choose your own adventure books
 
 In this linear structure, a user must complete node's requirements to continue to the next node.
 
-![String of pearls structure](../narrative-string-of-pearls-structure.png)
+![String of pearls structure](../assets/narrative-string-of-pearls-structure.png)
 
 ##### Hero's journey
 
-![Hero's Journey Strucutre](../narrative-journey-structure.png)
+![Hero's Journey Strucutre](../assets/narrative-journey-structure.png)
 In the linear structure, a user would follow the twelve stages of the hero's journey. However, there can be fewer or additional stages and still be considered a journey structure.
 
 ##### Parallel worlds
 
-![Parallel Structure](../narrative-parallel-structure.png)
+![Parallel Structure](../assets/narrative-parallel-structure.png)
 
 In this quasi-linear structure, users are given the opportunity to explore multiple story-lines running in parallel. There is typically no way to experience all of the stories at once, though they may intersect at opportune times.
 
 ##### Drill-down
-![Drill-down structure](../narrative-drill-down-structure.png)
+![Drill-down structure](../assets/narrative-drill-down-structure.png)
 
 This bi-linear structure encourages users to move through a story vertically and laterally, where lateral movement represents plot points and vertical movement represents the gathering information and details surrounding the plot.
 
@@ -87,13 +87,13 @@ This bi-linear structure encourages users to move through a story vertically and
 ##### Sandbox or open-world
 
 
-![Sandbox Structure](../narrative-sandbox-structure.png)
+![Sandbox Structure](../assets/narrative-sandbox-structure.png)
 
 
 A sandbox structure is one where the story unfolds based on how a player chooses to interact in what is typically a large, open environment. This is a loose structure where the setting of the story often becomes central to the experience.
 
 ##### Graph
-![Graph structure](../narrative-graph-structure.png)
+![Graph structure](../assets/narrative-graph-structure.png)
 A graph structure is where all nodes simultaneously connect with every other node bi-bidirectionally. Discerning a narrative thread in just a structure can be difficult.
 
 #### Creating your own structural model
