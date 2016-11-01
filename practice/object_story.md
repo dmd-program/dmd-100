@@ -22,13 +22,6 @@ Please choose and complete one of the story options
 
 1. Tell a personal story or a story as told to you by a friend that you have permission to share.
   - Consider the tell-ability of this story. Typically you want a story that isn't too boring or too shocking for the given audience. Only share what you are comfortable sharing.
-2. Write a story from the perspective of that object
-3. Include the following in the story
-  - Protagonist
-  - Antagonist
-  - Setting
-  - Conflict
-  - Resolution
 
 ## Feedback Instructions
 
