@@ -20,11 +20,11 @@ This is a first draft, do not worry about making it perfect. When you have writt
 
 **Note:** These components are more of a checklist, and are not meant to always be used in chronological order. 
 
-## Feedback
+## Feedback Instructions
 
 1. Props 
   - Start out feedback by giving props to the writer for something that was well done, positive, interesting, or insightful.
-2. Questions to help guide feedback
+2. Comments and suggestions:
   - Could you easily identify the structural elements?
   - Could something be added or changed to increase dramatic contrast?
   - What are some themes you found in the story?
