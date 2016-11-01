@@ -57,7 +57,7 @@ To develop the critical path:
 
 The branching structure is the structure used in choose your own adventure books and most interactive narratives. One problem with branching structures is the tendency to create overly complicated story paths.
 
-![Branching structure](../narrative-branching-structure.png)
+![Branching structure](../assets/narrative-branching-structure.png)
 
 
 ##### String of pearls
