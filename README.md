@@ -1,7 +1,8 @@
 # DMD 100: Digital Multimedia Design Foundations
 
-
 DMD 100 introduces concepts, skills, language and principles of practice in art and design, communication, and information sciences.
+
+More specifically, this course hopes to help you frame the things that you go on to make in terms of frameworks, systems, storytelling, technology, and with context and empathy for the context.
 
 ## Contributors
 *In alphabetical order by last name*
