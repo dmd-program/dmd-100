@@ -11,7 +11,7 @@ Please choose and complete one of the story options
 
 1. Choose an object that you have lived with for at least two years.
 2. Write a story from the perspective of that object
-3. Include the following in the story
+3. Features to consider including in your story:
   - Protagonist
   - Antagonist
   - Setting
