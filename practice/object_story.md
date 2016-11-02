@@ -5,7 +5,7 @@ For this activity, you will be creating a short story about an object. Write a s
 This is first draft quality, do not worry about making it perfect. It can be fragmented, scattered, tangential. When you have written the story, upload to the Studio for the other students to read.
 
 ## Steps to completion:
-Please choose and complete one of the story options
+Please choose and complete one of the story options.
 
 ### Story option 1: Conflicting objects
 
