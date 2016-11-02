@@ -2,7 +2,7 @@
 
 DMD 100 introduces concepts, skills, language and principles of practice in art and design, communication, and information sciences.
 
-More specifically, this course hopes to help you frame the things that you go on to make in terms of frameworks, systems, storytelling, technology, and with context and empathy for the context.
+More specifically, this course hopes to help you "frame" the things that you go on to make, design, and impact in terms of systems, storytelling, and with greater appreciation for strategies to gain empathetic understanding.
 
 ## Contributors
 *In alphabetical order by last name*
