@@ -30,9 +30,9 @@ Please choose and complete one of the story options.
 1. Props 
   - Start out feedback by giving props to the writer for something that was well done, positive, interesting, or insightful.
 2. Leave comments, questions, and suggestions:
-  - What are some themes you found in the story?
+  - Did you notice any themes begin to emerge in the story?
   - Did something unexpected happen in the story, or did you think it was about one thing, and then it became about another?
   - What were the interesting parts?
   - What were the uninteresting parts?
-  - Could details given at the beginning align with details at the end of the story?
+  - Were there details given at the beginning connect with details at the end of the story?
   - Does the story stay on an expected path, or does it stray from the setup at the beginning?
