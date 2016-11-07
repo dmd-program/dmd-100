@@ -85,29 +85,7 @@
        * [Write a story: draft 2](practice/object_story_draft_2.md)
    * Discussions
        * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
-* [Lesson 6: Co-generative Design](lessons/co-generative_design.md)
-   * Topics
-       * [Collaboration](topics/collaboration.md)
-       * DIY
-   * Co-generative Design Case Study
-   * Read and Discuss
-       * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
-       * [Chapter 14. Designing Time](practice/designing_time.md)
-   * Activities
-       * Co-generative Design Activity
-       * Design your Day
 * [Lesson 5: Remix](lessons/remix.md)
-   * [Lesson 6: Co-generative Design](lessons/co-generative_design.md)
-       * Topics
-           * [Collaboration](topics/collaboration.md)
-           * DIY
-       * Co-generative Design Case Study
-       * Read and Discuss
-           * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
-           * [Chapter 14. Designing Time](practice/designing_time.md)
-       * Activities
-           * Co-generative Design Activity
-           * Design your Day
    * Topics
        * Everything is a Remix
        * Media
@@ -122,6 +100,17 @@
        * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
    * Activities
        * [Curating for an Idea](practice/curating_for_an_idea.md)
+* [Lesson 6: Co-generative Design](lessons/co-generative_design.md)
+   * Topics
+       * [Collaboration](topics/collaboration.md)
+       * DIY
+   * Co-generative Design Case Study
+   * Read and Discuss
+       * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
+       * [Chapter 14. Designing Time](practice/designing_time.md)
+   * Activities
+       * Co-generative Design Activity
+       * Design your Day
 * Units
    * [Unit 01](toolkit/lessons.md)
        * Unit 01 Description
