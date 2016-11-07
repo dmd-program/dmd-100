@@ -1,6 +1,6 @@
 # Character
 
-In fictional film or literature, character types are used to enable viewers to empathize with the story. A person's character typically refers to the qualities a they possess. However, a character can also be an animal, object, or abstraction in a story. Objects are often represented through anthropomorphism, where human attributes are applied to a non-human.
+In fictional film or literature, character types are used to help viewers to empathize with the story. A person's character typically refers to the qualities they possess. However, a character can also be an animal, object, or abstraction in a story. Objects are often represented through anthropomorphism, where human attributes are applied to a non-human.
 
 **Examples of objects as character:**
 
