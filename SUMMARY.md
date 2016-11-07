@@ -8,7 +8,7 @@
    * [Project Management](toolkit/project_management.md)
    * [Recommended Tools](introduction/recommended_tools.md)
 * [Lesson 1: What is Design?](lessons/introduction.md)
-   * Introduction
+   * [Introduction](lessons/what-is-design/introduction.md)
    * Case studies
        * [Design Case Study](lessons/what-is-design/design_case_study.md)
    * Topics
