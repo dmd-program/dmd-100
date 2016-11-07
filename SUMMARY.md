@@ -18,8 +18,6 @@
        * [Systems thinking](topics/systems_thinking.md)
        * [Sustainable design](topics/sustainable_design.md)
    * Topics cluster 2
-       * d
-   * Topics cluster 2
        * [Double diamond](topics/double_diamond.md)
        * d
    * Read and Respond
