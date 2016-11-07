@@ -85,37 +85,35 @@
        * [Write a story: draft 2](practice/object_story_draft_2.md)
    * Discussions
        * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
+* [Lesson 5: Remix](lessons/remix.md)
+   * Topics
+       * Everything is a Remix
+       * Media
+       * [Semiotics](topics/semiotics.md)
+       * [Constructing meaning](topics/constructing_meaning.md)
+       * [Language](topics/language.md)
+       * Sound
+       * [Intellectual property](topics/intellectual_property.md)
+   * Remix Case Study
+   * Read and Discuss
+       * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
+       * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
+   * Activities
+       * [Curating for an Idea](practice/curating_for_an_idea.md)
 * Units
    * [Unit 01](toolkit/lessons.md)
        * Unit 01 Description
        * [Icebreaker: Visual Telephone](icebreakers/icebreaker_visual_telephone.md)
        * Lesson 2: Interface and Experience
            * Project
-               * [Ritual](projects/ritual.md)
                * Tutorials
-                   * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
-           * [Digital Service or Product Project](projects/digital_service_or_product.md)
            * Topics
                * Identity
-               * [Interaction Design](topics/interaction_design.md)
-               * [Elements of Visual Design](topics/elements_of_visual_design.md)
-               * [Principles of Visual Design](topics/principles_of_visual_design.md)
                * Semiotics
-               * [Wireframing](topics/wireframing.md)
-               * [Mental model](topics/mental_model.md)
-               * [Principles of Interaction](topics/principles_of_interaction.md)
            * Listening
-               * [Unpleasant Design](topics/ux_case_study.md)
-               * [Of mice and men](listening/of_mice_and_men.md)
            * Readings
                * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
-               * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
-               * [Chapter 6. Designs of Darkness](practice/bad_design.md)
-               * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
            * Activities
-               * [Design an Interface](practice/design_an_interface.md)
-               * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
-               * [Make a Brand](practice/make_a_brand.md)
        * Lesson 3: Storytelling
            * Topics
                * Setting
