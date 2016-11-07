@@ -10,6 +10,7 @@
 * [Lesson 1: What is Design?](lessons/introduction.md)
    * Case studies
        * [Design Case Study](lessons/what-is-design/design_case_study.md)
+   * Discussions
    * Topics cluster 1
        * [What is Design?](topics/what_is_design.md)
        * [Critical thinking](topics/critical_thinking.md)
@@ -26,7 +27,6 @@
        * [Visual Manual](practice/visual_manual.md)
        * [Daily Design Journal](practice/daily_design_journal.md)
        * End of lesson discussion
-   * Discussions
 * Lesson 2: Interface and Experience
    * Project
        * [Ritual](projects/ritual.md)
