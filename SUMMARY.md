@@ -26,6 +26,7 @@
        * [Visual Manual](practice/visual_manual.md)
        * [Daily Design Journal](practice/daily_design_journal.md)
        * End of lesson discussion
+   * Discussions
 * Lesson 2: Interface and Experience
    * Project
        * [Ritual](projects/ritual.md)
