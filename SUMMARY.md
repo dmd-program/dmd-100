@@ -25,7 +25,6 @@
    * Activities
        * [Visual Manual](practice/visual_manual.md)
        * [Daily Design Journal](practice/daily_design_journal.md)
-       * End of lesson discussion
    * Listening
        * [The Steering Wheel](listening/the_steering_wheel.md)
    * Discussions
