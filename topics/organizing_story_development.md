@@ -4,6 +4,9 @@ Story development is a generative process where ideas, themes, and unique charac
 
 ## Process
 
+If do have ever readYou will often hear this advice, "Show, don't tell."
+
+
 ## Story Elements
 
 ### Setting
