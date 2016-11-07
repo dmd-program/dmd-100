@@ -22,12 +22,12 @@
        * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
        * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
        * [Chapter 3.What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
-   * Discussions
-       * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
    * Activities
        * [Visual Manual](practice/visual_manual.md)
        * [Daily Design Journal](practice/daily_design_journal.md)
        * End of lesson discussion
+   * Discussions
+       * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
 * Lesson 2: Interface and Experience
    * Project
        * [Ritual](projects/ritual.md)
