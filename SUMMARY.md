@@ -61,7 +61,7 @@
 * Lesson 3: Storytelling
    * [Introduction](lessons/narrative/introduction.md)
    * Topics
-       * [Narrative](topics/narrative.md)
+       * [Why stories?](topics/narrative.md)
        * [Narrative structure](topics/narrative_structure.md)
        * [Organizing story development](topics/organizing_story_development.md)
        * [Audience](topics/audience.md)
