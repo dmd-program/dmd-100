@@ -8,6 +8,7 @@
    * [Project Management](toolkit/project_management.md)
    * [Recommended Tools](introduction/recommended_tools.md)
 * [Lesson 1: What is Design?](lessons/introduction.md)
+   * Introduction
    * Case studies
        * [Design Case Study](lessons/what-is-design/design_case_study.md)
    * Topics
@@ -30,7 +31,6 @@
        * [Lawn Order](listening/lawn_order.md)
    * Discussions
        * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
-   * Introduction
 * Lesson 2: Interface and Experience
    * Project
        * [Ritual](projects/ritual.md)
