@@ -1,20 +1,22 @@
 # Organizing story development
 
-You do not need to follow these in any particular order. Choose the path of least resistance when quickly prototyping a narrative.
+Story development is a generative process where ideas, themes, and unique characteristics tend to surface through iteration and reflection. It is also a technical process, where common elements are added subtracted, combined, and transformed to convey meaning, encourage insights, and intensify excitement.
 
-## Setting
+## Process
 
-## POV
+## Story Elements
 
+### Setting
 
+### Point of view (PoV)
 
-## Character
+### Character
 
 1. Assign characterization types to characters
 2. Develop character profiles
 3. Identify tropes to apply to characters or change characters to avoid unwanted tropes
 
-## Plot
+### Plot
 
 1. Theme
 2. Write critical beats (decision points)
@@ -27,7 +29,7 @@ You do not need to follow these in any particular order. Choose the path of leas
   -  These become possible branches in your narrative.
 
 
-## Structure
+### Structure
 
 1. Choose or design a structure model
   - Should support critical story path and desired supplemental story interaction
