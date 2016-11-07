@@ -65,5 +65,6 @@ Characters are often one or a combination of the following types:
 11. Foil character
   - Typically contrasts the main character in qualities and values so that we may learn more about the main character.
 12. Symbolic character
+  - This character represents an abstract concept like "hope" or "justice."
 
 
