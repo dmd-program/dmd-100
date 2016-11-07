@@ -11,6 +11,7 @@
    * Case studies
        * [Design Case Study](lessons/what-is-design/design_case_study.md)
    * Discussions
+       * End of lesson discussion
    * Topics cluster 1
        * [What is Design?](topics/what_is_design.md)
        * [Critical thinking](topics/critical_thinking.md)
