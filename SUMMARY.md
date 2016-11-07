@@ -10,7 +10,7 @@
 * [Lesson 1: What is Design?](lessons/introduction.md)
    * Case studies
        * [Design Case Study](lessons/what-is-design/design_case_study.md)
-   * Topics cluster 1
+   * Topics
        * [What is Design?](topics/what_is_design.md)
        * [Critical thinking](topics/critical_thinking.md)
        * [Concept development](topics/concept_development.md)
