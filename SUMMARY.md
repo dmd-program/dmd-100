@@ -26,6 +26,33 @@
        * [Visual Manual](practice/visual_manual.md)
        * [Daily Design Journal](practice/daily_design_journal.md)
        * End of lesson discussion
+* Lesson 2: Interface and Experience
+   * Project
+       * [Ritual](projects/ritual.md)
+       * Tutorials
+           * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
+   * [Digital Service or Product Project](projects/digital_service_or_product.md)
+   * Topics
+       * Identity
+       * [Interaction Design](topics/interaction_design.md)
+       * [Elements of Visual Design](topics/elements_of_visual_design.md)
+       * [Principles of Visual Design](topics/principles_of_visual_design.md)
+       * Semiotics
+       * [Wireframing](topics/wireframing.md)
+       * [Mental model](topics/mental_model.md)
+       * [Principles of Interaction](topics/principles_of_interaction.md)
+   * Listening
+       * [Unpleasant Design](topics/ux_case_study.md)
+       * [Of mice and men](listening/of_mice_and_men.md)
+   * Readings
+       * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
+       * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
+       * [Chapter 6. Designs of Darkness](practice/bad_design.md)
+       * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
+   * Activities
+       * [Design an Interface](practice/design_an_interface.md)
+       * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
+       * [Make a Brand](practice/make_a_brand.md)
 * Lesson 3: Storytelling
    * [Introduction](lessons/narrative/introduction.md)
    * Topics
@@ -62,25 +89,6 @@
    * [Unit 01](toolkit/lessons.md)
        * Unit 01 Description
        * [Icebreaker: Visual Telephone](icebreakers/icebreaker_visual_telephone.md)
-       * [Lesson 1: What is Design?](lessons/introduction.md)
-           * Case studies
-               * [Design Case Study](lessons/what-is-design/design_case_study.md)
-           * Topics
-               * [What is Design?](topics/what_is_design.md)
-               * [Critical thinking](topics/critical_thinking.md)
-               * [Design thinking](topics/design_thinking.md)
-               * [Systems thinking](topics/systems_thinking.md)
-               * [Sustainable design](topics/sustainable_design.md)
-               * [Double diamond](topics/double_diamond.md)
-           * [Concept development](topics/concept_development.md)
-           * Read and Respond
-               * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
-               * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
-               * [Chapter 3.What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
-           * Activities
-               * [Visual Manual](practice/visual_manual.md)
-               * [Daily Design Journal](practice/daily_design_journal.md)
-               * End of lesson discussion
        * Lesson 2: Interface and Experience
            * Project
                * [Ritual](projects/ritual.md)
