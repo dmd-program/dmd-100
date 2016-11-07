@@ -28,6 +28,7 @@
        * End of lesson discussion
    * Listening
        * d
+       * The Steering Wheel
    * Discussions
        * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
 * Lesson 2: Interface and Experience
