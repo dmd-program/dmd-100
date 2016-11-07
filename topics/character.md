@@ -19,9 +19,9 @@ Creating a character profile is helpful to describe the way in which a character
   - What role does the character play?
   - Characterization types
 2. Physical Attributes
-  - Name
-  - Age
-  - Gender
+  - Name, Age, Gender
+  - Markings, tattoos
+  - Abilities, disabilities
   - Race/Ethnicity
 3. Inner struggle and journey
   - What motivates the character?
@@ -44,7 +44,7 @@ Creating a character profile is helpful to describe the way in which a character
   - How are character flaws introduced into the story?
 
 
-## Types in fictional stories
+## Types (tropes) in fictional stories
 
 Characters are often one or a combination of the following types:
 
