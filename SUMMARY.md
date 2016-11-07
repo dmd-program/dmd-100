@@ -7,6 +7,25 @@
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Project Management](toolkit/project_management.md)
    * [Recommended Tools](introduction/recommended_tools.md)
+* [Lesson 1: What is Design?](lessons/introduction.md)
+   * Case studies
+       * [Design Case Study](lessons/what-is-design/design_case_study.md)
+   * Topics
+       * [What is Design?](topics/what_is_design.md)
+       * [Critical thinking](topics/critical_thinking.md)
+       * [Design thinking](topics/design_thinking.md)
+       * [Systems thinking](topics/systems_thinking.md)
+       * [Sustainable design](topics/sustainable_design.md)
+       * [Double diamond](topics/double_diamond.md)
+   * [Concept development](topics/concept_development.md)
+   * Read and Respond
+       * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
+       * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
+       * [Chapter 3.What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
+   * Activities
+       * [Visual Manual](practice/visual_manual.md)
+       * [Daily Design Journal](practice/daily_design_journal.md)
+       * End of lesson discussion
 * Lesson 3: Storytelling
    * [Introduction](lessons/narrative/introduction.md)
    * Topics
@@ -90,37 +109,18 @@
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
                * [Make a Brand](practice/make_a_brand.md)
        * Lesson 3: Storytelling
-           * [Introduction](lessons/narrative/introduction.md)
            * Topics
-               * [Narrative](topics/narrative.md)
-               * [Narrative structure](topics/narrative_structure.md)
-               * [Organizing story development](topics/organizing_story_development.md)
-               * [Audience](topics/audience.md)
-               * [Character](topics/character.md)
-               * [Plot](topics/plot.md)
-               * [Hypertext](topics/hypertext.md)
-               * [Media](topics/narrative-media.md)
                * Setting
                * Conflict
                * Resolution
                * Point of view
                * Theme
            * Listening
-               * [10,000 Years](lessons/narrative/narrative_case_study.md)
            * Readings
-               * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
-               * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
-               * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
            * Project
-               * [Narrative Project: Civic Imagination](projects/narrative_project_social_design_option.md)
                * Tutorials
-                   * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
-                   * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
            * Activities
-               * [Write a story: draft 1](practice/object_story.md)
-               * [Write a story: draft 2](practice/object_story_draft_2.md)
            * Discussions
-               * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
    * Unit 02
    * Unit 03
        * Unit 03 Project
