@@ -30,6 +30,7 @@
        * [Lawn Order](listening/lawn_order.md)
    * Discussions
        * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
+   * Introduction
 * Lesson 2: Interface and Experience
    * Project
        * [Ritual](projects/ritual.md)
