@@ -28,6 +28,7 @@
        * End of lesson discussion
    * Discussions
        * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
+   * Listening
 * Lesson 2: Interface and Experience
    * Project
        * [Ritual](projects/ritual.md)
