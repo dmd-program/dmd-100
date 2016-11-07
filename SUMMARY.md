@@ -86,6 +86,17 @@
    * Discussions
        * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
 * [Lesson 5: Remix](lessons/remix.md)
+   * [Lesson 6: Co-generative Design](lessons/co-generative_design.md)
+       * Topics
+           * [Collaboration](topics/collaboration.md)
+           * DIY
+       * Co-generative Design Case Study
+       * Read and Discuss
+           * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
+           * [Chapter 14. Designing Time](practice/designing_time.md)
+       * Activities
+           * Co-generative Design Activity
+           * Design your Day
    * Topics
        * Everything is a Remix
        * Media
@@ -131,32 +142,6 @@
    * Unit 03
        * Unit 03 Project
            * [Toolkit Design Project](projects/toolkit_design_project.md)
-       * [Lesson 5: Remix](lessons/remix.md)
-           * Topics
-               * Everything is a Remix
-               * Media
-               * [Semiotics](topics/semiotics.md)
-               * [Constructing meaning](topics/constructing_meaning.md)
-               * [Language](topics/language.md)
-               * Sound
-               * [Intellectual property](topics/intellectual_property.md)
-           * Remix Case Study
-           * Read and Discuss
-               * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
-               * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
-           * Activities
-               * [Curating for an Idea](practice/curating_for_an_idea.md)
-       * [Lesson 6: Co-generative Design](lessons/co-generative_design.md)
-           * Topics
-               * [Collaboration](topics/collaboration.md)
-               * DIY
-           * Co-generative Design Case Study
-           * Read and Discuss
-               * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
-               * [Chapter 14. Designing Time](practice/designing_time.md)
-           * Activities
-               * Co-generative Design Activity
-               * Design your Day
 * not yet organized
    * [Lesson 7: Open Design](lessons/open_design.md)
        * Topics
