@@ -17,8 +17,8 @@
        * [Design thinking](topics/design_thinking.md)
        * [Systems thinking](topics/systems_thinking.md)
        * [Sustainable design](topics/sustainable_design.md)
-       * [Double diamond](topics/double_diamond.md)
        * Topics cluster 2
+           * [Double diamond](topics/double_diamond.md)
            * d
    * Topics cluster 2
    * Read and Respond
