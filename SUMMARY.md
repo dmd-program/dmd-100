@@ -27,6 +27,7 @@
        * [Daily Design Journal](practice/daily_design_journal.md)
    * Listening
        * [The Steering Wheel](listening/the_steering_wheel.md)
+       * Lawn Order
    * Discussions
        * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
 * Lesson 2: Interface and Experience
