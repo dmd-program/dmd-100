@@ -27,6 +27,7 @@
        * [Daily Design Journal](practice/daily_design_journal.md)
        * End of lesson discussion
    * Listening
+       * d
    * Discussions
        * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
 * Lesson 2: Interface and Experience
