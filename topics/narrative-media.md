@@ -19,12 +19,6 @@ Because story is ubiquitous to the human experience, you find it embedded in eve
 
 **Architecture** uses form and dimension of space and structure to tell the story of how people should use space, creating places for rest or work and all other aspects of sheltered human interaction.
 
-**Wayfinding** is tells the story of how to find your way in an unfamiliar place, often delivered through signs, markers, lights, color, and other architectural features.
-
-## Education:
-
-Liberal arts institutions tell stories that re-frame and challenge students' assumptions about the society and the world.
-
 ## Journalism:
 
 Local news stations tell stories associated with the communities the are embedded within.
