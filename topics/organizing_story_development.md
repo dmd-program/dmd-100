@@ -44,6 +44,7 @@ The setting is the environment that the story takes place. The setting helps est
   - Linear or non-linear?
 
 ## Media
+
 1. Types
   - **Single source media**
     - There are too many types of media to list here, but any method of communicating to a person is a type of media. For the purposes of this topic, an interactive digital hypertext narrative (a website with links) will be the type of media used to provide an experience for viewers of your story.
