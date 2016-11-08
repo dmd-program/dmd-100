@@ -5,24 +5,24 @@ Story development is a generative process where ideas, themes, and unique charac
 ## Process
 "Show, don't tell." When drafting a story, it is often best to convey information and ideas indirectly. For instance, you could write, "Mary was a very nice person." Alternatively, you could write, "Mary spent her weekends volunteering at a local shelter and worked part time as a nurse." Both methods communicate the kind of person Mary is, but the latter is more engaging for the reader.
 
-## Story Elements
+### Story Elements
 
-### Setting
+#### Setting
 The setting is the environment that the story takes place. The setting helps establish the tone, story genre, and often foreshadows future events in the plot.
 
-### Point of view (PoV)
+#### Point of view (PoV)
 
 1. First person: (I, we)
 2. Second person: (you)
 3. Third person:(he, she, they)
 
-### Character
+#### Character
 
 1. Assign characterization types to characters
 2. Develop character profiles
 3. Identify tropes to apply to characters or change characters to avoid unwanted tropes
 
-### Plot
+#### Plot
 
 1. Theme
 2. Write critical beats (decision points)
@@ -35,7 +35,7 @@ The setting is the environment that the story takes place. The setting helps est
   -  These become possible branches in your narrative.
 
 
-### Structure
+#### Structure
 
 1. Choose or design a structure model
   - Should support critical story path and desired supplemental story interaction
