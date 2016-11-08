@@ -1,4 +1,4 @@
-# Narrative Structure
+# Structuring story
 
 A narrative structure orders or disorders the events of a story for the audience. There are commonly used frameworks for storytelling which started with Aristotle's three part structure which consists of a beginning, middle, and end.
 
