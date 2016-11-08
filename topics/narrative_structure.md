@@ -16,9 +16,7 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the str
 4. falling action
 5. dénouement/resolution
 
-This five act structure works well when describing Greek and Shakespearean plays. ~~Contemporary film narratives include these components, but apply them liberally throughout narrative.~~
-
-Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies align with the the following linear structures:
+This five act structure works well when describing Greek and Shakespearean plays. Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies align with the the following linear structures:
 
 - Three Act Structure
 - Five Act Structure
@@ -69,7 +67,7 @@ In this linear structure, a user must complete node's requirements to continue t
 ##### Hero's journey
 
 ![Hero's Journey Strucutre](../assets/narrative-journey-structure.png)
-In the linear structure, a user would follow the twelve stages of the hero's journey. However, there can be fewer or additional stages and still be considered a journey structure.
+In this linear structure, a user would follow the twelve stages of the hero's journey. However, there can be fewer or additional stages and still be considered a journey structure.
 
 ##### Parallel worlds
 
