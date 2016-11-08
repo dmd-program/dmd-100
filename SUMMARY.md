@@ -40,6 +40,7 @@
    * Topics
        * Identity
        * [Interaction Design](topics/interaction_design.md)
+       * [Audience](topics/audience.md)
        * [Elements of Visual Design](topics/elements_of_visual_design.md)
        * [Principles of Visual Design](topics/principles_of_visual_design.md)
        * Semiotics
@@ -64,7 +65,6 @@
        * [Why stories?](topics/narrative.md)
        * [Narrative structure](topics/narrative_structure.md)
        * [Organizing story development](topics/organizing_story_development.md)
-       * [Audience](topics/audience.md)
        * [Character](topics/character.md)
        * [Plot](topics/plot.md)
        * [Hypertext](topics/hypertext.md)
