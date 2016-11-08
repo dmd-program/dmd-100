@@ -3,7 +3,7 @@
 Story development is a generative process where ideas, themes, and unique characteristics tend to surface through iteration and reflection. It is also a technical process, where common elements are added subtracted, combined, and transformed to convey meaning, encourage insights, and intensify excitement.
 
 ## Process
-"Show, don't tell." When drafting a story, it is often best to convey information and ideas indirectly. For instance, you could write, "Mary was a very nice person." Alternatively, you could write, "Mary spent her weekends volunteering at a local shelter and worked part time as a nurse."
+"Show, don't tell." When drafting a story, it is often best to convey information and ideas indirectly. For instance, you could write, "Mary was a very nice person." Alternatively, you could write, "Mary spent her weekends volunteering at a local shelter and worked part time as a nurse." Both methods communicate the kind of person Mary is, but the latter is more engaging for the reader.
 
 ## Story Elements
 
