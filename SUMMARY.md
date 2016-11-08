@@ -70,7 +70,6 @@
        * [Hypertext](topics/hypertext.md)
        * [Media](topics/narrative-media.md)
        * Conflict
-       * Point of view
        * Theme
    * Listening
        * [10,000 Years](lessons/narrative/narrative_case_study.md)
