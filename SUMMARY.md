@@ -69,7 +69,6 @@
        * [Plot](topics/plot.md)
        * [Hypertext](topics/hypertext.md)
        * [Media](topics/narrative-media.md)
-       * Setting
        * Conflict
        * Resolution
        * Point of view
