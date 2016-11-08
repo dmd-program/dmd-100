@@ -69,7 +69,6 @@
        * [Plot](topics/plot.md)
        * [Hypertext](topics/hypertext.md)
        * [Media](topics/narrative-media.md)
-       * Conflict
    * Listening
        * [10,000 Years](lessons/narrative/narrative_case_study.md)
    * Readings
