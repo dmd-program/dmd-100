@@ -12,7 +12,7 @@ In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https
 
 ## 
 
-
+To some degree, everything has a story, even [shoes](https://www.youtube.com/watch?v=egkrxkiUnoo). Semiotics, the study of meaning making, has produced models for describing how meaning is communicated; Saussure's dyadic model consisting of signifier and the signified, and Peirce's Triadic model consisting of a icons, indices, and sylmbols. Just like Forest Gump's shoes, objects are sign vehicles.
 
 ## Citations
 - http://www.storyboardthat.com/articles/education/english/narrative-structures
