@@ -26,14 +26,13 @@ The setting is the environment that the story takes place. The setting helps est
 
 #### Plot
 
-1. Theme
-2. Write critical beats (decision points)
+1. Write critical beats (decision points)
   - Supports critical story path
   - Include elements:
     - Exposition
     - Conflict
     - Resolution 
-2. Write optional beats.
+3. Write optional beats.
   -  These become possible branches in your narrative.
 
 
