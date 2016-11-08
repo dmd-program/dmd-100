@@ -92,7 +92,7 @@ A sandbox structure is one where the story unfolds based on how a player chooses
 
 ##### Graph
 ![Graph structure](../assets/narrative-graph-structure.png)
-A graph structure is where all nodes simultaneously connect with every other node bi-bidirectionally. Discerning a narrative thread in just a structure can be difficult.
+A graph structure is where all nodes simultaneously connect with every other node bi-bidirectionally. Discerning a narrative thread in such a structure can be difficult.
 
 #### Creating your own structural model
 
