@@ -96,7 +96,7 @@ A graph structure is where all nodes simultaneously connect with every other nod
 
 #### Creating your own structural model
 
-It is quite possible that no good pattern exists for the kind of story you want to create. Part of the creative process for writing a narrative is producing the framework that can best support your story.
+Quite often, no perfect model exists for the kind of story that needs to be told. Part of the creative process for writing a narrative is producing the model that can best support the story.
 
 
 ## Bookshelf
