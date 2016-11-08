@@ -13,8 +13,6 @@ In the process of characterization, a writer will construct traits of a characte
 
 See this [tvtropes.org wiki](http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes) for a collection of character tropes.
 
-
-
 ## Types (tropes) in fictional stories
 
 Character types help to push the They are often one or a combination of the following:
