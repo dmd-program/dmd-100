@@ -202,4 +202,5 @@
        * Activities
            * [Future Living](practice/future_living.md)
            * [Dwelling Design](practice/dwelling_design.md)
+   * Outsider as expert
 
