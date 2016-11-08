@@ -30,7 +30,7 @@ This five act structure works well when describing Greek and Shakespearean plays
 A non-linear structure is not necessarily chronological or cause and effect based. Story is unfolded simultaneously and recursively.
 
 ### Interactive narrative
-The story-line in an interactive narrative work is not predetermined. The story is constructed based on a viewer's choices real-time. Games that use this structure often rely on sophisticated AI software to construct the environment around these choices.
+The story-line in an interactive narrative work is not predetermined. The story is constructed based on a viewer's choices real-time. Games that use this structure often rely on sophisticated AI software to construct the environment around these choices. [1]
 
 #### Decision nodes
 An interactive narrative is comprised of decision or action points called nodes, where the user impacts the unfolding of the narrative by making a choice or performing an action. The choice the user makes can determine which branching narrative path is taken. The decisions themselves are part of the plot, which handles dramatization of the events.
@@ -99,7 +99,6 @@ A graph structure is where all nodes simultaneously connect with every other nod
 Quite often, no perfect model exists for the kind of story that needs to be told. Part of the creative process for writing a narrative is producing the model that can best support the story.
 
 
-## Bookshelf
-[Digital Storytelling: A Creator's Guide to Interactive Entertainment. Carolyn Handler Miller. 2014. ISBN-10: 0415836948](http://www.amazon.com/Digital-Storytelling-creators-interactive-entertainment/dp/0415836948)
+## Citation
+1. [Digital Storytelling: A Creator's Guide to Interactive Entertainment. Carolyn Handler Miller. 2014. ISBN-10: 0415836948](http://www.amazon.com/Digital-Storytelling-creators-interactive-entertainment/dp/0415836948)
 
-[A History of Story-telling]( https://openlibrary.org/books/OL7024013M/A_history_of_story-telling)
