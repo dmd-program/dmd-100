@@ -70,7 +70,6 @@
        * [Hypertext](topics/hypertext.md)
        * [Media](topics/narrative-media.md)
        * Conflict
-       * Resolution
        * Point of view
        * Theme
    * Listening
