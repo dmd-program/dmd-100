@@ -1,4 +1,4 @@
-# Organizing story development
+# Story development
 
 Story development is a generative process where ideas, themes, and unique characteristics tend to surface through iteration and reflection. It is also a technical process, where common elements are added subtracted, combined, and transformed to convey meaning, encourage insights, and intensify excitement.
 
