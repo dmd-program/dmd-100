@@ -1,7 +1,10 @@
 # Outsider as expert
 
-## News articles
+## In History
 
+[Leonardo da Vinci](http://www.theglobeandmail.com/report-on-business/economy/growth/how-outsiders-solve-problems-that-stump-experts/article2420003/)
 
-Medicine: [The Engineer who fixed his own heart](https://mosaicscience.com/story/engineer-who-fixed-his-own-heart)
+## Modern day
+
+[The Engineer who fixed his own heart](https://mosaicscience.com/story/engineer-who-fixed-his-own-heart)
 
