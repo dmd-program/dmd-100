@@ -18,8 +18,8 @@ See [tvtropes.org wiki](http://tvtropes.org/pmwiki/pmwiki.php/Main/Characterizat
 Character types help to push the They are often one or a combination of the following:
 
 1. **Main character:** The story typically follows this character most closely. They are needed to resolve the conflict.
-2. **Supporting character:** These characters help us understand the main character, advance the story
-3. **Protagonist character:**
+2. **Supporting character:** These characters help us understand the main character, advance the story.
+3. **Protagonist character:** The hero in the story.
 4. **Antagonist character:**
 5. **Dynamic character:** Shows development and change over time
 6. **Static character:** Does not develop or change over time
