@@ -31,7 +31,7 @@ Local news stations tell stories associated with the communities the are embedde
 
 National news stations tell stories associated with national and global interests.
 
-Newspapers, magazines, blogs, and other publications combine photography, video, and investigative reporting techniques to communicate stories.
+Newspapers, magazines, blogs, and other publications combine photography, video, and investigative reporting techniques to communicate information about events.
 
 ## Governance:
 
