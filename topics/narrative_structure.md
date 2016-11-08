@@ -44,7 +44,7 @@ For example, let's say you are playing a hypertext narrative, and your character
 
 A critical story path can be thought of as the shortest path possible through a series of decision nodes to complete the interactive story.
 
-To develop the critical path:
+**To develop the critical path:**
 
 1. All the critical story beats must be accounted for
 2. Determine essential actions and decisions
