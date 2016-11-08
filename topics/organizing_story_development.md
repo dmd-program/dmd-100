@@ -13,6 +13,7 @@ Story development is a generative process where ideas, themes, and unique charac
 The setting is the environment that the story takes place. The setting helps establish the tone, story genre, and often foreshadows future events in the plot.
 
 #### Point of view (PoV)
+Who is telling the story? Who are you experiencing the story through? Depending on the point of view, the author can create a sense of intimacy with the story, or a more objective and distant perspective.
 
 1. First person: (I, we)
 2. Second person: (you)
