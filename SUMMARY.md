@@ -15,7 +15,7 @@
    * Topics
        * [What is Design?](topics/what_is_design.md)
        * [Critical thinking](topics/critical_thinking.md)
-       * [Outsider as expert](topics/outsider_as_expert.md)
+       * [Outsiders](topics/outsider_as_expert.md)
        * [Concept development](topics/concept_development.md)
        * [Design thinking](topics/design_thinking.md)
        * [Systems thinking](topics/systems_thinking.md)
