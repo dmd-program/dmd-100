@@ -63,7 +63,7 @@
    * [Introduction](lessons/narrative/introduction.md)
    * Topics
        * [Why stories?](topics/narrative.md)
-       * [Narrative structure](topics/narrative_structure.md)
+       * [Story structure](topics/narrative_structure.md)
        * [Organizing story development](topics/organizing_story_development.md)
        * [Character](topics/character.md)
        * [Plot](topics/plot.md)
