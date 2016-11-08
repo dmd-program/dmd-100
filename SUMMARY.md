@@ -7,7 +7,7 @@
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Project Management](toolkit/project_management.md)
    * [Recommended Tools](introduction/recommended_tools.md)
-   * Outlandish Introductions
+   * [Outlandish Introductions](icebreakers/outlandish_introductions.md)
 * [Lesson 1: What is Design?](lessons/introduction.md)
    * [Introduction](lessons/what-is-design/introduction.md)
    * Case studies
