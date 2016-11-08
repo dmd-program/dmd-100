@@ -9,7 +9,29 @@ In fictional film or literature, character types are used to help viewers to emp
 
 ## Characterization
 
-In the process of characterization, a writer will develop traits of a character according to how they will serve the story's plot requirements. Characters are often inspired by people from real life, but often become simplified and adapted as needed.
+In the process of characterization, a writer will construct traits of a character according to how they will serve the story's plot requirements. Characters are often inspired by people from real life, but often become simplified, combined, and adapted as needed.
+
+See this [tvtropes.org wiki](http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes) for a collection of character tropes.
+
+
+
+## Types (tropes) in fictional stories
+
+Character types help to push the They are often one or a combination of the following:
+
+1. **Main character:** The story typically follows this character most closely. They are needed to resolve the conflict.
+2. **Supporting character:** These characters help us understand the main character, advance the story
+3. **Protagonist character:**
+4. **Antagonist character:**
+5. **Dynamic character:** Shows development and change over time
+6. **Static character:** Does not develop or change over time
+7. **Anti-hero character:**
+8. **Round character:**
+9. **Flat character:**
+10. **Stock character:**
+11. **Foil character:** Typically contrasts the main character in qualities and values so that we may learn more about the main character.
+12. **Symbolic character:** This character represents an abstract concept like "hope" or "justice."
+
 
 ## Character profile
 
@@ -42,29 +64,3 @@ Creating a character profile is helpful to describe the way in which a character
   - External conflicts
   - Meetings with other characters
   - How are character flaws introduced into the story?
-
-
-## Types (tropes) in fictional stories
-
-Characters are often one or a combination of the following types:
-
-1. Main character
-  - The story typically follows this character most closely. They are needed to resolve the conflict.
-2. Supporting character
-  - These characters help us understand the main character, advance the story
-3. Protagonist character
-4. Antagonist character
-5. Dynamic character
-  - Shows development and change over time
-6. Static character
-  - Does not develop or change over time
-7. Anti-hero character
-8. Round character
-9. Flat character
-10. Stock character
-11. Foil character
-  - Typically contrasts the main character in qualities and values so that we may learn more about the main character.
-12. Symbolic character
-  - This character represents an abstract concept like "hope" or "justice."
-
-
