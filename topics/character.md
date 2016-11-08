@@ -11,7 +11,7 @@ In fictional film or literature, character types are used to help viewers to emp
 
 In the process of characterization, a writer will construct traits of a character according to how they will serve the story's plot requirements. Characters are often inspired by people from real life, but often become simplified, combined, and adapted as needed.
 
-See [tvtropes.org wiki](http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes) for a collection of character tropes.
+See [tvtropes.org wiki](http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes) for an expansive collection of character tropes.
 
 ## Types (tropes) in fictional stories
 
