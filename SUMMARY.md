@@ -15,12 +15,12 @@
    * Topics
        * [What is Design?](topics/what_is_design.md)
        * [Critical thinking](topics/critical_thinking.md)
+       * [Outsider as expert](topics/outsider_as_expert.md)
        * [Concept development](topics/concept_development.md)
        * [Design thinking](topics/design_thinking.md)
        * [Systems thinking](topics/systems_thinking.md)
        * [Double diamond](topics/double_diamond.md)
        * [Sustainable design](topics/sustainable_design.md)
-   * [Outsider as expert](topics/outsider_as_expert.md)
    * Read and Respond
        * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
        * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
