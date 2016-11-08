@@ -4,7 +4,7 @@ We are surrounded by stories. These stories affect our attitudes, beliefs, and f
 
 > Storytelling has a long history as a mechanism of knowledge transfer and can be considered a rapid immersion in an experience: One cannot experience time travel, but one can gain knowledge about the act of time travel through a rich compelling, and highly experiential story.
 >   
->   – Jon Kolko [1]
+>   – Jon Kolko
 
 Watch the host of This American Life, Ira Glass, talk about the power of storytelling: [Ira Glass on Storytelling](https://www.youtube.com/watch?v=K1NQKrbVslk) **(13:07)**
 
