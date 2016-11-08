@@ -40,7 +40,6 @@ The setting is the environment that the story takes place. The setting helps est
 1. Choose or design a structure model
   - Should support critical story path and desired supplemental story interaction
   - Linear or non-linear?
-2. 
 
 ## Media
 1. Types
