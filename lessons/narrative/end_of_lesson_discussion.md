@@ -4,6 +4,6 @@ Now is a good time to decompress with a class-wide open discussion.
 
 **Questions to guide the discussion:**
 
-- What are some insights?
-- What was a challenge?
-- More questions here ...
+- What were some insights you had during this lesson?
+- Did any of the content connect with you personally?
+- What was challenging?
