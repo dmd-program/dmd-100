@@ -64,7 +64,7 @@
    * Topics
        * [Why stories?](topics/narrative.md)
        * [Story structure](topics/narrative_structure.md)
-       * [Organizing story development](topics/organizing_story_development.md)
+       * [Story development](topics/organizing_story_development.md)
        * [Character](topics/character.md)
        * [Plot](topics/plot.md)
        * [Hypertext](topics/hypertext.md)
