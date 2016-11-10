@@ -1,6 +1,8 @@
 # Outsiders and the beginner's mindset
 
-An outsider is one that deals with a given issue or problem, but operates outside of a given system's existing standards for qualification and credibility. For instance, an outsider can be political candidate who has never served in politics, an untrained artist showing in galleries, or an unknown company that offers services that are disruptive to the established industry. Experts are often plagued by a cognitive bias when faced with common and familiar paths to solving reoccurring issues. This is why it can be possible for an outsider to introduce innovative solutions in long entrenched industries and fields – they are able to question the fundamental assumptions that experts know to be true. This is also known as the beginners mindset, a useful approach for bypassing stereotypes an misconceptions.
+An outsider is one that deals with a given issue or problem, but operates outside of a given system's existing standards for qualification and credibility. For instance, an outsider can be political candidate who has never served in politics, an untrained artist showing in galleries, or an unknown company that offers services that are disruptive to the established industry.
+
+Experts are often plagued by a cognitive bias that manifests as a reliance on common and familiar paths to a solution. This is why it can be possible for an outsider to introduce innovative solutions in long entrenched industries and markets – they are able to question the fundamental assumptions that experts know to be true. This questioning of assumptions is an essential design approach, known as the beginners mindset – helpful for bypassing stereotypes an misconceptions.
 
 ## Beginner's mindset
 
