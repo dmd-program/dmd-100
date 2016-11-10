@@ -18,5 +18,5 @@ An outsider is one that deals with a given issue or problem, but operates outsid
 [The Engineer who fixed his own heart](https://mosaicscience.com/story/engineer-who-fixed-his-own-heart)
 
 # Citations
-Hasso Plattner Institute of Design at Stanford. https://dschool.stanford.edu/use-our-methods/the-bootcamp-bootleg/ CC BY-NC-SA
+Hasso Plattner Institute of Design at Stanford. https://dschool.stanford.edu/use-our-methods/the-bootcamp-bootleg/ [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
