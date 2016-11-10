@@ -10,7 +10,7 @@ An outsider is one that deals with a given issue or problem, but operates outsid
 4. **Find patterns.** Look for interesting threads and themes that emerge across interactions with users.
 5. **Listen.** Really.
 
-[CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+[CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Historical examples
 [Leonardo da Vinci](http://www.theglobeandmail.com/report-on-business/economy/growth/how-outsiders-solve-problems-that-stump-experts/article2420003/)
