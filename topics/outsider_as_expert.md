@@ -1,10 +1,16 @@
 # Outsiders and the beginner's mindset
 
-An outsider is one that deals with a given issue or problem, but operates outside of a given system's existing standards for qualification and credibility. For instance, an outsider can be political candidate who has never served in politics, an untrained artist showing in galleries, or an unknown company that offers services that are disruptive to the established industry.
+## What is an outsider?
+An outsider is one that deals with a given issue or problem, but operates outside of a given system's existing standards for qualification and credibility. For instance, an outsider can be political candidate who has never served in politics, an untrained artist showing in galleries, or an unknown company that offers services that operate differently to the established industry.
 
-Experts are often plagued by a cognitive bias that manifests as a reliance on common and familiar paths to a solution. This is why it can be possible for an outsider to introduce innovative solutions in long entrenched industries and markets – they are able to question the fundamental assumptions that experts know to be true. A designers approach to questioning of assumptions, known as the beginners mindset, is helpful for bypassing stereotypes an misconceptions.
+## The beginner's mindset
+Subject-matter experts are often plagued by a cognitive bias that manifests as a reliance on common and familiar paths to a solution. "That is the way it has always been done" is a common phrase heard in board rooms and academic institutions alike. This bias makes innovative thinking difficult or impossible to accomplish.
+
+These factors make it possible for an outsider to introduce innovative solutions in long entrenched industries and markets – they are able to question the fundamental assumptions that experts know to be true, yet somehow are not. A designers approach to questioning of assumptions, known as the beginners mindset, is helpful for bypassing stereotypes an misconceptions that often inhibit empathetic discoveries.
 
 ## Beginner's mindset
+
+How a person acquires the beginner's mindset can vary. From the Hasso Plattner Institute of Design at Stanford:
 
 1. **Don’t judge.** Just observe and engage users without the influence of value judgments upon their actions, circumstances, decisions, or “issues.”
 2. **Question everything.** Question even (and especially) the things you think you already understand. Ask questions to learn about how the user perceives the world. Think about how a 4-year-old asks “Why?” about everything. Follow up an answer to one “why” with a second “why.”
