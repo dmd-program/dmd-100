@@ -6,7 +6,7 @@ If you consider that an expert in any given field is an expert on the system or 
 
 ## Design field examples
 
-Cradle-to-cradle design accounts for social, economic, and ecological systems when designing consumer products. Let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration:
+Cradle-to-cradle design accounts for social, economic, and ecological systems when designing consumer products and services. Let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration:
 
 [How Big Is the "Great Pacific Garbage Patch"? Science vs. Myth](http://response.restoration.noaa.gov/about/media/how-big-great-pacific-garbage-patch-science-vs-myth.html)
 
