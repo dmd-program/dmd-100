@@ -17,10 +17,10 @@ Choose a platform:
 - Pinterest
 - Tumblr
 
-**Instructions**
+## Steps to completion
 
-- Document, describe, sketch, pin, or post one object that you come into contact with each day for two weeks. 
-- Respond to questions in the corresponding discussion thread on Canvas.
+1. Document, describe, sketch, pin, or post one object that you come into contact with each day for two weeks.
+2. Respond to questions in the activity discussion thread on Canvas.
 
 **Questions:**
 
