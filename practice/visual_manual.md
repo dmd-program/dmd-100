@@ -13,7 +13,7 @@ For this activity, you will create a visual "How To" guide that explains how to 
   - timeline
   - diagram
   - doodle
-3. Use a pencil, pen, or marker to draw your how-to guide onto paper. 
+3. Use a pencil, pen, or marker to draw your how-to guide on paper. 
   - Use a scanner for best results.
 
 ## Deliverable Requirements
@@ -22,7 +22,7 @@ For this activity, you will create a visual "How To" guide that explains how to 
 - **Size:** US Letter (8.5" x 11")
 - **Resolution:** 150 Pixels/Inch (PPI)
 - **Orientation:** portrait
-- **Citation:** Any media acquired from the internet must be properly licensed for use. Please follow licensing guidelines which may include attribution. Don't use media you don't have permission to use. 
+- **Citation:** Any media acquired from the Internet must be properly licensed for use. Please follow licensing guidelines which may include attribution. Do not use media you do not have permission to use. 
 
 ## Assessment
 1. Met the requirements
