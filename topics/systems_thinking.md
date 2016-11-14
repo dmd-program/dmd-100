@@ -3,7 +3,6 @@ A design decision that considers the impact on an entire network of affected sys
 
 If you consider that an expert in any given field is an expert on the system or systems situated in that field, then people who work across systems from different fields can be considered to be transdisciplinary. A transdisciplinarian is a multi-systems worker and takes liberty to follow the networked paths for more holistic perspectives on a problem. 
 
-
 ## Cradle-to-cradle
 
 Cradle-to-cradle design accounts for social, economic, and ecological systems when designing consumer products and services. Let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration:
