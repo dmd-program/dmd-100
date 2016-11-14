@@ -10,8 +10,6 @@
    * [Outlandish Introductions](icebreakers/outlandish_introductions.md)
 * [Lesson 1: What is Design?](lessons/introduction.md)
    * [Introduction](lessons/what-is-design/introduction.md)
-   * Case studies
-       * [Design Case Study](lessons/what-is-design/design_case_study.md)
    * Topics
        * [What is Design?](topics/what_is_design.md)
        * [Critical thinking](topics/critical_thinking.md)
