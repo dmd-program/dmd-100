@@ -37,13 +37,6 @@ On page 172 in Victor Papanek's *Design for the Real World, Human Ecology and So
 7. Bionics and Biomechanics
 8. Forcing New Thinking Patterns
 
-## Historical examples
-[Leonardo da Vinci](http://www.theglobeandmail.com/report-on-business/economy/growth/how-outsiders-solve-problems-that-stump-experts/article2420003/)
-
-## Contemporary examples
-
-[The Engineer who fixed his own heart](https://mosaicscience.com/story/engineer-who-fixed-his-own-heart)
-
 # Citations
 1. Papanek, V. J. (1984). Design for the real world: Human ecology and social change (2nd, completely rev. ed.). New York: Van Nostrand Reinhold Co.
 2. Hasso Plattner Institute of Design at Stanford. https://dschool.stanford.edu/use-our-methods/the-bootcamp-bootleg/ [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/)
