@@ -31,7 +31,7 @@ Government: **Policy Design**
 
 - Corporate lobbying prevents ecological policies from hindering sales of products
 - Issue not prioritized by society
-- Recycling initiatives are not timely and universally effective
+- Recycling initiatives are not timely and universally ineffective
 
 Ecological systems:
 
