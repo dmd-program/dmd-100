@@ -12,7 +12,7 @@ For this activity, you will create a visual "How To" guide that explains how to 
   - flow-chart
   - timeline
   - diagram
-  - doodle.
+  - doodle
 3. Use a pencil, pen, or marker to draw your how-to guide on paper. 
   - Use a scanner for best results.
 
