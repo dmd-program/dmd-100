@@ -10,13 +10,14 @@ These factors make it possible for an outsider to introduce innovative solutions
 
 ## Beginner's mindset
 
-How a person acquires the beginner's mindset can vary. From the Hasso Plattner Institute of Design at Stanford:
+How a person acquires the beginner's mindset can vary. Here is an example from the Hasso Plattner Institute of Design at Stanford:
 
 1. **Don’t judge.** Just observe and engage users without the influence of value judgments upon their actions, circumstances, decisions, or “issues.”
 2. **Question everything.** Question even (and especially) the things you think you already understand. Ask questions to learn about how the user perceives the world. Think about how a 4-year-old asks “Why?” about everything. Follow up an answer to one “why” with a second “why.”
 3. **Be truly curious.** Strive to assume a posture of wonder and curiosity, especially in circumstances that seem either familiar or uncomfortable.
 4. **Find patterns.** Look for interesting threads and themes that emerge across interactions with users.
 5. **Listen.** Really.
+
 
 ## Historical examples
 [Leonardo da Vinci](http://www.theglobeandmail.com/report-on-business/economy/growth/how-outsiders-solve-problems-that-stump-experts/article2420003/)
