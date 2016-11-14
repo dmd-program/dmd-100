@@ -4,7 +4,9 @@ Subject-matter experts are often plagued by biases that make them reliant on com
 
 On page 158 in Victor Papanek's *Design for the Real World, Human Ecology and Social  Change*, he lists seven types of blocks:
 
-1. Perceptual
+>We can list the inhibitors that keep us from solving tasks in new and innovative ways. They are:
+
+>1. Perceptual
 2. Emotional
 3. Associational
 4. Cultural
