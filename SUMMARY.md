@@ -38,6 +38,7 @@
            * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
    * [Digital Service or Product Project](projects/digital_service_or_product.md)
    * Topics
+       * [Language](topics/language.md)
        * Identity
        * [Interaction Design](topics/interaction_design.md)
        * [Audience](topics/audience.md)
@@ -91,7 +92,6 @@
        * Media
        * [Semiotics](topics/semiotics.md)
        * [Constructing meaning](topics/constructing_meaning.md)
-       * [Language](topics/language.md)
        * Sound
        * [Intellectual property](topics/intellectual_property.md)
    * Remix Case Study
