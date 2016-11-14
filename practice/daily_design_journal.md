@@ -2,15 +2,14 @@
 
 In this activity, you will document a least one object each day for two weeks. You have the option of using paper and pencil or digital tool like sites.psu.edu, Pinterest, or Tumblr.
 
-## Tools:
-**Option 1 - Paper Journal**
+## Paper Journal Option
 
-- Pencil
+- Pencil or pen
 - Sketching Journal
 - tape
 - glue
 
-**Option 2 - Digital**
+## Digital Option
 
 Choose a platform:
 
