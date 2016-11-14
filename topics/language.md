@@ -1,9 +1,7 @@
 # Language
 ## Background
 
-Language is a technology that allows people and things to communicate in a reliable and repeatable fashion. In the book, *The Axemaker's Gift*, detailed accounts are given of it's invention and use throughout history. All of modern society, for better or worse, is made possible in part by language's continued development and application.
-
-There is no one way to discuss language because fields in science, applied science, art, and liberal arts have different ways of describing its use, application, and components. That is why this description is a combination of ideas drawn from various interpretations and applications of this technology.
+Language is a technology that allows people and things to communicate in a reliable and repeatable fashion. In the book, *The Axemaker's Gift*, detailed accounts are given of it's invention and use throughout history. All of modern society, for better or worse, is made possible in part by language's continued development and application. The fields of science, applied sciences, art, and liberal arts have different ways of describing the use of language, its application, and it's components.
 
 ## Metalanguage
 Language is powerful because it allows humans and non-humans alike to liberate or oppress, create or destroy, incite or quell, enlighten or obscure. The standard parts that comprise a language can be considered to be a metalanguage; abstract concepts that construct the language in question. Many different languages can be created from a metalanguage.
