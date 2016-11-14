@@ -2,7 +2,7 @@
 
 Subject-matter experts are often plagued by biases that make them reliant on common and familiar paths to a solution. "That is the way it has always been done" or "it's just common sense" are typical phrases used by someone who has a kind of . A bias, also called a block, can undermine innovative problem solving and inhibit creative thinking.
 
-In Victor Papanek's *Design for the Real World, Human Ecology and Social  Change*, he lists seven types of blocks:
+On page 158 in Victor Papanek's *Design for the Real World, Human Ecology and Social  Change*, he lists seven types of blocks:
 
 1. Perceptual
 2. Emotional
@@ -22,6 +22,18 @@ A designer's approach to questioning of assumptions, known as the beginners mind
 4. **Find patterns.** Look for interesting threads and themes that emerge across interactions with users.
 5. **Listen.** Really.
 
+On page 172 in Victor Papanek's *Design for the Real World, Human Ecology and Social  Change*, he lists eight methods to eliminate blocks:
+
+>Our job then becomes one of establishing methods of doing away with these blocks. Although it is difficult to make a definitive list, since there is enourmous overlap between different methods, I shall list eight:
+
+>1. Brainstorming
+2. Synectics
+3. Morphological analysis
+4. Sliding Scales
+5. Bisociation
+6. Trisociation
+7. Bionics and Biomechanics
+8. Forcing New Thinking Patterns
 
 ## Historical examples
 [Leonardo da Vinci](http://www.theglobeandmail.com/report-on-business/economy/growth/how-outsiders-solve-problems-that-stump-experts/article2420003/)
