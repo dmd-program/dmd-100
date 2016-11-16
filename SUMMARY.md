@@ -98,8 +98,8 @@
    * Read and Discuss
        * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
        * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
-   * [Creative Commons Activity](practice/creative_commons_activity.md)
    * Activities
+       * [Creative Commons Activity](practice/creative_commons_activity.md)
        * [Curating for an Idea](practice/curating_for_an_idea.md)
 * [Lesson 5: Co-generative Design](lessons/co-generative_design.md)
    * Topics
