@@ -10,7 +10,7 @@ From the moment we wake up, we are interacting with design. Everything in the ho
 
 ## Design is magical
 
-Creative Mornings: Design is Magical by David Kelley
+Creative Mornings: Design is Magical by David Kelley (55:55)
 
 https://creativemornings.com/podcast/episodes/david-kelley
 
