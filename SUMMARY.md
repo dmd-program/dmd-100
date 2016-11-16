@@ -105,7 +105,6 @@
    * Topics
        * [Collaboration](topics/collaboration.md)
        * DIY
-   * Co-generative Design Case Study
    * Read and Discuss
        * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
        * [Chapter 14. Designing Time](practice/designing_time.md)
