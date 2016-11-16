@@ -100,7 +100,7 @@
        * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
    * Activities
        * [Curating for an Idea](practice/curating_for_an_idea.md)
-* [Lesson 6: Co-generative Design](lessons/co-generative_design.md)
+* [Lesson 5: Co-generative Design](lessons/co-generative_design.md)
    * Topics
        * [Collaboration](topics/collaboration.md)
        * DIY
