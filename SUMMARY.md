@@ -19,7 +19,7 @@
        * [Systems thinking](topics/systems_thinking.md)
        * [Double diamond](topics/double_diamond.md)
        * [Sustainable design](topics/sustainable_design.md)
-   * Read and Respond
+   * Readings
        * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
        * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
        * [Chapter 3. What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
@@ -94,7 +94,9 @@
        * [Creative Commons](topics/creative_commons.md)
        * Sound
        * [Intellectual property](topics/intellectual_property.md)
-   * Read and Discuss
+   * Listening
+     * Podcast
+   * Readings
        * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
        * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
    * Activities
@@ -102,9 +104,14 @@
        * [Curating for an Idea](practice/curating_for_an_idea.md)
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
+       * Design research
+       * Frameworks
+       * 
        * [Collaboration](topics/collaboration.md)
-       * DIY
-   * Read and Discuss
+       * 
+   * Listening
+     * Podcast
+   * Readings
        * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
        * [Chapter 14. Designing Time](practice/designing_time.md)
    * Activities
