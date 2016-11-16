@@ -110,38 +110,38 @@
    * Activities
        * Co-generative Design Activity
        * Design your Day
-* Units
-   * [Unit 01](toolkit/lessons.md)
-       * Unit 01 Description
-       * [Icebreaker: Visual Telephone](icebreakers/icebreaker_visual_telephone.md)
-       * Lesson 2: Interface and Experience
-           * Project
-               * Tutorials
-           * Topics
-               * Identity
-               * Semiotics
-           * Listening
-           * Readings
-               * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
-           * Activities
-       * Lesson 3: Storytelling
-           * Topics
-               * Setting
-               * Conflict
-               * Resolution
-               * Point of view
-               * Theme
-           * Listening
-           * Readings
-           * Project
-               * Tutorials
-           * Activities
-           * Discussions
-   * Unit 02
-   * Unit 03
-       * Unit 03 Project
-           * [Toolkit Design Project](projects/toolkit_design_project.md)
 * not yet organized
+   * Units
+       * [Unit 01](toolkit/lessons.md)
+           * Unit 01 Description
+           * [Icebreaker: Visual Telephone](icebreakers/icebreaker_visual_telephone.md)
+           * Lesson 2: Interface and Experience
+               * Project
+                   * Tutorials
+               * Topics
+                   * Identity
+                   * Semiotics
+               * Listening
+               * Readings
+                   * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
+               * Activities
+           * Lesson 3: Storytelling
+               * Topics
+                   * Setting
+                   * Conflict
+                   * Resolution
+                   * Point of view
+                   * Theme
+               * Listening
+               * Readings
+               * Project
+                   * Tutorials
+               * Activities
+               * Discussions
+       * Unit 02
+       * Unit 03
+           * Unit 03 Project
+               * [Toolkit Design Project](projects/toolkit_design_project.md)
    * [Lesson 7: Open Design](lessons/open_design.md)
        * Topics
            * [Open design](topics/open_design.md)
