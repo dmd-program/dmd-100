@@ -101,7 +101,7 @@
    * Activities
        * [Creative Commons Activity](practice/creative_commons_activity.md)
        * [Curating for an Idea](practice/curating_for_an_idea.md)
-* [Lesson 5: Co-generative Design](lessons/co-generative_design.md)
+* [Lesson 5: Research](lessons/co-generative_design.md)
    * Topics
        * [Collaboration](topics/collaboration.md)
        * DIY
