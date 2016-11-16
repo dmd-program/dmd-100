@@ -36,7 +36,6 @@
        * [Ritual](projects/ritual.md)
        * Tutorials
            * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
-   * [Digital Service or Product Project](projects/digital_service_or_product.md)
    * Topics
        * [Language](topics/language.md)
        * Identity
@@ -142,6 +141,7 @@
    * Unit 03
        * Unit 03 Project
            * [Toolkit Design Project](projects/toolkit_design_project.md)
+* [Digital Service or Product Project](projects/digital_service_or_product.md)
 * not yet organized
    * [Lesson 7: Open Design](lessons/open_design.md)
        * Topics
