@@ -141,7 +141,6 @@
    * Unit 03
        * Unit 03 Project
            * [Toolkit Design Project](projects/toolkit_design_project.md)
-* [Digital Service or Product Project](projects/digital_service_or_product.md)
 * not yet organized
    * [Lesson 7: Open Design](lessons/open_design.md)
        * Topics
@@ -177,6 +176,7 @@
            * 3D
            * Web
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
+   * [Digital Service or Product Project](projects/digital_service_or_product.md)
    * [Tell me a story](practice/tell_me_a_story.md)
    * [Story breakdown](practice/story_breakdown.md)
    * [Non-linear Narrative](practice/non-linear_narrative.md)
