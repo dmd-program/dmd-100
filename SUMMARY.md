@@ -111,7 +111,7 @@
    * Activities
        * Co-generative Design Activity
        * Design your Day
-       * Creative Commons Activity
+       * [Creative Commons Activity](practice/creative_commons_activity.md)
 * not yet organized
    * Units
        * [Unit 01](toolkit/lessons.md)
