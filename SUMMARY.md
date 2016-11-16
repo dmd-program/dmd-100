@@ -88,7 +88,7 @@
        * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
 * [Lesson 5: Remix](lessons/remix.md)
    * Topics
-       * Everything is a Remix
+       * [Everything is a Remix](topics/everything_is_a_remix.md)
        * Media
        * [Semiotics](topics/semiotics.md)
        * [Constructing meaning](topics/constructing_meaning.md)
