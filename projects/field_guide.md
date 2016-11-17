@@ -1,14 +1,14 @@
 # Field guide Project
 For this project, you will work in a team to develop an open-license field guide. You must decide what the guide's "field" is what type of guidance you want to provide. Try to choose personal, unique, and playful content.
 
-## Field Guide Features:
+## Format:
 Open License
 Cover with Title
 Table of Contents
 Introduction
 Images, drawings, diagrams, etc.
 Length: Any
-Format: PDF, 
+File type: PDF
 
 ## Inspiration
 [civicdesign.org](http://civicdesign.org/fieldguides/)
