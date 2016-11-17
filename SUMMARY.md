@@ -109,7 +109,7 @@
    * Listening
        * Podcast
    * Project
-       * [Co making](projects/co_making.md)
+       * [Co-making](projects/co_making.md)
    * Readings
        * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
        * [Chapter 14. Designing Time](practice/designing_time.md)
