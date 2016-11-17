@@ -1,6 +1,8 @@
 # Field guide Project
 For this project, you will work in a team to develop an open-license field guide. You must decide what the guide's "field" is and what type of guidance you want to provide. There is no reference to a specific definition for field guide in this assignment, which leaves the format up to you. It could be entirely graphical or mostly text-based. There is a huge range of subjects, be they technical, instructional, personal, satirical, comedic, from popular culture, etc.
 
+Categoration
+
 ## Format:
 Open License
 Cover with Title
