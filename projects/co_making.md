@@ -19,11 +19,7 @@ PDF Layout Tool and Generator: Gitbook
 ## Project Plan	
 
 - Discover
-  - What are the options?
-  - Topics clusters
     - [Inspire](../toolkit/inspire.md)
-  - Primary Research (Field)
-    - Immerse and observe
     - [Interview](../toolkit/interview.md)
 - Define
   - Present unstructured research
