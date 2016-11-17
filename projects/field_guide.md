@@ -1,12 +1,6 @@
 # Field guide Project
 For this project, you will work in a team to develop an open-license field guide. You must decide what the guide's "field" is and what type of guidance you want to provide. Will it be technical, instructional, personal, satirical, comedic, or playful? This assignment is open to interpretation.
 
-##Types of guides:
-How to manual
-Visual reference
-Contextual/historical reference
-
-
 ## Format:
 Open License
 Cover with Title
