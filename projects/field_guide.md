@@ -19,7 +19,6 @@ http://thedoghousediaries.com/4639
 
 PDF Layout Tool and Generator: Gitbook
 
-
 ## Project Plan	
 
 - Discover
