@@ -12,8 +12,9 @@ File type: PDF
 
 ## Inspiration
 [civicdesign.org](http://civicdesign.org/fieldguides/)
+[The Doghouse Diaries](http://thedoghousediaries.com/4639)
+[Wildsam Field Guides](https://wildsam.com/products)
 
-http://thedoghousediaries.com/4639
 
 ## Tools and Materials
 Paper/pencil
