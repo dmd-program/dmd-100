@@ -1,5 +1,4 @@
-# Co-making
-
+# Field guide Project
 For this project, you will work in a team to develop an open-license field guide. You must decide what the guide's "field" is what type of guidance you want to provide. Try to choose personal, unique, and playful content.
 
 ## Field Guide Features:
