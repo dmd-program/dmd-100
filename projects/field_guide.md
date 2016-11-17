@@ -21,7 +21,7 @@ PDF Layout Tool and Generator: Gitbook
 
 ## Project Plan	
 
-- Discover
+- Discover:
     - [Inspire](../toolkit/inspire.md)
     - Taxonomies
 - Define
