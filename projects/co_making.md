@@ -25,8 +25,6 @@ PDF Layout Tool and Generator: Gitbook
   - Primary Research (Field)
     - Immerse and observe
     - [Interview](../toolkit/interview.md)
-  - Secondary research (Desk)
-    - [Journey Map](../toolkit/journey_map.md)
 - Define
   - Present unstructured research
     - [User stories](../toolkit/user_stories.md)
