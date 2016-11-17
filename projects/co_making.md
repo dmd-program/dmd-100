@@ -1,6 +1,6 @@
 # Co-making
 
-For this project, you will work in a team to develop an open field guide. 
+For this project, you will work in a team to develop an open-license field guide. 
 
 ## Field Guide Features:
 Open License
