@@ -95,7 +95,7 @@
        * Sound
        * [Intellectual property](topics/intellectual_property.md)
    * Listening
-     * Podcast
+       * Podcast
    * Readings
        * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
        * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
@@ -106,17 +106,16 @@
    * Topics
        * Design research
        * Frameworks
-       * 
        * [Collaboration](topics/collaboration.md)
-       * 
    * Listening
-     * Podcast
+       * Podcast
    * Readings
        * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
        * [Chapter 14. Designing Time](practice/designing_time.md)
    * Activities
        * Co-generative Design Activity
        * Design your Day
+   * Project
 * not yet organized
    * Units
        * [Unit 01](toolkit/lessons.md)
