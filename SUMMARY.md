@@ -116,6 +116,7 @@
        * Co-generative Design Activity
        * Design your Day
    * Project
+       * Civic Engagement
 * not yet organized
    * Units
        * [Unit 01](toolkit/lessons.md)
