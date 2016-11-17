@@ -10,6 +10,9 @@ Images, drawings, diagrams, etc.
 Length: Any
 Format: PDF, 
 
+## Inspiration
+[civicdesign.org](http://civicdesign.org/fieldguides/)
+
 ## Tools and Materials
 
 PDF Layout Tool and Generator: Gitbook
