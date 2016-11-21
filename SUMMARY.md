@@ -44,6 +44,7 @@
        * [Language](topics/language.md)
        * [Wireframing](topics/wireframing.md)
        * [Mental model](topics/mental_model.md)
+       * Storyboard
        * Prototype
    * Listening
        * [Unpleasant Design](topics/ux_case_study.md)
@@ -62,7 +63,6 @@
    * Topics
        * [Why stories?](topics/narrative.md)
        * [Story structure](topics/narrative_structure.md)
-       * Storyboard
        * [Story development](topics/organizing_story_development.md)
        * [Character](topics/character.md)
        * [Plot](topics/plot.md)
