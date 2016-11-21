@@ -1,6 +1,6 @@
 # Design blocks
 
-Subject-matter experts are often plagued by biases that make them reliant on common and familiar paths to a solution. "That is the way it has always been done" or "it's just common sense" are typical phrases used by someone who has a kind of . A bias, also called a block, can undermine innovative problem solving and inhibit creative thinking.
+Subject-matter experts are often plagued by biases that make them reliant on common and familiar paths to a solution. "That is the way it has always been done" or "it's just common sense" are typical phrases used by someone who thinks they already have the answer to a problem. A bias, also called a block, can undermine innovative problem solving and inhibit creative thinking.
 
 On page 158 in Victor Papanek's *Design for the Real World, Human Ecology and Social  Change*, he lists seven types of blocks:
 
