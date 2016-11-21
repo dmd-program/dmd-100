@@ -40,6 +40,7 @@
        * [Language](topics/language.md)
        * Identity
        * [Interaction Design](topics/interaction_design.md)
+       * Typographic Design
        * [Audience](topics/audience.md)
        * [Elements of Visual Design](topics/elements_of_visual_design.md)
        * [Principles of Visual Design](topics/principles_of_visual_design.md)
@@ -48,7 +49,6 @@
        * [Mental model](topics/mental_model.md)
        * [Principles of Interaction](topics/principles_of_interaction.md)
        * Visual Design
-       * Typographic Design
    * Listening
        * [Unpleasant Design](topics/ux_case_study.md)
        * [Of mice and men](listening/of_mice_and_men.md)
