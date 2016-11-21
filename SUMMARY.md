@@ -16,7 +16,6 @@
        * [Systems thinking](topics/systems_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
        * [Design blocks](topics/design_blocks.md)
-       * [Concept development](topics/concept_development.md)
        * [Double diamond](topics/double_diamond.md)
        * [Sustainable design](topics/sustainable_design.md)
    * Readings
@@ -118,6 +117,7 @@
    * Activities
        * Co-generative Design Activity
        * Design your Day
+* [Concept development](topics/concept_development.md)
 * not yet organized
    * Units
        * [Unit 01](toolkit/lessons.md)
