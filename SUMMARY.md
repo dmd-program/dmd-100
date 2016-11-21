@@ -43,7 +43,6 @@
        * [Typographic Design](topics/typographic_design.md)
        * [Audience](topics/audience.md)
        * [Language](topics/language.md)
-       * Semiotics
        * [Wireframing](topics/wireframing.md)
        * [Mental model](topics/mental_model.md)
        * Prototype
