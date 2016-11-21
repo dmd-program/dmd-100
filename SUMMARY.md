@@ -65,7 +65,7 @@
        * Identity design
        * [Visual design](topics/visual_design.md)
        * [Interaction design](topics/interaction_design.md)
-       * [Typographic Design](topics/typographic_design.md)
+       * [Typographic design](topics/typographic_design.md)
        * [Audience](topics/audience.md)
        * [Language](topics/language.md)
        * [Wireframing](topics/wireframing.md)
