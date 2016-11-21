@@ -43,7 +43,6 @@
        * [Typographic Design](topics/typographic_design.md)
        * [Audience](topics/audience.md)
        * [Elements of Visual Design](topics/elements_of_visual_design.md)
-       * [Principles of Visual Design](topics/principles_of_visual_design.md)
        * [Language](topics/language.md)
        * Semiotics
        * [Wireframing](topics/wireframing.md)
