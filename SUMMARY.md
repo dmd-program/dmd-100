@@ -62,7 +62,7 @@
        * Tutorials
            * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
    * Topics
-       * Identity
+       * Identity design
        * [Visual Design](topics/visual_design.md)
        * [Interaction Design](topics/interaction_design.md)
        * [Typographic Design](topics/typographic_design.md)
