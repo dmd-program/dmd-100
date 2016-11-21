@@ -30,6 +30,32 @@
        * [Lawn Order](listening/lawn_order.md)
    * Discussions
        * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
+* Lesson 3: Storytelling
+   * [Introduction](lessons/narrative/introduction.md)
+   * Topics
+       * [Why stories?](topics/narrative.md)
+       * [Story structure](topics/narrative_structure.md)
+       * [Story development](topics/organizing_story_development.md)
+       * [Character](topics/character.md)
+       * [Plot](topics/plot.md)
+       * [Hypertext](topics/hypertext.md)
+       * [Media](topics/narrative-media.md)
+   * Listening
+       * [10,000 Years](lessons/narrative/narrative_case_study.md)
+   * Readings
+       * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
+       * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
+       * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
+   * Project
+       * [Narrative Project: Civic Imagination](projects/narrative_project_social_design_option.md)
+       * Tutorials
+           * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
+           * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
+   * Activities
+       * [Write a story: draft 1](practice/object_story.md)
+       * [Write a story: draft 2](practice/object_story_draft_2.md)
+   * Discussions
+       * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
 * Lesson 2: Visual and Interactive Design
    * Project
        * [Ritual](projects/ritual.md)
@@ -58,32 +84,6 @@
        * [Design an Interface](practice/design_an_interface.md)
        * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
        * [Make a Brand](practice/make_a_brand.md)
-* Lesson 3: Storytelling
-   * [Introduction](lessons/narrative/introduction.md)
-   * Topics
-       * [Why stories?](topics/narrative.md)
-       * [Story structure](topics/narrative_structure.md)
-       * [Story development](topics/organizing_story_development.md)
-       * [Character](topics/character.md)
-       * [Plot](topics/plot.md)
-       * [Hypertext](topics/hypertext.md)
-       * [Media](topics/narrative-media.md)
-   * Listening
-       * [10,000 Years](lessons/narrative/narrative_case_study.md)
-   * Readings
-       * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
-       * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
-       * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
-   * Project
-       * [Narrative Project: Civic Imagination](projects/narrative_project_social_design_option.md)
-       * Tutorials
-           * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
-           * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
-   * Activities
-       * [Write a story: draft 1](practice/object_story.md)
-       * [Write a story: draft 2](practice/object_story_draft_2.md)
-   * Discussions
-       * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
 * [Lesson 4: Remix](lessons/remix.md)
    * Topics
        * [Everything is a Remix](topics/everything_is_a_remix.md)
