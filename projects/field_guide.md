@@ -1,14 +1,25 @@
 # Field guide Project
 For this project, you will work to develop an open-license field guide. You must decide what the guide's "field" is and what type of guidance you want to provide. There is no reference to a specific definition for field guide in this assignment, which leaves the format up to you. It could be entirely graphical or mostly text-based. There is a huge range of subjects, be they technical, instructional, personal, satirical, comedic, from popular culture, etc. Choose an idea that is not too broad in scope so that you can complete the guide within the given time.
 
-## Format:
-Open License
-Cover with Title
-Table of Contents
-Introduction
-Images, drawings, diagrams, etc.
-Length: Any
-File type: PDF
+## Tools
+
+
+## Requirements:
+### 1. Cover
+The cover of the guide will
+
+Please include the following license and language: 
+
+```This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+```
+
+- Title
+- Open License
+ 
+### 2. Introduction
+### 3. Images, drawings, diagrams, etc.
+### 4. Length: Any
+### File type: PDF
 
 ## Inspiration
 [civicdesign.org](http://civicdesign.org/fieldguides/)
