@@ -56,7 +56,7 @@
        * [Write a story: draft 2](practice/object_story_draft_2.md)
    * Discussions
        * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
-* Lesson 2: Visual and Interactive Design
+* Lesson 3: Visual and Interactive Design
    * Project
        * [Ritual](projects/ritual.md)
        * Tutorials
