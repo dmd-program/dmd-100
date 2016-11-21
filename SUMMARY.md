@@ -94,6 +94,7 @@
        * [Creative Commons](topics/creative_commons.md)
        * Sound
        * [Intellectual property](topics/intellectual_property.md)
+       * Generative design
    * Listening
        * Podcast
    * Readings
