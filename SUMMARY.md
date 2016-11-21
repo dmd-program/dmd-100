@@ -84,6 +84,7 @@
        * [Design an Interface](practice/design_an_interface.md)
        * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
        * [Make a Brand](practice/make_a_brand.md)
+       * Type identity
 * [Lesson 4: Remix](lessons/remix.md)
    * Topics
        * [Everything is a Remix](topics/everything_is_a_remix.md)
