@@ -5,7 +5,7 @@ Designing for interaction is the process of understanding, accounting for, and s
 To design an interaction, a designer must seek to know:
 
 - True goals of the interaction (this is sometimes different than stated goals)
-- User's constraints, knowledge, and experiences
+- User's constraints and mental model
 - Where and how it will happen
 - Constraints of the environment it's happening in
 - How the interaction went
