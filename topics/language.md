@@ -1,8 +1,6 @@
 # Language
 
-Language is a technology that allows people and things to communicate in a reliable and repeatable fashion. In the book, *The Axemaker's Gift*, detailed accounts are given of it's invention and use throughout history. All of modern society, for better or worse, is made possible in part by language's continued development and application. The fields of science, applied sciences, art, and liberal arts have different ways of describing the use of language, its application, and it's components.
-
-
+Language is a technology that allows people and things to communicate in a reliable and repeatable fashion. All of modern society, for better or worse, is made possible in part by language's continued development and application. The fields of science, applied sciences, art, and liberal arts have different ways of describing the use of language, its application, and it's components.
 
 
 ---
