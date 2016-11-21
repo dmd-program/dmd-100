@@ -117,7 +117,6 @@
    * Activities
        * Co-generative Design Activity
        * Design your Day
-* [Concept development](topics/concept_development.md)
 * not yet organized
    * Units
        * [Unit 01](toolkit/lessons.md)
@@ -184,6 +183,7 @@
            * 3D
            * Web
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
+   * [Concept development](topics/concept_development.md)
    * [Digital Service or Product Project](projects/digital_service_or_product.md)
    * [Tell me a story](practice/tell_me_a_story.md)
    * [Story breakdown](practice/story_breakdown.md)
