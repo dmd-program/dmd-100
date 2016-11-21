@@ -45,7 +45,6 @@
        * [Wireframing](topics/wireframing.md)
        * [Mental model](topics/mental_model.md)
        * Prototype
-       * Storyboard
    * Listening
        * [Unpleasant Design](topics/ux_case_study.md)
        * [Of mice and men](listening/of_mice_and_men.md)
@@ -63,6 +62,7 @@
    * Topics
        * [Why stories?](topics/narrative.md)
        * [Story structure](topics/narrative_structure.md)
+       * Storyboard
        * [Story development](topics/organizing_story_development.md)
        * [Character](topics/character.md)
        * [Plot](topics/plot.md)
