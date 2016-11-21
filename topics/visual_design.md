@@ -16,13 +16,13 @@
 
 ## Elements of Visual Design
 
-## Color
+### Color
 
-## Line
+### Line
 
-## Shape
+### Shape
 
-## Texture
+### Texture
 
-## Space
+### Space
 
