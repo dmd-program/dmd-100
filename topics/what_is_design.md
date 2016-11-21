@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Design has had many definitions. At the broadest sense of the word as a verb, it can be thought of the act of making a choice. In the broadest sense as a noun, design is the result of a choice. More specifically, design serves as a process to select and organize elements to satisfy an intention. Design tends not to be performed arbitrarily.
+Design has had many definitions. At the broadest sense of the word as a verb, it can be thought of the act of making a choice. In the broadest sense as a noun, design is the result of a choice. More specifically, design serves as a process to select and organize elements to satisfy an intention and is not to be performed arbitrarily.
 
 > “Design shapes, regulates, and channels energy…”
 > 
