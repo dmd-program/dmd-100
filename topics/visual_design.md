@@ -1,8 +1,8 @@
 # Visual Design
 
-### Principles of Visual Design
+## Principles of Visual Design
 
-## Unity/Harmony
+### Unity/Harmony
 
 ### Balance
 
@@ -13,4 +13,16 @@
 ### Dominance/emphasis
 
 ### Similarity and Contrast
+
+## Elements of Visual Design
+
+## Color
+
+## Line
+
+## Shape
+
+## Texture
+
+## Space
 
