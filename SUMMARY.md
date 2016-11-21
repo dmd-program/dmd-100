@@ -47,6 +47,7 @@
        * [Wireframing](topics/wireframing.md)
        * [Mental model](topics/mental_model.md)
        * [Principles of Interaction](topics/principles_of_interaction.md)
+       * Visual Design
    * Listening
        * [Unpleasant Design](topics/ux_case_study.md)
        * [Of mice and men](listening/of_mice_and_men.md)
