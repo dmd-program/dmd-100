@@ -38,7 +38,7 @@
            * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
    * Topics
        * Identity
-       * Visual Design
+       * [Visual Design](topics/visual_design.md)
        * [Interaction Design](topics/interaction_design.md)
        * Typographic Design
        * [Audience](topics/audience.md)
