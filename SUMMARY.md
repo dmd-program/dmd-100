@@ -30,7 +30,7 @@
        * [Lawn Order](listening/lawn_order.md)
    * Discussions
        * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
-* Lesson 3: Storytelling
+* Lesson 2: Storytelling
    * [Introduction](lessons/narrative/introduction.md)
    * Topics
        * [Why stories?](topics/narrative.md)
