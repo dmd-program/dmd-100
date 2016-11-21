@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Design has had many definitions. At the broadest sense of the word as a verb, it can be thought of the act of making a choice. In the broadest sense as a noun, design is the result of a choice. Typically, design serves as a process to select and organize the elements of
+
 > “Design shapes, regulates, and channels energy…”
 > 
 >– Robert Grudin
@@ -13,10 +15,6 @@ From the moment a person wakes up, they are interacting with design. Everything 
 Creative Mornings: Design is Magical by David Kelley (55:55)
 
 https://creativemornings.com/podcast/episodes/david-kelley
-
-## Design at scale
-
-Design can happen at every scale. At the small scale, humans can collide single atoms together to investigate theoretical physics or to create very large bombs. At the large scale, complex social and technological systems can impact the global climate affecting every living organism on Earth. Understanding the scale you are designing for will have many implications for your process and design outcomes. Systems thinking plays an essential role when designing for large scale, as there are many forces that will affect your design that are out of your control.
 
 ## Citations
 
