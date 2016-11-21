@@ -11,7 +11,7 @@
 * [Lesson 1: What is Design?](lessons/introduction.md)
    * [Introduction](lessons/what-is-design/introduction.md)
    * Topics
-       * [What is Design?](topics/what_is_design.md)
+       * [What is design?](topics/what_is_design.md)
        * [Critical thinking](topics/critical_thinking.md)
        * [Design blocks](topics/design_blocks.md)
        * [Concept development](topics/concept_development.md)
