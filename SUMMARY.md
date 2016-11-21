@@ -46,7 +46,6 @@
        * Semiotics
        * [Wireframing](topics/wireframing.md)
        * [Mental model](topics/mental_model.md)
-       * [Principles of Interaction](topics/principles_of_interaction.md)
        * Prototype
        * Storyboard
    * Listening
