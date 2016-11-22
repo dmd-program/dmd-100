@@ -1,4 +1,5 @@
 # Visual Design
+
 ## Principles of Design
 
 ### Balance
@@ -23,8 +24,6 @@ http://www.getty.edu/education/teachers/building_lessons/principles_design.pdf
 
 
 ## Elements of Visual Design
-
-
 
 ### Line
 A line is a two dimensional element, often referred to as a mark.
@@ -51,7 +50,7 @@ A line is a two dimensional element, often referred to as a mark.
   - Lightness or darkness of a color
 
 ### Contrast
-Two elements placed in close proximity with opposing qualities.
+Two elements placed in close proximity with opposing qualities creates contrast. Constrast is often used to direct focus
 
 ### Texture
 - Real
