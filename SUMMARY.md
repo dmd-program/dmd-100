@@ -66,6 +66,7 @@
        * Ritual: Discover
        * Ritual: Define
        * Ritual: Develop
+       * Ritual: Deliver
    * Topics
        * Identity design
        * [Visual design](topics/visual_design.md)
