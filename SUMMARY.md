@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * Calendar
    * [Preface](introduction/preface.md)
    * [Measuring success](introduction/measuring_success.md)
    * [References](introduction/references.md)
@@ -8,7 +9,6 @@
    * [Project Management](toolkit/project_management.md)
    * [Recommended Tools](introduction/recommended_tools.md)
    * [Outlandish Introductions](icebreakers/outlandish_introductions.md)
-   * Calendar
 * [Lesson 1: What is Design?](lessons/introduction.md)
    * [Introduction](lessons/what-is-design/introduction.md)
    * Topics
