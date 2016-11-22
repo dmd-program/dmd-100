@@ -63,6 +63,7 @@
        * [Ritual](projects/ritual.md)
        * Tutorials
            * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
+       * Ritual: Discover
    * Topics
        * Identity design
        * [Visual design](topics/visual_design.md)
