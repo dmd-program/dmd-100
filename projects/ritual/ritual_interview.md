@@ -29,9 +29,9 @@ Finally, read your response to **Step 5**. Why do you think that is?
 
 ## Part B
 ### Step 1
-Was there any time in Part A where you felt like you got to a more core issue?
+Was there any time in Part A where you felt like you were able to get to a deeper core issue? What did you find?
  
-
+### Step 2
 
 ## Deliverables
 1. Write your recording in the observations input box on the assignment submission.
