@@ -1,7 +1,9 @@
 # Ritual Project - Five Whys
 Complete Part A and B, which have been divided into steps.
 
-## Part A
+## Part A: Respond
+The goal of Part A is to better understand a potentially complex or ambiguous issue and get to a more human or emotional aspect of a problem.
+
 ### Step 1
 
 1. What are three things you struggle with? Write them down in your journal.
@@ -27,7 +29,9 @@ Almost done. Now read your response to **Step 4**. Why do you think that is?
 
 Finally, read your response to **Step 5**. Why do you think that is?
 
-## Part B
+## Part B: Reflect
+Now that you have completed Part A, let's complete Part B. 
+
 ### Step 1
 Was there any time in Part A where you felt like you were able to get to a deeper core issue? What did you find?
  
@@ -39,4 +43,4 @@ Was there any time in Part A where you felt like you were able to get to a deepe
 * * *
 
 ## Citation:
-Adapted from: http://www.designkit.org/methods/2
+Adapted from: http://www.designkit.org/methods/66
