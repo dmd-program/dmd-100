@@ -1,18 +1,37 @@
-# Ritual Project - Strengths and weaknesses
+# Ritual Project - Five Whys
+Complete Part A and B, which have been divided into steps.
 
+## Part A
+### Step 1
 
-## Response questions
+1. What are three things you struggle with? Write them down in your journal.
+2. Which one impacts you the most? Circle it.
 
-1. What are three things you struggle with?
-2. Choose one.
-2. What is one of your greatest strengths?
+### Step 2
 
+Look at the response you circled in **Step 1**. Why is this a struggle? Write a short response in your journal.
 
-1. Prepare for the interview with a set of questions. Start by asking broad questions about the interviewee's values and habits before asking more specific questions related to your research.
-2. Either record in writing or obtain permission to record audio of the interview session. Never record someone without their knowledge or permission.
-  - If writing down responses, write what the person says exactly, do not interpret meaning. If you are relying on a translator, be sure to ask for the exact wording of the responses.
-  - If recording audio be sure to listen after the session is over and write the responses on paper.
-3. If interviewing in person, be sure to capture body language and the context of the responses.
+### Step 3
+
+Read your response to **Step 2**. Why do you think that is?
+
+### Step 4
+
+Bear with this process, it is repetitive, but for good reason. Now read your response to **Step 3**. Why do you think that is?
+
+### Step 5
+
+Almost done. Now read your response to **Step 4**. Why do you think that is?
+
+### Step 6
+
+Finally, read your response to **Step 5**. Why do you think that is?
+
+## Part B
+### Step 1
+Was there any time in Part A where you felt like you got to a more core issue?
+ 
+
 
 ## Deliverables
 1. Write your recording in the observations input box on the assignment submission.
