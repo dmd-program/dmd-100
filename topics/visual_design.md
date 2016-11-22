@@ -21,8 +21,6 @@
 http://www.getty.edu/education/teachers/building_lessons/principles_design.pdf
 
 
-
-
 ## Elements of Visual Design
 
 ### Line
@@ -55,8 +53,6 @@ Two elements placed in close proximity with opposing qualities creates contrast.
 ### Texture
 - Real
 - Implied
-
-
 
 ## Formal analysis
 
