@@ -51,6 +51,7 @@ A line is a two dimensional element, often referred to as a mark.
   - Lightness or darkness of a color
 
 ### Contrast
+Two elements placed in close proximity with opposing qualities.
 
 ### Texture
 - Real
