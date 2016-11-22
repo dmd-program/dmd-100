@@ -10,11 +10,5 @@ From the moment a person wakes up, they are interacting with design. Everything 
 
 At the broadest sense of design as a verb, it can be thought of the act of making a choice. In the broadest sense as a noun, design is the result of a choice. For the purposes of this course, design can be thought of as a process that helps a person select and organize elements to satisfy an intention.
 
-## Design is magical
-
-Creative Mornings: Design is Magical by David Kelley (55:55)
-
-https://creativemornings.com/podcast/episodes/david-kelley
-
 ## Citations
 
