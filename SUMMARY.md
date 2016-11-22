@@ -60,7 +60,7 @@
        * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
 * Lesson 3: Visual and Interactive Design
    * Project
-       * [Ritual](projects/ritual.md)
+       * [Ritual: Introduction](projects/ritual.md)
        * Tutorials
            * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
        * Ritual: Discover
