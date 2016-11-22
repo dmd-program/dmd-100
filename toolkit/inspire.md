@@ -1,7 +1,11 @@
 # Inspire
 
-**Materials:**
-Pens, paper, camera
+Design Phase: Discover
+
+## Materials
+- Pens
+- paper
+-camera
 
 **Time:**
 30 - 60 minutes
