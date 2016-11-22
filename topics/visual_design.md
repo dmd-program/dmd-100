@@ -5,19 +5,15 @@
 - Symmetry
 - Asymmetry
 
-### Dominance/emphasis
+### Dominance, emphasis, and focal point
 
 ### Movement
 
-### Pattern
+### Repetition, Rhythm, Pattern
 
-### Repetition
+### Proportion and scale
 
-### Scale/Proportion
-
-### Rhythm
-
-### Variety
+### Variety and variation
 
 ### Unity/Harmony
 
@@ -28,7 +24,7 @@ http://www.getty.edu/education/teachers/building_lessons/principles_design.pdf
 
 ## Elements of Visual Design
 
-### Color
+
 
 ### Line
 A line is a two dimensional element, often referred to as a mark.
@@ -41,11 +37,26 @@ A line is a two dimensional element, often referred to as a mark.
 - Geometric
 - Organic
 
+### Form
+
+### Space
+
+### Color
+- Hue
+  - Determined by the part(s) of the visible light spectrum
+- Saturation/Intensity
+  - Purity of a color
+  - Brightness or dullness of a color
+- Value
+  - Lightness or darkness of a color
+
+### Contrast
+
 ### Texture
 - Real
 - Implied
 
-### Space
+
 
 ## Formal analysis
 
