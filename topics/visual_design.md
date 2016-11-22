@@ -2,6 +2,8 @@
 ## Principles of Design
 
 ### Balance
+- Symmetry
+- Asymmetry
 
 ### Dominance/emphasis
 
@@ -11,7 +13,7 @@
 
 ### Repetition
 
-### Proportion
+### Scale/Proportion
 
 ### Rhythm
 
