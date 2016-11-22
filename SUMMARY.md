@@ -28,7 +28,7 @@
    * Listening
        * [The Steering Wheel](listening/the_steering_wheel.md)
        * [Lawn Order](listening/lawn_order.md)
-       * Creative Mornings: Design is Magical
+       * [Creative Mornings: Design is Magical](listening/creative_mornings_design_is_magical.md)
    * Discussions
        * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
 * Lesson 2: Storytelling
