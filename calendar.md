@@ -1,6 +1,6 @@
 # Calendar
 
-Week 1 (Lesson 1)
+## Week 1 (Lesson 1)
 
 - Icebreaker
 - Read
@@ -13,7 +13,7 @@ Week 1 (Lesson 1)
   - Daily design journal
   - Chapter 1 Reading response
 
-Week 2 (Lesson 2)
+## Week 2 (Lesson 2)
 
 - Read
   - Lesson 2 Topics
@@ -24,9 +24,10 @@ Week 2 (Lesson 2)
   - Daily design journal
   - Chapter 2 Reading response
 - Project 1
-  -  
+  -  Ritual: Discover
+  -  Ritual: Define
 
-Week 3 (Lesson 2)
+## Week 3 (Lesson 2)
 
 - Read
   - Course Introduction, Calendar
@@ -38,8 +39,9 @@ Week 3 (Lesson 2)
   - Daily design journal
   - Chapter 3 Reading response
 - Project 1
-  -  
-Week 4 (Lesson 2)
+
+
+## Week 4 (Lesson 2)
 
 - Read
   - Course Introduction, Calendar
@@ -51,8 +53,9 @@ Week 4 (Lesson 2)
   - Daily design journal
   - Chapter 4 Reading response
 - Project 1
-  -  
-Week 5 (Lesson 3)
+
+  
+## Week 5 (Lesson 3)
 
 - Read
   - Course Introduction, Calendar
@@ -64,9 +67,10 @@ Week 5 (Lesson 3)
   - Daily design journal
   - Chapter 5 Reading response
 - Project 2
-  -   
+  -  Ritual: Discover
+  -  Ritual: Define
 
-Week 6 (Lesson 3)
+## Week 6 (Lesson 3)
 
 - Read
   - Course Introduction, Calendar
@@ -78,9 +82,10 @@ Week 6 (Lesson 3)
   - Daily design journal
   - Chapter 6 Reading response
 - Project 2
-  -   
+  -  Ritual: Develop
+  -  Ritual: Deliver
 
-Week 7 (Lesson 3)
+## Week 7 (Lesson 3)
 
 - Read
   - Course Introduction, Calendar
@@ -92,8 +97,9 @@ Week 7 (Lesson 3)
   - Daily design journal
   - Chapter 7 Reading response
 - Project 2
-  -  
-Week 8 (Lesson 4)
+  -  Ritual: Discuss 
+
+## Week 8 (Lesson 4)
 
 - Read
   - Course Introduction, Calendar
@@ -106,7 +112,7 @@ Week 8 (Lesson 4)
   - Chapter 8 Reading response
 - Project 3
   -  
-Week 9 (Lesson 4)
+## Week 9 (Lesson 4)
 
 - Read
   - Course Introduction, Calendar
@@ -119,7 +125,7 @@ Week 9 (Lesson 4)
   - Chapter 9 Reading response
 - Project 3
   -  
-Week 10 (Lesson 4)
+## Week 10 (Lesson 4)
 
 - Read
   - Course Introduction, Calendar
@@ -132,7 +138,7 @@ Week 10 (Lesson 4)
   - Chapter 10 Reading response
 - Project 3
   -  
-Week 11 (Lesson 5)
+## Week 11 (Lesson 5)
 
 - Read
   - Course Introduction, Calendar
@@ -145,7 +151,7 @@ Week 11 (Lesson 5)
   - Chapter 11 Reading response
 - Project 4
   -  
-Week 12 (Lesson 5)
+## Week 12 (Lesson 5)
 
 - Read
   - Course Introduction, Calendar
@@ -158,7 +164,7 @@ Week 12 (Lesson 5)
   - Chapter 12 Reading response
 - Project 4
   -  
-Week 13 (Lesson 5)
+## Week 13 (Lesson 5)
 
 - Read
   - Course Introduction, Calendar
@@ -171,7 +177,7 @@ Week 13 (Lesson 5)
   - Chapter 13 Reading response
 - Project 4
   -  
-Week 14 (Lesson 5)
+## Week 14 (Lesson 5)
 
 - Read
   - Course Introduction, Calendar
