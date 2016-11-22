@@ -63,7 +63,7 @@
        * [Ritual: Introduction](projects/ritual.md)
        * Tutorials
            * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
-       * Ritual: Discover
+       * Ritual: Inspire
        * Ritual: Define
        * Ritual: Develop
        * Ritual: Deliver
@@ -210,14 +210,6 @@
    * [Design Fiction Project](projects/design_fiction_project.md)
    * [Design Intervention](practice/design_intervention.md)
    * Design Methods
-       * [Inspire](toolkit/inspire.md)
-       * [Futurecasting](toolkit/futurecasting.md)
-       * [Immerse and observe](toolkit/immerse_and_observe.md)
-       * [Interview](toolkit/interview.md)
-       * [User stories](toolkit/user_stories.md)
-       * [Prototype](toolkit/prototype.md)
-       * [Insights](toolkit/insights.md)
-       * [Journey map](toolkit/journey_map.md)
    * [Interactive Story Project](projects/interactive_story_project.md)
    * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
    * [Lesson 2: Discursive Design](lessons/discursive_design.md)
