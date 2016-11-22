@@ -5,7 +5,7 @@
 ### Balance
 When design elements are distributed in such a way that they draw the viewers attention to the entire composition, it can be said to have good balance. There tends to be a single focus point in work that is not balanced properly, where the viewer is not compelled to look at the entire composition.
 
-Balance can be achieved through both formal and informal composition techniques. Formal composition relies on mathematical patterns, producing symmetry. Informal compositions do not rely on symmetry, but do rely on other principles such as dominance and scale to achieve balance.
+Balance can be achieved through both formal and informal composition techniques. Formal composition relies on mathematical patterns that produce symmetrical duplicates. Informal compositions tend to be asymmetrical, and rely on other principles such as dominance and scale to achieve balance.
 
 
 ### Dominance, emphasis, and focal point
