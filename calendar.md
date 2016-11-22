@@ -9,9 +9,8 @@
   - Chapter 1 from Design and Truth by Robert Grudin
 - Listen
   - Podcast: Creative Mornings: Design is Magical
-- Activities
-  - Daily design journal
-  - Chapter 1 Reading response
+- Activities:
+  - Chapter 1 Reading response: (Due by end of week)
 
 ## Week 2 (Lesson 2)
 
@@ -21,7 +20,7 @@
 - Listen
   - Podcast: Creative Mornings: Design is Magical
 - Activities
-  - Daily design journal
+  - Daily design journal: (**Assigned** beginning of week)
   - Chapter 2 Reading response
 - Project 1
   -  Ritual: Discover
@@ -36,7 +35,7 @@
 - Listen
   - Podcast: Creative Mornings: Design is Magical
 - Activities
-  - Daily design journal
+  - Daily design journal: (**Due** by end of week)
   - Chapter 3 Reading response
 - Project 1
 
@@ -50,7 +49,7 @@
 - Listen
   - Podcast: Creative Mornings: Design is Magical
 - Activities
-  - Daily design journal
+  - Visual Manual
   - Chapter 4 Reading response
 - Project 1
 
