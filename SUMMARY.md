@@ -65,6 +65,7 @@
            * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
        * Ritual: Discover
        * Ritual: Define
+       * Ritual: Develop
    * Topics
        * Identity design
        * [Visual design](topics/visual_design.md)
