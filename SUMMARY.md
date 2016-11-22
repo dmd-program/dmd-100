@@ -126,6 +126,15 @@
    * Activities
        * Co-generative Design Activity
        * Design your Day
+* Design Methods
+   * [Inspire](toolkit/inspire.md)
+   * [Futurecasting](toolkit/futurecasting.md)
+   * [Immerse and observe](toolkit/immerse_and_observe.md)
+   * [Interview](toolkit/interview.md)
+   * [User stories](toolkit/user_stories.md)
+   * [Prototype](toolkit/prototype.md)
+   * [Insights](toolkit/insights.md)
+   * [Journey map](toolkit/journey_map.md)
 * not yet organized
    * Units
        * [Unit 01](toolkit/lessons.md)
