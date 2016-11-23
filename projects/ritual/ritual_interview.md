@@ -1,19 +1,16 @@
-# Ritual Project
-
-## Interview Instructions
-Complete Part A and B, which have been divided into steps.
+# Interview
+The purpose of this interview is to understand the challenges that a user faces.
 
 ## Asking 'Five Whys'
-The goal of Part A is to better understand a potentially complex or ambiguous issue and get to a more human or emotional aspect of a problem.
+Asking why helps us to better understand a potentially complex or ambiguous issue and get to a more human or emotional aspect of a problem.
 
 ### Step 1
 
-1. What are three things you struggle with? Write them down in your journal.
-2. Which one impacts you the most? Circle it.
+Start by asking your participant about something they do every day that they find distracting, challenging, frustrating, or something they wish they didn't have to do. Record their responses in your journal.
 
 ### Step 2
 
-Look at the response you circled in **Step 1**. Why is this a struggle? Write a short response in your journal.
+Ask them **why**, five times. Five is important because core issues will start to emerge around four or five levels deep. Ask about their responses specifically to avoid horizontal questions. For example, "Why else didn't you get your homework done?" is a horizontal question. "Why didn't you have enough time to complete the assignment?" is a deeper question.
 
 ### Step 3
 
