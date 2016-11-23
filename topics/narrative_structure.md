@@ -8,7 +8,7 @@ This can explain why many of the novel or boundary-pushing films tend to come fr
 
 ## Dramatic structure
 
-Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the structure for the way stories are told in ancient Greek and Shakespearean drama. This analysis is known as Freytag's analysis, dramatic structure, or Freytag's Pyramid. His analysis consisted of the following parts:
+Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed a structure for the way stories are told in ancient Greek and Shakespearean drama. This analysis is known as Freytag's analysis, dramatic structure, or Freytag's Pyramid. His analysis consisted of the following five acts:
 
 1. exposition
 2. rising action
@@ -16,13 +16,26 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the str
 4. falling action
 5. dénouement/resolution
 
-This five act structure works well when describing Greek and Shakespearean plays. Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies align with the the following linear structures:
+This five act structure works well when describing Greek and Shakespearean plays.
+
+However, there are many ways to analyze the structure of a linear narrative. Most contemporary stories can be described with the following structural breakdowns:
 
 - Three Act Structure
+  - Beginning, middle, end
+- Four Act
+  - Inciting incident
+  - First act turn
+  - Second act turn
+  - Third Act turn
+  - 
 - Five Act Structure
+  - Exposition, rising action, climax, falling action, resolution
+- Seven Act
 - Hero's Journey
+  - The number of acts can vary widely, but tends to have around 11 acts. More on this later.
 
 #### Three Act Plot Diagram
+Here you can see the five act plot points laid over a 3-act structure. There are many ways you could divde
 
 ![](plot_diagram_reverse2.png)
 
