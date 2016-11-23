@@ -17,7 +17,7 @@
   12. 
 
 ## Materials
-- Pens
+- Pen
 - paper
 - Post-its
 - Markers
