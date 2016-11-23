@@ -12,5 +12,5 @@
     2.  Plot: critical pathway nodes
     3.  Plot: optional nodes
 2. Iterate
-  1. Produce Draft 1, get feedback
-  2. Draft 2, get feedback
+  1. Produce a written first draft, get feedback
+  2. Produce a written second draft, get feedback
