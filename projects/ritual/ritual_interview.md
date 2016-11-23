@@ -3,7 +3,7 @@ Field research is a central part of the human-centered design process. You will 
 
 ## Materials
 1. Journal
-2. Something to write with
+2. Pencil or pen
 
 ## Conduct an interview
 Set up an interview. It can be a family member, a friend, a colleague at work, etc. The purpose of this interview is to understand the challenges that a person faces.
