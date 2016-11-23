@@ -121,8 +121,8 @@
    * Project
        * Discover
        * Define
-       * Discuss
        * Develop
+       * Discuss
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
