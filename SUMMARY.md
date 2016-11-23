@@ -133,7 +133,6 @@
        * Podcast
    * Project
        * [Field guide](projects/field_guide.md)
-       * [Open Toolkit](projects/open_toolkit.md)
        * Discover
        * Define
        * Develop
