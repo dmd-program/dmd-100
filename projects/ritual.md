@@ -1,7 +1,8 @@
 # Ritual
 
-For this project, you will go though a human-centered design process to 
+For this project, you will go though a human-centered design process to discover opportunities, define challenges, develop wireframes, and deliver an interactive prototype of a mobile app.
 
+The central theme of this project is ***ritual***. The project's theme will help frame the work you are doing. 
 
 
 For this project, you will create a ritual that can help you modify or improve some aspect of daily life. By the end of the project, you will have created a prototype mobile app interface.
