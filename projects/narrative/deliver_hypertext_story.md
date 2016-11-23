@@ -2,7 +2,7 @@
 
 ## Building with Twine
 
-1. Use Twinery.org to create a hypertext narrative from the narrative that you wrote in the last.
+1. Use Twinery.org to create a hypertext narrative from the narrative that you wrote in the development phase of the project.
 2. Follow the project tutorial to create either a linear or non-linear narrative. Your narrative should take no longer than 5 minutes to get through the critical pathway. 
 
 ## Submission
