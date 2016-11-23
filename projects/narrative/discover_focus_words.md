@@ -1,6 +1,6 @@
 # Discover
 
-## Word pairs
+## Word-pairs
 1. In your journal, write three objects from your home. If you cannot think of any, choose three objects from a random object generator. Here is [one](http://roger.redevised.com/). (2 mins)
 2. Free association writing. (10 mins)
   - On a journal page, write as many adjectives about this object as you can.
