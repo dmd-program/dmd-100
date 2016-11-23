@@ -18,11 +18,11 @@ Start by asking your participant about something they do every day that they fin
 
 If your participant has many responses, focus on one response. Ask your participant **why**, five times. Five is important because core issues will start to emerge around four or five levels deep. Ask about their responses specifically to avoid horizontal questions. For example, "Why else didn't you get your homework done?" is a horizontal question. "Why didn't you have enough time to complete the assignment?" is a deeper question. Record their responses in your journal.
 
-### 3. 
-Now that you have completed asking why, make a note of any of your responses pointed to a deeper core issue? Was this surprising?
+### 3. Notes
+Make a note of any responses that led to a deeper understanding of what motivates this person?
 
 ## Deliverables
-1. Write your recording in the observations input box on the assignment submission.
+Write your recording in the observations input box on the assignment submission.
 
 ## Citation:
 Adapted from: http://www.designkit.org/methods/66
