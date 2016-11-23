@@ -1,6 +1,6 @@
 # Ritual Project
 
-## Instructions
+## Interview Instructions
 Complete Part A and B, which have been divided into steps.
 
 ## Asking 'Five Whys'
