@@ -1,7 +1,0 @@
-# Plot
-
-## Elements
-
-
-## Progression
-
