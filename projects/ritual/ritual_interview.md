@@ -2,7 +2,7 @@
 The purpose of this interview is to understand the challenges that a user faces.
 
 ## Asking 'Five Whys'
-Asking why helps us to better understand a potentially complex or ambiguous issue and get to a more human or emotional aspect of a problem.
+Asking why helps us to better understand an ambiguous issue and gets to a more emotional aspect of a problem.
 
 ### Step 1
 
