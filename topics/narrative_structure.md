@@ -18,7 +18,7 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed a struc
 
 This five act structure works well when describing Greek and Shakespearean plays.
 
-However, there are many ways to analyze the structure of a linear narrative. Most contemporary stories can be described with one or more the following structural breakdowns:
+However, there are many ways to analyze the structure of a linear narrative. Most contemporary stories can be described with the most common structural breakdowns listed below:
 
 - **Three Act**
   1. Beginning
