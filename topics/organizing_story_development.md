@@ -41,7 +41,7 @@ Who is telling the story? Who are you experiencing the story through? Depending 
 
 1. Choose or design a structural model
   - Should support critical story path and desired supplemental story interaction
-  - Linear or non-linear?
+  - If developing an interactive story, the structure might be on a dynamic scale between linear and non-linear.
 
 ## Media
 
