@@ -2,7 +2,8 @@
  A journey map is great way to visualize an entire process
  
  
- **For example:**
+ **Example steps for a journey map:**
+ 
   1. I realized the grass was long
   2. I decided to mow the lawn with my lawnmower
   3. I walked to the garage
