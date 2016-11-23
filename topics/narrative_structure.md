@@ -18,7 +18,7 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed a struc
 
 This five act structure works well when describing Greek and Shakespearean plays.
 
-However, there are many ways to analyze the structure of a linear narrative. Most contemporary stories can be described with the following structural breakdowns:
+However, there are many ways to analyze the structure of a linear narrative. Most contemporary stories can be described with one or more the following structural breakdowns:
 
 - **Three Act**
   1. Beginning
@@ -29,6 +29,11 @@ However, there are many ways to analyze the structure of a linear narrative. Mos
   2. First act turn to Second Act Turn
   3. Second act turn to Third Act Turn
   4. Third Act turn to Resolution
+- **Another Four Act**
+  1. Setup
+  2. Response
+  3. Attack
+  4. Resolution
 - **Five Act**
   1. Exposition
   2. Rising action
@@ -47,7 +52,7 @@ However, there are many ways to analyze the structure of a linear narrative. Mos
   - The number of acts can vary widely, but tends to have around 11 acts. More on this later.
 
 #### Three Act Plot Diagram
-Here you can see the five act plot points laid over a 3-act structure. There are many ways you could divde
+The following Plot Diagram shows the Five Act plot points laid over a Three Act structure.
 
 ![](plot_diagram_reverse2.png)
 
