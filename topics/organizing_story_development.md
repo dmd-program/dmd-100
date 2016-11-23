@@ -39,7 +39,7 @@ Who is telling the story? Who are you experiencing the story through? Depending 
 
 #### Structure
 
-1. Choose or design a structure model
+1. Choose or design a structural model
   - Should support critical story path and desired supplemental story interaction
   - Linear or non-linear?
 
