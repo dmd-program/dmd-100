@@ -92,7 +92,7 @@
            * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
            * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
        * [Discover: Word-pairs](projects/narrative/discover_focus_words.md)
-       * Define: The way it was
+       * [Define: The way it was](projects/narrative/define_the_way_it_was.md)
        * Develop
        * Deliver
    * Activities
