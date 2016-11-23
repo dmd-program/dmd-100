@@ -20,14 +20,7 @@ You should include the bare minimum listed in this tutorial, but if you want to 
 
 ### Discuss
 
-1. Now that you've produced a hypertext story, it's time to leave feedback for your classmates. Review three of your classmates' work and write a response that includes the following: 
-  - What did you notice?
-  - Where elements of dramatic plot evident?
-  - Was the story about a positive future? How do you know?
-  - What themes emerged in the story?
-  - Who do you think the audience is?
-2. Document Opportunities
-  - After receiving feedback on your project, write any opportunities that were discovered via conversation.
+
 
 ## Citation
 **Adapted from:** THINK CRITICALLY - ACT CREATIVELY: HARNESSING THE POWER OF FICTION FOR SOCIAL GOOD. Accessed on October 10, 2016. http://byanymedia.org/works/mapp/activity-1?path=activities
