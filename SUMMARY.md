@@ -44,6 +44,7 @@
        * Develop: Storyboard
        * [Deliver: Interactive Prototype](projects/ritual/deliver_interactive_prototype.md)
        * Ritual: Discuss
+       * Discover: Journey Map
    * Topics
        * Identity design
        * [Visual design](topics/visual_design.md)
