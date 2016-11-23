@@ -91,6 +91,7 @@
        * Tutorials
            * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
            * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
+       * Discover
    * Activities
        * [Write a story: draft 1](practice/object_story.md)
        * [Write a story: draft 2](practice/object_story_draft_2.md)
