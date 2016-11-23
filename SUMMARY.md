@@ -64,7 +64,6 @@
        * Tutorials
            * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
        * [Ritual: Five Whys](projects/ritual/ritual_interview.md)
-           * Self Interview: Step 2
        * Ritual: Define
        * Ritual: Develop
        * Ritual: Deliver
