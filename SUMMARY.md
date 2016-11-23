@@ -40,7 +40,7 @@
            * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
        * [Discover: Interview](projects/ritual/ritual_interview.md)
        * [Define: HMW](projects/ritual/define_hmw.md)
-       * [Ritual: Develop](projects/ritual/develop_prototype.md)
+       * [Develop: Prototype](projects/ritual/develop_prototype.md)
        * [Deliver: Interactive Prototype](projects/ritual/deliver_interactive_prototype.md)
        * Ritual: Discuss
    * Topics
