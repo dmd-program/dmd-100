@@ -1,4 +1,4 @@
-# Object story
+# Story: Draft 1
 
 For this activity, you will be creating a short story about an object. Write a story (500 words minimum) from the objects perspective. Who does it interact with? Where is does the story take place? What conflict might arise?
 
@@ -22,7 +22,7 @@ Please choose and complete **one** of the story options.
 ### Story option 2: Personal tale
 
 1. Tell your own personal story or a story as told to you by a friend that you have permission to share.
-  - Consider the tell-ability of this story. Typically you want a story that isn't too boring or too shocking for the given audience. Share what you are comfortable sharing in the context of this course, or dare to share an uncomfortable story if it is important to you.
+  - Consider the tell-ability of this story. Typically you want a story that isn't too boring or too shocking for the given audience. Share what you are comfortable sharing in the context of this course, or if you want, share an uncomfortable story if it is important to you.
 2. Submit your story to the Studio
 
 ## Feedback Instructions
