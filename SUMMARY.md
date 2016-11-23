@@ -91,7 +91,7 @@
        * Tutorials
            * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
            * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
-       * Discover
+       * [Discover](projects/narrative/discover_focus_words.md)
        * Define
        * Develop
        * Deliver
