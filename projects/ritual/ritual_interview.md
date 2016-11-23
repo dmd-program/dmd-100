@@ -1,7 +1,9 @@
-# Ritual Project - Five Whys
+# Ritual Project
+
+## Instructions
 Complete Part A and B, which have been divided into steps.
 
-## Part A: Respond
+## Part A: Five Whys
 The goal of Part A is to better understand a potentially complex or ambiguous issue and get to a more human or emotional aspect of a problem.
 
 ### Step 1
@@ -39,8 +41,6 @@ Was there any time in Part A where you felt like you were able to get to a deepe
 
 ## Deliverables
 1. Write your recording in the observations input box on the assignment submission.
-
-* * *
 
 ## Citation:
 Adapted from: http://www.designkit.org/methods/66
