@@ -2,9 +2,9 @@
 A "How might we" (HMW) question is both an insight about what the core issue is as well as a focus aid for the design process. This question will serve as inspiration during the development and delivery phases of the project. If your development strays to far from the HMW question, the solution you deliver might be solving a different set of issues from the ones you set out to solve. Refer back to the HMW question often throughout the process.
 
 ## How might I ...?
-Please complete and write the Mad Libs style sentence in your journal based on your work from the Discover phase. Please fill in between the parentheses.
+Based on your work from the Discover phase, complete the Mad Libs style sentence and write it in your journal:
 
-How might we **( action or opportunity )** **( a relevant description of a person )  ( their situation that makes overcoming obstacles harder )** ?
+How might we **( positive action )** **( a description of a person with relevant traits ) ( the situation )** ?
 
 
 ## Example Question  
