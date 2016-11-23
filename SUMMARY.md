@@ -64,7 +64,7 @@
        * Tutorials
            * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
        * [Discover: Five Whys](projects/ritual/ritual_interview.md)
-       * Ritual: Define
+       * [Ritual: Define](projects/ritual/define_hmw.md)
        * Ritual: Develop
        * Ritual: Deliver
        * Ritual: Discuss
