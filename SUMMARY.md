@@ -43,6 +43,7 @@
        * [Develop: Prototype](projects/ritual/develop_prototype.md)
        * [Deliver: Interactive Prototype](projects/ritual/deliver_interactive_prototype.md)
        * Ritual: Discuss
+       * Develop: Storyboard
    * Topics
        * Identity design
        * [Visual design](topics/visual_design.md)
