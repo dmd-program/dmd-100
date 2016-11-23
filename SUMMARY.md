@@ -41,9 +41,9 @@
        * [Discover: Interview](projects/ritual/ritual_interview.md)
        * [Define: HMW](projects/ritual/define_hmw.md)
        * [Develop: Prototype](projects/ritual/develop_prototype.md)
+       * Develop: Storyboard
        * [Deliver: Interactive Prototype](projects/ritual/deliver_interactive_prototype.md)
        * Ritual: Discuss
-       * Develop: Storyboard
    * Topics
        * Identity design
        * [Visual design](topics/visual_design.md)
