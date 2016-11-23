@@ -13,7 +13,6 @@ The central theme of this project is ***ritual***. You will be making a prototyp
 - printer
 - Post-Its
 
-
 Steps
 
 1. Generate ideas
