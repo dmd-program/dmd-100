@@ -2,14 +2,7 @@
 
 For this project, you will go though a human-centered design process to discover opportunities, define challenges, develop wireframes, and deliver an interactive prototype of a mobile app.
 
-You will be making a prototype app for one of your classmates, that would promote a positive ritual. Your assigned
-
-The central theme of this project is ***ritual***. The project's theme will help frame your work within a broader context. 
-
-For this project, you will create a ritual that can help you modify or improve some aspect of daily life. By the end of the project, you will have created a prototype mobile app interface.
-
-Linked topics: self design
-
+The central theme of this project is ***ritual***. You will be making a prototype mobile app interface for one of your classmates, that would promote a positive ritual.
 
 ## Materials and tools
 - Camera (a smartphone camera is fine)
