@@ -3,7 +3,7 @@
 ## Instructions
 Complete Part A and B, which have been divided into steps.
 
-## Part A: Five Whys
+## Asking 'Five Whys'
 The goal of Part A is to better understand a potentially complex or ambiguous issue and get to a more human or emotional aspect of a problem.
 
 ### Step 1
