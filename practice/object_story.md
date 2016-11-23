@@ -1,4 +1,4 @@
-# Write a story: Draft 1
+# Write a story: draft 1
 
 For this activity, you will be creating a short story about an object. Write a story (500 words minimum) from the objects perspective. Who does it interact with? Where is does the story take place? What conflict might arise?
 
