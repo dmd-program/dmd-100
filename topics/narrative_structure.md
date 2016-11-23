@@ -1,10 +1,10 @@
 # Story structure
 
-A narrative structure orders or disorders the events of a story for the audience. There are commonly used frameworks for storytelling which started with Aristotle's three part structure which consists of a beginning, middle, and end.
+A narrative structure orders or disorders the events of a story for the audience. There are commonly used frameworks for storytelling which started with Aristotle's three part structure consisting of a beginning, middle, and end. From there, structures become more nuanced and descriptive. 
 
-Hollywood films tend to have structural models that traditionally sell well in the box office, increasing the probability that they will see a return on the production investment. The perception is that experimental or uncommon narrative structures tend to be risky. The same can be said for large game developers who are inclined to produce sequels of high selling titles.
+Hollywood films tend to have structural models that traditionally sell well in the box office, increasing the probability that they will see a return on the production investment. The perception is that experimental or uncommon narrative structures tend to be risky. The same can be said for large game developers who are inclined to produce sequels of top selling titles.
 
-This can explain why many of the novel or boundary-pushing films tend to come from independent authors and screenwriters, indie game developers, indie filmmakers, and so on.
+This can explain why many of the boundary-pushing films tend to come from independent authors and screenwriters, indie game developers, and indie filmmakers. They have less of a financial stake in the outcomes of sales, and are more likely to focus on quality and originality of content.
 
 ## Dramatic structure
 
