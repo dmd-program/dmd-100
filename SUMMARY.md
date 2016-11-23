@@ -119,6 +119,7 @@
        * [Creative Commons Activity](practice/creative_commons_activity.md)
        * [Curating for an Idea](practice/curating_for_an_idea.md)
    * Project
+       * Define
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
