@@ -3,21 +3,21 @@
 ## Week 1 (Lesson 1)
 
 - Icebreaker
-- Read
+- Reading
   - Course Introduction, Calendar
   - Lesson 1 Topics
   - Chapter 1 from Design and Truth by Robert Grudin
-- Listen
+- Listening
   - Podcast: Creative Mornings: Design is Magical
 - Activities:
   - Chapter 1 Reading response: (Due by end of week)
 
 ## Week 2 (Lesson 2)
 
-- Read
+- Reading
   - Lesson 2 Topics
   - Chapter 2 from Design and Truth by Robert Grudin
-- Listen
+- Listening
   - Podcast:
 - Activities
   - Daily design journal: (**Assigned** beginning of week)
@@ -28,11 +28,11 @@
 
 ## Week 3 (Lesson 2)
 
-- Read
+- Reading
   - Course Introduction, Calendar
   - Lesson 2 Topics
   - Chapter 3 from Design and Truth by Robert Grudin
-- Listen
+- Listening
   - Podcast: 
 - Activities
   - Daily design journal: (**Due** by end of week)
@@ -42,11 +42,11 @@
 
 ## Week 4 (Lesson 2)
 
-- Read
+- Reading
   - Course Introduction, Calendar
   - Lesson 2 Topics
   - Chapter 4 from Design and Truth by Robert Grudin
-- Listen
+- Listening
   - Podcast: 
 - Activities
   - Visual Manual
@@ -57,11 +57,11 @@
   
 ## Week 5 (Lesson 3)
 
-- Read
+- Reading
   - Course Introduction, Calendar
   - Lesson 3 Topics
   - Chapter 5 from Design and Truth by Robert Grudin
-- Listen
+- Listening
   - Podcast:
 - Activities
 - Project 2
@@ -70,11 +70,11 @@
 
 ## Week 6 (Lesson 3)
 
-- Read
+- Reading
   - Course Introduction, Calendar
   - Lesson 3 Topics
   - Chapter 6 from Design and Truth by Robert Grudin
-- Listen
+- Listening
   - Podcast:
 - Activities
   - Chapter 6 Reading response
@@ -84,11 +84,11 @@
 
 ## Week 7 (Lesson 3)
 
-- Read
+- Reading
   - Course Introduction, Calendar
   - Lesson 3 Topics
   - Chapter 7 from Design and Truth by Robert Grudin
-- Listen
+- Listening
   - Podcast:
 - Activities
   - Chapter 7 Reading response
@@ -98,11 +98,11 @@
 
 ## Week 8 (Lesson 4)
 
-- Read
+- Reading
   - Course Introduction, Calendar
   - Lesson 4 Topics
   - Chapter 8 from Design and Truth by Robert Grudin
-- Listen
+- Listening
   - Podcast:
 - Activities
   - Chapter 8 Reading response
@@ -110,11 +110,11 @@
   -  
 ## Week 9 (Lesson 4)
 
-- Read
+- Reading
   - Course Introduction, Calendar
   - Lesson 4 Topics
   - Chapter 9 from Design and Truth by Robert Grudin
-- Listen
+- Listening
   - Podcast:
 - Activities
   - Chapter 9 Reading response
@@ -122,11 +122,11 @@
   -  
 ## Week 10 (Lesson 4)
 
-- Read
+- Reading
   - Course Introduction, Calendar
   - Lesson 4 Topics
   - Chapter 10 from Design and Truth by Robert Grudin
-- Listen
+- Listening
   - Podcast:
 - Activities
   - Chapter 10 Reading response
@@ -134,11 +134,11 @@
 - End of Lesson Discussion 
 ## Week 11 (Lesson 5)
 
-- Read
+- Reading
   - Course Introduction, Calendar
   - Lesson 5 Topics
   - Chapter 11 from Design and Truth by Robert Grudin
-- Listen
+- Listening
   - Podcast:
 - Activities
   - Chapter 11 Reading response
@@ -146,11 +146,11 @@
   -  
 ## Week 12 (Lesson 5)
 
-- Read
+- Reading
   - Course Introduction, Calendar
   - Lesson 5 Topics
   - Chapter 12 from Design and Truth by Robert Grudin
-- Listen
+- Listening
   - Podcast:
 - Activities
   - Chapter 12 Reading response
@@ -158,11 +158,11 @@
   -  
 ## Week 13 (Lesson 5)
 
-- Read
+- Reading
   - Course Introduction, Calendar
   - Lesson 5 Topics
   - Chapter 13 from Design and Truth by Robert Grudin
-- Listen
+- Listening
   - Podcast:
 - Activities
   - Chapter 13 Reading response
@@ -170,11 +170,11 @@
   -  
 ## Week 14 (Lesson 5)
 
-- Read
+- Reading
   - Course Introduction, Calendar
   - Lesson 5 Topics
   - Chapter 14 from Design and Truth by Robert Grudin
-- Listen
+- Listening
   - Podcast:
 - Activities
   - Chapter 14 Reading response
