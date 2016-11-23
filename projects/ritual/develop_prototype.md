@@ -1,2 +1,2 @@
-# Ritual: Develop
+# Develop: Prototype
 
