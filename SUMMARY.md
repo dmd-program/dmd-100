@@ -39,7 +39,7 @@
        * Tutorials
            * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
        * [Discover: Interview](projects/ritual/ritual_interview.md)
-       * Discover: Journey Map
+       * [Discover: Journey Map](project/ritual/discover_journey_map.md)
        * [Define: HMW](projects/ritual/define_hmw.md)
        * [Develop: Prototype](projects/ritual/develop_prototype.md)
        * Develop: Storyboard
