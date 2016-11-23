@@ -1,2 +1,2 @@
-# Ritual: Deliver
+# Deliver: Interactive Prototype
 
