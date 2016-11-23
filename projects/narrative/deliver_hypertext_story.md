@@ -13,5 +13,5 @@ Twine is available as a downloadable app for Linux, OSX, and Windows, or as an o
 ## Submission
 1. To submit the project, you will need to upload the html file to box 
 2. Upload your 
-2. Post the web link of your Twine narrative to the Studio Project feed for the class to review.
-2. Download the Twine file and submit to the Studio Project Dropbox. Post the URL to the Studio page for your classmates to review.
+3. Post the web link of your Twine narrative to the Studio Project feed for the class to review.
+4. Download the Twine file and submit to the Studio Project Dropbox. Post the URL to the Studio page for your classmates to review.
