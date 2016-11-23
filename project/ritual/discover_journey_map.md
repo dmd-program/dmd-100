@@ -11,8 +11,8 @@
   5. I pulled the lawnmower out of the garage.
   6. I checked to see that it had gasoline - it was low.
   7. I poured gasoline into the lawnmower
-  8. I started to mow the grass
-  9. I thought about how I disliked mowing the lawn because the process is time consuming
+  8. I started to mow the grass, and made a lot of noise
+  9. I thought about how I disliked mowing the lawn because the process is time consuming and dirty
   10. I emptied the grass clippings many times during the process
   11. I eventually finished and put the lawnmower back into the garage, and moved the objects back as they were
   12. I closed the garage door
