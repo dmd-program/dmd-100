@@ -8,7 +8,6 @@ In this project, you are the intended user, and you are designing for yourself. 
 How might I, a person who ***[[ description of specific situation that makes overcoming obstacles harder ]]***, use a mobile device app that ***[[ rephrase your core struggle into an opportunity ]]***?
 
 
-
 ## Example Question  
 In this example, let's say that I discovered that I wasn't socializing as much as I'd like because spending time with friends, while something I really valued, often meant that I was spending more money than I had.
 
