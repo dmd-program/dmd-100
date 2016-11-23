@@ -124,6 +124,7 @@
        * Develop
        * Deliver
        * Discuss
+       * Remix Project Introduction
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
