@@ -1,6 +1,6 @@
 # Discuss: Hypertext Story Critique
 
-1. Now that you've produced a hypertext story, it's time to leave feedback for your classmates. Review three of your classmates' work and write a response that includes the following: 
+1. Now that you've produced a hypertext story, it's time to leave feedback for your classmates. Review three of your classmates' work and write a response that includes the following:
   - What did you notice?
   - Where elements of dramatic plot evident?
   - Was the story about a positive future? How do you know?
