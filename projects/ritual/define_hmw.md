@@ -6,7 +6,6 @@ Based on your work from the Discover phase, complete the Mad Libs style sentence
 
 How might we **( positive action )** **( a description of a person with relevant traits ) ( the situation )** ?
 
-
 ## Example Question  
 In this example, let's say that I discovered that a college student friend of mine was anxious about socializing. Often times, meeting friends meant going out and spending a lot of money, but they were on a very tight budget. The HMW question might look like this:
 
