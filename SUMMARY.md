@@ -94,6 +94,7 @@
        * Discover
        * Define
        * Develop
+       * Deliver
    * Activities
        * [Write a story: draft 1](practice/object_story.md)
        * [Write a story: draft 2](practice/object_story_draft_2.md)
