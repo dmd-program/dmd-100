@@ -1,2 +1,3 @@
-# Ritual: Define
+# Define: How Might We ...?
 
+"How might we" questions are both an insight about what the core issue is, help focus the design process towards by providing a goal. This question will serve as inspiration for the rest of the project, and acts as a measure of whether you are on staying on track or not. If you stray to far from the HMW question, your design solution might be solving a different set of issues from the ones you set out to solve. Try to revisit the HMW question to see that you.
