@@ -1,11 +1,11 @@
 # Discover
 
-#### Question development
+## Word pairs
 1. In your journal, write three objects from your home. If you cannot think of any, choose three objects from a random object generator. Here is [one](http://roger.redevised.com/). (2 mins)
 2. Free association writing. (10 mins)
   - On a journal page, write as many adjectives about this object as you can.
   - Circle three adjectives.
-3. Choose one focus word from the list below. Write the adjectives circled from the previous step in front of your chosen focus word, creating three word-pairs:
+3. Choose **one** focus word from the list below. Write the adjectives circled from the previous step in front of your chosen focus word, creating three word-pairs (I.E. - if you choose education, you would combine your adjectives with only education):
   - education
   - economy
   - health
