@@ -68,7 +68,7 @@
        * [Make a Brand](practice/make_a_brand.md)
        * Type identity
        * Design language
-* Lesson 2: Storytelling
+* Lesson 3: Storytelling
    * [Introduction](lessons/narrative/introduction.md)
    * Topics
        * [Why stories?](topics/narrative.md)
