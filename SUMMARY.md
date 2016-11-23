@@ -129,11 +129,11 @@
    * Project
        * [Field guide](projects/field_guide.md)
        * [Open Toolkit](projects/open_toolkit.md)
+       * Discover
        * Define
        * Develop
        * Deliver
        * Discuss
-       * Discover
    * Readings
        * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
        * [Chapter 14. Designing Time](practice/designing_time.md)
