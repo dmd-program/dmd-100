@@ -12,10 +12,11 @@
   6. I checked to see that it had gasoline - it was low.
   7. I poured gasoline into the lawnmower
   8. I started to mow the grass, and made a lot of noise
-  9. I thought about how I disliked mowing the lawn because the process is time consuming and dirty
-  10. I emptied the grass clippings many times during the process
-  11. I eventually finished and put the lawnmower back into the garage, and moved the objects back as they were
-  12. I closed the garage door
+  9. I emptied the grass clippings many times during the process
+  10. I stopped to get a drink of water halfway through, because I was dehydrated.
+  11. I thought about how I disliked mowing the lawn because the process is time consuming, dirty, and noisy
+  12. I eventually finished and put the lawnmower back into the garage, and moved the objects back as they were
+  13. I closed the garage door
 
 ## Materials
 - Pen
