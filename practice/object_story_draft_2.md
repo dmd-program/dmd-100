@@ -1,4 +1,4 @@
-# Write a story draft 2
+# Write a story: draft 2
 
 For this activity, you will write a second draft of your first story(500 words minimum) interpreting feedback and making adjustments where necessary.
 
