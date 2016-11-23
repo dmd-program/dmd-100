@@ -63,7 +63,7 @@
        * [Ritual: Introduction](projects/ritual.md)
        * Tutorials
            * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
-       * [Ritual: Self Interview](projects/ritual/ritual_interview.md)
+       * [Ritual: Five Whys](projects/ritual/ritual_interview.md)
            * [Self Interview: Step 1](projects/ritual/self-interview/self_interview_step_1.md)
            * Self Interview: Step 2
        * Ritual: Define
