@@ -1,4 +1,8 @@
 # Deliver: Hypertext Story
+In this phase, you will use a tool called Twine to create an interactive narrative. This is a bit like a choose your own adventure book, where you can follow different paths should you choose to make more than one.
+
+Twine is available as a downloadable app for Linux, OSX, and Windows, or as an online editor located at [twinery.org/2](https://twinery.org/2/). You can use either to complete this project.
+
 
 ## Building with Twine
 
