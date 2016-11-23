@@ -120,11 +120,11 @@
        * [Curating for an Idea](practice/curating_for_an_idea.md)
    * Project
        * Discover
+       * Remix Project Introduction
        * Define
        * Develop
        * Deliver
        * Discuss
-       * Remix Project Introduction
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
