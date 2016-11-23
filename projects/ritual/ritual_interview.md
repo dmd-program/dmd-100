@@ -17,27 +17,22 @@ Look at the response you circled in **Step 1**. Why is this a struggle? Write a 
 
 ### Step 3
 
-Read your response to **Step 2**. Why do you think that is?
+Read your response to **Step 2**. Why do you think that is? Record the response in your journal.
 
 ### Step 4
 
-Bear with this process, it is repetitive, but for good reason. Now read your response to **Step 3**. Why do you think that is?
+Bear with this process, it is repetitive, but for good reason. Now read your response to **Step 3**. Why do you think that is? Record the response in your journal.
 
 ### Step 5
 
-Almost done. Now read your response to **Step 4**. Why do you think that is?
+Almost done. Now read your response to **Step 4**. Why do you think that is? Record the response in your journal.
 
 ### Step 6
 
-Finally, read your response to **Step 5**. Why do you think that is?
+Finally, read your response to **Step 5**. Why do you think that is? Record the response in your journal.
 
-## Part B: Reflect
-Now that you have completed Part A, let's complete Part B. 
-
-### Step 1
-Was there any time in Part A where you felt like you were able to get to a deeper core issue? What did you find?
- 
-### Step 2
+### Step 7
+Now that you have completed "Five Whys", do you think any of your responses pointed to a deeper core issue? Was this surprising?
 
 ## Deliverables
 1. Write your recording in the observations input box on the assignment submission.
