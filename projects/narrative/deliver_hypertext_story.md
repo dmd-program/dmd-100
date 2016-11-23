@@ -6,9 +6,9 @@ Twine is available as a downloadable app for Linux, OSX, and Windows, or as an o
 
 ## Building with Twine
 
-1. Follow the Twine Tutorial to learn how to create either a linear or non-linear narrative. Your narrative should take a viewer no longer than 10 minutes to get through the critical pathway.
-2. You can add as many supporting events or nodes as you want. If you are unsure of what type of story to produce, start with a linear narrative model. Refer back to the story structure topic for more information.
-2. Use Twinery.org to create a hypertext narrative from the narrative that you wrote in the development phase of the project.
+1. Use Twinery.org to create a hypertext narrative from the narrative that you wrote in the development phase of the project.
+2. Follow the Twine Tutorial to learn how to create either a linear or non-linear narrative. Your narrative should take a viewer no longer than 10 minutes to get through the critical pathway.
+3. You can add as many supporting events or nodes as you want. If you are unsure of what type of story to produce, start with a linear narrative model. Refer back to the topic on story structure for more information.
 
 ## Submission
 1. To submit the project, you will need to upload the html file to box 
