@@ -15,7 +15,7 @@ For this activity, you will write a second draft of your first story(500 words m
   - This helps you see if it has good energy 
 4. Submit story to the Studio
 
-**Note:** These components are more of a checklist, and are not meant to always be used in chronological order. 
+**Note:** These components are a checklist and are not meant to always be used in the order they are listed, though they often are. 
 
 ## Feedback Instructions
 
