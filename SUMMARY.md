@@ -77,7 +77,6 @@
        * [Story structure](topics/narrative_structure.md)
        * [Story development](topics/organizing_story_development.md)
        * [Character](topics/character.md)
-       * [Plot](topics/plot.md)
        * [Hypertext](topics/hypertext.md)
        * [Media](topics/narrative-media.md)
    * Listening
