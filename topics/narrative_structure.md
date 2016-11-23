@@ -49,7 +49,7 @@ However, there are many ways to analyze the structure of a linear narrative. Mos
   - Climax
   - Realization
 - **Hero's Journey**
-  - The number of acts can vary widely, but tends to have around 11 acts. More on this later.
+  - The number of acts can vary widely, but tends to have around 11 or 12 acts. More on this later.
 
 #### Three Act Plot Diagram
 The following Plot Diagram shows the Five Act plot points laid over a Three Act structure.
