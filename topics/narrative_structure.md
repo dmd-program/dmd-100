@@ -20,18 +20,30 @@ This five act structure works well when describing Greek and Shakespearean plays
 
 However, there are many ways to analyze the structure of a linear narrative. Most contemporary stories can be described with the following structural breakdowns:
 
-- Three Act Structure
-  - Beginning, middle, end
-- Four Act
-  - Inciting incident
-  - First act turn
-  - Second act turn
-  - Third Act turn
-  - 
-- Five Act Structure
-  - Exposition, rising action, climax, falling action, resolution
-- Seven Act
-- Hero's Journey
+- **Three Act**
+  1. Beginning
+  2. Middle
+  3. End
+- **Four Act**
+  1. Inciting incident
+  2. First act turn to Second Act Turn
+  3. Second act turn to Third Act Turn
+  4. Third Act turn to Resolution
+- **Five Act**
+  1. Exposition
+  2. Rising action
+  3. Climax
+  4. Falling action
+  5. Resolution
+- **Seven Act**
+  - Backstory
+  - Catalyst
+  - Big event
+  - Midpoint
+  - Crisis
+  - Climax
+  - Realization
+- **Hero's Journey**
   - The number of acts can vary widely, but tends to have around 11 acts. More on this later.
 
 #### Three Act Plot Diagram
