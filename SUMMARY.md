@@ -94,7 +94,7 @@
        * [Discover: Word-pairs](projects/narrative/discover_focus_words.md)
        * [Define: The way it was](projects/narrative/define_the_way_it_was.md)
        * [Develop: Narrative](projects/narrative/develop_narrative.md)
-       * Deliver
+       * Deliver: Hypertext Story
    * Activities
        * [Write a story: draft 1](practice/object_story.md)
        * [Write a story: draft 2](practice/object_story_draft_2.md)
