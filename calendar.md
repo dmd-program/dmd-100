@@ -52,6 +52,7 @@
   - Visual Manual
   - Chapter 4 Reading response
 - Project 1
+- End of Lesson Discussion
 
   
 ## Week 5 (Lesson 3)
@@ -93,6 +94,7 @@
   - Chapter 7 Reading response
 - Project 2
   -  Discuss 
+- End of Lesson Discussion
 
 ## Week 8 (Lesson 4)
 
@@ -129,7 +131,7 @@
 - Activities
   - Chapter 10 Reading response
 - Project 3
-  -  
+- End of Lesson Discussion 
 ## Week 11 (Lesson 5)
 
 - Read
@@ -177,4 +179,4 @@
 - Activities
   - Chapter 14 Reading response
 - Project 4
-  -  
+- End of Lesson Discussion 
