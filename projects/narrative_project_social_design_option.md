@@ -13,12 +13,6 @@ For this project, you will create a hypertext story focused on building a better
 ## Process
 
 You should include the bare minimum listed in this tutorial, but if you want to produce a more advanced hyptertext narrative, see the [Twine Wiki](http://twinery.org/wiki/twine2:guide) for more details.
-### Deliver
-
-1. Post the web link of your Twine narrative to the Studio Project feed for the class to review.
-2. Download the Twine file and submit to the Studio Project Dropbox. Post the URL to the Studio page for your classmates to review.
-
-### Discuss
 
 
 
