@@ -29,11 +29,6 @@ However, there are many ways to analyze the structure of a linear narrative. Mos
   2. First act turn to Second Act Turn
   3. Second act turn to Third Act Turn
   4. Third Act turn to Resolution
-- **Another Four Act**
-  1. Setup
-  2. Response
-  3. Attack
-  4. Resolution
 - **Five Act**
   1. Exposition
   2. Rising action
