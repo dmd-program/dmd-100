@@ -58,7 +58,7 @@
        * Prototype
    * Listening
        * [Unpleasant Design](topics/ux_case_study.md)
-       * [Of mice and men](listening/of_mice_and_men.md)
+       * [Of mice and men](listening/99_percent_invisible_of_mice_and_men.md)
        * [99 Percent Invisible: 10,000 years](listening/99_percent_invisible_10,000_years.md)
    * Readings
        * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
