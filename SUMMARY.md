@@ -107,7 +107,6 @@
    * Topics
        * [Everything is a Remix](topics/everything_is_a_remix.md)
        * [Intellectual property](topics/intellectual_property.md)
-       * Media
        * [Creative Commons](topics/creative_commons.md)
        * Generative design
    * Listening
