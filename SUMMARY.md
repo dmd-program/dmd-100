@@ -82,7 +82,7 @@
        * [Media](topics/narrative-media.md)
    * Listening
        * [10,000 Years](lessons/narrative/narrative_case_study.md)
-       * [Creative mornings: Writing your way to freedom](listening/creative_mornings_writing_your_way_to_freedom.md)
+       * [Creative Mornings: Writing your way to freedom](listening/creative_mornings_writing_your_way_to_freedom.md)
    * Readings
        * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
        * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
