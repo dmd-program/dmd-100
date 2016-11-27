@@ -51,6 +51,7 @@
        * [Interaction design](topics/interaction_design.md)
        * [Typographic design](topics/typographic_design.md)
        * [Audience](topics/audience.md)
+       * [Semiotics](topics/semiotics.md)
        * [Design language](topics/language.md)
        * [Wireframing](topics/wireframing.md)
        * [Mental model](topics/mental_model.md)
@@ -107,7 +108,6 @@
        * [Everything is a Remix](topics/everything_is_a_remix.md)
        * [Intellectual property](topics/intellectual_property.md)
        * Media
-       * [Semiotics](topics/semiotics.md)
        * [Creative Commons](topics/creative_commons.md)
        * Sound
        * Generative design
