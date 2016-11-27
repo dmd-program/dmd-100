@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> “Design shapes, regulates, and channels energy…”
+> “The primary function of design is to shape and channel energy.”
 > 
 >– Robert Grudin
 
