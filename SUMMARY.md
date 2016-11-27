@@ -103,6 +103,7 @@
 * [Lesson 4: Remix](lessons/remix.md)
    * Topics
        * [Everything is a Remix](topics/everything_is_a_remix.md)
+       * Intellectual property
        * Media
        * [Semiotics](topics/semiotics.md)
        * [Constructing meaning](topics/constructing_meaning.md)
@@ -110,7 +111,6 @@
        * Sound
        * [Intellectual property](topics/intellectual_property.md)
        * Generative design
-       * Intellectual property
    * Listening
        * Podcast
    * Readings
