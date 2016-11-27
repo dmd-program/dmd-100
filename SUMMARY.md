@@ -110,6 +110,7 @@
        * Sound
        * [Intellectual property](topics/intellectual_property.md)
        * Generative design
+       * Intellectual property
    * Listening
        * Podcast
    * Readings
