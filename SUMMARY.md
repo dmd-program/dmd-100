@@ -101,7 +101,7 @@
        * [Write a story: draft 2](practice/object_story_draft_2.md)
    * Discussions
        * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
-* [Lesson 4: Remix](lessons/remix.md)
+* [Lesson 4: Creativity? Remix?](lessons/remix.md)
    * Topics
        * [Everything is a Remix](topics/everything_is_a_remix.md)
        * [Intellectual property](topics/intellectual_property.md)
