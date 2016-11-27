@@ -118,7 +118,7 @@
        * [Creative Commons Activity](practice/creative_commons_activity.md)
        * [Curating for an Idea](practice/curating_for_an_idea.md)
    * Project
-       * Remix Project Introduction
+       * Design for Adaptation: Introduction
        * Discover
        * Define
        * Develop
