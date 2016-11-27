@@ -112,7 +112,7 @@
        * Sound
        * Generative design
    * Listening
-       * [Creative Mornings: Creativity and the freedom to fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
+       * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
    * Readings
        * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
        * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
