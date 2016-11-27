@@ -108,7 +108,6 @@
        * [Intellectual property](topics/intellectual_property.md)
        * Media
        * [Semiotics](topics/semiotics.md)
-       * [Constructing meaning](topics/constructing_meaning.md)
        * [Creative Commons](topics/creative_commons.md)
        * Sound
        * Generative design
