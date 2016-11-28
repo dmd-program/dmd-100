@@ -112,6 +112,7 @@
        * [Open projects](topics/open_projects.md)
        * Modularity
        * [Autonomy](topics/autonomy.md)
+       * Life
    * Listening
        * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
    * Readings
