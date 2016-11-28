@@ -22,4 +22,4 @@ However, we can reasonably assume that capable design students have the followin
  5. Skill
    - what you can "bring to the table"
  6. Empathy
-   - The ability to put yourself in someone's shoes to better understand we design.
+   - put yourself in someone's shoes to better understand we design.
