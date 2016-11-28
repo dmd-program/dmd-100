@@ -129,6 +129,7 @@
        * Develop
        * Deliver
        * Discuss
+       * Open Source Toy
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
