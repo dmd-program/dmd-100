@@ -141,7 +141,7 @@
    * Project
        * [Field guide](projects/field_guide.md)
        * Discover: Self-inspire
-       * Define
+       * Define: Gut check
        * Develop
        * Deliver
        * Discuss
