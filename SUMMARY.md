@@ -7,7 +7,7 @@
    * [References](introduction/references.md)
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Feedback and Critiques](feedback_and_critiques.md)
-   * Writing Guidelines
+   * [Writing Guidelines](writing_guidelines.md)
    * [Project Management](toolkit/project_management.md)
    * [Recommended Tools](introduction/recommended_tools.md)
    * [Outlandish Introductions](icebreakers/outlandish_introductions.md)
