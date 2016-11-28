@@ -129,7 +129,7 @@
        * [Develop: Prototyping](projects/open_design/develop_prototyping.md)
        * Deliver
        * Discuss
-       * Develop: Instructions
+       * [Develop: Instructions](projects/open_design/develop_instructions.md)
        * Develop: User testing
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
