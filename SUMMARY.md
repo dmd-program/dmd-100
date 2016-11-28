@@ -6,7 +6,7 @@
    * [Measuring success](introduction/measuring_success.md)
    * [References](introduction/references.md)
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
-   * Feedback and Critiques
+   * [Feedback and Critiques](feedback_and_critiques.md)
    * [Project Management](toolkit/project_management.md)
    * [Recommended Tools](introduction/recommended_tools.md)
    * [Outlandish Introductions](icebreakers/outlandish_introductions.md)
