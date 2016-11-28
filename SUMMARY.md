@@ -128,6 +128,7 @@
        * Develop
        * Deliver
        * Discuss
+       * Discover: Primary Research
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
