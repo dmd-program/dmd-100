@@ -130,7 +130,7 @@
        * Deliver
        * Discuss
        * [Develop: Instructions](projects/open_design/develop_instructions.md)
-       * Develop: User testing
+       * [Develop: User testing](projects/open_design/develop_user_testing.md)
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
