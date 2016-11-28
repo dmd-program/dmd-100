@@ -28,6 +28,7 @@ Define:
 1. Choose a topic
 2. Write a statement
 3. Identify the audience
+4. What are the core principles?
 
 Develop:
 
