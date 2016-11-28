@@ -148,7 +148,7 @@
        * [Define: Gut check](projects/impact/define_gut_check.md)
        * [Develop: Publishing tools](projects/impact/develop_publishing_tools.md)
        * [Develop: Test and Iterate](projects/impact/develop_test_and_iterate.md)
-       * Deliver
+       * Deliver: Field Guide
        * Discuss: Field Guide Critique
    * Readings
        * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
