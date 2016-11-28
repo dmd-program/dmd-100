@@ -127,7 +127,7 @@
        * [Discover: Secondary research](projects/open_design/discover_secondary_research.md)
        * [Define: Goals](projects/open_design/define_goals.md)
        * [Develop: Prototyping](projects/open_design/develop_prototyping.md)
-       * Deliver: Open Toy
+       * [Deliver: Open Toy](projects/open_design/deliver_open_toy.md)
        * Discuss
        * [Develop: Instructions](projects/open_design/develop_instructions.md)
        * [Develop: User testing](projects/open_design/develop_user_testing.md)
