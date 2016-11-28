@@ -129,7 +129,6 @@
        * Develop
        * Deliver
        * Discuss
-       * [Disaster resistant objects project](projects/disaster_resistant_objects_project.md)
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
@@ -150,6 +149,7 @@
        * Co-generative Design Activity
        * Design your Day
 * not yet organized
+   * [Disaster resistant objects project](projects/disaster_resistant_objects_project.md)
    * Design Methods
        * [Inspire](toolkit/inspire.md)
        * [Futurecasting](toolkit/futurecasting.md)
