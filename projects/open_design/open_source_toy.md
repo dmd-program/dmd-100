@@ -15,3 +15,15 @@ Experiment with materials, objects, and aesthetic marks.
 
 Deliver:
 Photograph the parts, and write instructions for combining them. 
+
+
+notes:
+1. Template for users to build their own modular toys?
+2. What kind of toys will be made?
+3. What raw building materials are used, and for what parts?
+4. What tools and fasteners will be needed?
+5. Will there be standard or modular parts?
+4. What making processes will the users undergo?
+3. What are the instructions? 
+4. Test run
+5. Prototype
