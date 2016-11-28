@@ -8,6 +8,7 @@ There are many example of modular toys and kits on the Internet. If you decide t
 
 Define:
 The target age.
+What kind of toys are you going to make?
 
 Develop:
 Experiment with materials, objects, and aesthetic marks.
