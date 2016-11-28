@@ -123,12 +123,12 @@
        * [Curating for an Idea](practice/curating_for_an_idea.md)
    * Project
        * [Open Source Toy](projects/open_design/open_source_toy.md)
+       * Discover: Primary Research
        * [Discover: Secondary research](projects/open_design/discover_secondary_research.md)
        * Define
        * Develop
        * Deliver
        * Discuss
-       * Discover: Primary Research
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
