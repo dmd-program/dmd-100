@@ -25,11 +25,6 @@ Research
 2. Write a statement
 3. Identify the audience
 
-Develop:
-
-1. Use Gitbook to prototype
- - Follow Gitbook tutorial 
-2. Create diagrams, figures, drawings, illustrations, etc. to support your giude.
 
 ### Deliver:
 
