@@ -123,7 +123,6 @@
        * [Curating for an Idea](practice/curating_for_an_idea.md)
    * Project
        * [Open Source Toy](projects/open_design/open_source_toy.md)
-       * [Design for Adaptation: Introduction](projects/open_design/design_for_adaptation_introduction.md)
        * Discover
        * Define
        * Develop
@@ -223,6 +222,7 @@
            * 3D
            * Web
    * [Disaster resistant objects project](projects/disaster_resistant_objects_project.md)
+   * [Design for Adaptation: Introduction](projects/open_design/design_for_adaptation_introduction.md)
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
    * [Concept development](topics/concept_development.md)
    * [Digital Service or Product Project](projects/digital_service_or_product.md)
