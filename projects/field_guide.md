@@ -19,9 +19,21 @@ Research:
 - [Wildsam Field Guides](https://wildsam.com/products)
 
 Self-Inspire:
-List the things that you know very well. Specific knowledge that is known only to you could make for a really interesting Field Guide. For instance, if you have a child, you could create a field guide to getting your kid to sleep, with the audience being a baby sitter.
+1. List the things that you know or can do very well.
+  - Specific knowledge that is known only to you could make for a really interesting field guide. For instance, if you have a child, you could create a field guide to getting your kid to sleep, with the audience being a baby sitter.
+2. List three ideas
 
-This could be a place, a process, .
+Define:
+
+1. Choose a topic
+2. Write a statement
+3. Identify the audience
+
+Develop:
+
+1. Use gitbook to prototype
+ - Follow gitbook tutorial 
+2. 
 
 ### Deliver:
 
