@@ -111,7 +111,7 @@
        * Generative design
        * [Open projects](topics/open_projects.md)
        * Modularity
-       * [autonomy](topics/autonomy.md)
+       * [Autonomy](topics/autonomy.md)
    * Listening
        * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
    * Readings
