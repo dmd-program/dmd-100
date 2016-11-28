@@ -145,7 +145,7 @@
        * [Field guide](projects/field_guide.md)
        * [Discover: Top three](projects/field_guide/discover_top_three.md)
        * [Define: Gut check](projects/impact/define_gut_check.md)
-       * Develop
+       * Develop: Publishing tools
        * Deliver
        * Discuss
    * Readings
