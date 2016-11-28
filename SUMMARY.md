@@ -140,7 +140,7 @@
        * Podcast
    * Project
        * [Field guide](projects/field_guide.md)
-       * Discover: Self-inspire
+       * Discover: Top three
        * [Define: Gut check](projects/impact/define_gut_check.md)
        * Develop
        * Deliver
