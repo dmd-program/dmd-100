@@ -130,6 +130,7 @@
        * Deliver
        * Discuss
        * Develop: Instructions
+       * Develop: User testing
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
