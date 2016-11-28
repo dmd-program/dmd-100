@@ -5,6 +5,7 @@ After you complete the project, you will have the option to have your project in
 
 ## Examples
 
+- [Field Guide to Surreal Botany](http://www.twocranespress.com/botany/)
 - [civicdesign.org](http://civicdesign.org/fieldguides/)
 - [The Doghouse Diaries](http://thedoghousediaries.com/4639)
 - [Wildsam Field Guides](https://wildsam.com/products)
