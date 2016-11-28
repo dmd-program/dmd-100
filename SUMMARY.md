@@ -139,7 +139,7 @@
        * Podcast
    * Project
        * [Field guide](projects/field_guide.md)
-       * Discover
+       * Discover: Secondary Research
        * Define
        * Develop
        * Deliver
