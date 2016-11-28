@@ -7,10 +7,10 @@
    * [References](introduction/references.md)
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Feedback and Critiques](feedback_and_critiques.md)
+   * Writing Guidelines
    * [Project Management](toolkit/project_management.md)
    * [Recommended Tools](introduction/recommended_tools.md)
    * [Outlandish Introductions](icebreakers/outlandish_introductions.md)
-   * Writing Guidelines
 * [Lesson 1: What is Design?](lessons/introduction.md)
    * [Introduction](lessons/what-is-design/introduction.md)
    * Topics
