@@ -21,12 +21,6 @@ Research
   1. What is there purpose? How do they work?
 
 
-
-Gut Check:
-
-1. Gut check: http://www.designkit.org/methods/42
-
-
 1. Choose a topic
 2. Write a statement
 3. Identify the audience
