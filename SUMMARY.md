@@ -149,7 +149,6 @@
        * Co-generative Design Activity
        * Design your Day
 * not yet organized
-   * [Disaster resistant objects project](projects/disaster_resistant_objects_project.md)
    * Design Methods
        * [Inspire](toolkit/inspire.md)
        * [Futurecasting](toolkit/futurecasting.md)
@@ -223,6 +222,7 @@
            * Digital imaging
            * 3D
            * Web
+   * [Disaster resistant objects project](projects/disaster_resistant_objects_project.md)
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
    * [Concept development](topics/concept_development.md)
    * [Digital Service or Product Project](projects/digital_service_or_product.md)
