@@ -11,6 +11,8 @@ The target age.
 
 Develop:
 Experiment with materials, objects, and aesthetic marks.
+Write instructions and make a prototype of the parts.
+Testing: Have a friend, family member, or colleague try to build it. Take notes, and keep time.
 
 Deliver:
 Photograph the parts, and write instructions for combining them. 
