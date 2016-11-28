@@ -119,13 +119,13 @@
        * [Creative Commons Activity](practice/creative_commons_activity.md)
        * [Curating for an Idea](practice/curating_for_an_idea.md)
    * Project
+       * Collective Design
        * [Design for Adaptation: Introduction](projects/open_design/design_for_adaptation_introduction.md)
        * Discover
        * Define
        * Develop
        * Deliver
        * Discuss
-       * Collective Design
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
