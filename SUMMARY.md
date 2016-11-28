@@ -129,6 +129,7 @@
        * [Develop: Prototyping](projects/open_design/develop_prototyping.md)
        * Deliver
        * Discuss
+       * Develop: Instructions
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
