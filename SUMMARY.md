@@ -126,7 +126,7 @@
        * [Discover: Primary Research](projects/open_design/discover_primary_research.md)
        * [Discover: Secondary research](projects/open_design/discover_secondary_research.md)
        * Define
-       * Develop: Prototyping
+       * [Develop: Prototyping](projects/open_design/develop_prototyping.md)
        * Deliver
        * Discuss
 * [Lesson 5: Impact](lessons/co-generative_design.md)
