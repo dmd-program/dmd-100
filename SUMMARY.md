@@ -123,13 +123,13 @@
        * [Curating for an Idea](practice/curating_for_an_idea.md)
    * Project
        * Self Design
+       * [Open Source Toy](projects/open_design/open_source_toy.md)
        * [Design for Adaptation: Introduction](projects/open_design/design_for_adaptation_introduction.md)
        * Discover
        * Define
        * Develop
        * Deliver
        * Discuss
-       * [Open Source Toy](projects/open_design/open_source_toy.md)
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
