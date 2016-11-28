@@ -140,7 +140,7 @@
        * Podcast
    * Project
        * [Field guide](projects/field_guide.md)
-       * Discover: Secondary Research
+       * Discover: Self-inspire
        * Define
        * Develop
        * Deliver
