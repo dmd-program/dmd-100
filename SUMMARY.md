@@ -132,7 +132,7 @@
        * [Develop: Design Principles](projects/open_design/develop_design_principles.md)
        * [Develop: Test and Iterate](projects/open_design/develop_user_testing.md)
        * [Deliver: Open Toy](projects/open_design/deliver_open_toy.md)
-       * Discuss
+       * Discuss: Open Toy Critique
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
