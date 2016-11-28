@@ -1,3 +1,3 @@
 # Define: Goals
 
-The target age.
+What is the target age?
