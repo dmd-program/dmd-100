@@ -31,9 +31,9 @@ Define:
 
 Develop:
 
-1. Use gitbook to prototype
- - Follow gitbook tutorial 
-2. 
+1. Use Gitbook to prototype
+ - Follow Gitbook tutorial 
+2. Create diagrams, figures, drawings, illustrations, etc. to support your giude.
 
 ### Deliver:
 
