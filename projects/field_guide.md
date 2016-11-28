@@ -3,6 +3,13 @@ For this project, you will work through a design process to develop an open-lice
 
 After you complete the project, you will have the option to have your project indexed at Penn State Libraries for sharing, reuse, and remix.
 
+## Examples
+
+- [civicdesign.org](http://civicdesign.org/fieldguides/)
+- [The Doghouse Diaries](http://thedoghousediaries.com/4639)
+- [Wildsam Field Guides](https://wildsam.com/products)
+
+
 ## Tools and Materials
 Paper/pencil
 PDF Layout Tool and Generator: Gitbook
@@ -14,14 +21,6 @@ Research
   1. What is there purpose? How do they work?
 
 
-- [civicdesign.org](http://civicdesign.org/fieldguides/)
-- [The Doghouse Diaries](http://thedoghousediaries.com/4639)
-- [Wildsam Field Guides](https://wildsam.com/products)
-
-Self-Inspire:
-
-
-Define:
 
 Gut Check:
 
