@@ -129,7 +129,7 @@
        * Develop
        * Deliver
        * Discuss
-       * Disaster resistant objects project
+       * [Disaster resistant objects project](projects/disaster_resistant_objects_project.md)
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
