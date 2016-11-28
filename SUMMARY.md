@@ -123,7 +123,7 @@
        * [Curating for an Idea](practice/curating_for_an_idea.md)
    * Project
        * [Open Source Toy](projects/open_design/open_source_toy.md)
-       * Discover: Primary Research
+       * [Discover: Primary Research](projects/open_design/discover_primary_research.md)
        * [Discover: Secondary research](projects/open_design/discover_secondary_research.md)
        * Define
        * Develop
