@@ -7,9 +7,9 @@ After you complete the project, you will have the option to have your project in
 Paper/pencil
 PDF Layout Tool and Generator: Gitbook
 
-### Discover:
+Discover:
 
-Research:
+Research
 1. Investigate and analyze other field guides
   1. What is there purpose? How do they work?
 
