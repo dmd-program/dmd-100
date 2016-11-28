@@ -4,8 +4,7 @@ In this project, you will design a toy. This toy will be a collection or kit of 
 
 There are many example of modular toys and kits on the Internet. If you decide to take direct inspiration and remix other works and ideas, you must ensure that there is a good balance between copying, transforming, and combining. It must be obvious that this project came from you.
 
-Discover:
-Desk research: Find interesting modular systems.
+
 
 Define:
 The target age.
