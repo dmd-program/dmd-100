@@ -144,12 +144,12 @@
    * Project
        * [Field guide](projects/field_guide.md)
        * [Discover: Top three](projects/field_guide/discover_top_three.md)
+       * Define: Concept
        * [Define: Gut check](projects/impact/define_gut_check.md)
        * [Develop: Publishing tools](projects/impact/develop_publishing_tools.md)
        * [Develop: Test and Iterate](projects/impact/develop_test_and_iterate.md)
        * Deliver
        * Discuss: Field Guide Critique
-       * Define: Concept
    * Readings
        * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
        * [Chapter 14. Designing Time](practice/designing_time.md)
