@@ -8,7 +8,10 @@ Discover:
 Desk research: Find interesting modular systems.
 
 Define:
+The target age.
 
 Develop:
+Experiment with materials, objects, and aesthetic marks.
 
 Deliver:
+Photograph the parts, and write instructions for combining them. 
