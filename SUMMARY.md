@@ -129,10 +129,10 @@
        * [Define: Goals](projects/open_design/define_goals.md)
        * [Develop: Instructions](projects/open_design/develop_instructions.md)
        * [Develop: Prototyping](projects/open_design/develop_prototyping.md)
+       * [Develop: Design Principles](projects/open_design/develop_design_principles.md)
        * [Deliver: Open Toy](projects/open_design/deliver_open_toy.md)
        * Discuss
        * [Develop: Test and Iterate](projects/open_design/develop_user_testing.md)
-       * [Develop: Design Principles](projects/open_design/develop_design_principles.md)
 * [Lesson 5: Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
