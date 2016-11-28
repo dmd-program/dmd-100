@@ -135,7 +135,7 @@
        * [Develop: Test and Iterate](projects/open_design/develop_user_testing.md)
        * [Deliver: Open Toy](projects/open_design/deliver_open_toy.md)
        * [Discuss: Open Toy Critique](projects/open_design/discuss_open_toy_critique.md)
-* [Lesson 5: Impact](lessons/co-generative_design.md)
+* [Lesson 5: Artifacts for Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
        * [Collaboration](topics/collaboration.md)
