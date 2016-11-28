@@ -3,35 +3,36 @@ For this project, you will work through a design process to develop an open-lice
 
 After you complete the project, you will have the option to have your project indexed at Penn State Libraries for sharing, reuse, and remix.
 
-## Tools
-In this project, you will be using Gitbook to publish
-
-## Requirements:
-### 1. Cover
-The cover of the guide will
-
-Please include the following license and language to the bottom : 
-
-```<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-```
-
-- Title
-- Open License
- 
-### 2. Introduction
-### 3. Images, drawings, diagrams, etc.
-### 4. Length: Any
-### File type: PDF
-
-## Inspiration
-[civicdesign.org](http://civicdesign.org/fieldguides/)
-[The Doghouse Diaries](http://thedoghousediaries.com/4639)
-[Wildsam Field Guides](https://wildsam.com/products)
-
-
 ## Tools and Materials
 Paper/pencil
 PDF Layout Tool and Generator: Gitbook
+
+### Discover:
+
+#### Inspire
+
+- [civicdesign.org](http://civicdesign.org/fieldguides/)
+- [The Doghouse Diaries](http://thedoghousediaries.com/4639)
+ -[Wildsam Field Guides](https://wildsam.com/products)
+
+
+### Deliver:
+
+#### 1. Cover
+
+1. Title
+2. By line
+2. Please include the following license and language to the bottom :  
+```<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+```
+ 
+#### 2. Introduction
+#### 3. Images, drawings, diagrams, etc.
+#### 4. Length: Any
+#### File type: PDF
+
+
+
 
 ## Project Plan	
 
