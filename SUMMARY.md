@@ -109,7 +109,7 @@
        * [Everything is a Remix](topics/everything_is_a_remix.md)
        * [Intellectual property](topics/intellectual_property.md)
        * Generative design
-       * Open projects
+       * [Open projects](topics/open_projects.md)
    * Listening
        * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
    * Readings
