@@ -141,7 +141,7 @@
    * Project
        * [Field guide](projects/field_guide.md)
        * Discover: Self-inspire
-       * Define: Gut check
+       * [Define: Gut check](projects/impact/define_gut_check.md)
        * Develop
        * Deliver
        * Discuss
