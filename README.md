@@ -4,10 +4,6 @@ DMD 100 introduces concepts, skills, language and principles of practice in art 
 
 With the aid of a standard design process, we walk through methods, tools, and mental attitudes necessary to approach ambiguous problems. This course is not meant to be a comprehensive design process catalog, but instead should inspire and build confidence in the act of design.
 
-This course hopes to provide a "frame" for the things that you go on to make, design, and impact in terms of systems, storytelling, and ...
-
-In this course, tools include software, hardware, and the strategies that encourage empathetic understanding of problems and issues.
-
 ## Contributors
 *In alphabetical order by last name*
 
