@@ -14,6 +14,9 @@ Produce a new life form
 
 The goal of this project is for you to create the infrastructure upon which others can build from.
 
+**Open source Toy**
+
+https://laughingsquid.com/the-offbits-adorable-open-source-toy-kits-for-building-malfunctioning-robots-from-assorted-hardware-parts/
 
 
 
