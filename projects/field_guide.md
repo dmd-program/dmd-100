@@ -9,7 +9,7 @@ PDF Layout Tool and Generator: Gitbook
 
 ### Discover:
 
-#### Research
+Research:
 1. Investigate and analyze other field guides
   1. What is there purpose? How do they work?
 
@@ -18,7 +18,7 @@ PDF Layout Tool and Generator: Gitbook
 - [The Doghouse Diaries](http://thedoghousediaries.com/4639)
 - [Wildsam Field Guides](https://wildsam.com/products)
 
-#### Inspire:
+Self-Inspire:
 List the things that you know very well. Specific knowledge that is known only to you could make for a really interesting Field Guide. For instance, if you have a child, you could create a field guide to getting your kid to sleep, with the audience being a baby sitter.
 
 This could be a place, a process, .
