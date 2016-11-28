@@ -10,7 +10,9 @@ Produce a set of instructions
 
 Produce a new life form
 
+**Generative infrastructure**
 
+The goal of this project is for you to create the infrastructure upon which others can build from.
 
 
 **Idea 1**
