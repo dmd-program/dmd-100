@@ -146,7 +146,7 @@
        * [Discover: Top three](projects/field_guide/discover_top_three.md)
        * [Define: Gut check](projects/impact/define_gut_check.md)
        * [Develop: Publishing tools](projects/impact/develop_publishing_tools.md)
-       * Develop: Test and Iterate
+       * [Develop: Test and Iterate](projects/impact/develop_test_and_iterate.md)
        * Deliver
        * Discuss
    * Readings
