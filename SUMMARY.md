@@ -129,7 +129,7 @@
        * [Discover: Primary Research](projects/open_design/discover_primary_research.md)
        * [Discover: Secondary research](projects/open_design/discover_secondary_research.md)
        * [Define: Success](projects/open_design/define_success.md)
-       * [Define: How Might We](projects/open_design/define_how_might_we.md)
+       * [Define: HMW](projects/open_design/define_how_might_we.md)
        * [Define: Goals](projects/open_design/define_goals.md)
        * [Develop: Instructions](projects/open_design/develop_instructions.md)
        * [Develop: Prototyping](projects/open_design/develop_prototyping.md)
