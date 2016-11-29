@@ -107,7 +107,7 @@ A critical story path can be thought of as the shortest path possible through a 
 #### Linear narrative structural models
 ##### Branching
 
-The branching structure is the structure used in 'choose your own adventure' books and most interactive narratives. One problem with branching structures is the tendency to create overly complicated story paths.
+The branching structure is the structure used in "choose your own adventure" books and most interactive narratives. One problem with branching structures is the tendency to create overly complicated story paths.
 
 ![Branching structure](../assets/narrative-branching-structure.png)
 
