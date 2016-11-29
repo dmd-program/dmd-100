@@ -4,4 +4,4 @@
 2. Experiment. Transform manipulate materials, use objects, and create aesthetic modifications.
 3. Make note and document any interesting outcomes.
 4. Make variations of your objects.
-5. Create a set of instructions for another person to create the toy.
+5. Create a materials list, tools list, and instructions so that another person can create reproduce the toy.
