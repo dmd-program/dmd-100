@@ -9,5 +9,8 @@
 ## Iterate
 Using your notes from the test, make adjustments, clarifications, and revisions to improve your instructions.
 
+## Repeat
+In an ideal situation, there would be plenty of time for several iterations. If time allows, try testing another one or two participants to see if you can further improve the instructions. 
+
 ## Submit
 After you are done testing and iterating, submit your test notes and modified instructions to the studio.
