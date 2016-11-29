@@ -129,6 +129,7 @@
        * [Discover: Primary Research](projects/open_design/discover_primary_research.md)
        * [Discover: Secondary research](projects/open_design/discover_secondary_research.md)
        * [Define: Success](projects/open_design/define_success.md)
+       * Define: How Might We
        * [Define: Goals](projects/open_design/define_goals.md)
        * [Develop: Instructions](projects/open_design/develop_instructions.md)
        * [Develop: Prototyping](projects/open_design/develop_prototyping.md)
@@ -136,7 +137,6 @@
        * [Develop: Test and Iterate](projects/open_design/develop_user_testing.md)
        * [Deliver: Open Toy](projects/open_design/deliver_open_toy.md)
        * [Discuss: Open Toy Critique](projects/open_design/discuss_open_toy_critique.md)
-       * Define: How Might We
 * [Lesson 5: Artifacts for Impact](lessons/co-generative_design.md)
    * Topics
        * Design research
