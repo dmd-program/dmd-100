@@ -4,7 +4,7 @@ A story is an intangible object and can be represented in different ways. A narr
 
 Stories are big business. Hollywood films tend to have structural models that traditionally sell well in the box office, increasing the probability that they will see a return on the production investment. The perception is that experimental or uncommon narrative structures tend to be risky. The same can be said for large game developers who are inclined to produce sequels of top selling titles.
 
-This can explain why many of the boundary-pushing films tend to come from independent authors and screenwriters, indie game developers, and indie filmmakers. They have less of a financial stake in the outcomes of sales, and are more likely to focus on quality and originality of content.
+This can explain why many of the boundary-pushing films tend to come from independent authors and screenwriters, indie game developers, and indie filmmakers. They have less of a financial stake in the outcomes of sales, and are more likely to focus on new modes of expression, craft, and originality of content.
 
 ## Dramatic structure
 
