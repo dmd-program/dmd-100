@@ -45,7 +45,7 @@
        * [Define: HMW](projects/ritual/define_hmw.md)
        * [Develop: Prototype](projects/ritual/develop_prototype.md)
        * [Develop: Test and Iterate](projects/ritual/develop_test_and_iterate.md)
-       * Develop: Storyboard
+       * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
        * [Deliver: Interactive Prototype](projects/ritual/deliver_interactive_prototype.md)
        * Ritual: Discuss
    * Topics
