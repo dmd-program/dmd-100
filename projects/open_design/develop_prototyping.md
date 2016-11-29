@@ -1,5 +1,4 @@
 # Develop: Prototyping
 
-Experiment with materials, objects, and aesthetic marks.
-What kind of toys are you going to make in keeping with your target age?
-
+1. Experiment with materials, objects, and aesthetic modifications.
+2. Revisit your primary and secondary research. Make note of any insights, themes, or opportunities that you want to explore.
