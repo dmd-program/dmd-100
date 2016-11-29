@@ -1,4 +1,5 @@
 # Why stories?
+Let's investigate why storytelling might be important, and the role it plays in human history.
 
 ## Stories organize reality
 In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https://www.youtube.com/watch?v=Vhd0XdedLpY), Jonathan Gottschall tells about the pervasive role stories play in the human experience. Storytelling is how humans organize reality and are able to communicate and interpret meaning. Reality is essentially organized by the storytellers of the world.
