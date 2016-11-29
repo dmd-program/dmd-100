@@ -55,7 +55,7 @@
        * [Typographic design](topics/typographic_design.md)
        * [Audience](topics/audience.md)
        * [Semiotics](topics/semiotics.md)
-       * [Design language](topics/language.md)
+       * [Language](topics/language.md)
        * [Wireframing](topics/wireframing.md)
        * [Mental model](topics/mental_model.md)
        * Storyboard
