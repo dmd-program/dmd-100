@@ -20,5 +20,5 @@
 1. If you have a mobile phone, you can...
 
 
-## Demo project
+## Demo project on InVisionApp
 [Example Ritual Project Prototype](https://projects.invisionapp.com/share/K990OJVE8#/screens/198438028_Screen_Shot_2016-10-19_At_6-16-29_PM)
