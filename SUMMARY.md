@@ -153,6 +153,7 @@
        * [Develop: Test and Iterate](projects/impact/develop_test_and_iterate.md)
        * [Deliver: Field Guide](projects/impact/deliver_field_guide.md)
        * [Discuss: Field Guide Critique](projects/impact/discuss_field_guide_critique.md)
+       * Tutorials
    * Readings
        * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
        * [Chapter 14. Designing Time](practice/designing_time.md)
