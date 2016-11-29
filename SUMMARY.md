@@ -44,7 +44,7 @@
        * [Discover: Journey Map](project/ritual/discover_journey_map.md)
        * [Define: HMW](projects/ritual/define_hmw.md)
        * [Develop: Prototype](projects/ritual/develop_prototype.md)
-       * Develop: Test and Iterate
+       * [Develop: Test and Iterate](projects/ritual/develop_test_and_iterate.md)
        * Develop: Storyboard
        * [Deliver: Interactive Prototype](projects/ritual/deliver_interactive_prototype.md)
        * Ritual: Discuss
