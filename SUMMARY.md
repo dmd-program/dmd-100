@@ -95,10 +95,10 @@
            * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
            * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
        * [Discover: Word-pairs](projects/narrative/discover_focus_words.md)
+       * [Define: Insight statement](projects/narrative/define_insight_statement.md)
        * [Define: The way it was](projects/narrative/define_the_way_it_was.md)
        * [Develop: Narrative](projects/narrative/develop_narrative.md)
        * [Deliver: Hypertext Story](projects/narrative/deliver_hypertext_story.md)
-       * [Define: Insight statement](projects/narrative/define_insight_statement.md)
        * [Discuss: Hypertext Story Critique](projects/narrative/discuss_hypertext_story_critique.md)
    * Activities
        * [Write a story: draft 1](practice/object_story.md)
