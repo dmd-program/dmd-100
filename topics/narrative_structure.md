@@ -80,6 +80,20 @@ The following Plot Diagram shows the Five Act plot points laid over a Three Act 
 6. Climax
 7. Realization
 
+### Hero's Journey
+1. The Ordinary world
+2. Call to adventure
+3. Refusal of the call
+4. Meeting with the mentor
+5. Crossing the threshold
+6. Tests, allies, and enemies
+7. Approach
+8. The ordeal
+9. The reward
+10. The road back
+11. The resurrection
+12. Return with the elixer
+
 ### Non-linear narrative structures
 A non-linear structure is not necessarily chronological or cause and effect based. Story is unfolded simultaneously and recursively.
 
