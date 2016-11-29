@@ -16,33 +16,7 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed a struc
 4. falling action
 5. dénouement/resolution
 
-This five act structure works well when describing Greek and Shakespearean plays. However, there are many ways to analyze the structure of a narrative. Most contemporary stories can be described with the most common structural breakdowns listed below:
-
-- **Three Act**
-  1. Beginning
-  2. Middle
-  3. End
-- **Four Act**
-  1. Inciting incident
-  2. First act turn to Second Act Turn
-  3. Second act turn to Third Act Turn
-  4. Third Act turn to Resolution
-- **Five Act**
-  1. Exposition
-  2. Rising action
-  3. Climax
-  4. Falling action
-  5. Resolution
-- **Seven Act**
-  - Backstory
-  - Catalyst
-  - Big event
-  - Midpoint
-  - Crisis
-  - Climax
-  - Realization
-- **Hero's Journey**
-  - The number of acts can vary widely, but tends to have around 11 or 12 acts. This list is getting lengthy, so we'll examine the Hero's Journey structure a bit later.
+This five act structure works well when describing Greek and Shakespearean plays. However, there are many ways to analyze the structure of a narrative. Most contemporary stories can be described with according to common structural breakdowns – The Three Act, Four Act, Five Act, Seven Act, and Hero's Journey. These structures can help us understand how a story is told, and act as a heuristic for writing your own story.
 
 ### Three Act
   1. Beginning
