@@ -47,7 +47,7 @@
        * [Develop: Test and Iterate](projects/ritual/develop_test_and_iterate.md)
        * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
        * [Deliver: Interactive Prototype](projects/ritual/deliver_interactive_prototype.md)
-       * Discuss: Ritual
+       * Discuss: Ritual App Critique
    * Topics
        * Identity design
        * [Visual design](topics/visual_design.md)
