@@ -4,4 +4,3 @@
 2. Have a friend, family member, or colleague try to build it. Idealy, you will be in the room with the participant while they follow your prototype instructions. However, if your participant is remotely located, ask them to set up their webcam or phone camera so that you can see them and their work space. Recording a video is not required, but if you intend to record them, be sure to ask for their permission or their parents permission if it's a child.
 3. Write notes as they go through the process. It may be helpful to ask your participant to talk through their thought process.
 4. Keep track of how long it takes your participant to follow your instructions.
-5. After the working session is over, 
