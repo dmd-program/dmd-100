@@ -15,13 +15,13 @@
    * [Introduction](lessons/what-is-design/introduction.md)
    * Topics
        * [What is design?](topics/what_is_design.md)
+       * Human-centered design
        * [Design thinking](topics/design_thinking.md)
        * [Systems thinking](topics/systems_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
        * [Design blocks](topics/design_blocks.md)
        * [Double diamond](topics/double_diamond.md)
        * [Sustainable design](topics/sustainable_design.md)
-       * Human-centered design
    * Readings
        * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
        * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
