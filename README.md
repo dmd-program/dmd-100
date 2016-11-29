@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/dmd-program/dmd-100-sp17.png?label=ready&title=Ready)](https://waffle.io/dmd-program/dmd-100-sp17)
 # DMD 100: Digital Multimedia Design Foundations
 
 DMD 100 introduces concepts, skills, language and principles of practice in art and design, communication, and information sciences.
