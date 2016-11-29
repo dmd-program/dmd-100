@@ -9,7 +9,7 @@ Semiotics, the study of meaning making, has produced models for describing how m
 
 > "The first examples of writing occurred in the Near East at the time when animals and plants were being domesticated. They took the form of clay tokens, smaller than an inch in size, used to represent different commodities." [1]
 
-The significance of this event is that people could now ascribe meaning (in this case to count grain and livestock for trade) using abstract markings on clay tokens. The token was a standardized signifier, which made commerce possible in prehistoric times. Eventually, the desire to describe other types of information led to the development of a written language and number system. Out of that arose complex social structures, division of labor, law, cities, and property ownership.
+The significance of this event is that people could now ascribe meaning (in this case to count grain and livestock for trade) using abstract markings on clay tokens. The token was a standardized signifier, which made commerce possible in prehistoric times. Eventually, the desire to describe other types of information led to the development of a written language and number systems. Out of that arose complex social structures, division of labor, law, cities, and property ownership.
 
 ## Citations
 1. Burke, James, and Robert Evan Ornstein. The Axemaker's Gift: Technology's Capture and Control of Our Minds and Culture. 1st trade pbk. ed. New York: Putnam, 1997.
