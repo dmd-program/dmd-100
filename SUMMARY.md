@@ -125,7 +125,7 @@
        * [Creative Commons Activity](practice/creative_commons_activity.md)
        * [Curating for an Idea](practice/curating_for_an_idea.md)
    * Project
-       * [Open Toy Project](projects/open_design/open_source_toy.md)
+       * [Open Toy Project Introduction](projects/open_design/open_source_toy.md)
        * [Discover: Primary Research](projects/open_design/discover_primary_research.md)
        * [Discover: Secondary research](projects/open_design/discover_secondary_research.md)
        * [Define: Goals](projects/open_design/define_goals.md)
