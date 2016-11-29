@@ -16,9 +16,7 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed a struc
 4. falling action
 5. dénouement/resolution
 
-This five act structure works well when describing Greek and Shakespearean plays.
-
-However, there are many ways to analyze the structure of a linear narrative. Most contemporary stories can be described with the most common structural breakdowns listed below:
+This five act structure works well when describing Greek and Shakespearean plays. However, there are many ways to analyze the structure of a narrative. Most contemporary stories can be described with the most common structural breakdowns listed below:
 
 - **Three Act**
   1. Beginning
@@ -44,12 +42,43 @@ However, there are many ways to analyze the structure of a linear narrative. Mos
   - Climax
   - Realization
 - **Hero's Journey**
-  - The number of acts can vary widely, but tends to have around 11 or 12 acts. More on this later.
+  - The number of acts can vary widely, but tends to have around 11 or 12 acts. This list is getting lengthy, so we'll examine the Hero's Journey structure a bit later.
 
+### Three Act
+  1. Beginning
+  2. Middle
+  3. End
+  
 #### Three Act Plot Diagram
+
 The following Plot Diagram shows the Five Act plot points laid over a Three Act structure.
 
 ![](plot_diagram_reverse2.png)
+
+
+### Four Act
+
+1. Inciting incident
+2. First act turn to Second Act Turn
+3. Second act turn to Third Act Turn
+4. Third Act turn to Resolution
+  
+### Five Act
+
+1. Exposition
+2. Rising action
+3. Climax
+4. Falling action
+5. Resolution
+
+### Seven Act
+1. Backstory
+2. Catalyst
+3. Big event
+4. Midpoint
+5. Crisis
+6. Climax
+7. Realization
 
 ### Non-linear narrative structures
 A non-linear structure is not necessarily chronological or cause and effect based. Story is unfolded simultaneously and recursively.
