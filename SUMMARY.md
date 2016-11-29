@@ -154,6 +154,7 @@
        * [Deliver: Field Guide](projects/impact/deliver_field_guide.md)
        * [Discuss: Field Guide Critique](projects/impact/discuss_field_guide_critique.md)
        * Tutorials
+           * Introduction to Gitbook
    * Readings
        * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
        * [Chapter 14. Designing Time](practice/designing_time.md)
