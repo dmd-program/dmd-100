@@ -1,5 +1,7 @@
 # Language
 
+A human's development and use of language is 
+
 Language is a technology that allows people and things to communicate in a reliable and repeatable fashion. All of modern society, for better or worse, is made possible in part by language's continued development and application. The fields of science, applied sciences, art, and liberal arts have different ways of describing the use of language, its application, and it's components.
 
 
