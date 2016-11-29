@@ -3,7 +3,7 @@
 ## Stories organize reality
 In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https://www.youtube.com/watch?v=Vhd0XdedLpY), Jonathan Gottschall tells about the pervasive role stories play in the human experience. Storytelling is how humans organize reality and are able to communicate and interpret meaning. Reality is essentially organized by the storytellers of the world.
 
-## Story and meaning making
+## Story and object
 
 Semiotics, the study of meaning making, has produced models for describing how meaning is communicated; Saussure's dyadic model consists of the signifier and the signified, and Peirce's triadic model consists of a icons, indices, and symbols. Just like [Forest Gump's shoes](https://www.youtube.com/watch?v=egkrxkiUnoo), objects are "sign vehicles," targets of mental acts that do [not have to be physical things](https://vimeo.com/133160620). From the perspective of storytelling, objects are the medium by which a story is told. Humans figured out how to do this with writing approximately 12,000 years ago.
 
