@@ -12,16 +12,16 @@ See [tvtropes.org wiki](http://tvtropes.org/pmwiki/pmwiki.php/Main/Characterizat
 
 Character types are often one or a combination of the following:
 
-1. **Main character:** The story typically follows this character most closely. They are needed to resolve the conflict.
+1. **Main character:** We experience the story through this character's eyes.
 2. **Supporting character:** These characters help us understand the main character, advance the story.
-3. **Protagonist character:** The hero in the story.
-4. **Antagonist character:**
+3. **Protagonist character:** The story typically follows this character most closely. They are needed to resolve the conflict and typically have heroic qualities.
+4. **Antagonist character:** Tries to prevent the story goal. Opposes the protagonist.
 5. **Dynamic character:** Shows development and change over time
 6. **Static character:** Does not develop or change over time
-7. **Anti-hero character:**
-8. **Round character:**
-9. **Flat character:**
-10. **Stock character:**
+7. **Anti-hero character:** Protagonist who lacks heroic qualities.
+8. **Round character:** Well developed, complex, sometimes contradictory traits.
+9. **Flat character:** Not well developed, static.
+10. **Stock character:** Archetypal, stereotypical, and flat.
 11. **Foil character:** Typically contrasts the main character in qualities and values so that we may learn more about the main character.
 12. **Symbolic character:** This character represents an abstract concept like "hope" or "justice."
 
