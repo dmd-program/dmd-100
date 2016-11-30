@@ -220,7 +220,6 @@
        * Principles
        * Methods
            * Research
-           * [Statement writing](topics/statement_writing.md)
            * Brainwriting
        * Fields
            * Animation and VFX
@@ -236,6 +235,7 @@
            * Digital imaging
            * 3D
            * Web
+   * [Statement writing](topics/statement_writing.md)
    * [The design brief](topics/the_design_brief.md)
    * [Disaster resistant objects project](projects/disaster_resistant_objects_project.md)
    * [Design for Adaptation: Introduction](projects/open_design/design_for_adaptation_introduction.md)
