@@ -210,9 +210,9 @@
            * Activism
        * Open Design Case Study
        * Read and Discuss
-           * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
        * Activity
    * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
+   * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
    * [Graphic design](topics/graphic_design.md)
    * [Programming](topics/programming.md)
    * [Open Source Gift](practice/open_source_gift.md)
