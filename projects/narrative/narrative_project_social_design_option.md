@@ -15,7 +15,18 @@ For this project, you will create a hypertext story focused on building a better
 
 - Twine Desktop Application
 
-## Process
+## Steps to completion
+
+1. Read all lesson topics and listen to any highlighted podcasts
+2. Follow the Twine tutorial to get acquainted with building with Twine
+2. Complete the associated project deliverables in the Discover, Define, Develop, Deliver, Discuss design process.
+  - Discover: Word Pairs
+  - Define: The way it was
+  - Define: Insight statement
+  - Develop: Narrative
+  - Deliver: Hypertext Narrative
+  - Discuss: Hypertext Narrative Critique
+3. Submit frequent updates of your progress to the Studio
 
 You should include the bare minimum listed in this tutorial, but if you want to produce a more advanced hypertext narrative, see the [Twine Wiki](http://twinery.org/wiki/twine2:guide) for more details.
 
