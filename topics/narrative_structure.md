@@ -1,6 +1,8 @@
 # Stories and structure
 
-A story is an intangible object and can be represented in different ways. A narrative is the expression of the story. A narrative structure orders or disorders the events of a story for the audience. There are commonly used frameworks for storytelling which started with Aristotle's three part structure consisting of a beginning, middle, and end. From there, structures become more nuanced and descriptive. 
+A story is a sequence of events and can be narrated in different ways. A narrative expresses a story. A narrative structure orders or disorders the events of a story for the audience. A voice is used to tell a story according to a perspective. This perspective is the narrative device from which we experience
+
+There are commonly used frameworks for storytelling which started with Aristotle's three part structure consisting of a beginning, middle, and end. From there, structures become more nuanced and descriptive. 
 
 Stories are big business. Hollywood films tend to have structural models that traditionally sell well in the box office, increasing the probability that they will see a return on the production investment. The perception is that experimental or uncommon narrative structures tend to be risky. The same can be said for large game developers who are inclined to produce sequels of top selling titles.
 
@@ -134,7 +136,7 @@ A sandbox structure is one where the story unfolds based on how a player chooses
 
 ##### Graph
 ![Graph structure](../assets/narrative-graph-structure.png)
-A graph structure is where all nodes simultaneously connect with every other node bi-bidirectionally. Discerning a narrative thread in such a structure can be difficult.
+A graph structure is where all nodes simultaneously connect with every other node bi-bidirectionally. Discerning a plot causality in such a structure can be difficult.
 
 #### Creating your own structural model
 
@@ -143,4 +145,4 @@ Quite often, no perfect model exists for the kind of story that needs to be told
 
 ## Citation
 1. [Digital Storytelling: A Creator's Guide to Interactive Entertainment. Carolyn Handler Miller. 2014. ISBN-10: 0415836948](http://www.amazon.com/Digital-Storytelling-creators-interactive-entertainment/dp/0415836948)
-
+2. [On Story, Plot, and Narrative in Games](https://livewareblog.wordpress.com/2013/09/09/on-story-plot-and-narrative-in-games/)
