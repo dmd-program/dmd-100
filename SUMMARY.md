@@ -212,10 +212,10 @@
        * Read and Discuss
            * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
        * Activity
-           * [Open Source Gift](practice/open_source_gift.md)
    * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
    * [Graphic design](topics/graphic_design.md)
    * [Programming](topics/programming.md)
+   * [Open Source Gift](practice/open_source_gift.md)
    * [Risk and innovation](topics/risk_and_innovation.md)
    * [Open design](topics/open_design.md)
    * [Experience Design](topics/experience_design.md)
