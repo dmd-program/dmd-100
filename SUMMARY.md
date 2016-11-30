@@ -227,13 +227,13 @@
            * Entrepreneurship
            * [Experience Design](topics/experience_design.md)
            * Game design
-           * [Graphic design](topics/graphic_design.md)
            * Industrial design
        * Tools and Technology
            * Automation
            * Digital imaging
            * 3D
            * Web
+   * [Graphic design](topics/graphic_design.md)
    * [Programming](topics/programming.md)
    * [Statement writing](topics/statement_writing.md)
    * [The design brief](topics/the_design_brief.md)
