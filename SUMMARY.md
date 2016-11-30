@@ -176,7 +176,6 @@
    * Units
        * [Unit 01](toolkit/lessons.md)
            * Unit 01 Description
-           * [Icebreaker: Visual Telephone](icebreakers/icebreaker_visual_telephone.md)
            * Lesson 2: Interface and Experience
                * Project
                    * Tutorials
@@ -235,6 +234,7 @@
    * [Graphic design](topics/graphic_design.md)
    * [Programming](topics/programming.md)
    * [Experience Design](topics/experience_design.md)
+   * [Icebreaker: Visual Telephone](icebreakers/icebreaker_visual_telephone.md)
    * [Statement writing](topics/statement_writing.md)
    * [The design brief](topics/the_design_brief.md)
    * [Disaster resistant objects project](projects/disaster_resistant_objects_project.md)
