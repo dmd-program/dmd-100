@@ -18,6 +18,6 @@
 
 
 ## Report back
-1. Submit the first draft to the studio. Acceptable file types include .txt, .doc, .pdf .
+1. Submit the first draft to the studio. Acceptable file types include TXT, RTF, DOC, PDF.
 
 ## Grading
