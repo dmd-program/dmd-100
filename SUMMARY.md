@@ -205,7 +205,6 @@
                * [Toolkit Design Project](projects/toolkit_design_project.md)
    * [Lesson 7: Open Design](lessons/open_design.md)
        * Topics
-           * [Open design](topics/open_design.md)
            * Modularity
            * Community
            * Activism
@@ -218,6 +217,7 @@
    * [Graphic design](topics/graphic_design.md)
    * [Programming](topics/programming.md)
    * [Risk and innovation](topics/risk_and_innovation.md)
+   * [Open design](topics/open_design.md)
    * [Experience Design](topics/experience_design.md)
    * [Icebreaker: Visual Telephone](icebreakers/icebreaker_visual_telephone.md)
    * [Statement writing](topics/statement_writing.md)
@@ -237,5 +237,4 @@
    * [Discursive design](topics/discursive_design.md)
    * [Future Living](practice/future_living.md)
    * [Interactive Story Project](projects/interactive_story_project.md)
-   * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
 
