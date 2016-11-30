@@ -25,4 +25,8 @@
   - energy
   - labor
 4. Now that you have created three word-pairs, write each one onto a separate journal page.
-  - Imagine it is the year 2047 and an ideal or positive situation has occurred, inspired by the word-pair. Think of one-sentence descriptions to explain the scenario. Try to have an inspiration source for your ideas, though you do not need to mention it. Inspiration can come from film, books, news, personal experiences, etc. For example, a news article for [drone pizza delivery](https://www.washingtonpost.com/news/innovations/wp/2016/08/25/hungry-your-pizza-drone-will-be-there-in-30-minutes/) might inspire an idea for a fleet of autonomous drones continually powered by the sun that search and report animal poachers to the authorities. Write as many responses per word-pairs as you can. Limit yourself to 30 minutes. **Take photos or scan your journal pages and post them to the Studio Project feed**
+  - Imagine it is the year 2047 and an ideal or positive situation has occurred, inspired by the word-pair. Think of one-sentence descriptions to explain the scenario. Try to have an inspiration source for your ideas, though you do not need to mention it. Inspiration can come from film, books, news, personal experiences, etc. For example, a news article for [drone pizza delivery](https://www.washingtonpost.com/news/innovations/wp/2016/08/25/hungry-your-pizza-drone-will-be-there-in-30-minutes/) might inspire an idea for a fleet of autonomous drones continually powered by the sun that search and report animal poachers to the authorities. Write as many responses per word-pairs as you can. Limit yourself to 30 minutes.
+
+## Report back
+1. Take photos or scan your journal pages. Make sure that your documentation images are clear and readable. Visit the documentation guide for more information.
+2. Post them to the Studio
