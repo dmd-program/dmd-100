@@ -214,6 +214,7 @@
            * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
        * Activity
            * [Open Source Gift](practice/open_source_gift.md)
+   * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
    * [Graphic design](topics/graphic_design.md)
    * [Programming](topics/programming.md)
    * [Risk and innovation](topics/risk_and_innovation.md)
@@ -234,12 +235,7 @@
    * [Design Intervention](practice/design_intervention.md)
    * Design Methods
    * [Discursive design](topics/discursive_design.md)
+   * [Future Living](practice/future_living.md)
    * [Interactive Story Project](projects/interactive_story_project.md)
    * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
-   * [Lesson 2: Discursive Design](lessons/discursive_design.md)
-       * Topics
-       * Discursive Design Case Study
-       * Activities
-           * [Future Living](practice/future_living.md)
-           * [Dwelling Design](practice/dwelling_design.md)
 
