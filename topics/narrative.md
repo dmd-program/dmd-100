@@ -1,10 +1,12 @@
 # Why stories?
-Let's investigate why storytelling might be important, and the role it plays in human history.
+Let's investigate why storytelling might be important, and the role it plays in society.
 
 ## Stories organize reality
 In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https://www.youtube.com/watch?v=Vhd0XdedLpY), Jonathan Gottschall tells about the pervasive role stories play in the human experience. Storytelling is how humans organize reality and are able to communicate and interpret meaning. Reality is essentially organized by the storytellers of the world.
 
 Meaning, it turns out, cannot just be created and distributed en mass without going through some sort of idea filter. Human's have developed a filtering system that is hesitant to absorb new ideas, particularly the ones that are counter to the ones they already believe. This is called skepticism.  Skepticism is assuaged with the persuasive argument's appeal to logic (logos), emotions (pathos), and ethics (ethos). A poorly delivered story presents us with what we can think of as a bad argument – that is that this story is not reasonable, I don't care about it, and it doesn't appeal to my sense of identity. What is reasonable, emotionally moving, and indicative of a someone's sensibilities can be often be specific to a point in history, from one culture to another, and from one person to another.
+
+> Anyone who wants to impact the world must work towards becoming a great storyteller.
 
 Media companies have spent a long time learning how to deliver stories to more people than ever before in human history. You can read, watch, interact with, or listen to a new story every day for the rest of your life. Social media technology has enabled story-telling entities to now tell only the stories they think will be consumed by that person. If you and your neighbor have different ideas of what is real, what effects will this have on society at large? This question implies that the people who create and disseminate stories have a tremendous amount of power to shape the world. Anyone who wants to impact the world must work towards becoming a great storyteller.
 
