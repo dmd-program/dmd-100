@@ -173,12 +173,6 @@
        * [Prototype](toolkit/prototype.md)
        * [Insights](toolkit/insights.md)
        * [Journey map](toolkit/journey_map.md)
-   * Units
-       * [Unit 01](toolkit/lessons.md)
-           * Unit 01 Description
-       * Unit 02
-       * Unit 03
-           * Unit 03 Project
    * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
    * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
    * [Toolkit Design Project](projects/toolkit_design_project.md)
