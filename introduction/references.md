@@ -1,5 +1,5 @@
 # References
-The content in this book is an amalgamation of information sourced from books, articles, papers, videos, film, blog posts, and personal experiences from across the spectrum of design.
+The content in this book is an amalgamation of information sourced from books, articles, papers, videos, film, audio, blog posts, and personal experiences from across the spectrum of technology, philosophy, and design.
 
 ## Books
 
