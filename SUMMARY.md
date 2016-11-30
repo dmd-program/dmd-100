@@ -103,7 +103,7 @@
        * [Deliver: Iterate](projects/narrative/deliver_iterate.md)
        * [Develop: Narrative](projects/narrative/develop_narrative.md)
        * [Deliver: Hypertext Narrative](projects/narrative/deliver_hypertext_story.md)
-       * [Discuss: Hypertext Story Critique](projects/narrative/discuss_hypertext_story_critique.md)
+       * [Discuss: Hypertext Narrative Critique](projects/narrative/discuss_hypertext_story_critique.md)
    * Activities
        * [Write a story: draft 1](practice/object_story.md)
        * [Write a story: draft 2](practice/object_story_draft_2.md)
