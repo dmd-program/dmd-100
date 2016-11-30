@@ -214,21 +214,6 @@
            * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
        * Activity
            * [Open Source Gift](practice/open_source_gift.md)
-   * Topics
-       * Methods
-           * Research
-           * Brainwriting
-       * Fields
-           * Animation and VFX
-           * Architecture
-           * Entrepreneurship
-           * Game design
-           * Industrial design
-       * Tools and Technology
-           * Automation
-           * Digital imaging
-           * 3D
-           * Web
    * [Graphic design](topics/graphic_design.md)
    * [Programming](topics/programming.md)
    * [Risk and innovation](topics/risk_and_innovation.md)
