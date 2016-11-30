@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-   * [Calendar](calendar.md)
    * [Preface](introduction/preface.md)
+   * [Calendar](calendar.md)
    * [Measuring success](introduction/measuring_success.md)
    * [References](introduction/references.md)
    * [Recommended Tools](introduction/recommended_tools.md)
