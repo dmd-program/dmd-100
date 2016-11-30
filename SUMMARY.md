@@ -9,11 +9,11 @@
    * [Project Management](toolkit/project_management.md)
    * [Recommended Tools](introduction/recommended_tools.md)
    * [Outlandish Introductions](icebreakers/outlandish_introductions.md)
-   * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * The Studio
    * Grading
    * Guidelines
        * [Feedback and Critiques](feedback_and_critiques.md)
+       * [Documentation Guidelines](toolkit/documentation_guidelines.md)
        * d
 * [Lesson 1: What is Design?](lessons/introduction.md)
    * [Introduction](lessons/what-is-design/introduction.md)
