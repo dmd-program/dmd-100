@@ -10,6 +10,8 @@ You can extrapolate this concept to practically everything you make. You want to
 
 ### Story Elements
 
+**!!!Idea, structure, story?**
+
 #### Setting/environment
 
 The setting is the environment that the story takes place. The setting helps establish the tone, story genre, and often foreshadows future events in the plot. In some video games, the environment is also a narrative device, providing context for the world the characters inhabit. 
