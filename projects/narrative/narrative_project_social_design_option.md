@@ -26,7 +26,7 @@ For this project, you will create a hypertext story focused on building a better
 2. Follow the Twine tutorial to get acquainted with building with Twine.
   -  Twine tutorial: Getting Started
 3. Complete the associated project deliverables in the Discover, Define, Develop, Deliver, Discuss design process.
-  - Discover: Word Pairs
+  - Discover: Word-pairs
   - Define: The way it was
   - Define: Insight statement
   - Develop: Narrative
