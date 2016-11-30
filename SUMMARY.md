@@ -9,7 +9,7 @@
    * [Outlandish Introductions](icebreakers/outlandish_introductions.md)
    * The Studio
    * Grading
-   * Guidelines
+   * Reference Guidelines
        * [Project Management](toolkit/project_management.md)
        * [Feedback and Critiques](feedback_and_critiques.md)
        * [Writing Guidelines](writing_guidelines.md)
