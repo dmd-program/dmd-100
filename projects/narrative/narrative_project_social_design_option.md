@@ -19,7 +19,10 @@ For this project, you will create a hypertext story focused on building a better
 
 You should include the bare minimum listed in this tutorial, but if you want to produce a more advanced hypertext narrative, see the [Twine Wiki](http://twinery.org/wiki/twine2:guide) for more details.
 
+## Grading
+
+This project will be assessed according to a project rubric.
 
 
 ## Citation
-**Adapted from:** THINK CRITICALLY - ACT CREATIVELY: HARNESSING THE POWER OF FICTION FOR SOCIAL GOOD. Accessed on October 10, 2016. http://byanymedia.org/works/mapp/activity-1?path=activities
+**This project has been adapted from:** THINK CRITICALLY - ACT CREATIVELY: HARNESSING THE POWER OF FICTION FOR SOCIAL GOOD. Accessed on October 10, 2016. http://byanymedia.org/works/mapp/activity-1?path=activities
