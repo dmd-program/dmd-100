@@ -7,7 +7,7 @@
    * [References](introduction/references.md)
    * [Recommended Tools](introduction/recommended_tools.md)
    * [Outlandish Introductions](icebreakers/outlandish_introductions.md)
-   * The Studio
+   * [The Studio](the_studio.md)
    * [Grading](grading.md)
    * Reference Guidelines
        * [Project Management](toolkit/project_management.md)
