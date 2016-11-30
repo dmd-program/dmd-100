@@ -193,14 +193,6 @@
        * Unit 03
            * Unit 03 Project
                * [Toolkit Design Project](projects/toolkit_design_project.md)
-   * [Lesson 7: Open Design](lessons/open_design.md)
-       * Topics
-           * Modularity
-           * Community
-           * Activism
-       * Open Design Case Study
-       * Read and Discuss
-       * Activity
    * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
    * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
    * [Graphic design](topics/graphic_design.md)
