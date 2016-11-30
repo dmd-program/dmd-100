@@ -6,7 +6,6 @@
    * [Measuring success](introduction/measuring_success.md)
    * [References](introduction/references.md)
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
-   * [Feedback and Critiques](feedback_and_critiques.md)
    * [Writing Guidelines](writing_guidelines.md)
    * [Project Management](toolkit/project_management.md)
    * [Recommended Tools](introduction/recommended_tools.md)
@@ -14,6 +13,7 @@
    * The Studio
    * Grading
    * Guidelines
+       * [Feedback and Critiques](feedback_and_critiques.md)
        * d
 * [Lesson 1: What is Design?](lessons/introduction.md)
    * [Introduction](lessons/what-is-design/introduction.md)
