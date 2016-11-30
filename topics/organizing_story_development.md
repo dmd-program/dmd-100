@@ -4,7 +4,7 @@ Story development is a generative process where ideas, themes, and unique charac
 
 ### Show, don't tell.
 
-When drafting a story, it is often best to convey information and ideas indirectly. For instance, you could write, "Mary was a very nice person." Alternatively, you could write, "Mary spent her weekends volunteering at a local shelter and worked part time as a nurse." Both methods communicate the kind of person Mary is, but the latter is more engaging for the reader.
+When drafting a story, it is often best to convey information and ideas indirectly. For instance, you could write, "Xavier was a very nice person." Alternatively, you could write, "Xavier spent his weekends volunteering at a local shelter and worked part time as a nurse." Both methods communicate the kind of person Xavier is, but the latter is more engaging for the reader.
 
 You can extrapolate this concept to practically everything you make. You want to let your viewers choose to connect the dots or leave some dots unconnected. If you don't give their brain any work to do, it can make for an extremely dull experience, but too much work, and it will be confusing and frustrating.
 
