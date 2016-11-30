@@ -2,9 +2,9 @@
 
 A story is a sequence of events and can be temporal (happen within the viewer's mind) or spatial (occur physically). A story (sequence of events) is expressed through narration, or the recounting of events. A narrative is a method of telling a story and is tangible. We know that a narrative is tangible because we can perceive the telling of stories through written text, sound, performance, image, etc. A narrative account of a split-second could last for the entire retelling and an event that lasted 100 years could be retold in a few seconds. Narrative places emphasis, focus, and perspective for stories.
 
-- Story: A sequence of events. Can occur spatially or temporally.
-- Narrative: Method of telling story. Method of combining events and plot. Can exist without story. Can exist without plot.
-- Plot: Provides context and meaning for story events. Needs story to exist.
+- **Story:** A sequence of events. Can occur spatially or temporally.
+- **Narrative:** Method of telling story.
+- **Plot:** Provides context and meaning for story events.
 
 
 A narrative structure orders or disorders the events of a story for the audience, and combines those events with plot. A linear narrative is chronological, whereas a non-linear narrative is non-chronological. There are commonly used frameworks for storytelling which started with Aristotle's three part structure consisting of a beginning, middle, and end. From there, structures become more nuanced and descriptive. 
