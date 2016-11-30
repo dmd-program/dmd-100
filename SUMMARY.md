@@ -113,6 +113,7 @@
    * [Introduction](lessons/open_design/introduction.md)
    * Topics
        * Creativity
+       * [Open design](topics/open_design.md)
        * [Everything is a Remix](topics/everything_is_a_remix.md)
        * [Intellectual property](topics/intellectual_property.md)
        * Generative design
@@ -181,7 +182,6 @@
    * [Programming](topics/programming.md)
    * [Open Source Gift](practice/open_source_gift.md)
    * [Risk and innovation](topics/risk_and_innovation.md)
-   * [Open design](topics/open_design.md)
    * [Experience Design](topics/experience_design.md)
    * [Icebreaker: Visual Telephone](icebreakers/icebreaker_visual_telephone.md)
    * [Statement writing](topics/statement_writing.md)
