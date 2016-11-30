@@ -1,11 +1,6 @@
 # Character
 
-In fictional film or literature, character types are used to help viewers to empathize with the story. A person's character typically refers to the qualities they possess. However, a character can also be an animal, object, or abstraction in a story. Objects are often represented through anthropomorphism, where human attributes are applied to a non-human. According to an [explainer video about animated light](https://www.youtube.com/watch?v=xf0WjeE6eyM) for the movie, Akira, the city itself was considered to be a character.
-
-**Examples of objects as character:**
-
-- Animated Race Car: [Cars (2006)](http://www.imdb.com/title/tt0317219/)
-- Homicidal car tire: [Rubber (2010)](http://www.imdb.com/title/tt1612774/)
+In fictional film or literature, character types are used to help viewers to empathize with the story. A person's character typically refers to the qualities they possess. However, a character can also be an animal, object, or abstraction in a story. Objects are often represented through anthropomorphism, where human attributes are applied to a non-human. According to an [explainer video about animated light](https://www.youtube.com/watch?v=xf0WjeE6eyM) for the movie, Akira, the city itself was considered to be a character. Other examples of non-human characters include an Lightning McQueen from [Cars (2006)](http://www.imdb.com/title/tt0317219/) and a homicidal car tire named Robert in the movie [Rubber (2010)](http://www.imdb.com/title/tt1612774/).
 
 ## Characterization
 
