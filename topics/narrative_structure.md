@@ -15,7 +15,7 @@ A story is a sequence of events and can be temporal (happen within the viewer's 
 
 **Plot for Story 1:** Susan was really tired from work and sat down in her chair. She heard a loud cracking noise and woke up lying on the floor with a bad headache unable to remember anything. Suspecting she might need medical attention, she called an ambulance to come take her to the hospital.
 
-**Written Narrative for Story 1:** As her body fell, seemingly in slow motion, Susan realized something. She realized that no matter how hard she worked, her boss would never understand her struggle. He would never know the stress of choosing between food and rent. The shame of still having to ask her parents for money even though she works two jobs. The cracking and splintering of the wood was a metaphor. She was crumbling like the wooden leg on her mid-century vintage saddle chair. And the hard floor was reality. Now awake and in pain, she picked up the phone. Susan needed to ask for help once again.
+**Written Narrative for Story 1:** As her body fell, seemingly in slow motion, Susan realized something. She was really tired. She realized that no matter how hard she worked, her boss would never understand her struggle. He would never know the stress of choosing between food and rent. The shame of still having to ask her parents for money even though she works two jobs. The cracking and splintering of the wood was a metaphor. She was crumbling like the wooden leg on her mid-century vintage saddle chair. And the hard floor was reality. Now awake and in pain, she picked up the phone. Susan needed to ask for help once again.
 
 ## Narrative structure
 
