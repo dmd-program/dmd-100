@@ -6,7 +6,7 @@
 3. Produce a written second draft. Get feedback and revise as many times as you think is necessary.
 
 
-## Report back
+## Report in
 1. Name it: second-draft.doc
 2. Make sure your name and date is on your draft.
 2. Submit your second draft to the studio. Acceptable file types include TXT, RTF, DOC, PDF.
