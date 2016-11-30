@@ -1,4 +1,4 @@
-# Stories and structure
+# What is a story?
 
 A story is a sequence of events and can be temporal (happen within the viewer's mind) or spatial (occur physically). A story (sequence of events) is expressed through narration, or the recounting of events. A narrative is a method of telling a story and is tangible. We know that a narrative is tangible because we can perceive the telling of stories through written text, sound, performance, image, etc. A narrative account of a split-second could last for the entire retelling and an event that lasted 100 years could be retold in a few seconds. Narrative places emphasis, focus, and perspective for stories. A plot is the connective tissue between story events, describing the causal relationships and context for viewers.
 
@@ -6,7 +6,8 @@ A story is a sequence of events and can be temporal (happen within the viewer's 
 - **Narrative:** Method of telling story.
 - **Plot:** Creates meaning by connecting story events with context.
 
-**Story:**
+### Examples:
+
 
 **Story 1:** (1) Susan sat on a chair. (2) Susan fell onto the floor. (3) Susan called for help.
 
@@ -14,7 +15,7 @@ A story is a sequence of events and can be temporal (happen within the viewer's 
 
 **Plot for Story 1:** Susan was really tired from work and sat down in her chair. She heard a loud cracking noise and woke up lying on the floor with a bad headache unable to remember anything. Suspecting she might need medical attention, she called an ambulance to come take her to the hospital.
 
-**Narrative:** As her body fell, seemingly in slow motion, Susan realized something. She realized that no matter how hard she worked, her boss would never understand her struggle. He would never know the stress of choosing between food and rent. The shame of still having to ask her parents for money even though she works two jobs. The cracking and splintering of the wood was a metaphor. She was crumbling like the wooden leg on her mid-century vintage saddle chair. And the hard floor was reality. Now awake and in pain, she picked up the phone. Susan needed to ask for help once again.
+**Narrative for Story 1:** As her body fell, seemingly in slow motion, Susan realized something. She realized that no matter how hard she worked, her boss would never understand her struggle. He would never know the stress of choosing between food and rent. The shame of still having to ask her parents for money even though she works two jobs. The cracking and splintering of the wood was a metaphor. She was crumbling like the wooden leg on her mid-century vintage saddle chair. And the hard floor was reality. Now awake and in pain, she picked up the phone. Susan needed to ask for help once again.
 
 A narrative structure orders or disorders the events of a story for the audience, and combines those events with plot. A linear narrative is chronological, whereas a non-linear narrative is non-chronological. There are commonly used frameworks for storytelling which started with Aristotle's three part structure consisting of a beginning, middle, and end. From there, structures become more nuanced and descriptive. 
 
