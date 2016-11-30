@@ -215,7 +215,6 @@
        * Activity
            * [Open Source Gift](practice/open_source_gift.md)
    * Topics
-       * Principles
        * Methods
            * Research
            * Brainwriting
