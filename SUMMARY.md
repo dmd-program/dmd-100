@@ -231,10 +231,10 @@
            * Industrial design
        * Tools and Technology
            * Automation
-           * [Programming](topics/programming.md)
            * Digital imaging
            * 3D
            * Web
+   * [Programming](topics/programming.md)
    * [Statement writing](topics/statement_writing.md)
    * [The design brief](topics/the_design_brief.md)
    * [Disaster resistant objects project](projects/disaster_resistant_objects_project.md)
