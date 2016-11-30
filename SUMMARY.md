@@ -249,12 +249,12 @@
    * [Design Fiction Project](projects/design_fiction_project.md)
    * [Design Intervention](practice/design_intervention.md)
    * Design Methods
+   * [Discursive design](topics/discursive_design.md)
    * [Interactive Story Project](projects/interactive_story_project.md)
    * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
    * [Lesson 2: Discursive Design](lessons/discursive_design.md)
        * [Discursive design](topics/discursive_design.md)
        * Topics
-           * [Discursive design](topics/discursive_design.md)
        * Discursive Design Case Study
        * Activities
            * [Future Living](practice/future_living.md)
