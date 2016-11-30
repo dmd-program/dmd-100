@@ -85,7 +85,7 @@ The following Plot Diagram shows the Five Act plot points laid over a Three Act 
 9. The reward
 10. The road back
 11. The resurrection
-12. Return with the elixer
+12. Return with the elixir
 
 ### Non-linear narrative structures
 A non-linear structure is not necessarily chronological or cause and effect based. Story is unfolded simultaneously and recursively.
