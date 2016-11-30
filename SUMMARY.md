@@ -176,16 +176,6 @@
    * Units
        * [Unit 01](toolkit/lessons.md)
            * Unit 01 Description
-           * Lesson 2: Interface and Experience
-               * Project
-                   * Tutorials
-               * Topics
-                   * Identity
-                   * Semiotics
-               * Listening
-               * Readings
-                   * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
-               * Activities
            * Lesson 3: Storytelling
                * Topics
                    * Setting
