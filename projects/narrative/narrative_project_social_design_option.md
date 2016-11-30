@@ -18,7 +18,8 @@ For this project, you will create a hypertext story focused on building a better
 ## Steps to completion
 
 1. Read all lesson topics and listen to any highlighted podcasts
-2. Follow the Twine tutorial to get acquainted with building with Twine
+2. Follow the Twine tutorial to get acquainted with building with Twine.
+  -  Twine tutorial: Getting Started
 3. Complete the associated project deliverables in the Discover, Define, Develop, Deliver, Discuss design process.
   - Discover: Word Pairs
   - Define: The way it was
