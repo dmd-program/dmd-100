@@ -179,9 +179,9 @@
        * Unit 02
        * Unit 03
            * Unit 03 Project
-               * [Toolkit Design Project](projects/toolkit_design_project.md)
    * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
    * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
+   * [Toolkit Design Project](projects/toolkit_design_project.md)
    * [Graphic design](topics/graphic_design.md)
    * [Programming](topics/programming.md)
    * [Open Source Gift](practice/open_source_gift.md)
