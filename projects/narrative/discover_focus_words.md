@@ -30,3 +30,6 @@
 ## Report back
 1. Take photos or scan your journal pages. Make sure that your documentation images are clear and readable. Visit the documentation guide for more information.
 2. Post them to the Studio
+
+## Grading
+Grading occurs after you have reported your work back to the studio.
