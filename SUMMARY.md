@@ -225,7 +225,6 @@
            * Animation and VFX
            * Architecture
            * Entrepreneurship
-           * [Experience Design](topics/experience_design.md)
            * Game design
            * Industrial design
        * Tools and Technology
@@ -235,6 +234,7 @@
            * Web
    * [Graphic design](topics/graphic_design.md)
    * [Programming](topics/programming.md)
+   * [Experience Design](topics/experience_design.md)
    * [Statement writing](topics/statement_writing.md)
    * [The design brief](topics/the_design_brief.md)
    * [Disaster resistant objects project](projects/disaster_resistant_objects_project.md)
@@ -253,7 +253,6 @@
    * [Interactive Story Project](projects/interactive_story_project.md)
    * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
    * [Lesson 2: Discursive Design](lessons/discursive_design.md)
-       * [Discursive design](topics/discursive_design.md)
        * Topics
        * Discursive Design Case Study
        * Activities
