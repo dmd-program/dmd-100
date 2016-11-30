@@ -4,7 +4,7 @@ A story is a sequence of events and can be temporal (happen within the viewer's 
 
 - **Story:** A sequence of events. Can occur spatially or temporally.
 - **Narrative:** Method of telling story.
-- **Plot:** Provides context and meaning for story events.
+- **Plot:** Creates meaning by connecting story events with context.
 
 
 A narrative structure orders or disorders the events of a story for the audience, and combines those events with plot. A linear narrative is chronological, whereas a non-linear narrative is non-chronological. There are commonly used frameworks for storytelling which started with Aristotle's three part structure consisting of a beginning, middle, and end. From there, structures become more nuanced and descriptive. 
