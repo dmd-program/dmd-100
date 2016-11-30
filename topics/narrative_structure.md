@@ -1,6 +1,10 @@
 # Stories and structure
 
-A story is a sequence of events and is a non-tangible object. A story (a sequence of events) is expressed through narration (narrative). A narrative structure orders or disorders the events of a story for the audience, and combines those events with plot. A linear narrative is chronological, whereas a non-linear narrative is non-chronological.
+A story is a sequence of events and can be temporal (conceptual) or spatial (physical). A story is expressed through narration. A narrative is a method of telling a story and is tangible. We know that a narrative is tangible, because we can perceive the telling of stories. This method could be A narrative structure orders or disorders the events of a story for the audience, and combines those events with plot. A linear narrative is chronological, whereas a non-linear narrative is non-chronological.
+
+- Story: A sequence of events. Can occur spatially or temporally.
+- Narrative: Method of telling story. Method of combining events and plot. Can exist without story. Can exist without plot.
+- Plot: Provides context and meaning for story events. Needs story to exist.
 
 There are commonly used frameworks for storytelling which started with Aristotle's three part structure consisting of a beginning, middle, and end. From there, structures become more nuanced and descriptive. 
 
