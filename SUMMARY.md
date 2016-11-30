@@ -161,6 +161,7 @@
    * Readings
        * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
        * [Chapter 14. Designing Time](practice/designing_time.md)
+   * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
    * Activities
        * Co-generative Design Activity
        * Design your Day
@@ -175,7 +176,6 @@
        * [Insights](toolkit/insights.md)
        * [Journey map](toolkit/journey_map.md)
    * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
-   * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
    * [Toolkit Design Project](projects/toolkit_design_project.md)
    * [Graphic design](topics/graphic_design.md)
    * [Programming](topics/programming.md)
