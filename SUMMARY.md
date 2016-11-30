@@ -252,6 +252,7 @@
    * [Interactive Story Project](projects/interactive_story_project.md)
    * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
    * [Lesson 2: Discursive Design](lessons/discursive_design.md)
+       * [Discursive design](topics/discursive_design.md)
        * Topics
            * [Discursive design](topics/discursive_design.md)
        * Discursive Design Case Study
