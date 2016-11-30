@@ -10,9 +10,9 @@ You can extrapolate this concept to practically everything you make. You want to
 
 ### Story Elements
 
-#### Setting
+#### Setting/environment
 
-The setting is the environment that the story takes place. The setting helps establish the tone, story genre, and often foreshadows future events in the plot.
+The setting is the environment that the story takes place. The setting helps establish the tone, story genre, and often foreshadows future events in the plot. In some video games, the environment is also a narrative device, providing context for the world the characters inhabit. 
 
 #### Point of View (PoV)
 Who is telling the story? Who are you experiencing the story through? Depending on the point of view, the author can create a sense of intimacy with the story, or a more objective and distant perspective.
