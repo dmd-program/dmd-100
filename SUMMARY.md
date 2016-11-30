@@ -14,6 +14,7 @@
    * The Studio
    * Grading
    * Guidelines
+       * d
 * [Lesson 1: What is Design?](lessons/introduction.md)
    * [Introduction](lessons/what-is-design/introduction.md)
    * Topics
