@@ -33,3 +33,5 @@
 
 ## Grading
 Grading occurs after you have reported your work back to the studio.
+
+Your work is assessed according to a rubric, located here.
