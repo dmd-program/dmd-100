@@ -176,19 +176,6 @@
    * Units
        * [Unit 01](toolkit/lessons.md)
            * Unit 01 Description
-           * Lesson 3: Storytelling
-               * Topics
-                   * Setting
-                   * Conflict
-                   * Resolution
-                   * Point of view
-                   * Theme
-               * Listening
-               * Readings
-               * Project
-                   * Tutorials
-               * Activities
-               * Discussions
        * Unit 02
        * Unit 03
            * Unit 03 Project
