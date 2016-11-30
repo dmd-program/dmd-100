@@ -15,7 +15,7 @@ For this project, you will create a hypertext story focused on building a better
 
 - Twine Desktop Application
 
-## Additional Learning Resources
+## Advanced Learning Resources
 
 - **Making a game with Twine:** [Twine Game Tutorial](http://www.auntiepixelante.com/twine/)
 - **Mastering Twine:** [Twine Wiki](http://twinery.org/wiki/twine2:guide)
