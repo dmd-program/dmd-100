@@ -207,7 +207,6 @@
        * Topics
            * [Open design](topics/open_design.md)
            * Modularity
-           * [Risk and innovation](topics/risk_and_innovation.md)
            * Community
            * Activism
        * Open Design Case Study
@@ -233,6 +232,7 @@
            * Web
    * [Graphic design](topics/graphic_design.md)
    * [Programming](topics/programming.md)
+   * [Risk and innovation](topics/risk_and_innovation.md)
    * [Experience Design](topics/experience_design.md)
    * [Icebreaker: Visual Telephone](icebreakers/icebreaker_visual_telephone.md)
    * [Statement writing](topics/statement_writing.md)
