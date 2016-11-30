@@ -5,11 +5,11 @@
    * [Preface](introduction/preface.md)
    * [Measuring success](introduction/measuring_success.md)
    * [References](introduction/references.md)
-   * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Writing Guidelines](writing_guidelines.md)
    * [Project Management](toolkit/project_management.md)
    * [Recommended Tools](introduction/recommended_tools.md)
    * [Outlandish Introductions](icebreakers/outlandish_introductions.md)
+   * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * The Studio
    * Grading
    * Guidelines
