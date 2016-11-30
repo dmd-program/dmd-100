@@ -99,10 +99,10 @@
            * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
        * [Discover: Word-pairs](projects/narrative/discover_focus_words.md)
        * [Define: The way it was](projects/narrative/define_the_way_it_was.md)
+       * Develop: Story, Plot, Narrative
        * [Develop: Narrative](projects/narrative/develop_narrative.md)
        * [Deliver: Hypertext Story](projects/narrative/deliver_hypertext_story.md)
        * [Discuss: Hypertext Story Critique](projects/narrative/discuss_hypertext_story_critique.md)
-       * Develop: Story, Plot, Narrative
    * Activities
        * [Write a story: draft 1](practice/object_story.md)
        * [Write a story: draft 2](practice/object_story_draft_2.md)
