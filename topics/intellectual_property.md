@@ -6,4 +6,4 @@
 
 Test import code:
 
-{% include "git+https://github.com/ethereum/cpp-ethereum.wiki.git/Solidity-Features.md" %}
+{% include "git+https://github.com/michael-collins/3d-digital-art-and-design--oer.git/Solidity-Features.md" %}
