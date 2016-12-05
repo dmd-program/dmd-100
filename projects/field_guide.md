@@ -1,7 +1,10 @@
 # Field guide Project
-For this project, you will work through a design process to develop an open-license field guide. You must decide what the guide's "field" is and what type of guidance you want to provide. There is no reference to a specific definition for field guide in this assignment, which leaves the format up to you. It could be entirely graphical or mostly text-based. There is a huge range of subjects, be they technical, instructional, personal, satirical, comedic, from popular culture, etc. Is there something that you are good at the you want to teach to others? Choose an idea that is not too broad in scope so that you can complete the guide within the given time.
+For this project, you will work through a design process to develop a field guide. You must decide what the guide's focus is and what type of guidance you want to provide. There is no reference to a specific definition for field guide in this assignment, which leaves the format and interpretation up to you. It could be entirely image-based, video-based, or text-based, or a combination of media. There is a huge range of subjects, be they technical, instructional, personal, satirical, comedic, from popular culture, etc. You will narrow and identify the focus over the course of completing project deliverables.
 
-After you complete the project, you will have the option to have your project indexed at Penn State Libraries for sharing, reuse, and remix.
+
+Choose an idea that is not too broad in scope so that you can complete the guide within the given time.
+
+After you complete the project, you will have the option to have your project digitally indexed for public consumption.
 
 ## Examples
 
