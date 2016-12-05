@@ -2,12 +2,12 @@
 
 In this phase, you will research toys and physical modular systems on the Internet. Find images of interesting or inspiring ways of making, attaching, and combining parts.
 
-## Intstructions
+## Instructions
 - Using a web browser, conduct searches.
 - Copy images onto your computer.
 - Compile images into one pdf.
 - Upload the PDF file to the Studio.
 
-## Report In
+## Report in
 
 ## Grading
