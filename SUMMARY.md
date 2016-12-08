@@ -14,7 +14,7 @@
        * [Feedback and Critiques](feedback_and_critiques.md)
        * [Writing Guidelines](writing_guidelines.md)
        * [Documentation Guidelines](toolkit/documentation_guidelines.md)
-   * [License](license.md)
+   * [License](LICENSE.md)
 * [Lesson 1: What is Design?](lessons/introduction.md)
    * [Introduction](lessons/what-is-design/introduction.md)
    * Topics
