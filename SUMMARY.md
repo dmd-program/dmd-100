@@ -14,7 +14,6 @@
        * [Feedback and Critiques](feedback_and_critiques.md)
        * [Writing Guidelines](writing_guidelines.md)
        * [Documentation Guidelines](toolkit/documentation_guidelines.md)
-   * [License](LICENSE.md)
 * [Lesson 1: What is Design?](lessons/introduction.md)
    * [Introduction](lessons/what-is-design/introduction.md)
    * Topics
@@ -167,6 +166,7 @@
    * Activities
        * Co-generative Design Activity
        * Design your Day
+* [License](LICENSE.md)
 * not yet organized
    * Design Methods
        * [Inspire](toolkit/inspire.md)
