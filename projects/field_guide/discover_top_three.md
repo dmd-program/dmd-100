@@ -1,7 +1,8 @@
-# Discover: Top three
+# Discover: Mind mapping
+Local knowledge describes a kind of knowledge that is specific to your own experiences. Is this step, you will create a mind map to try to better understand your local knowledge.
 
-1. List the things that you know or can do very well.
-  - Specific knowledge that is known only to you could make for a really interesting field guide. For instance, if you have a child, you could create a field guide to getting your kid to sleep, with the audience being a baby sitter.
+## Instructions
+1. In your journal, write down the places that you are the most familiar with. about some things that you do very well. 
 2. List three ideas
 
 ## Citation
