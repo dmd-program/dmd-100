@@ -1,6 +1,5 @@
 {% oer_resource id="#ritualproject", type="Activity"  %}
 {% oer_property name="license", value="https://creativecommons.org/licenses/by/4.0/" %}
-{% oer_property name="citation", value="http://www.academia.edu/464844/Design_and_Truth" %}
 {% oer_property name="name" %}
 # Ritual
 {% endoer_property %}
