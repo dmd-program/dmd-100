@@ -1,4 +1,4 @@
-{% oer_resource id="#whatisdesign", type="SupportingMaterial"  %}
+{% oer_resource id="#ritualproject", type="SupportingMaterial"  %}
 {% oer_property name="license", value="https://creativecommons.org/licenses/by/4.0/" %}
 {% oer_property name="citation", value="http://www.academia.edu/464844/Design_and_Truth" %}
 {% oer_property name="name" %}
