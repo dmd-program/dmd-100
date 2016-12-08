@@ -61,3 +61,5 @@ Steps
     - [Prototype](../toolkit/prototype.md)
     - MVP: Interactive prototype
     - 
+{% endoer_property %}
+{% endoer_resource %}
