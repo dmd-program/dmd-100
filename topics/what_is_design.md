@@ -1,3 +1,5 @@
+{% oer_resource id="#main", type="Resource"  %}
+{% oer_property name="license", value="https://creativecommons.org/licenses/by/4.0/" %}
 # What is Design?
 
 ## Introduction
