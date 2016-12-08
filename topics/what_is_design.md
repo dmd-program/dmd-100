@@ -1,7 +1,10 @@
-{% oer_resource id="#main", type="Resource"  %}
+{% oer_resource id="#whatisdesign", type="SupportingMaterial"  %}
 {% oer_property name="license", value="https://creativecommons.org/licenses/by/4.0/" %}
+{% oer_property name="citation", value="http://www.academia.edu/464844/Design_and_Truth" %}
+{% oer_property name="name" %}
 # What is Design?
-
+{% endoer_property %}
+{% oer_property name="description" %}
 ## Introduction
 
 > “The primary function of design is to shape and channel energy.”
@@ -11,6 +14,7 @@
 From the moment a person wakes up, they are interacting with design. Everything in the home, place of work, and journey to and from has been influenced by a designer of some kind. The degree of care for each designed artifact or experience can vary dramatically, giving people a range of experiences - from delight to dismay. Design as a field of practice has become more inclusive since the days of the Bauhaus, and in turn, has become harder to define.
 
 At the broadest sense of **design as a verb**, it can be thought of the act of making a choice. In the broadest sense of **design as a noun**, it is the result of a choice. For the purposes of this course, **good design is the process that helps a person or group create, select, and organize elements to satisfy and evaluate a positive intention**. However, this definition does not imply good design. A quick Google search will reveal many opinions of what good design is supposed to be.
+
 
 ## Good design
 
@@ -44,6 +48,6 @@ On page 29 in the book, Design and Truth, Robert Grudin assembles a slightly lon
 13. Good design can be delivered, installed, and repaired conveniently
 
 These lists were not meant to be hard rules that apply to everything, but can be very guidelines when making or evaluating work. 
-
-## Citations
+{% endoer_property %}
+{% endoer_resource %}
 
