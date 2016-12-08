@@ -7,5 +7,5 @@
 
 ## Report in
 1. Upload progress to Studio
-2. 
+2. Provide feedback
 ## Grading
