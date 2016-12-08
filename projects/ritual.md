@@ -3,7 +3,8 @@
 {% oer_property name="citation", value="http://www.academia.edu/464844/Design_and_Truth" %}
 {% oer_property name="name" %}
 # Ritual
-
+{% endoer_property %}
+{% oer_property name="description" %}
 For this project, you will go though a human-centered design process to discover opportunities, define challenges, develop wireframes, and deliver an interactive prototype of a mobile app.
 
 The central theme of this project is ***ritual***. You will be making a prototype mobile app interface for one of your classmates, that would promote a positive ritual.
