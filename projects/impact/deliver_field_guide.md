@@ -1,5 +1,5 @@
 # Deliver: Field Guide
-In this step, you will produce the final production files. You are encouraged to license your work under a creative commons license, but this is not
+In this step, you will produce the final production files. You are encouraged to license your work under a creative commons license, but this is not mandatory to complete the project.
 
 ## Pages
 
