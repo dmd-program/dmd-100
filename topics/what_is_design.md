@@ -44,7 +44,7 @@ On page 29 in the book, Design and Truth, Robert Grudin assembles a slightly lon
 9. Good design gives pleasure to use
 10. Good design is not unreasonably expensive
 11. Good design is sustainable
-12. Good design allows a user to perform optimally  in engaging reality
+12. Good design allows a user to perform optimally in engaging reality
 13. Good design can be delivered, installed, and repaired conveniently
 
 These lists were not meant to be hard rules that apply to everything, but can be very guidelines when making or evaluating work. 
