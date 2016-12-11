@@ -18,7 +18,7 @@
    * [Introduction](lessons/what-is-design/introduction.md)
    * Topics
        * [What is design?](topics/what_is_design.md)
-       * Human-centered design
+       * [Human-centered design](topics/human-centered_design.md)
        * [Design thinking](topics/design_thinking.md)
        * [Systems thinking](topics/systems_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
