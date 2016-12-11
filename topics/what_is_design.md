@@ -31,7 +31,7 @@ Dieter Rams, a famous industrial designer, has written a rather famous list of w
 9. Good design is environmentally friendly
 10. Good design is as little design as possible
 
-On page 29 in the book, Design and Truth, Robert Grudin assembles a slightly longer list:
+On page 29 in *Design and Truth*, Robert Grudin assembles a slightly longer list:
 
 1. Good design is in accord with nature and human nature
 2. Good design is in harmony with its immediate surroundings
