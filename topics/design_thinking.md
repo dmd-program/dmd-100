@@ -8,6 +8,9 @@ Design Thinking is the most current incarnation of terminology meant to frame an
 
 The value of design thinking comes from it's ability to deal in uncertainty. Critical design failures tend to occur when tried-and-true processes, procedures, and policies are applied to solve a problem in an environment that is undergoing change. In these environments, creative problem solving and innovation are needed to address change.
 
-**Citation:**  
+## Citation
+
 _Design and Thinking_. Dir. Mu-Ming Tsai. 2012. Film.
+
+
 
