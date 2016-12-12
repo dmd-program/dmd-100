@@ -9,13 +9,13 @@ If you consider that an expert in any given field is an expert on the system or 
 
 Cradle-to-cradle design accounts for social, economic, and ecological systems when designing consumer products and services. Let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration:
 
-[How Big Is the "Great Pacific Garbage Patch"? Science vs. Myth](http://response.restoration.noaa.gov/about/media/how-big-great-pacific-garbage-patch-science-vs-myth.html)
+[How Big Is the "Great Pacific Garbage Patch"? Science vs. Myth](http://response.restoration.noaa.gov/about/media/how-big-great-pacific-garbage-patch-science-vs-myth.html) (External Website)
 
-How did the plastic get there, and who might have been involved? Here is a list of scenarios that might have contributed.
+Let's explore this issue through a bit of speculation. How did the plastic get there and who might have been involved? To answer these questions, we would have to imagine the shape and scope of the networked system. No actual research was performed for this speculation, but it sounds reasonable enough for the purposes of this example:
 
-1. Material producers: **Material design**
-  - Plastic becomes easy to produce, making glass unappealing
-2. Business and economics: **Product Design**
+1. Industrial producers: **Material design, Engineering Design**
+  - Availability of cheap crude-oil makes plastic easy and cheap to produce
+2. Business and economics: **Business and Product Design**
   - Availability of cheap plastic materials and mass production technology.
   - Business goals and values do not align with minimizing impact to existing ecological system
 3. Public consensus:** Marketing design**
@@ -28,3 +28,5 @@ How did the plastic get there, and who might have been involved? Here is a list 
   - Special interest lobbying prevents ecological policies from hindering sales of products
   - Issue not prioritized by society
   - Recycling initiatives are not timely and universally ineffective
+
+Supposing this list was accurate, the next step would to be to better understand the systems in which each participant was embedded. Being able to comprehend and perceive an entire interconnected network is admittedly not easy. This idea is becomes more apparent when considering the amount of people who disagree on the cause and affect responsible for the breakdown of a system. Modern examples of system breakdown include the 2008 global recession, climate change, and the British exit of the European Union.
