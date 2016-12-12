@@ -17,7 +17,7 @@
 * [Lesson 1: What is Design?](lessons/introduction.md)
    * [Introduction](lessons/what-is-design/introduction.md)
    * Topics
-       * Digital Multimedia Design
+       * [Digital Multimedia Design](topics/digital_multimedia_design.md)
        * [What is design?](topics/what_is_design.md)
        * [Design thinking](topics/design_thinking.md)
        * [Systems thinking](topics/systems_thinking.md)
