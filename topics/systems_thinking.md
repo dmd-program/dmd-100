@@ -1,5 +1,5 @@
 # Systems thinking
-A design decision that considers the impact on an entire network of affected systems, rather than a specific part, is known as systems thinking. Systems are bounded, can be nested, overlap with other systems, are autonomous in operation, parts can be distributed or co-located, and interact with the larger environment.
+A design decision that considers the impact on an entire network of affected systems, rather than a specific part, is known as systems thinking. Systems are bounded, can be nested, overlap with other systems, are autonomous in operation, parts can be distributed or co-located, can interact with the larger environment, and tend to be invisible.
 
 Design can happen at every scale. At the small scale, humans can collide single atoms together to investigate theoretical physics or to create very large bombs. At the large scale, complex social and technological systems can impact the global climate affecting every living organism on Earth. Understanding the scale you are designing for will have many implications for your process and design outcomes. Systems thinking plays an essential role when designing for large scale, as there are many forces that will affect your design that are out of your control.
 
