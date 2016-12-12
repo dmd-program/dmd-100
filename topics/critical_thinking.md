@@ -1,6 +1,6 @@
 # Critical thinking
 
-To understand what critical thinking is, it may be best to try to describe what it isn't. Critical thinking is not the rote memorization and retention of information. It is not the acquisition and use of skills without the contextual awareness of outcomes. Instead, it refers to capabilities and competencies required for generating and processing information to evaluate, judge, and guide future actions.
+To understand what critical thinking is, it may be best to try to describe what it isn't. Critical thinking is not the rote memorization and retention of information. It is not the acquisition skills and their use without the contextual awareness of outcomes. Instead, it refers to capabilities and competencies required for generating and processing information to evaluate, judge, and guide future actions.
 
 > Critical thinking is, in short, self-directed, self-disciplined, self-monitored, and self-corrective thinking. It requires rigorous standards of excellence and mindful command of their use. It entails effective communication and problem solving abilities and a commitment to overcome our native egocentrism and sociocentrism.
 > 
