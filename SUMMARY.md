@@ -17,6 +17,7 @@
 * [Lesson 1: What is Design?](lessons/introduction.md)
    * [Introduction](lessons/what-is-design/introduction.md)
    * Topics
+       * Digital Multimedia Design
        * [What is design?](topics/what_is_design.md)
        * [Design thinking](topics/design_thinking.md)
        * [Systems thinking](topics/systems_thinking.md)
@@ -24,7 +25,6 @@
        * [Design blocks](topics/design_blocks.md)
        * [Double diamond](topics/double_diamond.md)
        * [Sustainable design](topics/sustainable_design.md)
-       * Digital Multimedia Design
    * Readings
        * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
        * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
