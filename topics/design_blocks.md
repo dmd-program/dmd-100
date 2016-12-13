@@ -30,16 +30,16 @@ A designer's approach to questioning of assumptions, known as the beginners mind
 
 On page 172 in Victor Papanek's _Design for the Real World, Human Ecology and Social  Change_, he lists eight methods to eliminate blocks:
 
-Our job then becomes one of establishing methods of doing away with these blocks. Although it is difficult to make a definitive list, since there is enormous overlap between different methods, I shall list eight:
-
-> 1. Brainstorming
-> 2. Synectics
-> 3. Morphological analysis
-> 4. Sliding Scales
-> 5. Bisociation
-> 6. Trisociation
-> 7. Bionics and Biomechanics
-> 8. Forcing New Thinking Patterns
+>Our job then becomes one of establishing methods of doing away with these blocks. Although it is difficult to make a definitive list, since there is enormous overlap between different methods, I shall list eight:
+>
+>1. Brainstorming
+>2. Synectics
+>3. Morphological analysis
+>4. Sliding Scales
+>5. Bisociation
+>6. Trisociation
+>7. Bionics and Biomechanics
+>8. Forcing New Thinking Patterns
 
 # Citations
 
