@@ -31,7 +31,7 @@ Let's explore this issue through a bit of speculation. Where did the plastic com
 2. Business and economics: **Business and Product Design**
 
    * Financial markets trade heavily in crude oil
-   * Availability of cheap plastic materials and mass production technology.
+   * Availability of cheap plastic materials and mass production technology
    * Business goals and values do not align with minimizing impact to existing ecological system
 
 3. Public consensus:** Marketing design**
