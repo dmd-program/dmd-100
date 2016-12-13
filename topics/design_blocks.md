@@ -1,6 +1,6 @@
 # Design blocks
 
-A design block is a mental hinderance to finding solutions that stray from preconceived or assumed knowledge and ideas.
+A design block is a mental, cultural, or social hinderance to finding solutions that stray from norms and preconceived or assumed knowledge and ideas.
 
 > We live in a society that penalizes highly creative individuals for their non-conformist autonomy. This makes the teaching of problem-solving discouraging and difficult. A twenty-two-year-old student arrives at school with massive blocks against new ways of thinking, engendered by some sixteen years of miseducation, a heritage of childhood and pubescence of being "molded," "adjusted," "shaped." Meanwhile our society continuously evolves new social patterns that promise a slight departure from the mainstream but without ever endangering the patchwork of marginal groups that make up society as a whole.
 
@@ -9,7 +9,7 @@ Subject-matter experts and newcomers alike are plagued by biases that make them 
 On page 158 in Victor Papanek's _Design for the Real World, Human Ecology and Social  Change_, he lists seven types of blocks:
 
 > We can list the inhibitors that keep us from solving tasks in new and innovative ways. They are:
-> 
+>
 > 1. Perceptual
 > 2. Emotional
 > 3. Associational
@@ -31,7 +31,7 @@ A designer's approach to questioning of assumptions, known as the beginners mind
 On page 172 in Victor Papanek's _Design for the Real World, Human Ecology and Social  Change_, he lists eight methods to eliminate blocks:
 
 > Our job then becomes one of establishing methods of doing away with these blocks. Although it is difficult to make a definitive list, since there is enormous overlap between different methods, I shall list eight:
-> 
+>
 > 1. Brainstorming
 > 2. Synectics
 > 3. Morphological analysis
