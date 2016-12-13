@@ -27,23 +27,28 @@ Let us consider the issue of large congregations of plastic in the sea, describe
 Let's explore this issue through a bit of speculation. How did the plastic get there and who might have been involved? To answer these questions, we would have to imagine the shape and scope of the networked system. No actual research was performed for this speculation, but it sounds reasonable enough for the purposes of this example:
 
 1. Industrial producers: **Material design, Engineering Design**
+
    * Availability of cheap crude-oil makes plastic easy and cheap to produce
 
 2. Business and economics: **Business and Product Design**
+
    * Financial markets trade heavily in crude oil
    * Availability of cheap plastic materials and mass production technology.
    * Business goals and values do not align with minimizing impact to existing ecological system
 
 3. Public consensus:** Marketing design**
+
    * Ad campaigns infiltrate popular culture
    * Wastefulness is normalized
 
 4. Waste management processes: **Service Design**
+
    * Wastefulness is good for business
    * No real long-term ecological considerations for disposal
 
 5. Government: **Policy Design**
-   * Special interest lobbying prevents ecological policies from hindering sales of products
+
+   * Special interest lobbying prevents ecological policies from hindering the sale of products
    * Issue not prioritized by society
    * Recycling initiatives are not timely and universally ineffective
 
