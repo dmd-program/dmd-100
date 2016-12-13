@@ -9,7 +9,7 @@ Subject-matter experts and newcomers alike are plagued by biases that make them 
 On page 158 in Victor Papanek's _Design for the Real World, Human Ecology and Social  Change_, he lists seven types of blocks:
 
 > We can list the inhibitors that keep us from solving tasks in new and innovative ways. They are:
->
+> 
 > 1. Perceptual
 > 2. Emotional
 > 3. Associational
@@ -30,8 +30,8 @@ A designer's approach to questioning of assumptions, known as the beginners mind
 
 On page 172 in Victor Papanek's _Design for the Real World, Human Ecology and Social  Change_, he lists eight methods to eliminate blocks:
 
-> Our job then becomes one of establishing methods of doing away with these blocks. Although it is difficult to make a definitive list, since there is enormous overlap between different methods, I shall list eight:
->
+Our job then becomes one of establishing methods of doing away with these blocks. Although it is difficult to make a definitive list, since there is enormous overlap between different methods, I shall list eight:
+
 > 1. Brainstorming
 > 2. Synectics
 > 3. Morphological analysis
