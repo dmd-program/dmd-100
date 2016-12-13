@@ -18,13 +18,11 @@ The [Designers Accord](http://designersaccord.org/) was a five year project, whi
 4. Consider your ethical footprint. Understand the impact of your firm, and work to measure, manage, and reduce it on an annual basis.
 5. Advance the understanding of environmental and social issues from a design perspective by actively contributing to the communal knowledge base for sustainable design.
 
-The Designers Accord is a clear example of an organized initiative to get designers thinking more systemically.
-
-Let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration \(NOAA\):
+The Designers Accord is a clear example of an organized initiative to get designers thinking more systemically in terms of environmental and social impact. Now, let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration \(NOAA\):
 
 [How Big Is the "Great Pacific Garbage Patch"? Science vs. Myth](http://response.restoration.noaa.gov/about/media/how-big-great-pacific-garbage-patch-science-vs-myth.html) \(External Website\)
 
-Let's explore this issue through a bit of speculation. How did the plastic get there and who might have been involved? To answer these questions, we would have to imagine the shape and scope of the networked system. No actual research was performed for this speculation, but it sounds reasonable enough for the purposes of this example:
+Let's explore this issue through a bit of speculation. Where did the plastic come from, how did it find its way to the sea, and who might have been involved in this process? To answer these questions, we would have to imagine the shape and scope of the networked system. No actual research was performed for this speculation, but it sounds reasonable enough for the purposes of this example:
 
 1. Industrial producers: **Material design, Engineering Design**
 
@@ -39,7 +37,7 @@ Let's explore this issue through a bit of speculation. How did the plastic get t
 3. Public consensus:** Marketing design**
 
    * Ad campaigns infiltrate popular culture
-   * Wastefulness is normalized
+   * Wastefulness is widely accepted and normalized
 
 4. Waste management processes: **Service Design**
 
