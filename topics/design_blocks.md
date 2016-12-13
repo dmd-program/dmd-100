@@ -1,5 +1,7 @@
 # Design blocks
 
+A design block is a mental hinderance to finding solutions that stray from preconceived or assumed knowledge and ideas.
+
 > We live in a society that penalizes highly creative individuals for their non-conformist autonomy. This makes the teaching of problem-solving discouraging and difficult. A twenty-two-year-old student arrives at school with massive blocks against new ways of thinking, engendered by some sixteen years of miseducation, a heritage of childhood and pubescence of being "molded," "adjusted," "shaped." Meanwhile our society continuously evolves new social patterns that promise a slight departure from the mainstream but without ever endangering the patchwork of marginal groups that make up society as a whole.
 
 Subject-matter experts and newcomers alike are plagued by biases that make them reliant on common and familiar paths to a solution. "That is the way it has always been done" or "it's just common sense" are typical phrases used by someone who thinks they already know the correct answer to a problem. A bias, also called a block, can undermine innovative problem solving and inhibit creative thinking. Modern design processes attempt to identify where bias may exist, and prevent it from harming the outcome.
