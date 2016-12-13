@@ -18,7 +18,7 @@ The [Designers Accord](http://designersaccord.org/) was a five year project, whi
 4. Consider your ethical footprint. Understand the impact of your firm, and work to measure, manage, and reduce it on an annual basis.
 5. Advance the understanding of environmental and social issues from a design perspective by actively contributing to the communal knowledge base for sustainable design.
 
-The Designers Accord is a clear example of an organized initiative to get designers thinking more systemicly.
+The Designers Accord is a clear example of an organized initiative to get designers thinking more systemically.
 
 Let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration \(NOAA\):
 
