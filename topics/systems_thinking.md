@@ -8,7 +8,7 @@ If you consider that an expert in any given field is an expert on the system or 
 
 ## Cradle-to-cradle
 
-Cradle-to-cradle design accounts for social, economic, and ecological systems when designing consumer products and services.
+Cradle-to-cradle design accounts for social, economic, and ecological systems in the design model when producing consumer products, infrastructure, and services. 
 
 The [Designers Accord](http://designersaccord.org/) was a five year project, which worked to develop guiding principles and methodologies for integrating sustainability into design. This was done through design community engagement, networking, and by inspiring designers to share case studies, best practices, and ideas at hosted events. The guiding methodology included:
 
