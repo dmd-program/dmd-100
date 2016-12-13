@@ -4,15 +4,23 @@ A design decision that considers the impact on an entire network of affected sys
 
 Design can happen at every scale. At the small scale, humans can collide single atoms together to investigate theoretical physics or to create very large bombs. At the large scale, complex social and technological systems can impact the global climate affecting every living organism on Earth. Understanding the scale you are designing for will have many implications for your process and design outcomes. Systems thinking plays an essential role when designing for large scale, as there are many forces that will affect your design that are out of your control.
 
-If you consider that an expert in any given field is an expert on the system or systems situated in that field, then people who work across systems from different fields can be considered to be transdisciplinary. A transdisciplinarian is a multi-systems worker and takes liberty to follow the networked paths for more holistic perspectives for a problem.
-
-
-
-[http://designersaccord.org/](https://www.gitbook.com/book/dmd-program/dmd-100-sp17/edit#)
+If you consider that an expert in any given field is an expert on the system or systems situated in that field, then people who work across systems from different fields can be considered to be transdisciplinary. A transdisciplinarian is a multi-systems worker and takes liberty to follow the networked paths for more holistic perspectives on problems and issues.
 
 ## Cradle-to-cradle
 
-Cradle-to-cradle design accounts for social, economic, and ecological systems when designing consumer products and services. Let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration \(NOAA\):
+Cradle-to-cradle design accounts for social, economic, and ecological systems when designing consumer products and services.
+
+The [Designers Accord](http://designersaccord.org/) was a five year project, which worked to develop guiding principles and methodologies for integrating sustainability into design. This was done through design community engagement, networking, and by inspiring designers to share case studies, best practices, and ideas at hosted events. The guiding methodology included:
+
+1. Publicly declare participation in the Designers Accord.
+2. Initiate a dialogue about environmental and social impact and sustainable alternatives with each and every client. Rework client contracts to favor environmentally and socially responsible design and work processes. Provide strategic and material alternatives for sustainable design.
+3. Undertake a program to educate your teams about sustainability and sustainable design.
+4. Consider your ethical footprint. Understand the impact of your firm, and work to measure, manage, and reduce it on an annual basis.
+5. Advance the understanding of environmental and social issues from a design perspective by actively contributing to the communal knowledge base for sustainable design.
+
+The Designers Accord is a clear example of an organized initiative to get designers thinking more systemicly.
+
+Let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration \(NOAA\):
 
 [How Big Is the "Great Pacific Garbage Patch"? Science vs. Myth](http://response.restoration.noaa.gov/about/media/how-big-great-pacific-garbage-patch-science-vs-myth.html) \(External Website\)
 
