@@ -68,7 +68,7 @@
         * [99 Percent Invisible: 10,000 years](listening/99_percent_invisible_10,000_years.md)
         * [99 Percent Invisible: Unpleasant Design](listening/99_percent_invisible_unpleasant_design.md)
     * Readings
-        * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
+        * [Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers](chapter-4-design-as-tragedy-the-rise-and-fall-of-the-twin-towers.md)
         * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
         * [Chapter 6. Designs of Darkness](practice/bad_design.md)
         * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
