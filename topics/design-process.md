@@ -6,4 +6,4 @@ Depending on the industry a person works in, a set of contemporary best practice
 
 Almost any design process will have some form of research component. **Qualitative** research refers to open-ended and unstructured research that can be obtained through interviews, surveys, questionnaires, observation, and exploration. This type of data is descriptive and more difficult to analyze. **Quantitative** research deals in data that is measured and tends to be easier to process. Correlations, causal relationships, and trends interpreted from findings are subject to the researchers bias and assumptions.!
 
-[Image of a diamond](/assets/diamond-600w@2x.png)
+[Image of a diamond](diamond-600w@2x.png)
