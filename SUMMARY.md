@@ -23,8 +23,6 @@
         * [Systems thinking](topics/systems_thinking.md)
         * [Critical thinking](topics/critical_thinking.md)
         * [Design blocks](topics/design_blocks.md)
-        * [Double diamond](topics/double_diamond.md)
-        * [Sustainable design](topics/sustainable_design.md)
         * [Design process](topics/design-process.md)
     * Readings
         * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
