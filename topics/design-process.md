@@ -4,7 +4,11 @@ Depending on the industry a person works in, a set of contemporary best practice
 
 ## Double diamond
 
-On the Double Diamond Phases diagram, you can see how two connected diamonds describe four phases, two divergent, and two convergent. The red arrows pointing away from each other represent divergence whereas the red arrows pointed towards each other represent convergence. The **Discover** phase is where you will gain a better understanding of the project's goals; the **Define** phase is where you will narrow and form the project's direction; the **Develop** phase is where you will explore production methodologies, prototype, and experiment; and finally the **Deliver** phase is where you will iterate and refine your project.  This process model will be used to complete projects with an added discussion phase at the end. Though this process is not necessarily a linear methodology, we will be progressing through projects in a linear fashion.
+On the Double Diamond Phases diagram, you can see how two connected diamonds describe four phases, two divergent, and two convergent. The red arrows pointing away from each other represent divergence whereas the red arrows pointed towards each other represent convergence.
+
+![Double Diamond Phases Diagram](assets/double-diamond-phases-1200w@2x.png)
+
+The **Discover** phase is where you will gain a better understanding of the project's goals; the **Define** phase is where you will narrow and form the project's direction; the **Develop** phase is where you will explore production methodologies, prototype, and experiment; and finally the **Deliver** phase is where you will iterate and refine your project.  This process model will be used to complete projects with an added discussion phase at the end. Though this process is not necessarily a linear methodology, we will be progressing through projects in a linear fashion.
 
 ## Research
 
