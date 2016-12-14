@@ -8,7 +8,7 @@ Design Thinking is the most current incarnation of terminology meant to frame an
 
 ## Embracing V.U.C.A.
 
-> Bureaucracies may remain the foundation for basic stability during these periods of rapid change, but they will have to be more open and adaptable to be effective – or even to survive. \[2\]
+> Now change seems to be much more unpredictable; it exceeds what we have known in the past. As we view the world, we realize organizations reflect society and political needs, which accommodate expanding democracy and periods of turmoil. Bureaucracies may remain the foundation for basic stability during these periods of rapid change, but they will have to be more open and adaptable to be effective – or even to survive. \[2\]
 
 Critical design failures tend to occur when tried-and-true processes, procedures, and policies are applied to solve a problem in an environment that is undergoing change. In these environments, creative problem solving and innovation are needed to address this change. The value of design thinking comes from it's ability to deal in uncertainty in a dynamic environment. The acronym V.U.C.A., created by the U.S. Army War College, describes this phenomenon – volatility, uncertainty, complexity and ambiguity.
 
