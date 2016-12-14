@@ -10,7 +10,7 @@ On the Double Diamond Phases diagram, you can see how two connected diamonds des
 
 The **\(1\) Discover** phase is where you will gain a better understanding of the project's goals; the **\(2\) Define** phase is where you will narrow and form the project's direction; the **\(3\) Develop** phase is where you will explore production methodologies, prototype, and experiment; and finally the **\(4\) Deliver** phase is where you will iterate and refine your project.  This process model will be used to complete projects with an added discussion phase at the end. Though this process is not necessarily a linear methodology, we will be progressing through projects in a linear fashion.
 
-## Research
+## Qualitative and quantitative research
 
 Almost any design process will have some form of research component. **Qualitative** research refers to open-ended and unstructured research that can be obtained through interviews, surveys, questionnaires, observation, and exploration. This type of data is descriptive and more difficult to analyze. **Quantitative** research deals in data that is measured and tends to be easier to process. Correlations, causal relationships, and trends interpreted from findings are subject to the researchers bias and assumptions.
 
