@@ -16,5 +16,5 @@ Over time, you will develop capabilities necessary to use digital technologies i
 
 ## Portfolios
 
-By the end of the program, you will have developed a portfolio that showcases your creative interest areas, completed projects, and
+Developing a creative digital portfolio of work that showcases your interest areas and capabilities will become an essential component for professional development.
 
