@@ -39,18 +39,6 @@
     * Discussions
         * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
 * Lesson 2: Visual and Interactive Design
-    * Project
-        * [Ritual: Introduction](projects/ritual.md)
-        * Tutorials
-            * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
-        * [Discover: Interview](projects/ritual/ritual_interview.md)
-        * [Discover: Journey Map](project/ritual/discover_journey_map.md)
-        * [Define: HMW](projects/ritual/define_hmw.md)
-        * [Develop: Prototype](projects/ritual/develop_prototype.md)
-        * [Develop: Test and Iterate](projects/ritual/develop_test_and_iterate.md)
-        * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
-        * [Deliver: Interactive Prototype](projects/ritual/deliver_interactive_prototype.md)
-        * [Discuss: Ritual App Critique](projects/ritual/discuss_ritual_app_critique.md)
     * Topics
         * Identity design
         * [Visual design](topics/visual_design.md)
@@ -78,6 +66,18 @@
         * [Make a Brand](practice/make_a_brand.md)
         * Type identity
         * Design language
+    * Project
+        * [Ritual: Introduction](projects/ritual.md)
+        * Tutorials
+            * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
+        * [Discover: Interview](projects/ritual/ritual_interview.md)
+        * [Discover: Journey Map](project/ritual/discover_journey_map.md)
+        * [Define: HMW](projects/ritual/define_hmw.md)
+        * [Develop: Prototype](projects/ritual/develop_prototype.md)
+        * [Develop: Test and Iterate](projects/ritual/develop_test_and_iterate.md)
+        * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
+        * [Deliver: Interactive Prototype](projects/ritual/deliver_interactive_prototype.md)
+        * [Discuss: Ritual App Critique](projects/ritual/discuss_ritual_app_critique.md)
 * Lesson 3: Storytelling
     * [Introduction](lessons/narrative/introduction.md)
     * Topics
