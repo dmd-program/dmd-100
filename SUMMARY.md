@@ -13,6 +13,7 @@
         * [Project Management](toolkit/project_management.md)
         * [Feedback and Critiques](feedback_and_critiques.md)
         * [Documentation Guidelines](toolkit/documentation_guidelines.md)
+        * [Writing Guidelines](writing_guidelines.md)
 * [Lesson 1: What is Design?](lessons/introduction.md)
     * [Introduction](lessons/what-is-design/introduction.md)
     * [Topics](lessons/topics.md)
@@ -37,7 +38,6 @@
         * [Lawn Order](listening/lawn_order.md)
     * Discussions
         * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
-* [Writing Guidelines](writing_guidelines.md)
 * Lesson 2: Visual and Interactive Design
     * Project
         * [Ritual: Introduction](projects/ritual.md)
