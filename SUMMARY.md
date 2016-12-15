@@ -39,7 +39,7 @@
         * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
 * Lesson 2: Visual and Interactive Design
     * Topics
-        * Identity design
+        * [Identity design](identity-design.md)
         * [Visual design](topics/visual_design.md)
         * [Interaction design](topics/interaction_design.md)
         * [Typographic design](topics/typographic_design.md)
