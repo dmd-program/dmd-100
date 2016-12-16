@@ -12,7 +12,7 @@ Storytelling does more than just help people understand the world. It motivates 
 
 ## Story and object
 
-Semiotics, the study of meaning making, has produced models for describing how meaning is communicated; Saussure's dyadic model consists of the signifier and the signified, and Peirce's triadic model consists of a icons, indices, and symbols. Just like [Forest Gump's shoes](https://www.youtube.com/watch?v=egkrxkiUnoo), objects are "sign vehicles," targets of mental acts which do [not have to be physical things](https://vimeo.com/133160620). From the perspective of storytelling, objects are the medium by which a story is told. Humans figured out how to do this with writing approximately 12,000 years ago.
+Semiotics, the study of meaning making, has produced models for describing how meaning is communicated; Saussure's dyadic model consists of the signifier and the signified, and Peirce's triadic model consists of a icons, indices, and symbols. Just like [Forest Gump's shoes](https://www.youtube.com/watch?v=egkrxkiUnoo), objects are "sign vehicles," targets of mental acts but these objects do [not have to be physical things](https://vimeo.com/133160620). From the perspective of storytelling, objects are the medium by which a story is told. Humans figured out how to do this with writing approximately 12,000 years ago.
 
 > "The first examples of writing occurred in the Near East at the time when animals and plants were being domesticated. They took the form of clay tokens, smaller than an inch in size, used to represent different commodities." \[1\]
 
