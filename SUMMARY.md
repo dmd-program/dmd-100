@@ -40,6 +40,7 @@
 * Lesson 2: Visual and Interactive Design
     * Topics
         * [Aesthetics](aesthetics.md)
+        * Ontology
         * [Visual design](topics/visual_design.md)
         * [Identity design](identity-design.md)
         * [Interaction design](topics/interaction_design.md)
@@ -50,7 +51,7 @@
         * [Wireframing](topics/wireframing.md)
         * [Mental model](topics/mental_model.md)
         * Storyboard
-        * Prototype
+        * Ontology
     * Listening
         * [99 Percent Invisible: Of mice and men](listening/99_percent_invisible_of_mice_and_men.md)
         * [99 Percent Invisible: 10,000 years](listening/99_percent_invisible_10,000_years.md)
