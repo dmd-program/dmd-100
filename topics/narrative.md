@@ -1,20 +1,16 @@
 # Why stories?
 
-Let's investigate why the act of storytelling might be important and the role it plays in society.
-
-## Stories organize reality
-
 In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https://www.youtube.com/watch?v=Vhd0XdedLpY), Jonathan Gottschall tells about the pervasive role stories play in the human experience. Storytelling one way humans perceive reality and make sense of the events unfolding around them. Reality is essentially organized by the storytellers of the world.
 
 Meaning, however, cannot be created and widely distributed to people without going through some sort of idea filter. Human's have developed a filtering system that is hesitant to absorb new ideas, particularly the ones that are counter to the ones they already believe. This is called skepticism.  Skepticism is assuaged with the persuasive argument's appeal to logic \(logos\), emotions \(pathos\), and ethics \(ethos\). A poorly delivered story presents us with what we can think of as a bad argument – that is that this story is not reasonable, I don't care about it, and it doesn't appeal to my sense of identity. What is reasonable, emotionally moving, and indicative of a someone's sensibilities tends to change, often specific to a point in history; from one culture to another; and from one person to another.
 
 > Anyone who wants to impact the world must work towards becoming a great storyteller.
 
-Media companies have spent a long time learning how to deliver stories to more people than ever before in human history. You can read, watch, interact with, or listen to a new story every day for the rest of your life. Social media technology has enabled story-telling entities to now tell only the stories they think will be consumed by that person. If you and your neighbor have different ideas of what is real, what effects will this have on society at large? This question implies that the people who create and disseminate stories have a tremendous amount of power to shape the world. Anyone who wants to impact the world must work towards becoming a great storyteller.
+Media companies have spent a long time learning how to deliver stories to more people than ever before in human history. You can read, watch, interact with, or listen to a new story every day for the rest of your life. Social media technology can give media companies the power to directly market stories according to a person's existing beliefs and interests, thereby surrounding a person in only the stories that support the reality they have already bought into. If you and your neighbor have different ideas of what is real, what effects will this have on society at large? This question implies that the people who create and disseminate stories have a tremendous amount of power to shape the world. Anyone who wants to impact the world must work towards becoming a great storyteller.
 
 ## Story and object
 
-Semiotics, the study of meaning making, has produced models for describing how meaning is communicated; Saussure's dyadic model consists of the signifier and the signified, and Peirce's triadic model consists of a icons, indices, and symbols. Just like [Forest Gump's shoes](https://www.youtube.com/watch?v=egkrxkiUnoo), objects are "sign vehicles," targets of mental acts that do [not have to be physical things](https://vimeo.com/133160620). From the perspective of storytelling, objects are the medium by which a story is told. Humans figured out how to do this with writing approximately 12,000 years ago.
+Semiotics, the study of meaning making, has produced models for describing how meaning is communicated; Saussure's dyadic model consists of the signifier and the signified, and Peirce's triadic model consists of a icons, indices, and symbols. Just like [Forest Gump's shoes](https://www.youtube.com/watch?v=egkrxkiUnoo), objects are "sign vehicles," targets of mental acts which do [not have to be physical things](https://vimeo.com/133160620). From the perspective of storytelling, objects are the medium by which a story is told. Humans figured out how to do this with writing approximately 12,000 years ago.
 
 > "The first examples of writing occurred in the Near East at the time when animals and plants were being domesticated. They took the form of clay tokens, smaller than an inch in size, used to represent different commodities." \[1\]
 
