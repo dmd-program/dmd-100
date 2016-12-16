@@ -40,7 +40,7 @@
 * Lesson 2: Visual and Interactive Design
     * Topics
         * [Design and perception](design-and-perception.md)
-        * Object making
+        * [Making objects](object-making.md)
         * Ontology
         * [Aesthetics](aesthetics.md)
         * [Visual design](topics/visual_design.md)
