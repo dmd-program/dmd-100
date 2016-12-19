@@ -2,6 +2,12 @@
 
 Depending on the industry a person works in, a set of contemporary best practices will be in fashion. If you don't know where to start, identifying, learning, and practicing those established guidelines makes good sense. If you are a seasoned designer, then adapting a process according to your own experiences is prudent, and something you would be used to doing. Innovating on a design process from the very start may be more inhibiting than helpful. For creative design production, there are a variety of models to choose from. In this course, we will be adapted and simplifying a design process model called the Double Diamond, originally created by the British Design Council, and reimagined by [Dan Nessler](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812). The shape of a two-dimensional diamond is meant to be visual analogy describing the divergence and convergence of ideas. Read from left to right, you would use divergent thinking methods to create an array of possibilities, and then use convergent thinking methods to arrive as a specific outcome or decision.
 
+## Divergent and convergent thinking
+
+Divergent thinking refers to the thought processes that are used for producing an array of ideas, good, bad, an everything between. This kind of thinking is meant to generate an abundance possibilities to increase the likelihood of a positive outcome. Creative thinkers are particularly skilled divergent thinkers, drawing inspiration from unexpected sources.
+
+Convergent thinking refers to the thought processes involved with resolving an idea or solution. A convergent thinking will analyze an idea's viability with respect to available resources, capabilities, human-factors implications, environmental considerations, cost, efficiency, and many other metrics. Engineers tend excel in convergent thinking processes.
+
 ## The double diamond
 
 On the Double Diamond Phases diagram, you can see how two connected diamonds describe four phases, two divergent, and two convergent. The red arrows pointing away from each other represent divergence whereas the red arrows pointed towards each other represent convergence. In the first, left-most diamond, you would establish an understanding of the prompt and a solution plan. In the second, right-most diamond, you would construct the response to the prompt.
