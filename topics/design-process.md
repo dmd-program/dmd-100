@@ -4,9 +4,9 @@ Depending on the industry a person works in, a set of contemporary best practice
 
 ## Divergent and convergent thinking
 
-Divergent thinking refers to the thought processes that are used for producing an array of ideas, good, bad, an everything between. This kind of thinking is meant to generate an abundance possibilities to increase the likelihood of a positive outcome. Creative thinkers are particularly skilled divergent thinkers, drawing inspiration from unexpected sources.
+**Divergent thinking** refers to the thought processes that are used for producing an array of ideas, good, bad, an everything between. This kind of thinking is meant to generate an abundance possibilities to increase the likelihood of a positive outcome. Creative thinkers are particularly skilled divergent thinkers, drawing inspiration from unexpected sources.
 
-Convergent thinking refers to the thought processes involved with resolving an idea or solution. A convergent thinking will analyze an idea's viability with respect to available resources, capabilities, human-factors implications, environmental considerations, cost, efficiency, and many other metrics. Engineers tend excel in convergent thinking processes.
+**Convergent thinking** refers to the thought processes involved with resolving an idea or solution. A convergent thinking will analyze an idea's viability with respect to available resources, capabilities, human-factors implications, environmental considerations, cost, efficiency, and many other metrics. Engineers tend excel in convergent thinking processes.
 
 ## The double diamond
 
