@@ -37,7 +37,7 @@
         * [Lawn Order](listening/lawn_order.md)
     * Discussions
         * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
-* Lesson 2: Visual and Interactive Design
+* Lesson 2: Visual and Interaction Design
     * Topics
         * [Design and perception](design-and-perception.md)
         * [Object making](object-making.md)
