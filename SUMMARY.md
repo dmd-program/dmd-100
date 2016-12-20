@@ -40,12 +40,12 @@
 * Lesson 2: Visual and Interaction Design
     * Topics
         * [Design and perception](design-and-perception.md)
+        * [Interaction design](topics/interaction_design.md)
         * [Object making](object-making.md)
         * [Ontology](ontology.md)
         * [Aesthetics](aesthetics.md)
         * [Visual design](topics/visual_design.md)
         * [Identity design](identity-design.md)
-        * [Interaction design](topics/interaction_design.md)
         * Interactive design
         * [Typographic design](topics/typographic_design.md)
         * [Audience](topics/audience.md)
