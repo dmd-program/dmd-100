@@ -41,7 +41,7 @@
     * Topics
         * [Design and perception](design-and-perception.md)
         * [Object making](object-making.md)
-        * Ontology
+        * [Ontology](ontology.md)
         * [Aesthetics](aesthetics.md)
         * [Visual design](topics/visual_design.md)
         * [Identity design](identity-design.md)
