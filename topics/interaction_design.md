@@ -14,7 +14,7 @@ To design an interaction, a designer must seek to know:
 
 ## Behavioral Science
 
-## Interaction Principles 
+## Interaction Principles
 
 ### Perceivable
 
