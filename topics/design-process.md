@@ -18,7 +18,7 @@ The **\(1\) Discover** phase is where you will gain a better understanding of th
 
 ### 1. Discover
 
-The discovery phase is all about questioning and researching. Try to better understand the nature of the problem or issue so that the process includes authentic approaches.  
+The discovery phase is all about questioning and researching. To better understand the nature of a problem later in the process, it is helpful to gather as much raw information and data as possible.
 
 #### Research
 
@@ -27,6 +27,10 @@ Almost any design process will have some form of research component. **Qualitati
 **Ethnographic** research is concerned with learning about how people live their lives, and ethnography techniques are often used in human-centered design.
 
 ### 2. Define
+
+With research completed, you can now focus on identifying underlying themes and forming concepts. The end of this phase usually culminates in a **How Might We** \(HMW\) question, where the end-goal of the project then becomes trying to answer the question. 
+
+Articulating the true nature of a problem in this phase helps ensure that the design process is genuinely concerned about the presented or generated issue, and serves as inspiration for the rest of design process.
 
 ### 3. Develop
 
