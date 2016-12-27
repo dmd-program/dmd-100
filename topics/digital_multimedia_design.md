@@ -1,6 +1,6 @@
 # Digital Multimedia Design
 
-The Digital Multimedia Design Program promotes the value of imagination and creativity as human resources. Digital media generally refers to the storage and transmission of information in increasingly varied multimedia digital formats and devices, and within a changing array of modes of communication. Design is a means by which we respond to change in a purposeful way. By focusing on issues and opportunities, designers develop plans for taking innovative and strategic actions. Hence digital design shapes and impacts the physical and virtual spaces people inhabit. Over the course of this program, you will produce projects that stimulate sound habits of mind, develop proficiencies of practice, and foster critical sensibilities for addressing issues.
+The Digital Multimedia Design Program promotes the value of imagination and creativity as human resources. Digital media generally refers to the storage and transmission of information in increasingly varied multimedia digital formats and devices, and within a changing array of modes of communication. Design is a means by which we respond to change in a purposeful way. By focusing on issues and opportunities, designers develop plans for taking innovative and strategic actions. Hence digital design shapes and impacts the physical and virtual spaces people inhabit. Over the course of this program, you will produce projects that stimulate sound habits of mind, develop proficiencies of practice, and foster critical sensibilities for addressing issues. 
 
 ## DMD Core
 
