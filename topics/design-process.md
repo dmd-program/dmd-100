@@ -24,7 +24,7 @@ The discovery phase is all about questioning and researching. To better understa
 
 #### Research
 
-Almost any design process will have some form of research component. **Qualitative** research refers to open-ended and unstructured research that can be obtained through interviews, surveys, questionnaires, observation, and exploration. This type of data is descriptive and more difficult to analyze. **Quantitative** research deals in data that is measured and tends to be easier to process. Correlations, causal relationships, and trends interpreted from findings are subject to the researchers bias and assumptions.
+Almost any design process will have some research component. **Qualitative** research refers to open-ended and unstructured research that can be obtained through interviews, surveys, questionnaires, observation, and exploration. This type of data is descriptive and more difficult to analyze. **Quantitative** research deals in data that is measured and tends to be easier to process. Correlations, causal relationships, and trends interpreted from findings are subject to the researchers bias and assumptions.
 
 **Ethnographic** research is concerned with learning about how people live their lives, and ethnography techniques are often used in human-centered design.
 
