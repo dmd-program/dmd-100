@@ -1,10 +1,4 @@
-{% oer_resource id="#whatisdesign", type="SupportingMaterial"  %}
-{% oer_property name="license", value="https://creativecommons.org/licenses/by/4.0/" %}
-{% oer_property name="citation", value="http://yalebooks.com/book/9780300171310/design-and-truth" %}
-{% oer_property name="name" %}
 # What is Design?
-{% endoer_property %}
-{% oer_property name="description" %}
 ## Introduction
 
 > “The primary function of design is to shape and channel energy.”
@@ -48,6 +42,3 @@ On page 29 in *Design and Truth*, Robert Grudin assembles a slightly longer list
 13. Good design can be delivered, installed, and repaired conveniently
 
 These lists were not meant to be hard rules that apply to everything, but can be helpful guidelines when making or evaluating work. 
-{% endoer_property %}
-{% endoer_resource %}
-
