@@ -16,6 +16,8 @@ On the Double Diamond Phases diagram, you can see how two connected diamonds des
 
 The **\(1\) Discover** phase is where you will gain a better understanding of the project and it's goals; the **\(2\) Define** phase is where you will narrow and form the project's direction; the **\(3\) Develop** phase is where you will explore production methodologies, prototype, and experiment; and finally the **\(4\) Deliver** phase is where you will iterate and refine your project.  This process model will be used to complete projects with an added discussion phase at the end. Though this process is not necessarily a linear methodology, we will be progressing through projects in a linear fashion.
 
+At any given part of this process, you may be asked to give form to the work you are doing. You should be prepared to communicate progress verbally and visually, giving equal importance and attention to in-process work as is given to the final product.
+
 ### 1. Discover
 
 The discovery phase is all about questioning and researching. To better understand the nature of a problem later in the process, it is helpful to gather as much raw information and data as possible.
@@ -28,7 +30,7 @@ Almost any design process will have some form of research component. **Qualitati
 
 ### 2. Define
 
-With research completed, you can now focus on identifying underlying themes and forming concepts. The end of this phase usually culminates in a **How Might We** \(HMW\) question, where the end-goal of the project then becomes trying to answer the question. 
+With research completed, you can now focus on identifying underlying themes and forming concepts. The end of this phase usually culminates in a **How Might We** \(HMW\) question, where the end-goal of the project then becomes trying to answer the question.
 
 Articulating the true nature of a problem in this phase helps ensure that the design process is genuinely concerned about the presented or generated issue, and serves as inspiration for the rest of design process.
 
