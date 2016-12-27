@@ -14,11 +14,23 @@ On the Double Diamond Phases diagram, you can see how two connected diamonds des
 
 ![Double Diamond Phases Diagram](/assets/double-diamond-phases-1200w@2x.png)
 
-The **\(1\) Discover** phase is where you will gain a better understanding of the project's goals; the **\(2\) Define** phase is where you will narrow and form the project's direction; the **\(3\) Develop** phase is where you will explore production methodologies, prototype, and experiment; and finally the **\(4\) Deliver** phase is where you will iterate and refine your project.  This process model will be used to complete projects with an added discussion phase at the end. Though this process is not necessarily a linear methodology, we will be progressing through projects in a linear fashion.
+The **\(1\) Discover** phase is where you will gain a better understanding of the project and it's goals; the **\(2\) Define** phase is where you will narrow and form the project's direction; the **\(3\) Develop** phase is where you will explore production methodologies, prototype, and experiment; and finally the **\(4\) Deliver** phase is where you will iterate and refine your project.  This process model will be used to complete projects with an added discussion phase at the end. Though this process is not necessarily a linear methodology, we will be progressing through projects in a linear fashion.
 
-## Qualitative and quantitative research
+### 1. Discover
+
+The discovery phase is all about questioning and researching. Try to better understand the nature of the problem or issue so that the process includes authentic approaches.  
+
+#### Research
 
 Almost any design process will have some form of research component. **Qualitative** research refers to open-ended and unstructured research that can be obtained through interviews, surveys, questionnaires, observation, and exploration. This type of data is descriptive and more difficult to analyze. **Quantitative** research deals in data that is measured and tends to be easier to process. Correlations, causal relationships, and trends interpreted from findings are subject to the researchers bias and assumptions.
+
+**Ethnographic** research is concerned with learning about how people live their lives, and ethnography techniques are often used in human-centered design.
+
+### 2. Define
+
+### 3. Develop
+
+### 4. Deliver
 
 ## Don't throw it over the wall
 
