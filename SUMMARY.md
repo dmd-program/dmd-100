@@ -204,4 +204,5 @@
     * [Discursive design](topics/discursive_design.md)
     * [Future Living](practice/future_living.md)
     * [Interactive Story Project](projects/interactive_story_project.md)
+    * [Example content w\/ OERSchema](example-content-w-oerschema.md)
 
