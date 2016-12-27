@@ -12,7 +12,9 @@ To design an interaction, a designer must seek to know:
 * Constraints of the environment it's happening in
 * How the interaction went
 
-## The 5 Principles of Interaction
+## Behavioral Science
+
+## Interaction Principles 
 
 ### Perceivable
 

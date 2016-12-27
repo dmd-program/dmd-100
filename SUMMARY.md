@@ -56,6 +56,7 @@
         * [99 Percent Invisible: Of mice and men](listening/99_percent_invisible_of_mice_and_men.md)
         * [99 Percent Invisible: 10,000 years](listening/99_percent_invisible_10,000_years.md)
         * [99 Percent Invisible: Unpleasant Design](listening/99_percent_invisible_unpleasant_design.md)
+        * Freakonomics:  How to Be More Productive
     * Readings
         * [Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers](chapter-4-design-as-tragedy-the-rise-and-fall-of-the-twin-towers.md)
         * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
