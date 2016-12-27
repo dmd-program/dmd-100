@@ -43,7 +43,7 @@ On page 29 in _Design and Truth_, Robert Grudin assembles a slightly longer list
 
 These lists were not meant to be hard rules that apply to everything, but can be helpful guidelines when making or evaluating design. Unfortunately, they do little to explain how good design can happen.
 
-## Throw it over the wall
+## Don't throw it over the wall
 
 Traditionally speaking, design was known as a styling process, or the tactical application of subjective beauty and elegance to things. There is something to be said about the importance of the stylist, but a stylist's design scope is incredibly limited, or walled off from the rest of the design process, as if they are behind a wall in an adjacent room. For example, a product design team might have the following process. A marketing department will perform design research and conceptualize ideas. They will then throw the information over the wall to the engineers who will start to build and parameterize the product. Once the product is functioning, they throw design constraints over the wall to a stylist, who creates forms and shapes that make a product aesthetically pleasing. Walling off parts of a design process makes feedback and iteration extremely time consuming or impossible. Many businesses that are traditionally marketing-centric or engineering-centric tend to use this design model and often prioritize what may be profitable over what may be beneficial for society. In order for designers to help these organizations prioritize a more holistic view of design, they must also be well versed in the language of business.
 
