@@ -18,23 +18,21 @@ Nudging.
 
 ## Interaction Principles
 
-In the computer engineering field, there are five standard interaction principles that software developers refer to when building an effective gsparaphical user interface, otherwise known as a **GUI** \(pronounced gooey\) . They dictate that an interface must be perceivable, predictable, learnable, consistent, and provide feedback to the user.
+In the computer engineering field, there are five standard interaction principles that software developers refer to when building an effective graphical user interface, otherwise known as a **GUI** \(pronounced gooey\) . They dictate that an interface must be perceivable, predictable, learnable, consistent, and provide feedback to the user.
 
 ### Perceivable
 
-Being perceivable means that a person, who has no prior knowledge must be able to sense and understand an object or interface in some way. 
+Being perceivable means that a person, who has no prior knowledge must be able to sense and understand an object or interface in some way.
 
 ### Predictable
 
-Human's rely on predictions to navigate the world. An unpredictable environment can be frustrating, scary, and in some cases dangerous. 
+Human's rely on predictions to navigate the world. An unpredictable environment can be frustrating, scary, and in some cases dangerous.
 
 ### Learnable
 
-
-
 ### Consistent
 
-Elements that perform the same action should look and function the same way. This not only refers to visual and physical elements, but also to sound, language, and conceptual organization. 
+Elements that perform the same action should look and function the same way. This not only refers to visual and physical elements, but also to sound, language, and conceptual organization.
 
 ### Feedback
 
