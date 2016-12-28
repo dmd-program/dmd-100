@@ -19,10 +19,10 @@
     * [Topics](lessons/topics.md)
         * [Digital Multimedia Design](topics/digital_multimedia_design.md)
         * [What is design?](topics/what_is_design.md)
-        * [Systems thinking](topics/systems_thinking.md)
-        * [Critical thinking](topics/critical_thinking.md)
         * [Design thinking](topics/design_thinking.md)
         * [Design blocks](topics/design_blocks.md)
+        * [Systems thinking](topics/systems_thinking.md)
+        * [Critical thinking](topics/critical_thinking.md)
         * [Design process](topics/design-process.md)
     * Readings
         * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
