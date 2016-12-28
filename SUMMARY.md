@@ -24,6 +24,7 @@
         * [Systems thinking](topics/systems_thinking.md)
         * [Critical thinking](topics/critical_thinking.md)
         * [Design process](topics/design-process.md)
+        * [Self design](lessons/self-design.md)
     * Readings
         * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
         * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
