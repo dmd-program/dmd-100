@@ -41,7 +41,5 @@ On page 29 in _Design and Truth_, Robert Grudin assembles a slightly longer list
 12. Good design allows a user to perform optimally in engaging reality
 13. Good design can be delivered, installed, and repaired conveniently
 
-These lists were not meant to be hard rules that apply to everything, but can be helpful guidelines when making or evaluating design. Unfortunately, they do little to explain how good design can happen.
-
-
+These lists were not meant to be hard rules that apply to everything, but they can be helpful guidelines when making or evaluating design. Unfortunately, these lists do little to explain the process behind good design work.
 
