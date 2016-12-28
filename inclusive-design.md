@@ -1,0 +1,16 @@
+# Inclusive design
+
+Inclusive design is design that takes all people into account, including "extreme users." Extreme users typically have physical or cognitive differences or limitations that the majority of design does not account for. These users tend to make up a small percentage of users, and have needs that are often not considered in profit-centric businesses. It can be very expensive to revamp a existing design to meet the needs of extreme users, and design standards are only starting to catch up. For web design, inclusive design is better known as accessible design.
+
+A notable example of inclusive design in the built environment is building code that enforces the inclusion of wheel-chair ramps, minimum dimensions for doors and hallways, minimum lighting in stairwells, etc. On the web, Aria roles in the html help screen readers better understand web page content, and many other considerations encouraged by [W3C Accessibility](https://www.w3.org/standards/webdesign/accessibility) standards.
+
+## The fiction of disability
+
+> Labeling a person as disabled is a violent act, and often contributes to the true disabling of the person.
+
+I argue that there is no such thing as disability, just a difference in ability between people. We, including many people who face physical limitations, have been conditioned to believe that there is a "normal" human baseline ability level that is inherent in the world. A better way to think of ability is as a fluid state of being. A "able-bodied" person can open a door simply by extending their arm and pulling on a handle. A person who requires the use a wheelchair may have a harder time with the same task. However, if you were to give the same able-bodied person a baby to hold and a bag of groceries, opening the door using hands has now become all but impossible. They are now temporarily "disabled." Again, ability is a fluid concept.
+
+Labeling a person as disabled is a violent act, and often contributes to the true disabling of the person. Believing in the idea that most people are normal and there is a small subgroup of poor, unfortunate disabled people, does nothing but perpetuate the harmful process of **learned helplessness**, a process by which your peers convince you are unable to overcome an obstacle, so you should not try. The people reinforcing learned helplessness are ironically often the people that care the most about you. They don't want to see you fail, or get hurt, or be subjected to embarrassment or ridicule. A helicopter parent completing a child's homework for them can be more destructive to a person's life long-term than a physical limitation.
+
+The Inuit could travel [enormous distances over featureless landscapes](http://www.sensorystudies.org/inuit-orienting-traveling-along-familiar-horizons/) and still find their way home, the blind have taught themselves [echolocation to sense the world](https://www.youtube.com/watch?v=ob-P2a6Mrjs), and amputees routinely complete [world championship triathlons](http://www.scottrigsby.com/ach.html), a feat most "normal" people could not possibly hope to accomplish.
+
