@@ -43,7 +43,6 @@
         * [Interaction design](topics/interaction_design.md)
         * [Inclusive design](inclusive-design.md)
         * [Object making](object-making.md)
-        * [Aesthetics](aesthetics.md)
         * [Visual design](topics/visual_design.md)
         * [Identity design](identity-design.md)
         * Interactive design
