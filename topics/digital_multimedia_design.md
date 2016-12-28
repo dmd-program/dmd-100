@@ -2,7 +2,7 @@
 
 ## How it works
 
-In the first DMD course, DMD 100, you will get a broad sense of how design operates in the world. In DMD 300, you will apply your experiences from
+In the first DMD course, DMD 100, you will get a broad sense of what design is, and how you can apply it as frame for your studies. You will then explore other courses available to you within the approved major list as well as elective courses. In DMD 300, you will apply your experiences from this coursework to narrow your focus and interests while producing projects in collaboration with your peers. DMD 400 is the capstone course, where you will create an entirely self-directed design project for inclusion in an online exhibition of work.
 
 ## Mission
 
