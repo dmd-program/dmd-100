@@ -14,28 +14,6 @@ To design an interaction, a designer must seek to know:
 
 ## Interaction vs interactive
 
-## Meaning
-
-### Semantics
-
-Semantics is the study of meaning.
-
-### Semiotics
-
-Semiotics is the study of signs, symbols, and their interpretation.
-
-Sign: Signifier and signified.
-
-1. Icon
-2. Symbol
-3. Index
-
-**Attribution:**  
-[http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html](http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html)
-
-Case study: Flag design  
-SVA D-Crit presentation
-
 ## Flow
 
 Flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when doing something.
