@@ -6,7 +6,7 @@ Critical thinking is not the rote memorization and retention of information. Ins
 >
 > – _Richard Paul Linda Elder_ \[1\]
 
-Critical thinking is a rational and intellectual endeavor. Someone practiced in critical thinking can make well-constructed arguments, locate logical fallacies, connect ideas to draw conclusions, and identify bias. A critical thinker without ethical integrity would seek to manipulate others for the sake of their own benefit.
+Critical thinking is a rational and intellectual endeavor. Someone practiced in critical thinking can make well-constructed arguments, locate logical fallacies, connect ideas to draw conclusions, and identify bias. A critical thinker without ethical integrity would seek to manipulate others for the sake of their own benefit. One who is ignorant to critical thinking skills would be easy prey to such a person, thereby reinforcing critical thinking as a requisite work and life skill in any modern society. It is also an imperative skill for social, cultural, political, and technological leaders to guide society in a purposeful and beneficial way.
 
 ## Citation
 
