@@ -4,7 +4,7 @@ Inclusive design is design that takes all people into account, including "extrem
 
 An obvious example of inclusive design in the built environment are building codes that requires the inclusion of wheel-chair ramps, minimum dimensions for doors and hallways, ceiling heights, fire escapes, railings, etc. On the web, Aria roles in the html help screen readers better understand web page content, along with the many other considerations encouraged by [W3C Accessibility](https://www.w3.org/standards/webdesign/accessibility) standards.
 
-Universal access features are features everyone can use. For instance, have you ever watched TV or video with closed captions on? Have you read the transcript of a video rather than watch the entire thing because it takes too long? Have you ever chosen to walk up a wheel chair ramp because it allowed you to get around a slow person. These options afford you more choice in how you engage with the designed world. 
+Universal access features are features everyone can use. For instance, have you ever watched TV or video with closed captions on? Have you read the transcript of a video rather than watch the entire thing because it takes too long? Have you ever chosen to walk up a wheel chair ramp because it allowed you to get around a slow person. These options afford you more choice in how you engage with the designed world.
 
 ## The fiction of disability
 
