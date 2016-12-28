@@ -6,9 +6,14 @@ Design can happen at every scale. At the small scale, humans can collide single 
 
 If you consider that an expert in any given field is an expert on the system or systems situated in that field, then people who work across systems from different fields can be considered to be transdisciplinary. A transdisciplinarian is a multi-systems worker and takes liberty to follow the networked paths for more holistic perspectives on problems and issues.
 
-## The "S" word
+## Cradle to Cradle
 
-When thinking about a model to aid sustainable design, the term **Cradle to Cradle Design** was coined by German chemist Michael Braungart and U.S. architect William McDonough in their book, _Cradle to Cradle: Remaking the Way We Make Things._ The Cradle to Cradle Design model is a shift in perspective on the traditional product lifecycle, known as Cradle to Grave – a model where products eventually cease to be useful, and instead imagine how products can be used as biological or technical nutrients. Cradle to Cradle Design accounts for social, economic, and ecological systems in the design model when producing consumer products, infrastructure, and services.
+When thinking about a model to aid sustainable design, the term **Cradle to Cradle Design** was coined by German chemist Michael Braungart and U.S. architect William McDonough in their book, _Cradle to Cradle: Remaking the Way We Make Things._ Cradle to Cradle Design accounts for wellness, social, economic, and ecological systems in the design model when producing consumer products, infrastructure, and services. The Cradle to Cradle Design model is a shift in perspective on the traditional product lifecycle – known as Cradle to Grave; a model where products eventually ceases to be useful – and instead imagine how products can be made of biological or technical "nutrients" that are reused over and over. As a proof of concept, their 2002 book was printed on special synthetic paper, intended to be an example of a technical nutrient.
+
+> This book is not a tree.  
+> It is printed on synthetic "paper" and bound into a book format developed by innovative book packager Charles Melcher of Melcher Media. Unlike the paper which we are familiar, it does not use any wood pulp or cotton fiber but is made from plastic resins and inorganic fillers. This material is not only waterproof, extremely durable, and \(in many localities\) recyclable by conventional means; it is also a prototype for the book as a "technical nutrient," that is, as a product that can be broken down and circulated infinitely in industrial cycles–made and re-made as "paper" or other products.\[1\]
+
+## The "S" word
 
 The [Designers Accord](http://designersaccord.org/) was a five year project, which worked to develop guiding principles and methodologies for integrating sustainability into design and teaching. This was done through design community engagement, networking, and by inspiring designers to share case studies, best practices, and ideas at hosted events. The guiding methodology included:
 
@@ -64,7 +69,7 @@ Supposing this list was accurate, the next step would to be to better understand
 
 ## Citation
 
-1. McDonough, William; Braungart, Michael \(2002\). [Cradle to Cradle: Remaking the Way We Make Things](https://books.google.com/books?id=KFX5RprPGQ0C). North Point Press. p. 193. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-86547-587-3](https://en.wikipedia.org/wiki/Special:BookSources/0-86547-587-3). Retrieved 28 December 2016.
+1. McDonough, William; Braungart, Michael \(2002\). [Cradle to Cradle: Remaking the Way We Make Things](https://books.google.com/books?id=KFX5RprPGQ0C). North Point Press. p. 193. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-86547-587-3](https://en.wikipedia.org/wiki/Special:BookSources/0-86547-587-3). Retrieved 28 December 2016.
 
 2. [The Designers Accord: Integrating sustainability into design education: The Toolkit](http://edutoolkit.designersaccord.org/how-can-we-create-a-common-language/). \(2009\) Retrieved 28 December 2016.
 
