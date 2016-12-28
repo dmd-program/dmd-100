@@ -4,7 +4,7 @@ Humans spend the majority of their time doing impression management, that is, ma
 
 > A century of psychology has identified six major dimensions of variation that predict human behavior and that are salient to us. These are the key individual differences that distinguish human minds. These are mental traits that can be measured with good reliability and validity, that are genetically heritable, and stable across the life span, that predict behavior across diverse settings and domains, \(school, work, leisure, consumption, and family life\), and that seem to be universal across cultures and even across many animal species. \[1\]
 
-Identified with the acronym, **GOCASE**, each letter represents a different trait. **G** represents general intelligence, **O** represents openness to experience, **C** is for conscientiousness and self-control,  **A** is for agreeableness and kindness, **S** is for stability in emotion, and **E** is for extraversion. Your ability to understand a person based on those traits will give you a good idea about how they will behave in difference circumstances.
+Identified with the acronym, **GOCASE**, each letter represents a different trait. **G** represents general intelligence, **O** represents openness to experience, **C** is for conscientiousness and self-control,  **A** is for agreeableness and kindness, **S** is for stability in emotion, and **E** is for extraversion. Your ability to understand a person based on those traits will give you a good idea about how they will behave in different circumstances.
 
 ## What is identity?
 
