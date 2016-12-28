@@ -54,13 +54,15 @@ In the computer engineering field, there are five standard interaction principle
 
 ### Perceivable
 
-Being perceivable means that a person, who has no prior knowledge must be able to sense and understand an object or interface in some way.
+Being perceivable means that a person, who has no prior knowledge must be able to sense and understand an object or interface in some way. Often this means making the interaction possibilities visible in some way.
 
 ### Predictable
 
 Human's rely on predictions to navigate the world. An unpredictable environment can be frustrating, scary, and in some cases dangerous.
 
 ### Learnable
+
+Design language can be used to give users cues and resources for learning.
 
 ### Consistent
 
