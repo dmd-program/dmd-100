@@ -14,7 +14,11 @@ To design an interaction, a designer must seek to know:
 
 ## Behavior
 
+Nudging.
+
 ## Interaction Principles
+
+In the computer engineering field, there are five standard interaction principles to help software developers build an effective graphical user interface \(GUI\). They dictate that an interface must be perceivable, predictable, learnable, consistent, and provide feedback to the user.
 
 ### Perceivable
 
