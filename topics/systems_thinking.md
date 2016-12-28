@@ -67,7 +67,9 @@ Essentially, there is a ton of discarded waste plastic that has found its way in
 
 Supposing this list was accurate, the next step would to be to better understand the systems in which each participant was embedded so that we may clarify underlying systemic issues. Being able to comprehend and perceive an entire interconnected network is admittedly not easy. This idea becomes more apparent when considering the amount of people who disagree on the cause and effect responsible for the breakdown of a system. Modern examples of system breakdown include the 2008 global recession, man-made climate change, and the British exit of the European Union.
 
-Adam Curtis calls these things hyper-objects, or objects so large and complex, that humans can not perceive them in their entirety. \[3\]
+Adam Curtis calls these things hyper-objects, or objects so large and complex, that humans can not perceive them in their entirety. 
+
+> The problem is bigger, it’s a system.” Curtis and I briefly discussed a word coined by the critic Timothy Morton to describe a problem so vast in space and time that you are unable to apprehend it: a “hyperobject.” \[3\]
 
 ## Citation
 
@@ -75,7 +77,7 @@ Adam Curtis calls these things hyper-objects, or objects so large and complex, t
 
 2. [The Designers Accord: Integrating sustainability into design education: The Toolkit](http://edutoolkit.designersaccord.org/how-can-we-create-a-common-language/). \(2009\) Retrieved 28 December 2016.
 
-3. http://www.nytimes.com/interactive/2016/10/30/magazine/adam-curtis-documentaries.html
+3. Lethem, Jonathan. [Adam Curtis and the Secret History of Everything](http://www.nytimes.com/interactive/2016/10/30/magazine/adam-curtis-documentaries.html). The New York Times Magazine. October 27, 2016. Retrieved 28 December 2016.
 
 
 
