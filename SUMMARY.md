@@ -112,13 +112,13 @@
 * [Lesson 4: Open Design](lessons/remix.md)
     * [Introduction](lessons/open_design/introduction.md)
     * Topics
-        * Creativity
+        * [Creativity](lessons/creativity.md)
         * [Open design](topics/open_design.md)
         * [Everything is a Remix](topics/everything_is_a_remix.md)
         * [Intellectual property](topics/intellectual_property.md)
-        * Generative design
+        * [Generative design](lessons/generative-design.md)
         * [Open projects](topics/open_projects.md)
-        * Modularity
+        * [Modularity](lessons/modularity.md)
         * [Autonomy](topics/autonomy.md)
         * Life
     * Listening
