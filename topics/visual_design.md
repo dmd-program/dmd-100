@@ -4,6 +4,15 @@
 
 The term aesthetics, is usually defined as something related to beauty and art. However, a closer philosophical examination of beauty and art reveals that both terms have a kind of ambiguity
 
+## Graphic and typographic design
+
+1. Painting and drawing
+2. Illuminated manuscripts
+3. Printing press
+4. Movable type
+5. mechanization
+6. Computerization
+
 ## Principles of Design
 
 ### Balance
