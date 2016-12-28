@@ -1,5 +1,11 @@
 # Digital Multimedia Design
 
+## How it works
+
+In the first DMD course, DMD 100, you will get a broad sense of how design operates in the world. In DMD 300, you will apply your experiences from
+
+## Mission
+
 The Digital Multimedia Design Program promotes the value of imagination and creativity as human resources. Digital media generally refers to the storage and transmission of information in increasingly varied multimedia digital formats and devices, and within a changing array of modes of communication. Design is a means by which we respond to change in a purposeful way. By focusing on issues and opportunities, designers develop plans for taking innovative and strategic actions. Hence digital design shapes and impacts the physical and virtual spaces people inhabit. Over the course of this program, you will produce projects that stimulate sound habits of mind, develop proficiencies of practice, and foster critical sensibilities for addressing issues. 
 
 ## DMD Core
