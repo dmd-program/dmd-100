@@ -12,6 +12,10 @@ To design an interaction, a designer must seek to know:
 * Constraints of the environment it's happening in
 * How the interaction went
 
+## Flow
+
+Flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when doing something.
+
 ## Behavior
 
 Nudging.
