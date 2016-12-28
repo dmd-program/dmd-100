@@ -67,7 +67,7 @@ Essentially, there is a ton of discarded waste plastic that has found its way in
 
 Supposing this list was accurate, the next step would to be to better understand the systems in which each participant was embedded so that we may clarify underlying systemic issues. Being able to comprehend and perceive an entire interconnected network is admittedly not easy. This idea becomes more apparent when considering the amount of people who disagree on the cause and effect responsible for the breakdown of a system. Modern examples of system breakdown include the 2008 global recession, man-made climate change, and the British exit of the European Union.
 
-These things are called **hyperobjects**, coined by the critic Timothy Morton. They are objects so large and complex, that humans can not perceive them in their entirety.
+These systems are called **hyperobjects**, as coined by the critic Timothy Morton. They are objects so large and complex, that humans can not perceive them in their entirety.
 
 > The problem is bigger, it’s a system.” Curtis and I briefly discussed a word coined by the critic Timothy Morton to describe a problem so vast in space and time that you are unable to apprehend it: a “hyperobject.” Global warming is a classic example of a hyperobject: it’s everywhere and nowhere, too encompassing to think about. Global markets, too. But naming a hyperobject alone is of limited use; human cognition knows all too well how to file such imminent imponderables away, on a “to-do” list that’s never consulted again. \[3\]
 
