@@ -1,12 +1,16 @@
 # Visual Design
 
+## Aesthetics
+
+The term aesthetics, is usually defined as something related to beauty and art. However, a closer philosophical examination of beauty and art reveals that both terms have a kind of ambiguity
+
 ## Principles of Design
 
 ### Balance
+
 When design elements are distributed in such a way that they draw the viewers attention to the entire composition, it can be said to have good balance. There tends to be a single focus point in work that is not balanced properly, where the viewer is not compelled to look at the entire composition.
 
 Balance can be achieved through both formal and informal composition techniques. Formal composition relies on mathematical patterns that produce symmetrical duplicates. Informal compositions tend to be asymmetrical, and rely on other principles such as dominance and scale to achieve balance.
-
 
 ### Dominance, emphasis, and focal point
 
@@ -20,41 +24,45 @@ Balance can be achieved through both formal and informal composition techniques.
 
 ### Unity/Harmony
 
-http://www.getty.edu/education/teachers/building_lessons/principles_design.pdf
-
+[http://www.getty.edu/education/teachers/building\_lessons/principles\_design.pdf](http://www.getty.edu/education/teachers/building_lessons/principles_design.pdf)
 
 ## Elements of Visual Design
 
 ### Line
+
 A line is a two dimensional element, often referred to as a mark.
 
-- Implied: Sometimes the way two solid areas of color collide to form an implied line.
-- Outlines: edge that defines the shape and space of a subject.
-- Attributes of a line: Integrity (solid or broken), thickness, direction, complexity (straightness).
+* Implied: Sometimes the way two solid areas of color collide to form an implied line.
+* Outlines: edge that defines the shape and space of a subject.
+* Attributes of a line: Integrity \(solid or broken\), thickness, direction, complexity \(straightness\).
 
 ### Shape
-- Geometric
-- Organic
+
+* Geometric
+* Organic
 
 ### Form
 
 ### Space
 
 ### Color
-- Hue
-  - Determined by the part(s) of the visible light spectrum
-- Saturation/Intensity
-  - Purity of a color
-  - Brightness or dullness of a color
-- Value
-  - Lightness or darkness of a color
+
+* Hue
+  * Determined by the part\(s\) of the visible light spectrum
+* Saturation/Intensity
+  * Purity of a color
+  * Brightness or dullness of a color
+* Value
+  * Lightness or darkness of a color
 
 ### Contrast
+
 Two elements placed in close proximity with opposing qualities creates contrast. Constrast is often used to direct focus
 
 ### Texture
-- Real
-- Implied
+
+* Real
+* Implied
 
 ## Formal analysis
 
@@ -63,4 +71,6 @@ When analyzing and critiquing visual work, there are three things to take into a
 1. Name the formal element
 2. Describe what it is doing
 3. Discuss the effect it has with respect to the entire work.
+
+
 
