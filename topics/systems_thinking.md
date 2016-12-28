@@ -24,11 +24,15 @@ The [Designers Accord](http://designersaccord.org/) was a five year project, whi
 >
 > Focus on leadership skills, participation, transparency, engagement, networks, human centered design, respect, and active listening. Ask students to rethink current paradigms and to envision a better future. \[1\]
 
-The [educational toolkit](http://edutoolkit.designersaccord.org/) also recommends that you do not use the word sustainability when incorporating it into a curriculum, and I have followed this recommendation for the most part within course projects and other assignments. Sustainability is a central part to all good design, though it's not specifically referenced. The Designers Accord is a clear example of an organized initiative to get designers thinking more systemically in terms of environmental and social impact. Now, let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration \(NOAA\):
+The [educational toolkit](http://edutoolkit.designersaccord.org/) also recommends that you do not use the word sustainability when incorporating it into a curriculum, and I have followed this recommendation for the most part within course projects and other assignments. Sustainability is a central part to all good design, though it's not specifically referenced. The Designers Accord is a clear example of an organized initiative to get designers thinking more systemically in terms of environmental and social impact.
+
+## A speculative example
+
+Now, let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration \(NOAA\):
 
 [How Big Is the "Great Pacific Garbage Patch"? Science vs. Myth](http://response.restoration.noaa.gov/about/media/how-big-great-pacific-garbage-patch-science-vs-myth.html) \(External Website\)
 
-Let's explore this issue through a bit of speculation. Where did the plastic come from, how did it find its way to the sea, and who might have been involved in this process? To answer these questions, we would have to imagine the shape and scope of the networked system. No actual research was performed for this speculation, but it sounds reasonable enough for the purposes of this example:
+Essentially, there is a ton of discarded waste plastic that has found its way into the Pacific Ocean, and it is negatively impacting wildlife. Let's explore this issue through a bit of speculation. Where did the plastic come from, how did it find its way to the sea, and who might have been involved in this process? To answer these questions, we would have to imagine the shape and scope of the networked system. No actual research was performed for this speculation, but it sounds reasonable enough for the purposes of this example:
 
 1. Industrial producers: **Material design, Engineering Design**
 
@@ -58,11 +62,9 @@ Let's explore this issue through a bit of speculation. Where did the plastic com
 
 Supposing this list was accurate, the next step would to be to better understand the systems in which each participant was embedded so that we may clarify underlying systemic issues. Being able to comprehend and perceive an entire interconnected network is admittedly not easy. This idea becomes more apparent when considering the amount of people who disagree on the cause and effect responsible for the breakdown of a system. Modern examples of system breakdown include the 2008 global recession, man-made climate change, and the British exit of the European Union.
 
-
-
 ## Citation
 
-1. The Designers Accord: Integrating sustainability into design education: The Toolkit. http://edutoolkit.designersaccord.org/how-can-we-create-a-common-language/
+1. The Designers Accord: Integrating sustainability into design education: The Toolkit. [http://edutoolkit.designersaccord.org/how-can-we-create-a-common-language/](http://edutoolkit.designersaccord.org/how-can-we-create-a-common-language/)
 
 
 
