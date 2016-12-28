@@ -14,6 +14,10 @@ To design an interaction, a designer must seek to know:
 
 ## Interaction vs interactive
 
+## Meaning
+
+Semantics is the study of meaning. Semiotics is the study of signs, symbols, and their interpretation.
+
 ## Flow
 
 Flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when doing something.
