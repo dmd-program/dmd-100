@@ -10,7 +10,7 @@ If you consider that an expert in any given field is an expert on the system or 
 
 **Cradle-to-cradle** design accounts for social, economic, and ecological systems in the design model when producing consumer products, infrastructure, and services.
 
-The [Designers Accord](http://designersaccord.org/) was a five year project, which worked to develop guiding principles and methodologies for integrating sustainability into design. This was done through design community engagement, networking, and by inspiring designers to share case studies, best practices, and ideas at hosted events. The guiding methodology included:
+The [Designers Accord](http://designersaccord.org/) was a five year project, which worked to develop guiding principles and methodologies for integrating sustainability into design and teaching. This was done through design community engagement, networking, and by inspiring designers to share case studies, best practices, and ideas at hosted events. The guiding methodology included:
 
 1. Publicly declare participation in the Designers Accord.
 2. Initiate a dialogue about environmental and social impact and sustainable alternatives with each and every client. Rework client contracts to favor environmentally and socially responsible design and work processes. Provide strategic and material alternatives for sustainable design.
@@ -18,7 +18,13 @@ The [Designers Accord](http://designersaccord.org/) was a five year project, whi
 4. Consider your ethical footprint. Understand the impact of your firm, and work to measure, manage, and reduce it on an annual basis.
 5. Advance the understanding of environmental and social issues from a design perspective by actively contributing to the communal knowledge base for sustainable design.
 
-The Designers Accord is a clear example of an organized initiative to get designers thinking more systemically in terms of environmental and social impact. Now, let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration \(NOAA\):
+> The “S” word
+>
+> Talking about sustainable design is not the best way to talk about it
+>
+> Focus on leadership skills, participation, transparency, engagement, networks, human centered design, respect, and active listening. Ask students to rethink current paradigms and to envision a better future. \[1\]
+
+The [educational toolkit](http://edutoolkit.designersaccord.org/) also recommends that you do not use the word sustainability when incorporating it into a curriculum, and I have followed this recommendation for the most part within course projects and other assignments. Sustainability is a central part to all good design, though it's not specifically referenced. The Designers Accord is a clear example of an organized initiative to get designers thinking more systemically in terms of environmental and social impact. Now, let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration \(NOAA\):
 
 [How Big Is the "Great Pacific Garbage Patch"? Science vs. Myth](http://response.restoration.noaa.gov/about/media/how-big-great-pacific-garbage-patch-science-vs-myth.html) \(External Website\)
 
@@ -50,5 +56,13 @@ Let's explore this issue through a bit of speculation. Where did the plastic com
    * Issue not prioritized by society
    * Recycling initiatives are not timely and universally ineffective
 
-Supposing this list was accurate, the next step would to be to better understand the systems in which each participant was embedded so that we may shine light on underlying systemic issues. Being able to comprehend and perceive an entire interconnected network is admittedly not easy. This idea becomes more apparent when considering the amount of people who disagree on the cause and effect responsible for the breakdown of a system. Modern examples of system breakdown include the 2008 global recession, man-made climate change, and the British exit of the European Union.
+Supposing this list was accurate, the next step would to be to better understand the systems in which each participant was embedded so that we may clarify underlying systemic issues. Being able to comprehend and perceive an entire interconnected network is admittedly not easy. This idea becomes more apparent when considering the amount of people who disagree on the cause and effect responsible for the breakdown of a system. Modern examples of system breakdown include the 2008 global recession, man-made climate change, and the British exit of the European Union.
+
+
+
+## Citation
+
+1. The Designers Accord: Integrating sustainability into design education: The Toolkit. http://edutoolkit.designersaccord.org/how-can-we-create-a-common-language/
+
+
 
