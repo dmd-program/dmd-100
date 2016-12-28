@@ -6,9 +6,9 @@ Design can happen at every scale. At the small scale, humans can collide single 
 
 If you consider that an expert in any given field is an expert on the system or systems situated in that field, then people who work across systems from different fields can be considered to be transdisciplinary. A transdisciplinarian is a multi-systems worker and takes liberty to follow the networked paths for more holistic perspectives on problems and issues.
 
-## Cradle-to-cradle
+## Sustainability
 
-Cradle-to-cradle design accounts for social, economic, and ecological systems in the design model when producing consumer products, infrastructure, and services. 
+**Cradle-to-cradle** design accounts for social, economic, and ecological systems in the design model when producing consumer products, infrastructure, and services.
 
 The [Designers Accord](http://designersaccord.org/) was a five year project, which worked to develop guiding principles and methodologies for integrating sustainability into design. This was done through design community engagement, networking, and by inspiring designers to share case studies, best practices, and ideas at hosted events. The guiding methodology included:
 
@@ -49,7 +49,6 @@ Let's explore this issue through a bit of speculation. Where did the plastic com
    * Special interest lobbying prevents ecological policies from hindering the sale of products
    * Issue not prioritized by society
    * Recycling initiatives are not timely and universally ineffective
-
 
 Supposing this list was accurate, the next step would to be to better understand the systems in which each participant was embedded so that we may shine light on underlying systemic issues. Being able to comprehend and perceive an entire interconnected network is admittedly not easy. This idea becomes more apparent when considering the amount of people who disagree on the cause and effect responsible for the breakdown of a system. Modern examples of system breakdown include the 2008 global recession, man-made climate change, and the British exit of the European Union.
 
