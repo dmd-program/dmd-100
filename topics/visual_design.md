@@ -7,11 +7,12 @@ The term aesthetics, is usually defined as something related to beauty and art. 
 ## Graphic and typographic design
 
 1. Painting and drawing
-2. Illuminated manuscripts
-3. Printing press
-4. Movable type
-5. Photography and lithography
-6. Digitization
+2. Calligraphy
+3. Illuminated manuscripts
+4. Printing press
+5. Movable type
+6. Photography and lithography
+7. Digitization
 
 ## Principles of Design
 
