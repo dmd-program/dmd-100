@@ -1,6 +1,6 @@
 # Open design
 
-The main difference between traditional "closed door" or "black box" style of design is that the process is obscured. For instance, Apple, Inc. is highly secretive about projects until they are released to the public.
+The main difference between open design and more traditional "Closed-door" or "Black-box" styles of design is that the process is transparent. For instance, Apple, Inc. is highly secretive about projects until they are released to the public. The Linux OS project is a good example of a Transparent-box design, where development and functionality is exposed.
 
 ## Democratic design
 
