@@ -16,7 +16,25 @@ To design an interaction, a designer must seek to know:
 
 ## Meaning
 
-Semantics is the study of meaning. Semiotics is the study of signs, symbols, and their interpretation.
+### Semantics
+
+Semantics is the study of meaning.
+
+### Semiotics
+
+Semiotics is the study of signs, symbols, and their interpretation.
+
+Sign: Signifier and signified.
+
+1. Icon
+2. Symbol
+3. Index
+
+**Attribution:**  
+[http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html](http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html)
+
+Case study: Flag design  
+SVA D-Crit presentation
 
 ## Flow
 
