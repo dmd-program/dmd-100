@@ -15,7 +15,7 @@ When thinking about a model to aid sustainable design, the term **Cradle to Crad
 
 ## The "S" word
 
-The [Designers Accord](http://designersaccord.org/) was a five year project, which worked to develop guiding principles and methodologies for integrating sustainability into design and teaching. This was done through design community engagement, networking, and by inspiring designers to share case studies, best practices, and ideas at hosted events. The guiding methodology included:
+The [Designers Accord](http://designersaccord.org/) was a five year project that culminated in the development of guiding principles and methodologies for integrating sustainability into design and teaching. This was done through design community engagement, networking, and by inspiring designers to share case studies, best practices, and ideas at hosted events. The guiding methodology included:
 
 1. Publicly declare participation in the Designers Accord.
 2. Initiate a dialogue about environmental and social impact and sustainable alternatives with each and every client. Rework client contracts to favor environmentally and socially responsible design and work processes. Provide strategic and material alternatives for sustainable design.
