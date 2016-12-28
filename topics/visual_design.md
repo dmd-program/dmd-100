@@ -10,7 +10,7 @@ The term aesthetics, is usually defined as something related to beauty and art. 
 2. Illuminated manuscripts
 3. Printing press
 4. Movable type
-5. mechanization
+5. Mechanization
 6. Computerization
 
 ## Principles of Design
