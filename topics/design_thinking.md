@@ -18,7 +18,7 @@ Critical design failures tend to occur when tried-and-true processes, procedures
 
 A **heuristic** is essentially a shortcut that helps you solve a problem quickly. You can see an example of a heuristic device originally developed by renaissance masters painters on modern digital cameras. Typically, there is a setting to enable a Rule of Thirds grid, which is two vertical and horizontal lines creating nine equal rectangles. As it turns out, if you line up your subject on one of the thirds lines, or place a high contrast object at one of the intersections, you are more likely to take a picture with good composition. Just like a visual design heuristic, there are also many cognitive heuristics to help you remember facts, do math, and even generate new ideas.
 
-Design thinking equips designers with heuristic devices that help us avoid implicit or explicit bias, to form connections between new and existing ideas, to understand underlying issues and themes, be more inclusive and wider in perspective, and to get better outcomes and solutions. Without heuristic devices, the act of design would be a very long and inefficient process.
+Design thinking equips designers with heuristic devices that help us avoid implicit or explicit bias, to form connections between new and existing ideas, to understand underlying issues and themes, be more inclusive and wider in perspective, and to get better outcomes and solutions. Without heuristic devices, the act of design would be a very long and inefficient process, and we might never be able to overcome the blocks to good design.
 
 ## Citation
 
