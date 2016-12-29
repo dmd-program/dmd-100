@@ -6,7 +6,7 @@ In 2009, Dr. Bruce M. Tharp and Stephanie M. Tharp published a blog post called 
 
 ## Speculative design
 
-If discursive design is "design as thought catalyst" then, speculative design is design as _possibility_ catalyst—that is, design for the purpose of imagining new possible futures, so that we can have real conversations about what kind of world we want to build.
+If discursive design is "design as thought catalyst" then, speculative design is design as _possibility_ catalyst—that is, design for the purpose of imagining new possible futures—allowing ourselves to have real conversations about what kind of world we want to build.
 
 # Citation
 
