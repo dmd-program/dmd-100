@@ -13,6 +13,7 @@ If discursive design is "design as thought catalyst" then, speculative design is
 1. [http://www.core77.com/posts/12232/the-4-fields-of-industrial-design-no-not-furniture-trans-consumer-electronics-toys-by-bruce-m-tharp-and-stephanie-m-tharp-12232](http://www.core77.com/posts/12232/the-4-fields-of-industrial-design-no-not-furniture-trans-consumer-electronics-toys-by-bruce-m-tharp-and-stephanie-m-tharp-12232)
 2. [http://www.core77.com/posts/41991/What-is-Discursive-Design](http://www.core77.com/posts/41991/What-is-Discursive-Design)
 3. [http://speculative.hr/en/introduction-to-speculative-design-practice/](http://speculative.hr/en/introduction-to-speculative-design-practice/)
+4. http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/
 
 
 
