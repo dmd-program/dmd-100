@@ -24,7 +24,6 @@
         * [Systems thinking](topics/systems_thinking.md)
         * [Critical thinking](topics/critical_thinking.md)
         * [Design process](topics/design-process.md)
-        * [Self design](lessons/self-design.md)
     * Readings
         * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
         * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
@@ -179,6 +178,7 @@
         * [Prototype](toolkit/prototype.md)
         * [Insights](toolkit/insights.md)
         * [Journey map](toolkit/journey_map.md)
+    * [Self design](lessons/self-design.md)
     * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
     * [Toolkit Design Project](projects/toolkit_design_project.md)
     * [Graphic design](topics/graphic_design.md)
