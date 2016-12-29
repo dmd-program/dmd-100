@@ -6,7 +6,9 @@ In 2009, Dr. Bruce M. Tharp and Stephanie M. Tharp published a blog post called 
 
 ## Speculative design
 
-If discursive design is "design as thought catalyst" then, speculative design is design as _possibility_ catalyst—that is, design for the purpose of imagining new possible futures—allowing ourselves to have real conversations about what kind of world we want to build. In the 1960s, an architecture group, called Superstudio, imagined new kinds of radial architectural design, which helped push design from problem-solving to problem-seeking. 
+If discursive design is "design as thought catalyst" then, speculative design is design as _possibility_ catalyst—that is, design for the purpose of imagining new possible futures—allowing ourselves to have real conversations about what kind of world we want to build. In the 1960s, an architecture group, called Superstudio, imagined new kinds of radial architectural design, which helped push design from problem-solving to problem-seeking.
+
+
 
 # Citation
 
