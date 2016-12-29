@@ -1,28 +1,6 @@
 # Visual Design
 
-## Aesthetics
 
-The term aesthetics, is usually defined as something related to beauty and art. However, a closer philosophical examination of beauty and art reveals that both terms have a kind of ambiguity
-
-## Graphic and typographic design
-
-1. Painting and drawing
-2. Calligraphy
-3. Scribes wrote books
-4. Typefaces
-   1. Blackletter typeface
-   2. Roman - Jenson, Caslon
-   3. Italics - Invented by Aldus Manutius
-   4. Baskerville - John Baskerville
-   5. Sans Serif
-   6. Slab Serif
-   7. Geometric Sans
-   8. Humanist Sans
-   9. Helvetica
-5. Printing press
-6. Movable type
-7. Photography and lithography
-8. Digitization
 
 ## Principles of Design
 
@@ -33,6 +11,8 @@ When design elements are distributed in such a way that they draw the viewers at
 Balance can be achieved through both formal and informal composition techniques. Formal composition relies on mathematical patterns that produce symmetrical duplicates. Informal compositions tend to be asymmetrical, and rely on other principles such as dominance and scale to achieve balance.
 
 ### Dominance, emphasis, and focal point
+
+This key principle is responsible for drawing a viewer's attention. An image can have more than one focal point, and a master painter could use the shifting of focus as a means to tell a story.
 
 ### Movement
 
@@ -77,7 +57,7 @@ A line is a two dimensional element, often referred to as a mark.
 
 ### Contrast
 
-Two elements placed in close proximity with opposing qualities creates contrast. Constrast is often used to direct focus
+Two elements placed in close proximity with opposing qualities creates contrast. Contrast is often used to direct focus
 
 ### Texture
 
