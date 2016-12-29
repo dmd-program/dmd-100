@@ -45,7 +45,7 @@
         * [Inclusive design](inclusive-design.md)
         * [Object making](object-making.md)
         * [Visual design](topics/visual_design.md)
-        * [Identity design](identity-design.md)
+        * [Identity](identity-design.md)
         * Interactive design
         * [Typographic design](topics/typographic_design.md)
         * [Audience](topics/audience.md)
