@@ -1,6 +1,6 @@
 # Interaction Design \(IxD\)
 
-Designing for interaction is the process of understanding, accounting for, and sometimes altering a user\(s\) mental model \(what they know and how they think\) to facilitate a dialogue between that user and object, system, or event. This does not have to be software. You could be designing an conversation between two people by providing discussion topics, a voting ballot to reduce voter confusion and errors, or a new device to make virtual reality feel more like physical reality.
+Designing for interaction is the process of understanding, accounting for, and sometimes altering a user\(s\) mental model \(what they know and how they think\) to facilitate a dialogue between that user and an object, system, or event. This does not have to be software. You could be designing an conversation between two people by providing discussion topics, a voting ballot to reduce voter confusion and errors, or a new device to make virtual reality feel more like physical reality.
 
 > ... changes will be realized by designers, and by a specific breed of designers: those creative designers who are both artists and engineers and who are able to balance, over an extended period of time, technology and aesthetics without ever losing sight of the most important facet of design: humanity. \[3\]
 
@@ -16,7 +16,7 @@ To design an interaction, a designer must seek to know:
 
 ## Flow
 
-Flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when doing something.
+Flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when performing some action. Flow is an important component to 
 
 ## Human factors
 

@@ -42,6 +42,7 @@
         * [Design and perception](design-and-perception.md)
         * [Interaction design](topics/interaction_design.md)
         * [Inclusive design](inclusive-design.md)
+        * [Discursive design](topics/discursive_design.md)
         * [Object making](object-making.md)
         * [Visual design](topics/visual_design.md)
         * [Identity and meaning](identity-design.md)
@@ -201,7 +202,6 @@
     * [Design Fiction Project](projects/design_fiction_project.md)
     * [Design Intervention](practice/design_intervention.md)
     * Design Methods
-    * [Discursive design](topics/discursive_design.md)
     * [Future Living](practice/future_living.md)
     * [Interactive Story Project](projects/interactive_story_project.md)
     * [Example content w\/ OERSchema](example-content-w-oerschema.md)
