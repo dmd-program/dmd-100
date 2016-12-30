@@ -12,7 +12,13 @@ If discursive design is "design as thought catalyst" then, speculative design is
 
 ### Types of Potential Futures
 
-Theory of Change and the four classes of potential futures. \[5\]
+Because speculative design is concerned about the future, then it is helpful for us to consider something called the Theory of Change, which maps outcomes and causalities. The three laws of futures states that the future is not predetermined, the future cannot be predicted, and the future is a result
+
+Theory of change is therefore concerned with figuring out what choices need to be made in order to achieve a future outcome \[5\]
+
+
+
+four classes of potential futures.
 
 ![](/assets/pppp-cones-1200w@2x.png)
 
