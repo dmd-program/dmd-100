@@ -24,12 +24,12 @@ The four classes of potential futures include probable, plausible, possible, and
 
 # Citation
 
-1. [http://www.core77.com/posts/12232/the-4-fields-of-industrial-design-no-not-furniture-trans-consumer-electronics-toys-by-bruce-m-tharp-and-stephanie-m-tharp-12232](http://www.core77.com/posts/12232/the-4-fields-of-industrial-design-no-not-furniture-trans-consumer-electronics-toys-by-bruce-m-tharp-and-stephanie-m-tharp-12232)
-2. [http://www.core77.com/posts/41991/What-is-Discursive-Design](http://www.core77.com/posts/41991/What-is-Discursive-Design)
-3. [http://speculative.hr/en/introduction-to-speculative-design-practice/](http://speculative.hr/en/introduction-to-speculative-design-practice/)
-4. [http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/](http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/)
-5. [http://thinkingfutures.net/wp-content/uploads/2010/10/A\\_Primer\\_on\\_Futures\\_Studies1.pdf](http://thinkingfutures.net/wp-content/uploads/2010/10/A\_Primer\_on\_Futures\_Studies1.pdf)
-6. [http://www.theoryofchange.org/wp-content/uploads/toco\\_library/pdf/ToCBasics.pdf](http://www.theoryofchange.org/wp-content/uploads/toco\_library/pdf/ToCBasics.pdf)
+1. [http://www.core77.com/posts/12232/the-4-fields-of-industrial-design-no-not-furniture-trans-consumer-electronics-toys-by-bruce-m-tharp-and-stephanie-m-tharp-12232](http://www.core77.com/posts/12232/the-4-fields-of-industrial-design-no-not-furniture-trans-consumer-electronics-toys-by-bruce-m-tharp-and-stephanie-m-tharp-12232). Accessed Oct 25, 2016
+2. [http://www.core77.com/posts/41991/What-is-Discursive-Design](http://www.core77.com/posts/41991/What-is-Discursive-Design). Accessed Oct 25, 2016
+3. [http://speculative.hr/en/introduction-to-speculative-design-practice/](http://speculative.hr/en/introduction-to-speculative-design-practice/). Accessed Dec 29, 2016
+4. [http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/](http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/). Accessed Dec 29, 2016
+5. [http://thinkingfutures.net/wp-content/uploads/2010/10/A\\_Primer\\_on\\_Futures\\_Studies1.pdf](http://thinkingfutures.net/wp-content/uploads/2010/10/A\_Primer\_on\_Futures\_Studies1.pdf). Accessed Dec 29, 2016
+6. [http://www.theoryofchange.org/wp-content/uploads/toco\\_library/pdf/ToCBasics.pdf](http://www.theoryofchange.org/wp-content/uploads/toco\_library/pdf/ToCBasics.pdf). Accessed Dec 30, 2016
 
 
 
