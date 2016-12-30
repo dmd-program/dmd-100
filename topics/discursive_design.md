@@ -1,6 +1,6 @@
 # ![](/assets/superstudio_quaderna_sitin.jpg)Discursive design
 
-In 2009, Dr. Bruce M. Tharp and Stephanie M. Tharp published a blog post called ["The 4 Fields of Industrial Design: \(No, not furniture, trans, consumer electronics, & toys\)."](http://www.core77.com/posts/12232/the-4-fields-of-industrial-design-no-not-furniture-trans-consumer-electronics-toys-by-bruce-m-tharp-and-stephanie-m-tharp-12232) in an attempt to categorize design intentions. As described in a followup post published on Dec. 9, 2015, ["What is Discursive Design?,"](http://www.core77.com/posts/41991/What-is-Discursive-Design) discursive design is described as the practice of designing for the purpose of provoking thought.
+In 2009, Dr. Bruce M. Tharp and Stephanie M. Tharp published a blog post called ["The 4 Fields of Industrial Design: \(No, not furniture, trans, consumer electronics, & toys\)."](http://www.core77.com/posts/12232/the-4-fields-of-industrial-design-no-not-furniture-trans-consumer-electronics-toys-by-bruce-m-tharp-and-stephanie-m-tharp-12232) in an attempt to categorize design intentions. \[1\] As described in a followup post published on Dec. 9, 2015, ["What is Discursive Design?,"](http://www.core77.com/posts/41991/What-is-Discursive-Design) discursive design is described as the practice of designing for the purpose of provoking thought.
 
 > This, of course, demands a purposeful shift—the designed object’s _primary_ role is no longer utilitarian, aesthetic or commercial. Instead it is mostly \(though certainly not exclusively\) a thought catalyst. The product is given form and function so that it can communicate ideas—this is the goal and the measure of success. Rather than tools for living and doing, these are tools for thinking. \[2\]
 
@@ -29,7 +29,7 @@ The four classes of potential futures include probable, plausible, possible, and
 3. [http://speculative.hr/en/introduction-to-speculative-design-practice/](http://speculative.hr/en/introduction-to-speculative-design-practice/)
 4. [http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/](http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/)
 5. [http://thinkingfutures.net/wp-content/uploads/2010/10/A\\_Primer\\_on\\_Futures\\_Studies1.pdf](http://thinkingfutures.net/wp-content/uploads/2010/10/A\_Primer\_on\_Futures\_Studies1.pdf)
-6. http://www.theoryofchange.org/wp-content/uploads/toco\_library/pdf/ToCBasics.pdf
+6. [http://www.theoryofchange.org/wp-content/uploads/toco\\_library/pdf/ToCBasics.pdf](http://www.theoryofchange.org/wp-content/uploads/toco\_library/pdf/ToCBasics.pdf)
 
 
 
