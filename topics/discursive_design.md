@@ -12,13 +12,13 @@ If discursive design is "design as thought catalyst" then, speculative design is
 
 ### Types of Potential Futures
 
-Because speculative design is concerned about the future, then it is helpful for us to consider something called the Theory of Change, which maps outcomes and causalities. The three laws of futures states that the future is not predetermined, the future cannot be predicted, and the future is a result
+Because speculative design is concerned about the future, it is helpful for us to consider something called the Theory of Change, which maps outcomes and causalities. The three laws of futures states that the future is not predetermined, the future cannot be predicted, and the future is a result of decisions that have consequences.
 
-Theory of change is therefore concerned with figuring out what choices need to be made in order to achieve a future outcome \[5\]
+Theory of change is therefore concerned with figuring out what choices can to be made in order to achieve a future outcome. \[5\]
 
+> Theory of change is a rigorous yet participatory process whereby groups and stakeholders in a planning process articulate their long-term goals and identify the conditions they believe have to unfold for those goals to be met. These conditions are modeled as desired outcomes, arranged graphically in a causal framework. \[6\]
 
-
-four classes of potential futures.
+The four classes of potential futures include probable, plausible, possible, and preferable.
 
 ![](/assets/pppp-cones-1200w@2x.png)
 
@@ -29,6 +29,7 @@ four classes of potential futures.
 3. [http://speculative.hr/en/introduction-to-speculative-design-practice/](http://speculative.hr/en/introduction-to-speculative-design-practice/)
 4. [http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/](http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/)
 5. [http://thinkingfutures.net/wp-content/uploads/2010/10/A\\_Primer\\_on\\_Futures\\_Studies1.pdf](http://thinkingfutures.net/wp-content/uploads/2010/10/A\_Primer\_on\_Futures\_Studies1.pdf)
+6. http://www.theoryofchange.org/wp-content/uploads/toco\_library/pdf/ToCBasics.pdf
 
 
 
