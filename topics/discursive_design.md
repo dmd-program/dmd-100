@@ -22,7 +22,7 @@ Theory of Change and the four classes of potential futures. \[5\]
 2. [http://www.core77.com/posts/41991/What-is-Discursive-Design](http://www.core77.com/posts/41991/What-is-Discursive-Design)
 3. [http://speculative.hr/en/introduction-to-speculative-design-practice/](http://speculative.hr/en/introduction-to-speculative-design-practice/)
 4. [http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/](http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/)
-5. http://thinkingfutures.net/wp-content/uploads/2010/10/A\_Primer\_on\_Futures\_Studies1.pdf
+5. [http://thinkingfutures.net/wp-content/uploads/2010/10/A\\_Primer\\_on\\_Futures\\_Studies1.pdf](http://thinkingfutures.net/wp-content/uploads/2010/10/A\_Primer\_on\_Futures\_Studies1.pdf)
 
 
 
