@@ -18,9 +18,11 @@ Theory of change is therefore concerned with figuring out what choices can to be
 
 > Theory of change is a rigorous yet participatory process whereby groups and stakeholders in a planning process articulate their long-term goals and identify the conditions they believe have to unfold for those goals to be met. These conditions are modeled as desired outcomes, arranged graphically in a causal framework. \[6\]
 
+#### ![](/assets/pppp-cones-1200w@2x.png)
+
 #### Steps for mapping a Theory of Change problem:
 
-If you look carefully at this list, you an also simultaneously locate a place for each step within the Double Diamond design process used throughout this course, further illustrating it's compatibility with other design processes. I've adapted this list from Theory of Change Basics: A PRIMER ON THEORY OF CHANGE by Taplin and Clark, published in 2012.
+If you look carefully at this list, you an also simultaneously locate a place for each step within the Double Diamond design process used throughout this course, further illustrating it's compatibility with other design processes. I've adapted this list from Theory of Change Basics: A Primer on Theory of Change by Taplin and Clark, published in 2012.
 
 1. Identify long-term goals and related assumptions.
 2. Map backwards from long-term goal: Identify preconditions and requirements.
@@ -31,8 +33,6 @@ If you look carefully at this list, you an also simultaneously locate a place fo
 7. Produce a narrative to communicate the logic of your initiative.
 
 You can start to see where those steps, particularly in step 6, begin to line up within the PPPP model \(described by Voros\). The the four classes of potential futures include probable, plausible, possible, and preferable.
-
-![](/assets/pppp-cones-1200w@2x.png)
 
 # Citation
 
