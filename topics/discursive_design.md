@@ -10,12 +10,19 @@ If discursive design is "design as thought catalyst" then, speculative design is
 
 > And, whereas traditional design actually legitimizes the status quo, speculative design envisages and anticipates the future, at the same time help- ing us to understand and re-think the world of today. This approach is most often based on the question “what if?”, examining the interrelation between potential changes in the technological development and social relations. \[3\]
 
+### Types of Potential Futures
+
+Theory of Change and the four classes of potential futures. \[5\]
+
+![](/assets/pppp-cones-1200w@2x.png)
+
 # Citation
 
 1. [http://www.core77.com/posts/12232/the-4-fields-of-industrial-design-no-not-furniture-trans-consumer-electronics-toys-by-bruce-m-tharp-and-stephanie-m-tharp-12232](http://www.core77.com/posts/12232/the-4-fields-of-industrial-design-no-not-furniture-trans-consumer-electronics-toys-by-bruce-m-tharp-and-stephanie-m-tharp-12232)
 2. [http://www.core77.com/posts/41991/What-is-Discursive-Design](http://www.core77.com/posts/41991/What-is-Discursive-Design)
 3. [http://speculative.hr/en/introduction-to-speculative-design-practice/](http://speculative.hr/en/introduction-to-speculative-design-practice/)
 4. [http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/](http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/)
+5. http://thinkingfutures.net/wp-content/uploads/2010/10/A\_Primer\_on\_Futures\_Studies1.pdf
 
 
 
