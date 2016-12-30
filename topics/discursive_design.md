@@ -14,15 +14,17 @@ If discursive design is "design as thought catalyst" then, speculative design is
 
 Because speculative design is concerned about the future, it is helpful for us to consider something called the **Theory of Change**, which can help you map outcomes and causalities. The "Three 'Laws' of Futures," as outlined by Joseph Voros, states that **\(1\) the future is not  predetermined**, **\(2\) the future is not predictable**, and **\(3\) the future outcomes can be influenced by our choices in the present**. Voros' publication,[ A Primer on Futures Studies, Foresight and the Use of Scenarios](http://thinkingfutures.net/wp-content/uploads/2010/10/A_Primer_on_Futures_Studies1.pdf) is well worth a read-through, and will better describe the logic behind these "laws." Essentially they point to the idea that each present moment is the culmination of past choices, and therefore, future outcomes can be regarded as something to steward with thoughtful intent. It's contributing logic behind the importance of being responsible for your actions.
 
+The the four classes of potential futures include **P**robable, **P**lausible, **P**ossible, and **P**referable \(referred to as **PPPP**\). In future design, _preferable_ outcomes are located within the realm of _probable_ and _plausible_. Most likely, it is less useful to imagine outside of _possible_. Possible in this case would be something like a square shaped circle—that is not possible and working such a thing into a work that supposes the potential future of reality may not be very helpful or useful.
+
+#### ![](/assets/pppp-cones-1200w@2x.png)
+
 Theory of change is therefore concerned with figuring out what choices can to be made in order to achieve positive future outcomes.
 
 > Theory of change is a rigorous yet participatory process whereby groups and stakeholders in a planning process articulate their long-term goals and identify the conditions they believe have to unfold for those goals to be met. These conditions are modeled as desired outcomes, arranged graphically in a causal framework. \[6\]
 
-#### ![](/assets/pppp-cones-1200w@2x.png)
+#### Mapping a Theory of Change problem:
 
-#### Steps for mapping a Theory of Change problem:
-
-If you look carefully at this list, you an also simultaneously locate a place for each step within the Double Diamond design process used throughout this course, further illustrating it's compatibility with other design processes. I've adapted this list from Theory of Change Basics: A Primer on Theory of Change by Taplin and Clark, published in 2012.
+If you look carefully at this list, you an also simultaneously locate a place for each step within the Double Diamond design process used throughout this course, further illustrating it's compatibility with other design processes. I've adapted this list from [Theory of Change Basics: A Primer on Theory of Change](http://www.theoryofchange.org/wp-content/uploads/toco_library/pdf/ToCBasics.pdf) by Taplin and Clark.
 
 1. Identify long-term goals and related assumptions.
 2. Map backwards from long-term goal: Identify preconditions and requirements.
@@ -32,7 +34,7 @@ If you look carefully at this list, you an also simultaneously locate a place fo
 6. Quality review should answer three basic questions: Is your theory 1\) plausible, 2\) “doable” \(or feasible\), and 3\) testable?
 7. Produce a narrative to communicate the logic of your initiative.
 
-You can start to see where those steps, particularly in step 6, begin to line up within the PPPP model \(described by Voros\). The the four classes of potential futures include probable, plausible, possible, and preferable.
+You can start to see where those steps, particularly in step 6, begin to line up within the PPPP model \(described by Voros\). 
 
 # Citation
 
