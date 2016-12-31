@@ -20,7 +20,7 @@ Ontology: The study of the nature of being.
 
 ## Brand
 
-Branding is the narrative that presents the story of a person, company, product, service, or organization to others. There are a variety of motivations, though typically this process takes place for market reasons. Branding helps a company to promote a kind of heritage, historical precedent, or set of values that may or may not be genuine or accurate to reality in order to appeal to a target market. 
+Branding is the narrative that presents the story of a person, company, product, service, or organization to others. There are a variety of motivations, though typically this process takes place for market reasons. Branding helps a company to promote a kind of heritage, historical precedent, or set of values that may or may not be genuine or accurate to reality in order to appeal to a target market.
 
 ### Story
 
