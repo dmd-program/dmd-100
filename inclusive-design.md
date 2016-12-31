@@ -6,7 +6,7 @@ An obvious example of inclusive design in the built environment are building cod
 
 Universal access features are features everyone can use. For instance, have you ever watched TV or video with closed captions on? Have you read the transcript of a video or podcast rather than watch or listen because it takes too long? Have you ever chosen to walk up a wheel chair ramp because it allowed you to get around a slow-walking person. These options afford you more choice in how you engage with the designed world.
 
-## Regarding ability
+##  Dis/ability
 
 The word disability is a bit of a controversial term. Generally speaking, it is related to people who have impairments, activity limitations, and social participation restrictions. The **Disability Rights Movement** deals with ensuring that disabled persons are afforded the same rights and opportunities as any other person. In the U.S., the Americans with Disabilities Act \(ADA\) provides a wide breadth of protections and accommodations for public transportation, housing, communication, and other public services. **Disability studies** is an academic discipline that is concerned with the nature and meaning of disability as a social construction. It can also be referred to medically, or used by the disability community as a means of self-identifying. One way to think of ability is as a fluid state of being. An "able-bodied" person can open a door simply by extending their arm and pulling on a handle. A person who requires the use a wheelchair may have a harder time with the same task. However, if you were to give the same able-bodied person a baby to hold and a bag of groceries, opening the door using hands has now become all but impossible—a temporary impairment that has design implications.
 
