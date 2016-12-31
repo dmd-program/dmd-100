@@ -6,7 +6,7 @@ One way to look at how a person spends their time is as a form of impression man
 
 Identified with the acronym, **GOCASE**, each letter represents a different trait. **G** represents general intelligence, **O** represents openness to experience, **C** is for conscientiousness and self-control,  **A** is for agreeableness and kindness, **S** is for stability in emotion, and **E** is for extraversion. Conceivably, if you have an ability to understand a person based on those traits you will have a good idea about how they will behave in different circumstances.
 
-Marketers have concerned themselves with selling products to people by appealing to these personality traits. Consumers can express personality traits through their material possessions. **Propaganda** is used to sell products just as it is to galvanize mass consensus around a political viewpoint. After World War II, the term took on a more sinister meaning due to the Nazi's considerable and effective use of design and media for propagandistic ends. Edward Bernays is considered the father of public relations \(a term synonymous with advertising and propaganda\) authored a book in 1928 aptly named, [_Propaganda_](http://www.historyisaweapon.org/defcon1/bernprop.html). Bernay's, Sigmund Freud's nephew, applied Freudian ideas of unconscious desire for selling  products and manipulation of mass opinion, inventing techniques that are in standard use today.
+Marketers have concerned themselves with selling products to people by appealing to these personality traits. Consumers can express personality traits through their material possessions. **Propaganda** is used to sell products just as it is to galvanize mass consensus around a political viewpoint. After World War II, the term took on a more sinister meaning due to the Nazi's considerable and effective use of design and media for propagandistic ends. Edward Bernays is considered the father of public relations \(a term synonymous with advertising and propaganda\) authored a book in 1928 aptly named, [_Propaganda_](http://www.historyisaweapon.org/defcon1/bernprop.html). Bernay's, Sigmund Freud's nephew, applied Freudian ideas of unconscious desire for selling  products and manipulation of mass opinion, inventing techniques that are in standard use today by politicians and corporations.
 
 > The propagandist must treat personality as he would treat any other objective fact within his province.
 >
@@ -18,30 +18,25 @@ Identity is who we are and who we think we are.
 
 Ontology: The study of the nature of being.
 
-## Brand
+## Brand identity
 
-Branding is the narrative that presents the story of a person, company, product, service, or organization to others. There are a variety of motivations, though typically this process takes place for market reasons. Branding helps a company to promote a kind of heritage, historical precedent, or set of values that may or may not be genuine or accurate to reality in order to appeal to a target market.
+Branding is the narrative that presents the story of a person, company, product, service, or organization to others. From nature, we can see that animals have distinctive patterns, textures, and colors which serve both utility and symbolic functions. Vibrantly colored insects may indicate that they are poisonous to predators while bird songs, feathers, and nests communicate sexual fitness. Humans are no different, displaying or obscuring attributes for the same ends. These are semiotic processes.
 
-### Story
+In corporate branding, the market drives brand identity design and instead of attracting mates, they are attracting customers, clients, suppliers, investors, and others. Branding can help a company to promote a kind of historical heritage, disruptive newness, or another set of values in order to appeal to a target market. Logos, word-marks, letterhead, packaging, architecture, employee culture, and product aesthetics, all contribute to the brand.
 
-### Meaning
+### Semiotics
 
-#### Semantics
+Semiotics is the study of signs, symbols, and their interpretation. \[3\] A **sign** is composed of a signifier and signified. A **signifier** is the form of the sign and can be auditory, visual, or physical in nature. A famous play on this idea is the Magritte painting of a pipe with the words "Ceci n'est pas une pipe." \(This is not a pipe.\)\[4\]
 
-Semantics is the study of meaning.
+![](/assets/MagrittePipe.jpg)
 
-#### Semiotics
+The three categories of signifiers are the **\(1\) Icon**, **\(2\) Symbol** and **\(3\) Index**. An icon resembles some physical attribute of the signified. A symbol is an arbitrary form that is connected to the signified only through cultural association and convention. The fact that you can understand this text is because it is a symbol. An index is some manifestation or result of the existence of the signified. For instance, a traffic cone on the highway is an index for construction.
 
-Semiotics is the study of signs, symbols, and their interpretation.
+The **signified** is the conceptual idea. If you were to write the word _spoon_, that word would be a symbol that signifies something about the referenced object that is a spoon.
 
-Sign: Signifier and signified.
-
-1. Icon
-2. Symbol
-3. Index
-
-**Attribution:**  
-[http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html](http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html)
+  
+![](/assets/semiotic-triangle-1200w@2x.png)  
+**Semantics** is the study of meaning.
 
 Case study: Flag design  
 SVA D-Crit presentation
@@ -50,6 +45,9 @@ SVA D-Crit presentation
 
 1. Miller, Geoffrey. Spent: Sex, Evolution, and Consumer Behavior. 2009. Page 144
 2. Bernays, Edward. Propaganda. 1928
+3. [http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html](http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html)
+4. René Magritte, The Treason of Images \(1928-9\). \("This is not a pipe."\). Accessed Dec. 31, 2016. [https://tcf.ua.edu/Classes/Jbutler/T311/Modernism.htm](https://tcf.ua.edu/Classes/Jbutler/T311/Modernism.htm)
+5. [http://www.jfsowa.com/ontology/ontometa.htm](http://www.jfsowa.com/ontology/ontometa.htm)
 
 
 
