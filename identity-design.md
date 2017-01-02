@@ -1,6 +1,6 @@
 # Identity design
 
-One way to look at how a person spends their time is as a form of impression management, that is, managing the impression you make on other people. This is done in a variety of ways, including the clothes you wear, the house you live in, the car you drive, and many other material aspects of living. In addition to consumer purchases, psychologists say there are six major traits that differentiate human minds.
+One way to look at how a person spends their time is as a form of **impression management**, that is, managing the impression you make on other people. This is done in a variety of ways, including the clothes you wear, the house you live in, the car you drive, and many other material aspects of living. In addition to consumer purchases, psychologists say there are six major traits that differentiate human minds.
 
 > A century of psychology has identified six major dimensions of variation that predict human behavior and that are salient to us. These are the key individual differences that distinguish human minds. These are mental traits that can be measured with good reliability and validity, that are genetically heritable, and stable across the life span, that predict behavior across diverse settings and domains, \(school, work, leisure, consumption, and family life\), and that seem to be universal across cultures and even across many animal species. \[1\]
 
@@ -12,13 +12,19 @@ Marketers have concerned themselves with selling products to people by appealing
 >
 > – Edward Bernays \[2\]
 
+All of this contributes to the way humans made decisions.
+
 ## What is identity?
 
-Identity is who we are and who we think we are.
+Identity is who we are, who we think we are, and what others see us as. Identity can scale from a single person to an entire nation. Identification is an essential process for human decision making. Differentiating between safe or dangerous is one of the first things humans do unconsciously, and this process is typically based on patterns of the familiar. This is why if you are used to spending time only with the people that are visually similar to you
 
 Ontology: The study of the nature of being.
 
 ## Brand identity
+
+Brands are supposed to help people make choices, and reassure them that they made the correct one at a time where products are saturated with competition. The "Tyranny of Choice" is when the overabundance of options paralyzes a person's ability to choose. A good example of this can be experienced in the American supermarket. For this example, let's consider which toothbrush to buy, for me a stressful task that never feels gratifying. Some questions I ponder are; which toothbrush has the most effective bristle pattern? Which bristle hardness is the right hardness? Which will cause the least harm to the environment? Which will last the longest before needing to buy another one? Does the value-pack of 4 toothbrushes make financial sense? Are their reviews that can help me decide? Maybe I should try that sonic thing that shoots sound-waves at my teeth. Why does the eco-friendly bamboo toothbrush cost twice as much and though it looks like it will do half as good a job at cleaning? I typically spend 20 minutes in the isle trying to figure out which option is best option before I give up and purchase the same kind of toothbrush I have been using for the last decade.
+
+Good branding will communicate the product's attributes and benefits to a person who has corresponding values to hep them choose that product, and feel that they've made the right choice. Buyer's remorse is when someone has regret after buying something, often because they prioritized incorrectly or didn't spend enough time thinking about their choice. 
 
 Branding is the narrative that presents the story of a person, company, product, service, or organization to others. From nature, we can see that animals have distinctive patterns, textures, and colors which serve both utility and symbolic functions. Vibrantly colored insects may indicate that they are poisonous to predators while bird songs, feathers, and nests communicate sexual fitness. Humans are no different, displaying or obscuring attributes for the same ends. These are semiotic processes.
 
@@ -34,7 +40,6 @@ The three categories of signifiers are the **\(1\) Icon**, **\(2\) Symbol** and 
 
 The **signified** is the conceptual idea. If you were to write the word _spoon_, that word would be a symbol that signifies something about the referenced object that is a spoon.
 
-  
 ![](/assets/semiotic-triangle-1200w@2x.png)  
 **Semantics** is the study of meaning.
 
