@@ -1,3 +1,5 @@
+![](/assets/DeathtoStock_Lonely_Commute-05@2x.jpg)
+
 # Systems thinking
 
 A design decision that considers the impact on an entire network of affected systems, rather than a specific part, is known as systems thinking. Systems are bounded, can be nested, overlap with other systems, are autonomous in operation, parts can be distributed or co-located, can interact with the larger environment, and tend to be invisible.
