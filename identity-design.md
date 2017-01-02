@@ -46,9 +46,6 @@ The **signified** is the conceptual idea. If you were to write the word _spoon_,
 
 1. Miller, Geoffrey. Spent: Sex, Evolution, and Consumer Behavior. 2009. Page 144
 2. Bernays, Edward. Propaganda. 1928
-3. [http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html](http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html)
-4. René Magritte, The Treason of Images \(1928-9\). \("This is not a pipe."\). Accessed Dec. 31, 2016. [https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948](https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948)
-5. [http://www.jfsowa.com/ontology/ontometa.htm](http://www.jfsowa.com/ontology/ontometa.htm)
 
 
 
