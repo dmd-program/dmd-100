@@ -40,7 +40,7 @@ The three categories of signifiers are the **\(1\) Icon**, **\(2\) Symbol** and 
 
 The **signified** is the conceptual idea. If you were to write the word _spoon_, that word would be a symbol that signifies something about the referenced object that is a spoon.
 
-![](/assets/semiotic-triangle-1200w@2x.png)  
+![](/assets/semiotic-triangle-1200w@2x.png)
 
 ## Citations
 
