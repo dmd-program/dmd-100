@@ -6,7 +6,13 @@
 >
 > – Robert Grudin
 
-From the moment you wake up, you are interacting with design. Everything in the home, place of work, and journey to and from has been influenced by a designer of some kind. The degree of care for each designed artifact or system can vary dramatically, causing you to experience delight, dismay, and everything in between. As design moved out of the basement and into the boardroom, the design field has grown larger in scope, and has become a tool for civic engagement and change. Design is now a relevant force for good in science, art, business, technology, humanities, and other traditionally silo'd fields, and this means that deciding what and how to teach a designer, particularly in a multi-domain program, becomes a rather daunting feat of pedagogical alchemy. It is this reason that you have been asked to read a book that talks about design from a philosophical and social perspective. As you move through your academic studies, you can and should deep dive into aspects of design that you find exicting and fulfilling. In this degree program, you will examine design as it relates to digital tools and skills needed for story telling, products and artefacts, interaction and experiences, and the production and dissemination of knowledge.
+From the moment you wake up, you are interacting with design. Everything in the home, place of work, and journey to and from has been influenced by a designer of some kind. The degree of care for each designed artifact or system can vary dramatically, causing you to experience delight, dismay, and everything in between. As design moved out of the basement and into the boardroom, the design field has grown larger in scope, and has become a tool for civic engagement and change.
+
+In Design for the Real World, Human Ecology and Social Change, Victor Papanek writes his definition of design:
+
+> Design is the conscious and intuitive effort to impose meaningful order.
+
+
 
 Jess McMullin describes a continuum of design maturity in his model, called _A Rough Design Maturity Continuum._ In the model, five stages range from having no strategic design to using design for identifying and framing central challenges and opportunities.
 

@@ -39,17 +39,15 @@
         * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
 * Lesson 2: Visual and Interaction Design
     * Topics
-        * [Design and perception](design-and-perception.md)
+        * [Object making](object-making.md)
         * [Interaction design](topics/interaction_design.md)
         * [Inclusive design](inclusive-design.md)
         * [Discursive design](topics/discursive_design.md)
-        * [Object making](object-making.md)
         * [Visual design](topics/visual_design.md)
         * [Media design](media-design.md)
         * [Identity design](identity-design.md)
         * Interactive design
         * [Typographic design](topics/typographic_design.md)
-        * [Audience](topics/audience.md)
         * [Semiotics](topics/semiotics.md)
     * Listening
         * [99 Percent Invisible: Of mice and men](listening/99_percent_invisible_of_mice_and_men.md)
@@ -86,6 +84,7 @@
         * [Story structure](topics/narrative_structure.md)
         * [Story development](topics/organizing_story_development.md)
         * [Character](topics/character.md)
+        * [Audience](topics/audience.md)
         * [Hypertext](topics/hypertext.md)
         * [Media](topics/narrative-media.md)
     * Listening
