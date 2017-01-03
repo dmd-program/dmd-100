@@ -8,7 +8,7 @@
 
 From the moment you wake up, you are interacting with design. Everything in the home, place of work, and journey to and from has been influenced by a designer of some kind. The degree of care for each designed artifact or system can vary dramatically, causing you to experience delight, dismay, and everything in between. As design moved out of the basement and into the boardroom, the design field has grown larger in scope, and has become a tool for civic engagement and change.
 
-In Design for the Real World, Human Ecology and Social Change, Victor Papanek writes his definition of design:
+In the book, _Design for the Real World, Human Ecology and Social Change_, Victor Papanek writes his definition of design:
 
 > Design is the conscious and intuitive effort to impose meaningful order.
 
@@ -19,8 +19,6 @@ Jess McMullin, founder of the Centre for Citizen Experience and Situ Strategy, d
 3. Function and Form
 4. Problem solving
 5. Framing
-
-
 
 At the broadest sense of design as a verb, it can be thought of the act of making a choice. In the broadest sense of _design as a noun_, it is the result of a choice. For the purposes of this course, **design is the process that helps a person or group create, select, modify, and organize elements to satisfy an intended outcome**. However, this definition does not define good design. A quick Internet search will reveal many ways of defining good design.
 
