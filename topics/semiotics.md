@@ -2,7 +2,7 @@
 
 # Semiotics
 
-From nature, we can see that animals have distinctive patterns, textures, and colors which serve both utilitarian and symbolic functions. Vibrantly colored insects may indicate that they are poisonous to predators while bird songs, feathers, and nests communicate sexual fitness. Humans are no different, displaying or obscuring attributes for the same ends. These are semiotic processes. Semiotics is the study of signs, symbols, and their interpretation. \[3\]
+From nature, we can see that animals have distinctive patterns, textures, and colors which serve both utilitarian and symbolic functions. Vibrantly colored insects may indicate that they are poisonous to predators while bird songs, feathers, and nests communicate sexual fitness to prospective mates. Humans are no different, displaying or obscuring attributes for the same ends. These are semiotic processes. Semiotics is the study of signs, symbols, and their interpretation. \[3\] The study of semiotic processes are just as relevant in art as they are in computer science, since understanding how meaning is produced and communicated in an artwork is valuable knowledge; and a complex process that scientists hope a computer will one day be able to understand and recreate on its own.
 
 ## Signs
 
