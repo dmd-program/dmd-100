@@ -2,9 +2,11 @@
 
 # Semiotics
 
-From nature, we can see that animals have distinctive patterns, textures, and colors which serve both utilitarian and symbolic functions. Vibrantly colored insects may indicate that they are poisonous to predators while bird songs, feathers, and nests communicate sexual fitness. Humans are no different, displaying or obscuring attributes for the same ends. These are semiotic processes.
+From nature, we can see that animals have distinctive patterns, textures, and colors which serve both utilitarian and symbolic functions. Vibrantly colored insects may indicate that they are poisonous to predators while bird songs, feathers, and nests communicate sexual fitness. Humans are no different, displaying or obscuring attributes for the same ends. These are semiotic processes. Semiotics is the study of signs, symbols, and their interpretation. \[3\] 
 
-Semiotics is the study of signs, symbols, and their interpretation. \[3\] A **sign** is composed of a signifier and signified. A **signifier** is the form of the sign and can be auditory, visual, or physical in nature. A famous play on this idea is the Magritte painting of a pipe with the words "Ceci n'est pas une pipe." \(This is not a pipe.\)\[4\]
+## Signs
+
+A **sign** is composed of a signifier and signified. A **signifier** is the form of the sign and can be auditory, visual, or physical in nature. A famous play on this idea is the Magritte painting of a pipe with the words "Ceci n'est pas une pipe." \(This is not a pipe.\)\[4\]
 
 ![](/assets/the-treachery-of-images-this-is-not-a-pipe-1948.jpg)
 
