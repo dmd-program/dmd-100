@@ -3,7 +3,7 @@
 {% oer_resource id="#dmd100sp17", type="Course" %}
 {% oer_property name="courseIdentifier", value="DMD 100" %}
 {% oer_property name="name" %}
-# DMD 100: Digital Multimedia Design Foundations
+# DMD 100: Digital Multimedia Design Foundations -- Draft
 {% endoer_property %}
 {% oer_property name="description" %}
 DMD 100 introduces concepts, skills, language and principles of practice in art and design, communication, and information sciences.
