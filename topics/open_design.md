@@ -1,22 +1,24 @@
 # Open design
 
-The distinct features of open design as defined on Page 55 of Open Design Now!:
+The distinct features of open design as defined on Page 55 of _Open Design Now!_:
 
-## Access
+**Access** to open design is made _available_, _sharable_, and _licensed_ under open access terms. For access to be open, it cannot be _concealed_, _protected_, or _licensed_ under a fee or payment structure. For instance, Apple, Inc. is highly secretive about projects until they are released to the public. The Linux OS project is a good example of a Transparent-box design, where development and functionality is exposed. Open design helps others contribute by using _common digital notation language_ to specify **blueprints **and plans. 
 
-## Blueprints
+_**Example here**_
 
-## Derivatives
+The use of _proprietary_ notation language for specification does not contribute to openness. Open design is _reconfigurable_ and _extendable_ enabling **derivatives**, whereas design that is not open is _black-boxed_ or _fixed_, preventing derivatives from being possible. 
 
-## Exclusivity
+_**Example here**_
 
-## Means of production
+Open design is _reproducible_ and **not exclusive** or _limited to a finite series_. In contrast, _one-offs_ are not compatible with open design. 
 
-## Manufacturing process
+_**Example here**_
 
-## Potential
+Open design can be fabricated by commercial, off-the-shelf, multi-purpose machines giving everyone a **means of production**. If the design must be fabricated by a skilled artisan or if it requires custom built machines or moulds, then it is not open.
 
-The main difference between open design and more traditional "Closed-door" or "Black-box" styles of design is that the process is transparent. For instance, Apple, Inc. is highly secretive about projects until they are released to the public. The Linux OS project is a good example of a Transparent-box design, where development and functionality is exposed.
+_**example here**_
+
+The **manufacturing process** of open design is subject to distributed and scalable production. A _centrally controlled_ and _preset batch production_ process is not open design. Open design has _generative_ qualities giving it whereas closed design does not have this potential, and is _close-ended_. 
 
 ## Democratic design
 
