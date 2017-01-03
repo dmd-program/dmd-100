@@ -1,4 +1,5 @@
-![](/assets/bwmtupbylis-caleb-minear@2x.jpg)
+
+![Magritte's Treachery of Images](/assets/the-treachery-of-images-this-is-not-a-pipe-1948.jpg)
 
 # Semiotics
 
@@ -6,9 +7,7 @@ From nature, we can see that animals have distinctive patterns, textures, and co
 
 ## Signs
 
-A **sign** is composed of a signifier and signified. A **signifier** is the form of the sign and can be auditory, visual, or physical in nature. A famous play on this idea is the René Magritte painting entitled, _The Treachery of Images,_ where he has painted a pipe above the words, "Ceci n'est pas une pipe." \(translation: "This is not a pipe."\)\[4\] In the painting, Magritte paints an iconic image of a pipe, but contradicts the very idea the the image is a pipe with written text. Depending on what the viewer feels is a stronger signifier, they will believe either the text or the image to be true.
-
-![](/assets/the-treachery-of-images-this-is-not-a-pipe-1948.jpg)
+A **sign** is composed of a signifier and signified. A **signifier** is the form of the sign and can be auditory, visual, or physical in nature. A famous play on this idea is the René Magritte painting entitled, _The Treachery of Images,_ where he has painted a pipe above the words, "Ceci n'est pas une pipe." \(translation: "This is not a pipe."\)\[2\] In the painting, Magritte paints an iconic image of a pipe, but contradicts the very idea the the image is a pipe with written text. Depending on what the viewer feels is a stronger signifier, they will believe either the text or the image to be true.
 
 The three categories of signifiers are the **\(1\) Icon**, **\(2\) Symbol** and **\(3\) Index**. An icon resembles some physical attribute of the signified. A symbol is an arbitrary form that is connected to the signified only through cultural association and convention. The fact that you can understand this text is because it is a symbol that you have learned to connect to it's corresponding meaning. An index is some manifestation or result of the existence of the signified. For instance, a traffic cone on the highway is an index for a construction zone being present.
 
@@ -21,7 +20,7 @@ The **signified** is the conceptual idea. If you were to write the word _spoon_,
 1. [http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html](http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html)
 2. René Magritte, The Treachery of Images \(1928-9\). \("This is not a pipe."\). Accessed Dec. 31, 2016. [https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948](https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948)
 3. [http://www.jfsowa.com/ontology/ontometa.htm](http://www.jfsowa.com/ontology/ontometa.htm)
-4. Feather image: [https://unsplash.com/search/bird?photo=BwMtUpBYLIs](https://unsplash.com/search/bird?photo=BwMtUpBYLIs)
+4. Image: https://unsplash.com/photos/U9x5mG0pBiQ
 
 
 
