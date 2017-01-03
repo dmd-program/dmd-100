@@ -2,7 +2,7 @@
 
 # Semiotics
 
-From nature, we can see that animals have distinctive patterns, textures, and colors which serve both utilitarian and symbolic functions. Vibrantly colored insects may indicate that they are poisonous to predators while bird songs, feathers, and nests communicate sexual fitness to prospective mates. Humans are no different, displaying or obscuring attributes for the same ends. These are semiotic processes. Semiotics is the study of signs, symbols, and their interpretation. \[3\] The study of semiotic processes are just as relevant in art as they are in computer science, since understanding how meaning is produced and communicated in an artwork is valuable knowledge; and a complex process that scientists hope a computer will one day be able to understand and recreate on its own.
+From nature, we can see that animals have distinctive patterns, textures, and colors which serve both utilitarian and symbolic functions. Vibrantly colored insects may indicate that they are poisonous to predators while bird songs, feathers, and nests communicate sexual fitness to prospective mates. Humans are no different, displaying or obscuring attributes for the same ends. These are semiotic processes. Semiotics is the study of signs, symbols, and their interpretation. \[3\] The study of semiotic processes are just as relevant in art as they are in computer science, since understanding how meaning is produced and communicated in an artwork is valuable knowledge; and a complex process that scientists hope a computer will one day be able to understand and recreate on its own. 
 
 ## Signs
 
@@ -23,7 +23,9 @@ Conceptual semantics focuses on understanding how meaning is formed cognitively.
 1. [http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html](http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html)
 2. René Magritte, The Treachery of Images \(1928-9\). \("This is not a pipe."\). Accessed Dec. 31, 2016. [https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948](https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948)
 3. [http://www.jfsowa.com/ontology/ontometa.htm](http://www.jfsowa.com/ontology/ontometa.htm)
-4. Image: [https://unsplash.com/photos/U9x5mG0pBiQ](https://unsplash.com/photos/U9x5mG0pBiQ)
+4. Lucie Guillemette and Josiane Cossette \(2006\), « The Semiotic Process and the Classification of Signs », in Louis Hébert \(dir.\), _Signo _\[online\], Rimouski \(Quebec\), [http://www.signosemio.com/eco/semiotic-process-and-classification-of-signs.asp](http://www.signosemio.com/eco/semiotic-process-and-classification-of-signs.asp).
+
+5. Image: [https://unsplash.com/photos/U9x5mG0pBiQ](https://unsplash.com/photos/U9x5mG0pBiQ)
 
 
 
