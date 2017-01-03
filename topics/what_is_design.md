@@ -52,4 +52,3 @@ Jess McMullin, founder of the Centre for Citizen Experience and Situ Strategy, d
 3. Function and Form
 4. Problem solving
 5. Framing
-
