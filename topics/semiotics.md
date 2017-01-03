@@ -1,4 +1,3 @@
-
 ![Magritte's Treachery of Images](/assets/the-treachery-of-images-this-is-not-a-pipe-1948.jpg)
 
 # Semiotics
@@ -13,6 +12,10 @@ The three categories of signifiers are the **\(1\) Icon**, **\(2\) Symbol** and 
 
 The **signified** is the conceptual idea. If you were to write the word _spoon_, that word would be a symbol that signifies something about the referenced object that is a spoon.
 
+## Semantics
+
+Conceptual semantics focuses on understanding how meaning is formed cognitively. If we look at the meaning triangle, we can see that there is a sign—an icon, symbol, or index—which in the example in the diagram is written as the symbol "spoon." The concept of a spoon is the thought or mental act associated with referring to the spoon object. The object, also known as a referent, does not have to be a physical thing, just something that is being referred to.
+
 ![](/assets/semiotic-triangle-1200w@2x.png)
 
 ## Citations
@@ -20,7 +23,7 @@ The **signified** is the conceptual idea. If you were to write the word _spoon_,
 1. [http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html](http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html)
 2. René Magritte, The Treachery of Images \(1928-9\). \("This is not a pipe."\). Accessed Dec. 31, 2016. [https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948](https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948)
 3. [http://www.jfsowa.com/ontology/ontometa.htm](http://www.jfsowa.com/ontology/ontometa.htm)
-4. Image: https://unsplash.com/photos/U9x5mG0pBiQ
+4. Image: [https://unsplash.com/photos/U9x5mG0pBiQ](https://unsplash.com/photos/U9x5mG0pBiQ)
 
 
 
