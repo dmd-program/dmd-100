@@ -8,7 +8,7 @@ Semiotics is the study of signs, symbols, and their interpretation. \[3\] A **si
 
 ![](/assets/the-treachery-of-images-this-is-not-a-pipe-1948.jpg)
 
-The three categories of signifiers are the **\(1\) Icon**, **\(2\) Symbol** and **\(3\) Index**. An icon resembles some physical attribute of the signified. A symbol is an arbitrary form that is connected to the signified only through cultural association and convention. The fact that you can understand this text is because it is a symbol that you have learned to connect to it's corresponding meaning. An index is some manifestation or result of the existence of the signified. For instance, a traffic cone on the highway is an index for construction.
+The three categories of signifiers are the **\(1\) Icon**, **\(2\) Symbol** and **\(3\) Index**. An icon resembles some physical attribute of the signified. A symbol is an arbitrary form that is connected to the signified only through cultural association and convention. The fact that you can understand this text is because it is a symbol that you have learned to connect to it's corresponding meaning. An index is some manifestation or result of the existence of the signified. For instance, a traffic cone on the highway is an index for a construction zone being present.
 
 The **signified** is the conceptual idea. If you were to write the word _spoon_, that word would be a symbol that signifies something about the referenced object that is a spoon.
 
