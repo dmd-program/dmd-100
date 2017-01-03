@@ -1,5 +1,21 @@
 # Open design
 
+The distinct features of open design as defined on Page 55 of Open Design Now!:
+
+## Access
+
+## Blueprints
+
+## Derivatives
+
+## Exclusivity
+
+## Means of production
+
+## Manufacturing process
+
+## Potential
+
 The main difference between open design and more traditional "Closed-door" or "Black-box" styles of design is that the process is transparent. For instance, Apple, Inc. is highly secretive about projects until they are released to the public. The Linux OS project is a good example of a Transparent-box design, where development and functionality is exposed.
 
 ## Democratic design
@@ -20,7 +36,7 @@ See this IKEA blog post about [Democratic Design Day](http://ouryear.ikea.com/20
 | Professionalization, specialization | Do-it-ourselves, maker culture |
 | Long-term affiliation and loyalty, less overall participation | Short-term, conditional affiliation, more overall participation |
 
-source: [https://hbr.org/2014/12/understanding-new-power](https://hbr.org/2014/12/understanding-new-power)
+\[1\]
 
 ## Projects
 
@@ -31,4 +47,10 @@ source: [https://hbr.org/2014/12/understanding-new-power](https://hbr.org/2014/1
 [http://www.wikihouse.cc/](http://www.wikihouse.cc/)
 
 [https://blog.mozilla.org/opendesign/](https://blog.mozilla.org/opendesign/)
+
+## Citations
+
+1. source: [https://hbr.org/2014/12/understanding-new-power](https://hbr.org/2014/12/understanding-new-power)
+
+
 
