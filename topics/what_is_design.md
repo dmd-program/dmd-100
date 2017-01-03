@@ -12,15 +12,15 @@ In Design for the Real World, Human Ecology and Social Change, Victor Papanek wr
 
 > Design is the conscious and intuitive effort to impose meaningful order.
 
-
-
-Jess McMullin describes a continuum of design maturity in his model, called _A Rough Design Maturity Continuum._ In the model, five stages range from having no strategic design to using design for identifying and framing central challenges and opportunities.
+Jess McMullin, founder of the Centre for Citizen Experience and Situ Strategy, describes a continuum of design maturity for organizations in his model, _A Rough Design Maturity Continuum._ There are five stages which range from having no strategic design to using design for identifying and framing central challenges and opportunities.
 
 1. No conscious design
 2. Style
 3. Function and Form
 4. Problem solving
 5. Framing
+
+
 
 At the broadest sense of design as a verb, it can be thought of the act of making a choice. In the broadest sense of _design as a noun_, it is the result of a choice. For the purposes of this course, **design is the process that helps a person or group create, select, modify, and organize elements to satisfy an intended outcome**. However, this definition does not define good design. A quick Internet search will reveal many ways of defining good design.
 
