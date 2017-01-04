@@ -34,7 +34,7 @@ Notable projects include [openstructures.net](http://openstructures.net), [wikih
 
 ## Citations
 
-1. Open Design Now!. Page 55.
+1. Adapted from Open Design Now!. Page 55.
 2. source: [https://hbr.org/2014/12/understanding-new-power](https://hbr.org/2014/12/understanding-new-power)
 
 
