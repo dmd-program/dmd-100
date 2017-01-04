@@ -40,6 +40,7 @@
 * Lesson 2: Visual and Interaction Design
     * Topics
         * [Object making](object-making.md)
+        * [Critical making](topics/critical-making.md)
         * [Interaction design](topics/interaction_design.md)
         * [Inclusive design](inclusive-design.md)
         * [Discursive design](topics/discursive_design.md)

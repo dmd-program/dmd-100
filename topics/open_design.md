@@ -10,7 +10,7 @@ Notable projects include [Open Structures](http://openstructures.net), [Wiki Hou
 
 ## Open innovation
 
-**Open innovation** refers to organizations that demonstrate a large amount of transparency and discourse in their design process. One notable organization is Mozilla, chronicling their [open branding initiative](https://blog.mozilla.org/opendesign/) and requesting advice and guidance from the greater design community. Every year, IKEA hosts [Democratic Design Day](http://ouryear.ikea.com/2015/design/a-day-dedicated-to-democratic-design/), an event set up by the marketing director where customers can engage in conversation with designers and glimpse into their future product lines.
+**Open innovation** refers to organizations that demonstrate a large amount of transparency and discourse in their design process. One notable organization is Mozilla, chronicling their [open branding initiative](https://blog.mozilla.org/opendesign/) and requesting advice and guidance from the greater design community. Every year, IKEA hosts [Democratic Design Day](http://ouryear.ikea.com/2015/design/a-day-dedicated-to-democratic-design/), an event set up by the marketing department, where customers can engage in conversation with designers and glimpse into their future product lines.
 
 ## Open Design Power Values
 
@@ -23,10 +23,6 @@ Notable projects include [Open Structures](http://openstructures.net), [Wiki Hou
 | Long-term affiliation and loyalty, less overall participation | Short-term, conditional affiliation, more overall participation |
 
 \[2\]
-
-## Projects
-
-[http://www.intrastructures.net/Intrastructures/About\_-\_what\_we\_are..html](http://www.intrastructures.net/Intrastructures/About_-_what_we_are..html)
 
 ## Citations
 
