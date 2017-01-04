@@ -2,15 +2,17 @@
 
 ## Introduction
 
-From the moment you wake up, you are interacting with design. Everything in the home, place of work, and journey to and from has been influenced by a designer of some kind. The degree of care for each designed artifact or system can vary dramatically, causing you to experience delight, dismay, and everything in between. As design moved out of the basement and into the boardroom, the design field has grown larger in scope, and has become a tool for civic engagement and change.
+From the moment you wake up, you are interacting with design. Everything in the home, place of work, and journey to and from has been influenced by a designer of some kind. The degree of care for each designed artifact or system can vary dramatically, causing you to experience delight, dismay, and everything in between. As design moved out of the basement and into the boardroom, the design field has grown larger in scope, and has become a tool for civic engagement and change. For this reason, a variety of ideas about what design is, how you do it, and what makes it good have emerged. I've located a few descriptions to compare. 
 
-In the book, _Design for the Real World, Human Ecology and Social Change_, Victor Papanek writes his definition of design:
+In the book, _Design for the Real World, Human Ecology and Social Change_, Victor Papanek writes a rather broad definition of design:
+
 > Design is the conscious and intuitive effort to impose meaningful order.
 
-We get another definition from Robert Grudin's book, _Design and Truth_:
+We get another, even more broad definition from Robert Grudin's book, _Design and Truth_:
+
 > “The primary function of design is to shape and channel energy.”
 
-At the broadest sense of design as a verb, it can be thought of the act of making a choice. In the broadest sense of _design as a noun_, it is the result of a choice. For the purposes of this course, **design is the process that helps a person or group create, select, modify, and organize elements to satisfy an intended outcome**. However, this definition does not define good design. A quick Internet search will reveal many ways of defining good design.
+I will now attempt to define the broadest definition of design possible. At the broadest sense of design as a verb, it can be thought of the act of making a **choice**. In the broadest sense of _design as a noun_, it is the **result** of a choice. All of these definitions are better understood after you have been doing design for a long time, and are perhaps less useful when trying to learn how to do it. Therefore, for the purposes of teaching a person how to do design, we can consider this the working definition–**design is the process that helps a person or group create, select, modify, and organize elements to satisfy an intended outcome**. However, this definition does not define good design. A quick Internet search will reveal many ways of defining good design.
 
 ## Good design in list form
 
@@ -45,6 +47,30 @@ On page 29 in _Design and Truth_, Robert Grudin assembles a slightly longer list
 
 These lists were not meant to be hard rules that apply to everything, but they can be helpful guidelines when making or evaluating design. Unfortunately, these lists do little to explain the process behind good design work.
 
+
+
+> We define design as...
+>
+> **Dissecting ubiquity. **Remaining curious to the obvious
+>
+> **Managing complexity. **Mapping our contemporary infrastructure in order to reveal opportunities
+>
+> **Introducing proposition. **Changing from within rather than shouting from the outside
+>
+> **Abandoning the individual. **Sharing our mind, sketchbooks and hard drives
+>
+> **Spreading enthusiasm. **Not fearing radical optimism
+>
+> **Bridging disciplines. **Widening the scope of design by integrating complementary perspectives
+>
+> **Embracing diversity. **Accepting different solutions in order to distill wisdom from their shared mindset
+>
+> **Materializing opportunity. **Condensing wild ideas into applicable products, tools and models
+>
+> **Responding to challenge. **Acting by both thinking and doing
+
+
+
 Jess McMullin, founder of the Centre for Citizen Experience and Situ Strategy, describes a continuum of design maturity for organizations in his model, _A Rough Design Maturity Continuum._ There are five stages which range from having no strategic design to using design for identifying and framing central challenges and opportunities.
 
 1. No conscious design
@@ -52,3 +78,10 @@ Jess McMullin, founder of the Centre for Citizen Experience and Situ Strategy, d
 3. Function and Form
 4. Problem solving
 5. Framing
+
+## Citations
+
+http://www.intrastructures.net/Intrastructures/About\_-\_how\_we\_define\_design..html
+
+
+
