@@ -4,6 +4,10 @@ In 2009, Dr. Bruce M. Tharp and Stephanie M. Tharp published a blog post called 
 
 > This, of course, demands a purposeful shift—the designed object’s _primary_ role is no longer utilitarian, aesthetic or commercial. Instead it is mostly \(though certainly not exclusively\) a thought catalyst. The product is given form and function so that it can communicate ideas—this is the goal and the measure of success. Rather than tools for living and doing, these are tools for thinking. \[2\]
 
+## Critical design
+
+Critical design is related to Haute couture, concept cars, design propaganda, and visions of the future, but its purpose is not to present the dreams of industry, attract new business, anticipate new trends or test the market. Its purpose is to stimulate discussion and debate amongst designers, industry and the public about the aesthetic quality of our electronically mediated existence.\[9\]
+
 ## Speculative design
 
 If discursive design is "design as thought catalyst" then, speculative design is design as _possibility_ catalyst—that is, design for the purpose of imagining new possible futures—enabling ourselves to have real conversations about what kind of world we want to build. In the 1960s, an architecture group, called Superstudio, imagined new kinds of radical architectural design, which helped push design from problem-solving to problem-seeking. This form of design has autonomy from the constraints of the market, and has the benefit of self-reflection.
@@ -46,6 +50,7 @@ If you look carefully at this list, you an also simultaneously locate a place fo
 6. [http://www.theoryofchange.org/wp-content/uploads/toco\\_library/pdf/ToCBasics.pdf](http://www.theoryofchange.org/wp-content/uploads/toco\_library/pdf/ToCBasics.pdf). Accessed Dec 30, 2016
 7. Superstudio image. [http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/](http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/)
 8. Dunne, Anthony. Raby, Fiona. Speculative Everything: Design, Fiction, and Social Dreaming. 2013. Page 4.
+9. Dunne, Anthony. Raby, Fiona. Design Noir: The Secret Life of Electronic Objects. Birkhäuser Basel. 2001.
 
 
 

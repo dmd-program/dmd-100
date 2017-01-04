@@ -23,6 +23,7 @@
         * [Design blocks](topics/design_blocks.md)
         * [Systems thinking](topics/systems_thinking.md)
         * [Critical thinking](topics/critical_thinking.md)
+        * [Critical making](topics/critical-making.md)
         * [Design process](topics/design-process.md)
     * Readings
         * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
@@ -40,7 +41,6 @@
 * Lesson 2: Visual and Interaction Design
     * Topics
         * [Object making](object-making.md)
-        * [Critical making](topics/critical-making.md)
         * [Interaction design](topics/interaction_design.md)
         * [Inclusive design](inclusive-design.md)
         * [Discursive design](topics/discursive_design.md)
