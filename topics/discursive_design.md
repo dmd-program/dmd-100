@@ -4,8 +4,6 @@ In 2009, Dr. Bruce M. Tharp and Stephanie M. Tharp published a blog post called 
 
 > This, of course, demands a purposeful shift—the designed object’s _primary_ role is no longer utilitarian, aesthetic or commercial. Instead it is mostly \(though certainly not exclusively\) a thought catalyst. The product is given form and function so that it can communicate ideas—this is the goal and the measure of success. Rather than tools for living and doing, these are tools for thinking. \[2\]
 
-## Critical design
-
 We find a similar definition from Dunne and Raby's, _Design Noir: The Secret Life of Electronic Objects_:
 
 > Critical design is related to Haute couture, concept cars, design propaganda, and visions of the future, but its purpose is not to present the dreams of industry, attract new business, anticipate new trends or test the market. Its purpose is to stimulate discussion and debate amongst designers, industry and the public about the aesthetic quality of our electronically mediated existence.\[9\]
