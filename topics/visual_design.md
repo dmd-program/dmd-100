@@ -1,7 +1,5 @@
 # Visual Design
 
-
-
 ## Principles of Design
 
 ### Balance
@@ -71,6 +69,10 @@ When analyzing and critiquing visual work, there are three things to take into a
 1. Name the formal element
 2. Describe what it is doing
 3. Discuss the effect it has with respect to the entire work.
+
+Perception
+
+## Gestalt
 
 
 
