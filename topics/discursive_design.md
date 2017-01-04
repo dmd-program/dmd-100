@@ -1,12 +1,14 @@
 # ![](/assets/superstudio_quaderna_sitin.jpg)Discursive design
 
-In 2009, Dr. Bruce M. Tharp and Stephanie M. Tharp published a blog post called ["The 4 Fields of Industrial Design: \(No, not furniture, trans, consumer electronics, & toys\)."](http://www.core77.com/posts/12232/the-4-fields-of-industrial-design-no-not-furniture-trans-consumer-electronics-toys-by-bruce-m-tharp-and-stephanie-m-tharp-12232) in an attempt to categorize design intentions. \[1\] As described in a followup post published on Dec. 9, 2015, ["What is Discursive Design?,"](http://www.core77.com/posts/41991/What-is-Discursive-Design) discursive design is described as the practice of designing for the purpose of provoking thought.
+In 2009, Dr. Bruce M. Tharp and Stephanie M. Tharp published a blog post called ["The 4 Fields of Industrial Design: \(No, not furniture, trans, consumer electronics, & toys\)."](http://www.core77.com/posts/12232/the-4-fields-of-industrial-design-no-not-furniture-trans-consumer-electronics-toys-by-bruce-m-tharp-and-stephanie-m-tharp-12232) in an attempt to categorize design intentions. \[1\] As described in a followup post published on Dec. 9, 2015, ["What is Discursive Design?,"](http://www.core77.com/posts/41991/What-is-Discursive-Design) discursive design is described as **the practice of designing for the purpose of provoking thought**.
 
 > This, of course, demands a purposeful shift—the designed object’s _primary_ role is no longer utilitarian, aesthetic or commercial. Instead it is mostly \(though certainly not exclusively\) a thought catalyst. The product is given form and function so that it can communicate ideas—this is the goal and the measure of success. Rather than tools for living and doing, these are tools for thinking. \[2\]
 
 ## Critical design
 
-Critical design is related to Haute couture, concept cars, design propaganda, and visions of the future, but its purpose is not to present the dreams of industry, attract new business, anticipate new trends or test the market. Its purpose is to stimulate discussion and debate amongst designers, industry and the public about the aesthetic quality of our electronically mediated existence.\[9\]
+We find a similar definition from Dunne and Raby's, _Design Noir: The Secret Life of Electronic Objects_:
+
+> Critical design is related to Haute couture, concept cars, design propaganda, and visions of the future, but its purpose is not to present the dreams of industry, attract new business, anticipate new trends or test the market. Its purpose is to stimulate discussion and debate amongst designers, industry and the public about the aesthetic quality of our electronically mediated existence.\[9\]
 
 ## Speculative design
 
