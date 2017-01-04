@@ -4,11 +4,13 @@ Distinct features of open design include a variety of attributes counter to the 
 
 Notable projects include [openstructures.net](/openstructures.net), [wikihouse.cc](/wikihouse.cc) and [opensourceecology.org](/opensourceecology.org), which hope to use the power of open source technology with crowdsource design communities to enable the average person to create houses, products, and sustainable living environments.
 
-## Open design
+## Open source
 
-## Open Innovation
+**Open source** consists of projects open to modification by an engaged community of developers.
 
-Open innovation refers to organizations that demonstrate a large amount of transparency and discourse in their design process. One notable organization is Mozilla, chronicling their [open branding initiative](https://blog.mozilla.org/opendesign/) and requesting advice and guidance from the greater design community. Every year, IKEA hosts [Democratic Design Day](http://ouryear.ikea.com/2015/design/a-day-dedicated-to-democratic-design/), an event set up by the marketing director where customers can engage in conversation with designers and glimpse into their future product lines.
+## Open innovation
+
+**Open innovation** refers to organizations that demonstrate a large amount of transparency and discourse in their design process. One notable organization is Mozilla, chronicling their [open branding initiative](https://blog.mozilla.org/opendesign/) and requesting advice and guidance from the greater design community. Every year, IKEA hosts [Democratic Design Day](http://ouryear.ikea.com/2015/design/a-day-dedicated-to-democratic-design/), an event set up by the marketing director where customers can engage in conversation with designers and glimpse into their future product lines.
 
 ## Open Design Power Values
 
