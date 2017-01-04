@@ -6,7 +6,7 @@ Notable projects include [openstructures.net](/openstructures.net), [wikihouse.c
 
 ## Open source
 
-**Open source** consists of projects open to modification by an engaged community of developers.
+**Open source** consists of projects open to modification by an engaged community of developers. This text is written on an open source tool called Gitbook, which itself only exists because of a multitude of other open source software projects. [This text is open source](https://github.com/dmd-program/dmd-100-sp17/edit/master/topics/open_design.md) as well, and modifications can be made by anyone with a computer and Internet access.
 
 ## Open innovation
 
