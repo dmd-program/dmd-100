@@ -148,6 +148,7 @@
         * Design research
         * [Collaboration](topics/collaboration.md)
         * Co-design
+        * Activism
     * Listening
         * Podcast
     * Project
