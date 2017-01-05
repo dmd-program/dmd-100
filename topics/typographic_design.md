@@ -30,5 +30,9 @@ Photography and lithography
 
 Digitization
 
+## Citations
+
+1. Image: https://unsplash.com/search/type?photo=8GMCkGBvARw
+
 [https://www.lynda.com/Design-Typography-tutorials/Foundations-Typography/106698-2.html](https://www.lynda.com/Design-Typography-tutorials/Foundations-Typography/106698-2.html)
 
