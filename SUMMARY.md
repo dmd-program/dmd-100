@@ -181,7 +181,6 @@
         * [Prototype](toolkit/prototype.md)
         * [Insights](toolkit/insights.md)
         * [Journey map](toolkit/journey_map.md)
-    * [Self design](lessons/self-design.md)
     * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
     * [Toolkit Design Project](projects/toolkit_design_project.md)
     * [Graphic design](topics/graphic_design.md)
