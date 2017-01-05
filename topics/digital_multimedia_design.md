@@ -1,8 +1,12 @@
 # Digital Multimedia Design
 
-In the first DMD course, DMD 100, you will get a broad sense of what design is, and how you can apply it as frame for your studies. You will then explore other courses available to you within the approved major list as well as elective courses. In DMD 300, you will apply your experiences from this coursework to narrow your focus and interests while producing projects in collaboration with your peers. DMD 400 is the capstone course, where you will create an entirely self-directed design project for inclusion in an online exhibition of work.
+## Background
 
-Design is now a relevant force in science, art, business, technology, humanities, and other traditionally silo'd fields, and this means that deciding what and how to teach a designer, particularly in a multi-domain program, becomes a rather daunting feat of pedagogical alchemy. It is this reason that you have been asked to read a book that talks about design from a philosophical and social perspective. As you move through your academic studies, you can and should deep dive into aspects of design that you find exciting and fulfilling. In this degree program, you will examine design as it relates to digital tools and skills needed for story telling, products and artifacts, interaction and experiences, and the production and dissemination of knowledge.
+Design is now a relevant force in science, art, business, technology, humanities, and other traditionally silo'd fields. Admittedly, this means that deciding what and how to teach a designer, particularly in a multi-domain program, becomes a rather daunting feat of pedagogical alchemy. On July 01, 2012, Penn State University suspended a program called Science, Technology, and Society \(STS\)—an event embroiled in [controversy](http://onwardstate.com/2011/01/15/budget-crunch-hits-home-sts-program-recommendation-for-closure/)— just as [Harvard](http://sts.hks.harvard.edu/) initiated their own STS program. \[1\] Content of STS courses included historical contexts for technological, scientific, and social progress through history. This subject-matter was a deep-dive into the visible and invisible forces that shape design decisions, and consequently, the results from design decisions. The DMD program intends to bring some of that important context into the curriculum, though it can never hope to replace supplemental studies into the STS field
+
+As you move through your academic studies, you can and should explore aspects of design that you find exciting and fulfilling. However, an important idea to keep in mind is that you, as a maker, bear a responsibility to know about the implications of your work, and ultimately the human beings that will be affected by it. In this degree program, you will examine design as it relates to digital tools and skills needed for story telling, products and artifacts, interaction and experiences, and the production and dissemination of knowledge.
+
+In the first DMD course, DMD 100, you will get  exposed to design in a broad sense, and how you can apply it as frame for your studies. You will then explore other courses available to you within the approved major list as well as elective courses. In DMD 300, you will apply your experiences from this coursework to narrow your focus and interests while producing projects in collaboration with your peers. DMD 400 is the capstone course, where you will create an entirely self-directed design project for inclusion in an online exhibition of work.
 
 ## Mission
 
@@ -23,4 +27,12 @@ Over time, you will develop capabilities necessary to use digital technologies i
 ## Portfolios
 
 Developing a creative digital portfolio of work that showcases your interest areas and capabilities will become an essential component for professional development.
+
+
+
+## Citations
+
+1. https://installingorder.org/2013/03/27/sts-program-at-penn-state/
+
+
 
