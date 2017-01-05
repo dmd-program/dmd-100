@@ -1,4 +1,4 @@
-![](/assets/type.png)
+![](/assets/8gmckgbvarw-clem-onojeghuo@2x.jpg)
 
 # Typographic Design
 
