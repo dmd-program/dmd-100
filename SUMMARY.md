@@ -149,6 +149,7 @@
         * [Collaboration](topics/collaboration.md)
         * Co-design
         * Activism
+        * Self design
     * Listening
         * Podcast
     * Project
