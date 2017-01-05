@@ -24,7 +24,7 @@ We can reasonably assume that capable design students have the following attribu
    * don't give up, do what you can with what you have
    * dedicate time and energy
    * finish what you start
-   * be optimistic
+   * Practice unwavering optimism
 5. Skill
    * develop intellectual capabilities
    * achieve technical mastery

@@ -57,13 +57,15 @@ These lists were not meant to be hard rules that apply to everything, but they c
 8. **Materializing opportunity. **Condensing wild ideas into applicable products, tools and models
 9. **Responding to challenge. **Acting by both thinking and doing"
 
-Jess McMullin, founder of the Centre for Citizen Experience and Situ Strategy, describes a continuum of design maturity for organizations in his model, _A Rough Design Maturity Continuum._ There are five stages which range from having no strategic design to using design for identifying and framing central challenges and opportunities.
+Jess McMullin, founder of the Centre for Citizen Experience and Situ Strategy, describes a continuum of design maturity for organizations in his model, _A Rough Design Maturity Continuum. _ There are five stages which range from having no strategic design to using design for identifying and framing central challenges and opportunities.
 
 1. No conscious design
 2. Style
 3. Function and Form
 4. Problem solving
 5. Framing
+
+An organization's success
 
 ## Citations
 
