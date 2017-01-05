@@ -1,3 +1,5 @@
+![](/assets/type.png)
+
 # Typographic Design
 
 ## Brief history
