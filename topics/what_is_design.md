@@ -12,7 +12,7 @@ We get another, even more broad definition from Robert Grudin's book, _Design an
 
 > “The primary function of design is to shape and channel energy.”
 
-I will now attempt to define the broadest definition of design possible. At the broadest sense of _design as a verb_, it can be thought of the act of making a **choice**. In the broadest sense of _design as a noun_, it is the **result** of a choice. All of these definitions are better understood after you have been doing design for a long time, and are perhaps less useful when trying to learn how to do it. Therefore, for the purposes of teaching a person how to do design, we can consider this the working definition–**design is the process that helps a person or group create, select, modify, and organize elements to satisfy an intended outcome**. However, this definition does not define good design. A quick Internet search will reveal many ways of defining good design.
+I will now attempt to define the broadest definition of design possible. At the broadest sense of _design as a verb_, it can be thought of the act of creating or making a **choice**. In the broadest sense of _design as a noun_, it is the **result** of a choice. All of these definitions are better understood after you have been doing design for a long time, and are perhaps less useful when trying to learn how to do it. Therefore, for the purposes of teaching a person how to do design, we can consider this the working definition–**design is the process that helps a person or group create, select, modify, and organize elements to satisfy an intended outcome**. However, this definition does not define good design. A quick Internet search will reveal many ways of defining good design.
 
 ## Good design in list form
 
