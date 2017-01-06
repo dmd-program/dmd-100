@@ -6,7 +6,7 @@ But what about when giving a presentation at work where you want to prove the vi
 
 ## Fan service
 
-
+Story genre fan bases are essentially markets. When a storyteller is complicit with fan service \(fulfills the expectations of fans\), it means they are catering to a market that buys a particular kind of story, valued more by publishers as products rather than creative and expressive works. This exists heavily in literature, film, cartoons, video games, and other forms of media. 
 
 ## Data-driven
 
