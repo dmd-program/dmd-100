@@ -1,12 +1,14 @@
 # Audience
 
+## Market-based
+
 When a car manufacturer designs a car, the first consideration is who will be buying the car. There is no benefit in making a car that no one will buy. This is the same with any product or service. It's easy to recognize the audience when you are making a product because the product is designed around the customer's wants and needs. If you are unsure what kind of person a car manufacturer is targeting, look to their marketing for answers.
 
 But what about when giving a presentation at work where you want to prove the viability of your team's ideas, or going an interview where you have to demonstrate competence to an employer, or organizing a mural project where you want to inspire the community to dream bigger? Each of those instances is a kind of strategic conversation that includes an act of making – be they slides, a painting, or a conversation – and if the audience isn't considered in the decision making process, a bad outcome is likely to occur.
 
 ## Fan service
 
-Story genre fan bases are essentially markets. When a storyteller is complicit with fan service \(fulfills the expectations of fans\), it means they are catering to a market that buys a particular kind of story, valued more by publishers as products rather than creative and expressive works. This exists heavily in literature, film, cartoons, video games, and other forms of media. 
+Story genre fan bases are essentially markets. When a storyteller is complicit with fan service \(fulfills the expectations of fans\), it means they are catering to a market that buys a particular kind of story, valued more by publishers as products rather than creative and expressive works. This exists heavily in literature, film, cartoons, video games, and other forms of media.
 
 ## Data-driven
 
