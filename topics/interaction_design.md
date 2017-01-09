@@ -16,7 +16,7 @@ To design an interaction, a designer must seek to know:
 
 ## Flow
 
-Flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when performing some action. Flow is an important component to
+Flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when performing some action. 
 
 ## Human factors
 
@@ -30,23 +30,13 @@ Nudging.
 
 In the computer engineering field, there are five standard interaction principles that software developers refer to when building an effective graphical user interface, otherwise known as a **GUI** \(pronounced gooey\) . They dictate that an interface must be perceivable, predictable, learnable, consistent, and provide feedback to the user.
 
-### Perceivable
+1. Perceivable
+2. Predictable
+3. Learnable
+4. Consistent
+5. Feedback
 
-Being perceivable means that a person, who has no prior knowledge must be able to sense and understand an object or interface in some way. Often this means making the interaction possibilities visible in some way.
-
-### Predictable
-
-Human's rely on predictions to navigate the world. An unpredictable environment can be frustrating, scary, and in some cases dangerous.
-
-### Learnable
-
-Design language can be used to give users cues and resources for learning.
-
-### Consistent
-
-Elements that perform the same action should look and function the same way. This not only refers to visual and physical elements, but also to sound, language, and conceptual organization.
-
-### Feedback
+Being perceivable means that a person, who has no prior knowledge must be able to sense and understand an object or interface. For GUI design, this often this means making the interaction possibilities visible in some way. Human's rely on predictions to navigate the world. An unpredictable environment can be frustrating, scary, and in some cases dangerous. Design language can be used to give users cues and resources for learning. Elements that perform the same action should look and function the same way. This not only refers to visual and physical elements, but also to sound, language, and conceptual organization. Feedback is important in an interface so the user knows that something is happening.
 
 # Citation
 
