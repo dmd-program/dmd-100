@@ -1,25 +1,24 @@
 # What is a story?
 
-A story is a sequence of events and can be temporal (happen within the viewer's mind) or spatial (occur physically). A story (sequence of events) is expressed through narration, or the recounting of events. A narrative is a method of telling a story and is tangible. We know that a narrative is tangible because we can perceive the telling of stories through written text, sound, performance, image, etc. A narrative account of a split-second could last for the entire retelling and an event that lasted 100 years could be retold in a few seconds. Narrative places emphasis, focus, and perspective for stories. A plot is the connective tissue between story events, describing the causal relationships and context for viewers.
+A story is a sequence of events and can be temporal \(happen within the viewer's mind\) or spatial \(occur physically\). A story \(sequence of events\) is expressed through narration, or the recounting of events. A narrative is a method of telling a story and is tangible. We know that a narrative is tangible because we can perceive the telling of stories through written text, sound, performance, image, etc. A narrative account of a split-second could last for the entire retelling and an event that lasted 100 years could be retold in a few seconds. Narrative places emphasis, focus, and perspective for stories. A plot is the connective tissue between story events, describing the causal relationships and context for viewers.
 
-- **Story:** A sequence of events. Can occur spatially or temporally.
-- **Plot:** Creates meaning by connecting story events with context.
-- **Narrative:** Method of telling story.
+* **Story:** A sequence of events. Can occur spatially or temporally.
+* **Plot:** Creates meaning by connecting story events with context.
+* **Narrative:** Method of telling story.
 
-### Examples:
-Below, I have written two different stories by changing the sequence of events. I then described the plot of the first story, and used written narrative to tell the story.
+### Example Story:
 
-**Story 1:** (1) Susan sat on a chair. (2) Susan fell onto the floor. (3) Susan called for help.
+Below, I have written an example story. I then described the plot of the story, and used written narrative to tell the story.
 
-**Story 2:** (1) Susan called for help. (2) Susan fell onto the floor. (3) Susan sat on a chair.
+**Story:** \(1\) A new family sets off on a voyage. \(2\) Their baby gets sick \(3\) Their vessel takes on water. \(4\) They call for help. \(5\) They get rescued and face public scrutiny
 
-**Plot for Story 1:** Susan was really tired from work and sat down as soon as she got home. She heard a loud cracking noise, fell to the ground, and woke up lying on the floor with a bad headache unable to remember anything. This occurrence caused her to reflect on the sad state of her life. Suspecting she might need medical attention, she called an ambulance to come take her to the hospital.
+**Plot:** A young husband and wife recently have a child and plan to cross the Pacific Ocean in their sailboat, a journey they have done many times. They take all necessary precautions before the trip. Despite being cleared for travel, their baby gets a fever. There is a harsh storm that damages their sailboat and it begins taking on water. With a damaged boat, a sick child, and no means of communication, they turn on a rescue beacon. The rescue team arrives in helicopter and they abandon their sailboat.
 
-**Written Narrative for Story 1:** As her body fell, seemingly in slow motion, Susan realized something. She was really tired. She realized that no matter how hard she worked, her boss would never understand her struggle. He would never know the stress of choosing between food and rent – the shame of having to ask her parents for money even though she works two jobs. The cracking and splintering of the wood was a metaphor. She was crumbling like the wooden leg on her mid-century vintage saddle chair. And the hard floor was reality. Now awake and in pain, she picked up the phone. Susan needed to ask for help once again.
+**Written Narrative for Story:** ...
 
 ## Narrative structure
 
-A narrative structure orders or disorders the events of a story for the audience, and combines those events with plot. A linear narrative is chronological, whereas a non-linear narrative is non-chronological. There are commonly used frameworks for storytelling which started with Aristotle's three part structure consisting of a beginning, middle, and end. From there, structures become more nuanced and descriptive. 
+A narrative structure orders or disorders the events of a story for the audience, and combines those events with plot. A linear narrative is chronological, whereas a non-linear narrative is non-chronological. There are commonly used frameworks for storytelling which started with Aristotle's three part structure consisting of a beginning, middle, and end. From there, structures become more nuanced and descriptive.
 
 Stories are big business. Hollywood films tend to have structural models that traditionally sell well in the box office, increasing the probability that they will see a return on the production investment. The perception is that experimental or uncommon narrative structures tend to be risky. The same can be said for large game developers who are inclined to produce sequels of top selling titles.
 
@@ -27,7 +26,7 @@ This can explain why many of the boundary-pushing films tend to come from indepe
 
 ## Dramatic structure
 
-Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed a structure for the way stories are told in ancient Greek and Shakespearean drama. This analysis is known as Freytag's analysis, dramatic structure, or Freytag's Pyramid. His analysis consisted of the following five acts:
+Gustav Freytag \(1816 - 1895\), a German dramatist and novelist, developed a structure for the way stories are told in ancient Greek and Shakespearean drama. This analysis is known as Freytag's analysis, dramatic structure, or Freytag's Pyramid. His analysis consisted of the following five acts:
 
 1. exposition
 2. rising action
@@ -38,16 +37,16 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed a struc
 This five act structure works well when describing Greek and Shakespearean plays. However, there are many ways to analyze the structure of a narrative. Most contemporary stories can be described with according to common structural breakdowns – The Three Act, Four Act, Five Act, Seven Act, and Hero's Journey. These structures can help us understand how a story is told, and act as a heuristic for writing your own story.
 
 ### Three Act
-  1. Beginning
-  2. Middle
-  3. End
-  
+
+1. Beginning
+2. Middle
+3. End
+
 #### Three Act Plot Diagram
 
 The following Plot Diagram shows the Five Act plot points laid over a Three Act structure.
 
 ![](plot_diagram_reverse2.png)
-
 
 ### Four Act
 
@@ -55,7 +54,7 @@ The following Plot Diagram shows the Five Act plot points laid over a Three Act 
 2. First act turn to Second Act Turn
 3. Second act turn to Third Act Turn
 4. Third Act turn to Resolution
-  
+
 ### Five Act
 
 1. Exposition
@@ -65,6 +64,7 @@ The following Plot Diagram shows the Five Act plot points laid over a Three Act 
 5. Resolution
 
 ### Seven Act
+
 1. Backstory
 2. Catalyst
 3. Big event
@@ -74,6 +74,7 @@ The following Plot Diagram shows the Five Act plot points laid over a Three Act 
 7. Realization
 
 ### Hero's Journey
+
 1. The Ordinary world
 2. Call to adventure
 3. Refusal of the call
@@ -88,20 +89,22 @@ The following Plot Diagram shows the Five Act plot points laid over a Three Act 
 12. Return with the elixir
 
 ### Non-linear narrative structures
+
 A non-linear structure is not necessarily chronological or cause and effect based. Story is unfolded simultaneously and recursively.
 
 ### Interactive narrative
+
 The story you experience in an interactive narrative work is not predetermined. The story path is chosen based on a viewer's choices. In video games, the number of story events that can be chosen through interaction can be quite high, making subsequent play-throughs unique. Newer games rely on generative algorithms and artificial intelligence to create the environment around these choices.
 
 #### Decision nodes
-An interactive narrative is comprised of decision or action points called nodes, where the user impacts the unfolding of the narrative by making a choice or performing an action. The choice the user makes can determine which branching narrative path is taken. The decisions themselves are part of the plot, which handles dramatization of the events.
 
+An interactive narrative is comprised of decision or action points called nodes, where the user impacts the unfolding of the narrative by making a choice or performing an action. The choice the user makes can determine which branching narrative path is taken. The decisions themselves are part of the plot, which handles dramatization of the events.
 
 ![Branching paths](../assets/interactive-narrative-branching-paths.png)
 
-For example, let's say you are playing a hypertext narrative, and your character is a young woman who sees a hooded figure shoplifting. The options to proceed include a) tell the shopkeeper, b) follow the shoplifter, or c) do nothing. Depending on which choice you select, the story may unfold in three different ways.
+For example, let's say you are playing a hypertext narrative, and your character is a young woman who sees a hooded figure shoplifting. The options to proceed include a\) tell the shopkeeper, b\) follow the shoplifter, or c\) do nothing. Depending on which choice you select, the story may unfold in three different ways.
 
-#### Critical story path 
+#### Critical story path
 
 A critical story path can be thought of as the shortest path possible through a series of decision nodes to complete the interactive story.
 
@@ -112,12 +115,12 @@ A critical story path can be thought of as the shortest path possible through a 
 3. Identify the optional narrative interactions that build around the central story
 
 #### Linear narrative structural models
+
 ##### Branching
 
 The branching structure is the structure used in "choose your own adventure" books and most interactive narratives. One problem with branching structures is the tendency to create overly complicated story paths.
 
 ![Branching structure](../assets/narrative-branching-structure.png)
-
 
 ##### String of pearls
 
@@ -127,7 +130,7 @@ In this linear structure, a user must complete node's requirements to continue t
 
 ##### Hero's journey
 
-![Hero's Journey Strucutre](../assets/narrative-journey-structure.png)
+![Hero's Journey Strucutre](../assets/narrative-journey-structure.png)  
 In this linear structure, a user would follow the twelve stages of the hero's journey. However, there can be fewer or additional stages and still be considered a journey structure. Some stories continue around this path, creating a continuous.
 
 ##### Parallel worlds
@@ -137,6 +140,7 @@ In this linear structure, a user would follow the twelve stages of the hero's jo
 In this quasi-linear structure, users are given the opportunity to explore multiple story-lines running in parallel. There is typically no way to experience all of the stories at once, though they may intersect at opportune times.
 
 ##### Drill-down
+
 ![Drill-down structure](../assets/narrative-drill-down-structure.png)
 
 The drill-down is a bi-linear structure and encourages users to move through a story vertically and laterally, where lateral movement represents plot points and vertical movement represents the gathering additional details about the plot.
@@ -145,22 +149,24 @@ The drill-down is a bi-linear structure and encourages users to move through a s
 
 ##### Sandbox or open-world
 
-
 ![Sandbox Structure](../assets/narrative-sandbox-structure.png)
-
 
 A sandbox structure is one where the story unfolds based on how a player chooses to interact in what is typically a large, open environment. This is a loose structure where the setting of the story often becomes central to the experience.
 
 ##### Graph
-![Graph structure](../assets/narrative-graph-structure.png)
+
+![Graph structure](../assets/narrative-graph-structure.png)  
 A graph structure is where all nodes simultaneously connect with every other node bi-bidirectionally. Discerning a plot causality in such a structure can be difficult.
 
 #### Creating your own structural model
 
 Quite often, no perfect model exists for the kind of story that needs to be told. Part of the creative process for writing a narrative is producing the model that can best support the story.
 
-
 ## Citation
+
 1. [Digital Storytelling: A Creator's Guide to Interactive Entertainment. Carolyn Handler Miller. 2014. ISBN-10: 0415836948](http://www.amazon.com/Digital-Storytelling-creators-interactive-entertainment/dp/0415836948)
 2. [On Story, Plot, and Narrative in Games](https://livewareblog.wordpress.com/2013/09/09/on-story-plot-and-narrative-in-games/)
 3. [There is no such thing as narrative art](http://www.bu.edu/arion/volume-18-barolsky-narrative-art/)
+
+
+
