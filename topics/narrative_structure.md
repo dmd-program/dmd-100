@@ -12,7 +12,7 @@ Below, I have written a story \(based on real events\). I then described the plo
 
 **Story:** \(1\) A new family sets off on a voyage. \(2\) Their baby gets sick \(3\) Their vessel takes on water. \(4\) They call for help. \(5\) They get rescued and face public scrutiny
 
-**Plot:** A young husband and wife recently have a child and plan to cross the Pacific Ocean in their sailboat, a journey they have done many times. They take all necessary precautions before the trip. Despite being cleared for travel, their baby gets a fever. There is a harsh storm that damages their sailboat and it begins taking on water. With a damaged boat, a sick child, and no means of communication, they turn on a rescue beacon. The rescue team arrives in helicopter and they abandon their sailboat.
+**Plot:** A young husband and wife a newborn child and plan to cross the Pacific Ocean in their sailboat, a journey they have done many times. They take all necessary precautions before the trip. Despite being cleared for travel, their baby gets a fever. There is a harsh storm that damages their sailboat and it begins taking on water. With a damaged boat, a sick child, and no means of communication, they turn on a rescue beacon. The rescue team arrives in helicopter and they abandon their sailboat.
 
 **Written Narrative for Story:** ...
 
