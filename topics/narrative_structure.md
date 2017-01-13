@@ -8,7 +8,7 @@ A story is a sequence of events and can be temporal \(happen within the viewer's
 
 ### Example Story:
 
-Below, I have written an example story. I then described the plot of the story, and used written narrative to tell the story.
+Below, I have written a story \(based on real events\). I then described the plot of the story, and used written narrative to tell the story.
 
 **Story:** \(1\) A new family sets off on a voyage. \(2\) Their baby gets sick \(3\) Their vessel takes on water. \(4\) They call for help. \(5\) They get rescued and face public scrutiny
 
