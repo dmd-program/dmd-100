@@ -31,5 +31,5 @@ An important priority for open source design, therefore, is to develop decision-
 
 # Citations
 
-This HTML article reposted using Creative Commons 3.0 License. URL: [http://opendesignnow.org/index.html%3Fp=403.html](http://opendesignnow.org/index.html%3Fp=403.html). Accessed Jan 13th, 2017
+This HTML article reposted using Creative Commons 3.0 License. [http://opendesignnow.org/index.html%3Fp=403.html](http://opendesignnow.org/index.html%3Fp=403.html). Accessed Jan 13th, 2017
 
