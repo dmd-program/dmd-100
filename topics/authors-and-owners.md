@@ -165,5 +165,7 @@ Those designers operating purely in the realm of copyright will find that there 
 1. Jefferson, T. Letter to Isaac McPherson, 13 August 1813. The Writings of Thomas Jefferson. Edited by Andrew A. Lipscomb and Albert Ellery Bergh. Washington: Thomas Jefferson Memorial Association, 1905. Vol. 13, p. 333-334. Available at 
    [http://press-pubs.uchicago.edu/founders/documents/a1\_8\_8s12.html](http://press-pubs.uchicago.edu/founders/documents/a1_8_8s12.html), accessed 11 January 2011. [↩](http://opendesignnow.org/index.html%3Fp=407.html#fnref-407-1)
 
+This article published with a Creative Commons 3.0 License. _Open Design Now!_. URL: [http://opendesignnow.org/index.html%3Fp=407.html](http://opendesignnow.org/index.html%3Fp=407.html). Accessed Jan 13th, 2017
+
 
 
