@@ -121,7 +121,8 @@
         * [Design Literacy: Organizing Self-organization](topics/design-literacy.md)
         * [Teaching Attitudes, Approaches, Structures and Skills](topics/teaching-attitudes-approaches-structures-and-skills.md)
         * [Joris Laarman's Experiments with Open Source Design](topics/joris-laarmans-experiments-with-open-source-design.md)
-    * Listening
+    * Watch
+        * [Open Structures: Thomas Lommee](lessons/open-structures-thomas-lommee.md)
     * Readings
         * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
         * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
@@ -149,7 +150,7 @@
         * Activism
         * [Self design](topics/self-design.md)
     * Listening
-      * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
+        * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
     * Project
         * [Field guide](projects/field_guide.md)
         * [Discover: Top three](projects/field_guide/discover_top_three.md)
