@@ -12,7 +12,7 @@ Since then, he has earned a reputation for himself as a designer with visionary 
 
 ### Furniture That Can Be Grown
 
-Both those early projects clearly expressed Laarman’s highly specific views on modernism. The_Bone_range [DESIGNERS](http://opendesignnow.org/index.php/tag/designers.1.html) resulted from a cooperative partnership with car manufacturer Opel, using software to design a series of artworks based on the organic way that bones form. Car parts are designed with the help of topology optimization software to increase strength and maximize the efficient use of materials. Furniture, as it turns out, can also be ‘grown’ by adding and removing material to maximize its strength and functionality.
+Both those early projects clearly expressed Laarman’s highly specific views on modernism. The\_Bone\_range [DESIGNERS](http://opendesignnow.org/index.php/tag/designers.1.html) resulted from a cooperative partnership with car manufacturer Opel, using software to design a series of artworks based on the organic way that bones form. Car parts are designed with the help of topology optimization software to increase strength and maximize the efficient use of materials. Furniture, as it turns out, can also be ‘grown’ by adding and removing material to maximize its strength and functionality.
 
 Laarman’s stance is that functionality and extravagance are not mutually exclusive. Where modernism went wrong, and how its core advantages need to be readdressed, are what drive his research. What he is looking for are design solutions that possess a revolutionary quality. Much of his current research repudiates how things are currently done and patiently pursues a better way not just to manufacture, but also to distribute design.
 
