@@ -117,12 +117,11 @@
         * [Into the Open](lessons/into-the-open.md)
         * [Authors and Owners](topics/authors-and-owners.md)
         * [Everything is a Remix](topics/everything_is_a_remix.md)
-        * [Creativity](lessons/creativity.md)
-        * [Intellectual property](topics/intellectual_property.md)
         * [Generative design](lessons/generative-design.md)
         * [Open projects](topics/open_projects.md)
         * Life
-        * [Design Literacy](topics/design-literacy.md)
+        * [Design Literacy: Organizing Self-organization](topics/design-literacy.md)
+        * [Teaching Attitudes, Approaches, Structures and Skills](topics/teaching-attitudes-approaches-structures-and-skills.md)
     * Listening
         * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
     * Readings
