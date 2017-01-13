@@ -29,7 +29,5 @@ An important priority for open source design, therefore, is to develop decision-
 3. As discussed in Manzini, E, ‘Design research for sustainable social innovation’. Available online at [www.dis.polimi.it/manzini-papers/07.06.03-Design-research-for-sustainable-social-innovation.doc](http://www.dis.polimi.it/manzini-papers/07.06.03-Design-research-for-sustainable-social-innovation.doc), accessed on 17 January 2011. [↩](http://opendesignnow.org/index.html%3Fp=403.html#fnref-403-3)
 4. See page 82 of this book. [↩](http://opendesignnow.org/index.html%3Fp=403.html#fnref-403-4)
 
-# Citations
-
-This HTML article reposted using Creative Commons 3.0 License. [http://opendesignnow.org/index.html%3Fp=403.html](http://opendesignnow.org/index.html%3Fp=403.html). Accessed Jan 13th, 2017
+This article published with a Creative Commons 3.0 License. _Open Design Now!_. URL: [http://opendesignnow.org/index.html%3Fp=403.html](http://opendesignnow.org/index.html%3Fp=403.html). Accessed Jan 13th, 2017
 
