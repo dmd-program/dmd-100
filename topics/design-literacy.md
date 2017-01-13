@@ -92,3 +92,5 @@ Many people who visit STEIM don’t just leave with an instrument; in their time
 
 [www.steim.org](http://www.steim.org/)
 
+This article published with a Creative Commons 3.0 License. _Open Design Now!_. URL: [http://opendesignnow.org/index.html%3Fp=423.html](http://opendesignnow.org/index.html%3Fp=423.html). Accessed Jan 13th, 2017
+
