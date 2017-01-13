@@ -114,6 +114,7 @@
     * [Introduction](lessons/open_design/introduction.md)
     * Topics
         * [Open design](topics/open_design.md)
+        * [Authors and Owners](topics/authors-and-owners.md)
         * [Everything is a Remix](topics/everything_is_a_remix.md)
         * [Creativity](lessons/creativity.md)
         * [Intellectual property](topics/intellectual_property.md)
