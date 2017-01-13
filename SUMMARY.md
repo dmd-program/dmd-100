@@ -116,12 +116,11 @@
         * [Open design](topics/open_design.md)
         * [Into the Open](lessons/into-the-open.md)
         * [Authors and Owners](topics/authors-and-owners.md)
-        * [Everything is a Remix](topics/everything_is_a_remix.md)
         * [Generative design](lessons/generative-design.md)
         * [Open projects](topics/open_projects.md)
-        * Life
         * [Design Literacy: Organizing Self-organization](topics/design-literacy.md)
         * [Teaching Attitudes, Approaches, Structures and Skills](topics/teaching-attitudes-approaches-structures-and-skills.md)
+        * [Joris Laarman's Experiments with Open Source Design](topics/joris-laarmans-experiments-with-open-source-design.md)
     * Listening
         * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
     * Readings
@@ -183,6 +182,7 @@
         * [Journey map](toolkit/journey_map.md)
     * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
     * [Toolkit Design Project](projects/toolkit_design_project.md)
+    * [Everything is a Remix](topics/everything_is_a_remix.md)
     * [Graphic design](topics/graphic_design.md)
     * [Programming](topics/programming.md)
     * [Open Source Gift](practice/open_source_gift.md)
@@ -201,7 +201,7 @@
     * [Non-linear Narrative](practice/non-linear_narrative.md)
     * [Linear Narrative](practice/linear_narrative.md)
     * [Design Fiction Project](projects/design_fiction_project.md)
-    * [Design Intervention](practice/design_intervention.md)
+    * [Everything is a Remix](topics/everything_is_a_remix.md)
     * Design Methods
     * [Future Living](practice/future_living.md)
     * [Interactive Story Project](projects/interactive_story_project.md)
