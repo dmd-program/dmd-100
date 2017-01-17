@@ -1,6 +1,6 @@
 # Why stories?
 
-In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https://www.youtube.com/watch?v=Vhd0XdedLpY), Jonathan Gottschall tells about the pervasive role stories play in the human experience. Storytelling one way humans perceive reality and make sense of the events unfolding around them. Reality is essentially organized by the storytellers of the world.
+In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https://www.youtube.com/watch?v=Vhd0XdedLpY), Jonathan Gottschall tells about the pervasive role stories play in the human experience. Storytelling is one way humans are able to perceive reality and make sense of the events unfolding around them. Reality is essentially organized by the storytellers of the world.
 
 Meaning, however, cannot be created and widely distributed to people without going through some sort of cognitive filter. Most people are predisposed to favor information that supports their existing beliefs, and less likely to consider information counter to their existing beliefs, a condition called confirmation bias. This bias hampers reason-based decision-making and prevents a person from considering and using new ideas, particularly the ones that are counter to the ones they already believe. Compelling arguments are needed for overcoming these types of biases, no matter what kind of story is being told.
 
