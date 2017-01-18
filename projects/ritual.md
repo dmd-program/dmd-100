@@ -1,9 +1,6 @@
-{% oer_resource id="#ritualproject", type="Activity"  %}
-{% oer_property name="license", value="https://creativecommons.org/licenses/by/4.0/" %}
-{% oer_property name="name" %}
+
 # Ritual
-{% endoer_property %}
-{% oer_property name="description" %}
+
 For this project, you will go though a human-centered design process to discover opportunities, define challenges, develop wireframes, and deliver an interactive prototype of a mobile app.
 
 The central theme of this project is ***ritual***. You will be making a prototype mobile app interface for one of your classmates, that would promote a positive ritual.
@@ -59,6 +56,3 @@ Steps
   - Deliver
     - [Prototype](../toolkit/prototype.md)
     - MVP: Interactive prototype
-    - 
-{% endoer_property %}
-{% endoer_resource %}
