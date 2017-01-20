@@ -18,6 +18,17 @@ To design an interaction, a designer must seek to know:
 
 The flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when performing some action.
 
+Csikszentmihalyi's 8 characteristics of flow:
+
+1. Complete **concentration** on the task
+2. **Clarity of goals** and reward in mind and immediate feedback
+3. Transformation of **time** \(speeding up/slowing down of time\)
+4. The experience is intrinsically **rewarding**, has an end itself
+5. **Effortlessness** and ease
+6. There is a balance between **challenge and skills**
+7. Actions and awareness are merged, **losing self-conscious rumination**
+8. There is a feeling of **control** over the task
+
 Ted: [Mihaly Csikszentmihalyi: Flow, the secret to happiness](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow) **\(18:51\)**
 
 ![](/assets/states-of-experience-1200w@2x.png)
