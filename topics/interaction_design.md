@@ -20,14 +20,13 @@ The flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow
 
 Csikszentmihalyi's 8 characteristics of flow:
 
-1. Complete **concentration** on the task
-2. **Clarity of goals** and reward in mind and immediate feedback
-3. Transformation of **time** \(speeding up/slowing down of time\)
-4. The experience is intrinsically **rewarding**, has an end itself
-5. **Effortlessness** and ease
-6. There is a balance between **challenge and skills**
-7. Actions and awareness are merged, **losing self-conscious rumination**
-8. There is a feeling of **control** over the task
+1. Completely involved in what we are doing—focused, concentrated.
+2. Sense of ecstasy—of being outside everyday reality.
+3. Great inner clarity—knowing what needs to be done, and how well we are doing.
+4. Knowing that the activity is doable—that our skills are adequate to the task.
+5. A sense of serenity—no worries about oneself, and a feeling of growing beyond the boundaries of the ego.
+6. Timelessness—thoroughly focused on the present, hours seem to pass by in minutes.
+7. Intrinsic motivation—whatever produces flow becomes its own reward.
 
 Ted: [Mihaly Csikszentmihalyi: Flow, the secret to happiness](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow) **\(18:51\)**
 
