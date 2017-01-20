@@ -16,7 +16,11 @@ To design an interaction, a designer must seek to know:
 
 ## Flow
 
-Flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when performing some action.
+The flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when performing some action.
+
+Ted: [Mihaly Csikszentmihalyi: Flow, the secret to happiness](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow) **\(18:51\)**
+
+![](/assets/states-of-experience-1200w@2x.png)
 
 ## Human factors
 
