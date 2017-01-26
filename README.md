@@ -11,7 +11,7 @@ DMD 100 introduces concepts, skills, language and principles of practice in art 
 With the aid of a standard design process, we walk through methods, tools, and mental attitudes necessary to approach ambiguous problems. This course is not meant to be a comprehensive design process catalog, but instead should inspire and build confidence in the act of design.
 
 ## Contributors
-*In alphabetical order by last name*
+*In alphabetical order by last name* 
 
 - Michael Collins, Assistant Professor, School of Visual Arts, The Pennsylvania State University
 
