@@ -1,4 +1,4 @@
-Written by John Thackara and published in _Open Design Now!_
+Written by Andrew Katz and published in _Open Design Now!_
 
 ---
 
