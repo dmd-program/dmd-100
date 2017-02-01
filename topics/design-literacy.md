@@ -1,3 +1,7 @@
+Written by Dick Rijken and published in _Open Design Now!_
+
+---
+
 # DESIGN LITERACY: ORGANIZING SELF-ORGANIZATION / DICK RIJKEN
 
 ## The position of knowledge and expertise is changing radically, particularly in relation to how design literacy is affected when confronted with digital tools and media. Dick Rijken analyses design literacy on three levels – strategic, tactical, and operational – and examines the requirements of open design for developing a design vision, design choices and design skills.
