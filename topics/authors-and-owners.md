@@ -1,3 +1,7 @@
+Written by John Thackara and published in _Open Design Now!_
+
+---
+
 # AUTHORS AND OWNERS / ANDREW KATZ
 
 ## Andrew Katz traces the origins of the problems of copyright legislation and practice when confronted with the natural, human, social mode of creative endeavour. Building on developments in open source software, he outlines how designers could benefit from a similar model and reveals the differences between the digital and the analogue realm.
