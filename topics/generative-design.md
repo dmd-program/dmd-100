@@ -1,3 +1,7 @@
+Written by Michel Avital and published in _Open Design Now!_
+
+---
+
 # THE GENERATIVE BEDROCK OF OPEN DESIGN / MICHEL AVITAL
 
 ## A shift in communications infrastructure is an important factor in how open design has taken shape and the possibilities it offers. It is a transition from the ‘internet of things’ to the things of the internet. Michel Avital analyses the main drivers behind open design, open innovation and open source. He describes the major features of open design and explores the preconditions for open design in relation to four aspects: object, process, practice and infrastructure, with a specific focus on infrastructure.
