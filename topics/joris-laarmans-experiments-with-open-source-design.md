@@ -1,3 +1,7 @@
+Written by Gabrielle Kennedy and published in _Open Design Now!_
+
+---
+
 # JORIS LAARMAN’S EXPERIMENTS WITH OPEN SOURCE DESIGN / GABRIELLE KENNEDY
 
 ## The mediocracy of the middle classes dominates the current mass production design. In a world less controlled by branding and regulations, a new breed of designers can contribute to an altered, more honest economy. An interview with Dutch designer Joris Laarman, contemplating his relationship to modernism and the modernist roots of open source design and digital fabrication.
