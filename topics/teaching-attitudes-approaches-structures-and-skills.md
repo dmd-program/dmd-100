@@ -1,4 +1,8 @@
-# TEACHING ATTITUDES, SKILLS, APPROACHES, STRUCTURE AND TOOLS / CAROLIEN HUMMELS
+Written by Caroline Hummels and published in _Open Design Now!_
+
+---
+
+# TEACHING ATTITUDES, SKILLS, APPROACHES, STRUCTURE AND TOOLS / CAROLINE HUMMELS
 
 ## Taking a critical look at current educational models, open design will involve a shift in the relationship between designers and potential users in terms of attitude, skills and approach. Caroline Hummels discusses the consequences of open design for the educational approach and for the structure and tools offered. She advocates an educational model that reflects the flexibility, openness, and continuous development of open design.
 
