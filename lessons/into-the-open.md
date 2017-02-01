@@ -1,4 +1,8 @@
-# INTO THE OPEN / JOHN THACKARA
+Written by John Thackara and published in _Open Design Now!_
+
+---
+
+# Into the Open / John Thackara
 
 ## John Thackara portrays openness in general as a matter of survival to overcome the legacy of an industrial economy obsessed with control, and open design in particular as a new way to make, use and look after things. He calls upon open designers to take this responsibility seriously.
 
