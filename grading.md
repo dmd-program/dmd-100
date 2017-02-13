@@ -19,5 +19,13 @@
 | Applied relevant design concepts and topics from lesson \(Understanding?\) | Concepts and topics from the lesson are prevalent and well considered. |  |  |  |
 | Articulation | Clearly articulates what you are doing and why. Talk effectively about ideas. |  |  |  |
 
+## Activities
+
+...
+
+## Reading Responses
+
+...
+
 
 
