@@ -9,14 +9,20 @@ In this project, you will design a kit of parts that can be used to build a toy,
 
 There are many example of modular toys and kits on the Internet. If you decide to take direct inspiration and remix other works and ideas, you must ensure that there is a good balance between copying, transforming, and combining. It must be obvious that this project came from you.
 
-notes:  
-1. Template for users to build their own modular toys?  
-2. What kind of toys will be made?  
-3. What raw building materials are used, and for what parts?  
-4. What tools and fasteners will be needed?  
-5. Will there be standard or modular parts?  
-4. What making processes will the users undergo?  
-3. What are the instructions?   
-4. Test run  
-5. Prototype
+**Develop phase questions:**
+
+1. Template for users to build their own modular toys?
+2. What kind of toys will be made?
+3. What raw building materials are used, and for what parts?
+4. What tools and fasteners will be needed?
+5. Will there be standard or modular parts?
+6. What making processes will the users undergo?
+7. What are the instructions?
+
+**Deliver phase notes:**
+
+1. Prototype
+2. Test run/feedback/refine
+
+
 
