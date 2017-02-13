@@ -7,7 +7,7 @@
 |  | **Excellent** | **Good** | **Fair** | **Poor** |
 | :--- | :--- | :--- | :--- | :--- |
 | **Content** | Followed all steps to completion and care was taken with all shared deliverable assets. \(5pts\) | Missed or did not complete the entire step or were careless with a deliverable asset. \(4pts\) | Missed more than one step to completion and/or were careless with deliverable assets. \(2 pts\) | Missed most steps to completion and/or did not submit deliverable assets properly. \(0-1 pts\) |
-| **On Time** |  |  |  |  |
+| **On Time** | Submitted by deadline \(2 pts\) |  |  | Not submitted by deadline \(0pts\) |
 
 ### Project Overall:  50% total
 
