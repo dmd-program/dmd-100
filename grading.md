@@ -13,11 +13,11 @@
 
 |  | **Excellent** | **Good** | **Fair** | **Poor** |
 | :--- | :--- | :--- | :--- | :--- |
-| Critique Participation | Participated in all assigned Crits and provided thoughtful insights, suggestions, encouragement, or advice. |  |  |  |
-| Feedback \(adaptability? Vision, revisioning\) | Engaged with all feedback. Made changes from feedback where necessary. |  | Receptive to discussing feedback, and made at least one change. | Did not consider or make any changes based on feedback. Defensive of original choices. |
-| Novelty \(Generative, risk taking, productive failure\) | Developed original ideas or significantly transformed/combined other ideas in interesting ways |  |  |  |
-| Applied relevant design concepts and topics from lesson \(Understanding?\) | Concepts and topics from the lesson are prevalent and well considered. |  |  |  |
-| Articulation | Clearly articulates what you are doing and why. Talk effectively about ideas. |  |  |  |
+| **Critique Participation** | Participated in all assigned Crits and provided thoughtful insights, suggestions, encouragement, or advice. |  |  |  |
+| **Feedback \(adaptability? Vision, revisioning\)** | Engaged with all feedback. Made changes from feedback where necessary. |  | Receptive to discussing feedback, and made at least one change. | Did not consider or make any changes based on feedback. Defensive of original choices. |
+| **Novelty \(Generative, risk taking, productive failure\)** | Developed original ideas or significantly transformed/combined other ideas in interesting ways |  |  |  |
+| **Applied relevant design concepts and topics from lesson \(Understanding?\)** | Concepts and topics from the lesson are prevalent and well considered. |  |  |  |
+| **Articulation** | Clearly articulates what you are doing and why. Talk effectively about ideas. |  |  |  |
 
 ## Activities
 
@@ -26,6 +26,4 @@
 ## Reading Responses
 
 ...
-
-
 
