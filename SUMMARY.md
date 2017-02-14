@@ -39,7 +39,7 @@
   * Discussions
     * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
 * Lesson 2: Visual and Interaction Design
-  * Topics
+  * [Topics](topics.md)
     * [Object making](object-making.md)
     * [Interaction design](topics/interaction_design.md)
     * [Inclusive design](inclusive-design.md)
