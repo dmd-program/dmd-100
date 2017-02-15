@@ -8,6 +8,7 @@ After you complete the project, you will have the option to have your project di
 
 ## Examples
 
+- https://opensource.guide/
 - [Field Guide to Surreal Botany](http://www.twocranespress.com/botany/)
 - [civicdesign.org](http://civicdesign.org/fieldguides/)
 - [The Doghouse Diaries](http://thedoghousediaries.com/4639)
