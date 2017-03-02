@@ -1,12 +1,8 @@
 # Ritual
 
-For this project, you will go though a design process to discover opportunities, define challenges, develop wireframes, and deliver an interactive prototype of a mobile app.
+For this project, you will be making a prototype mobile app interface in support of a positive ritual.
 
-The central theme of this project is _**ritual**_. You will be making a prototype mobile app interface for one of your classmates, that would promote a positive ritual.
-
-
-
-A ritual is a designed experience that combined routine,
+A ritual is a designed experience that combines habits and routine with symbolism and meaning. Rituals are not intended to be logical and rational events, but are instead opportunities for reflection, celebration, connectivity, focus, reinforcement, and more.
 
 Martin Seligman's TED Talk on the subject of positive psychology and design:  
 [https://www.ted.com/talks/martin\_seligman\_on\_the\_state\_of\_psychology](https://www.ted.com/talks/martin_seligman_on_the_state_of_psychology)
