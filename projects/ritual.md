@@ -6,8 +6,10 @@ The central theme of this project is _**ritual**_. You will be making a prototyp
 
 
 
+A ritual is a designed experience that combined routine,
+
 Martin Seligman's TED Talk on the subject of positive psychology and design:  
-https://www.ted.com/talks/martin\_seligman\_on\_the\_state\_of\_psychology
+[https://www.ted.com/talks/martin\_seligman\_on\_the\_state\_of\_psychology](https://www.ted.com/talks/martin_seligman_on_the_state_of_psychology)
 
 ## Materials and tools
 
