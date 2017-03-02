@@ -2,13 +2,24 @@
 
 Now that you have a direction, it's time to generate ideas. Generating ideas by yourself \(AKA in vacuum\) can be fairly difficult if you are new to this process. Even experienced designers benefit from working in groups because typically the array of ideas generated in a discussion is far larger than when working alone. For this step, you will partner up with small groups to brainstorm ideas for each person's project.
 
-Groups can meet by setting up video.
+Groups can meet by setting up a video call with 
+
+## Materials
+
+* Pen, pencil
+* Journal
 
 ## **Roles and Rules**
 
-* There will be one brainstorming round for each student in the group.
-* Each round will focus on a different student's HMW question.
-* The student
+### Discussion Rounds
 
-For each round
+1. Introduce yourselves if you don't already all know each other.
+2. There will be one brainstorming round for each person in the group.
+3. Each round will focus on a different person's HMW question.
+4.  For each round, the person currently in focus for the discussion will be the designated recorder of the discussion, and is responsible for uploading the recorded accounts of the conversation.
+5. Spend about 5-10 minutes per round
+
+
+
+
 
