@@ -17,11 +17,11 @@ How might we **\( remove the stress of overspending from \)** **\( a cash-strapp
 
 ## Steps to completion
 
-1. Based on your work from the Discover phase, complete the Mad Libs style sentence and write it in your journal:
+1. Based on your work from the Discover phase, complete the Mad Libs style sentence and write it in your journal.
 
-   1. 
+2. Try writing the question three different ways or writing three different questions. Circle the one you think works best.  
 
-2. Document your HMW question with a photograph or scan.
+3. Document your HMW question with a photograph or scan.
 
 ## Deliverables
 
