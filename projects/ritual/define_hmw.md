@@ -7,7 +7,7 @@ Is this pattern for creating the sentence: How might we **\( positive action \)*
 ## Materials
 
 * Pen or pencil
-* journal
+* Journal
 
 ## Example Question
 
