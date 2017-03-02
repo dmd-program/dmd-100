@@ -19,3 +19,13 @@ In this example, let's say that I discovered that a college student friend of mi
 
 How might we **\( remove the stress of overspending from \)** **\( a cash-strapped college student \)** **\( when they socialize with friends \)**?
 
+
+
+## Deliverables
+
+Photograph or scan your HMW questions and upload it to the assignment submission.
+
+## 
+
+
+
