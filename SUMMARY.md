@@ -72,13 +72,11 @@
       * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
     * [Discover: Interview](projects/ritual/ritual_interview.md)
     * [Discover: Journey Map](project/ritual/discover_journey_map.md)
+    * [Develop: Brainstorm](projects/develop-brainstorm.md)
     * [Define: HMW](projects/ritual/define_hmw.md)
     * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
-    * [Develop: Brainstorm](projects/ritual/develop-brainstorm.md)
     * [Develop: Prototype](projects/ritual/develop_prototype.md)
     * [Develop: Test and Iterate](projects/ritual/develop_test_and_iterate.md)
-    * [Deliver: Interactive Prototype](projects/ritual/deliver_interactive_prototype.md)
-    * Develop: Brainstorm
 * Lesson 3: Storytelling
   * [Introduction](lessons/narrative/introduction.md)
   * Topics
