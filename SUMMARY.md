@@ -74,7 +74,7 @@
     * [Discover: Journey Map](project/ritual/discover_journey_map.md)
     * [Define: HMW](projects/ritual/define_hmw.md)
     * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
-    * [Develop: Brainstorm](projects/develop-brainstorm.md)
+    * [Develop: Brainstorm](projects/ritual/develop-brainstorm.md)
     * [Develop: Prototype](projects/ritual/develop_prototype.md)
     * [Develop: Test and Iterate](projects/ritual/develop_test_and_iterate.md)
     * [Deliver: Interactive Prototype](projects/ritual/deliver_interactive_prototype.md)
