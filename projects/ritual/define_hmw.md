@@ -1,12 +1,21 @@
 # Define: How Might We ...?
-A "How might we" (HMW) question is both an insight about what the core issue is as well as a focus aid for the design process. This question will serve as inspiration during the development and delivery phases of the project. If your development strays to far from the HMW question, the solution you deliver might be solving a different set of issues from the ones you set out to solve. Refer back to the HMW question often throughout the process.
+
+A "How might we" \(HMW\) question is both an insight about what the core issue is as well as a focus aid for the design process. This question will serve as inspiration during the development and delivery phases of the project. If your development strays to far from the HMW question, the solution you deliver might be solving a different set of issues from the ones you set out to solve. Refer back to the HMW question often throughout the process.
+
+## Materials
+
+* Pen or pencil
+* journal
 
 ## How might we ...?
+
 Based on your work from the Discover phase, complete the Mad Libs style sentence and write it in your journal:
 
-How might we **( positive action )** **( a description of a person with relevant traits ) ( the situation )** ?
+How might we **\( positive action \)** **\( a description of a person with relevant traits \) \( the situation \)** ?
 
-## Example Question  
+## Example Question
+
 In this example, let's say that I discovered that a college student friend of mine was anxious about socializing. Often times, meeting friends meant going out and spending a lot of money, but they were on a very tight budget. The HMW question might look like this:
 
-How might we **( remove the stress of overspending from )** **( a cash-strapped college student )** **( when they socialize with friends )**?
+How might we **\( remove the stress of overspending from \)** **\( a cash-strapped college student \)** **\( when they socialize with friends \)**?
+
