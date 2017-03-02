@@ -11,15 +11,15 @@ Is this pattern for creating the sentence: How might we **\( positive action \)*
 
 ## Example Question
 
-In this example, let's say that I discovered that a college student friend of mine was anxious about socializing. Often times, meeting friends meant going out and spending a lot of money, but they were on a very tight budget. The HMW question might look like this:
+In this example, let's say that I discovered that a friend of mine was anxious about socializing. The HMW question might look like this:
 
-How might we **\( remove the stress of overspending from \)** **\( a cash-strapped college student \)** **\( when they socialize with friends \)**?
+How might we **\( relieve the stress of social interaction from \)** **\( a person who has trouble feeling comfortable in groups \)** **\( when they socialize with friends \)**?
 
 ## Steps to completion
 
 1. Based on your work from the Discover phase, complete the Mad Libs style sentence and write it in your journal.
 
-2. Try writing the question three different ways or writing three different questions. Circle the one you think works best.  
+2. Try writing the question three different ways or writing three different questions. Circle the one you think works best.
 
 3. Document your HMW question with a photograph or scan.
 

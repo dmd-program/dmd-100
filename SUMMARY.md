@@ -73,9 +73,9 @@
     * [Discover: Interview](projects/ritual/ritual_interview.md)
     * [Discover: Journey Map](project/ritual/discover_journey_map.md)
     * [Define: HMW](projects/ritual/define_hmw.md)
+    * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
     * [Develop: Prototype](projects/ritual/develop_prototype.md)
     * [Develop: Test and Iterate](projects/ritual/develop_test_and_iterate.md)
-    * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
     * [Deliver: Interactive Prototype](projects/ritual/deliver_interactive_prototype.md)
     * [Discuss: Ritual App Critique](projects/ritual/discuss_ritual_app_critique.md)
 * Lesson 3: Storytelling
