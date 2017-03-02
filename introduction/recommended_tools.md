@@ -11,5 +11,15 @@ The tools that best help you produce also help you understand. Overly simple too
 
 * [Github](http://github.com)
 
+## Materials and tools used for projects
+
+* Pen, pencil
+* Journal
+* Post-its
+* Poster-board
+* markers
+
+
+
 
 
