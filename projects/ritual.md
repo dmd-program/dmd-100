@@ -1,10 +1,10 @@
 # Ritual
 
-For this project, you will be making a prototype mobile app interface in support of a positive ritual.
+For this project, you will be designing a ritual and producing a prototype mobile app interface that supports the ritual in some way.
 
-A ritual is a designed experience that combines habits and routine with symbolism and meaning. Rituals are not necessarily intended to be events based on logic, but are instead opportunities for reflection, celebration, connectivity, behavioral nudging, focus, reinforcement, and more. An example of a small ritual could be a group of retirees who get lunch every Friday or journal entries. An example of a large ritual is a college graduation ceremony or football game.
+A ritual is a designed experience that combines habits and routine with symbolism, ultimately producing an event or moment that has meaning. Rituals are not necessarily intended to be utilitarian events, but are instead opportunities for reflection, celebration, connectivity, behavioral nudging, focus, reinforcement, and more. An example of a small ritual could be a group of retirees who have lunch together every week or a busy professional who writes reflective journal entries at the end of the day. Large rituals inlcude graduation ceremonies, weddings, and organized sporting events like football and baseball.
 
-Designing a ritual is part of service and experience design.
+A ritual is an interesting design problem because it deals with a person's value system, and focuses their time and actions on 
 
 Martin Seligman's TED Talk on the subject of positive psychology and its relation to design:  
 [https://www.ted.com/talks/martin\_seligman\_on\_the\_state\_of\_psychology](https://www.ted.com/talks/martin_seligman_on_the_state_of_psychology)
