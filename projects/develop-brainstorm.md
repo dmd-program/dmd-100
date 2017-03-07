@@ -9,6 +9,7 @@ Groups should meet via video call. Available tools include Skype, Bluejeans, gCh
 * Pen/Marker
 * Poster-board \(An area of open wall can also work\)
 * Post-it notes
+* Index card or similarly sized sticky paper
 * Computer with Webcam and steady Internet Connection
 
 ## **Roles and Rules**
