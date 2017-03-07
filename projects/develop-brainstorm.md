@@ -2,12 +2,12 @@
 
 Now that you have a direction, it's time to brainstorm some ideas. Generating ideas by yourself \(AKA – in a vacuum\) can be fairly difficult if you are new to this process. Even experienced designers benefit from working in groups because typically the array of ideas generated in a discussion is far larger than when working alone. For this step, you will partner up with small groups to brainstorm ideas for each person's project.
 
-Groups should meet via video call. Available tools include Skype, [Bluejeans](https://pennstate.bluejeans.com/scheduling/), gChat, AppleFacetime, . If the video call fails do to Internet connectivity issues, follow the directions using a chat tool of your choice.
+Groups should meet via video call. Available tools include Skype, Bluejeans, gChat, AppleFacetime, . If the video call fails do to Internet connectivity issues, follow the directions, but using a chat tool of your choice.
 
 ## Materials and tools
 
 * Pen/Marker
-* Poster-board or open wall space \(for Post-it notes\)
+* Poster-board \(An area of open wall can also work\)
 * Post-it notes
 * Computer with Webcam and steady Internet Connection
 
@@ -32,10 +32,16 @@ Groups should meet via video call. Available tools include Skype, [Bluejeans](ht
 ## Steps to completion
 
 1. Ensure that you have read the Roles and Rules.
-2. Decide on the order you will all go. 
-3. Designated recorder: Set a timer for 15 minutes. 
-4. The designated recorder will read the HMW question to the group.
-5. The group will spend up to 15 minutes generating ideas based.
+2. Before the group video call, write your HMW question on a piece of sticky paper or index card and affix it to the poster board.
+3. Decide on the order you will all go. 
+4. Designated recorder: Set a timer for 15 minutes. 
+5. The designated recorder will read the HMW question to the group.
+6. The group will spend up to 15 minutes generating ideas for the HMW question.
+   1. The designated recorder will write down the ideas onto sticky notes and put them on the poster-board.
+   2. After 15 minutes, briefly discuss which ideas you like.
+7. When all group members have taken their turn, you are finished the brainstorming session.
+8. Take a picture of your poster-board of ideas and upload to the Studio.
+9. Fill out the de-brief report.
 
 
 
