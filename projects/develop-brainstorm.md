@@ -8,6 +8,7 @@ Groups can meet by setting up a time to have a video call.
 
 * Pen, pencil
 * Journal
+* poster-board, wall space
 
 ## **Roles and Rules**
 
@@ -19,9 +20,16 @@ Groups can meet by setting up a time to have a video call.
 4. For each round, the person currently in focus for the discussion will be the designated recorder of the discussion, and is responsible for uploading the recorded accounts of the conversation.
 5. Spend about 10-15 minutes minutes per round
 
-Brainstorming
+### Brainstorming Rules
 
-1. Using your poster-board
+1. Quantity over quality. The goal is to generate as many ideas as possible.
+
+2. Defer judgement. Silly and outlandish ideas are just as useful as sensible ideas.
+
+3. 
+
+
+1. Using your poster-board or wall space, start writing down the ideas.
 
 
 
