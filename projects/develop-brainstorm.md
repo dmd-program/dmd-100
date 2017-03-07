@@ -41,7 +41,7 @@ Groups should meet via video call. Available tools include Skype, Bluejeans, gCh
    1. The designated recorder will write down the ideas onto sticky notes and put them on the poster-board.
    2. After 15 minutes, briefly discuss which ideas you like.
 7. When all group members have taken their turn, you are finished the brainstorming session.
-8. Take a picture of your poster-board of ideas and upload to the Studio.
+8. Take a picture of your poster-board of ideas and upload to the Studio. Follow documentation guidelines.
 9. Fill out the de-brief report.
 
 
