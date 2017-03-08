@@ -4,6 +4,10 @@ Using the ideas generated during the brainstorm, you will now map out key aspect
 
 ## Parts of a ritual
 
+This is text.
+
+
+
 
 
 1. **Frame:** The frame is the mental model that suggests what the ritual's purpose is, and what the intended outcome is.
