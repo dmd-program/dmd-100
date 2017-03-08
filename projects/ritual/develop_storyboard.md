@@ -4,11 +4,7 @@ Using the ideas generated during the brainstorm, you will now map out key aspect
 
 ## Parts of a ritual
 
-This is text.
-
-
-
-
+There are many descriptions available of what a ritual is, and how it functions. We will consider four key aspects as core design components for the ritual.
 
 1. **Frame:** The frame is the mental model that suggests what the ritual's purpose is, and what the intended outcome is.
 2. **Trigger:** A trigger could be a time of day, the onset of a certain feeling, or some other moment that initiates the ritual, and the rituals various actions.
