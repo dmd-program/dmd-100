@@ -1,10 +1,8 @@
 # Develop: Prototype
 
-Now that you have ideas from the brainstorm session, it is time to start prototyping a solution.
+Now that you have ideas from the brainstorm session, you will prototype a mobile app interface using. You will use
 
 To re-frame your ideas into opportunities, add the words "An app that..." in front of your ideas. Choose or expand on one idea that you really like. How might the app work?
-
-
 
 ## Tools and Materials
 
@@ -23,6 +21,16 @@ To re-frame your ideas into opportunities, add the words "An app that..." in fro
 **Working InVisionApp:**
 
 * Lynda: [InVision Prototyping](https://www.lynda.com/Flinto-tutorials/Invision-prototyping/452520/493200-4.html) \([PSU Login](https://lynda.psu.edu)\)
+
+## Prototyping
+
+1. Determine what UI elements you will need.
+2. Draw UI elements including
+
+## Steps to completion
+
+1. Step 1
+2. Submit a Public Share Link to your submission in the Studio
 
 
 
