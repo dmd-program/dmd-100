@@ -19,8 +19,9 @@ There are many descriptions available of what a ritual is, and how it functions.
 
 ## Steps to completion
 
-1. In your journal, write the **frame** of your ritual. See the components description for more details.
-2. In your journal, list all of the **triggers**, and **events **that comprise the ritual.
-3. 
+1. In your journal, write the **frame** and list all of the **triggers**, and **events **that comprise the ritual.
+2. On another journal page, draw each trigger and event in chronological order and indicate the flow direction.
+3. Submit photos or scans of your journal pages to the Studio.
+
 
 
