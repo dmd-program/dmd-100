@@ -7,9 +7,9 @@ Now that your prototype is done, it is time to participate in feedback. You will
 Please provide feedback based on the following criteria:
 
 1. Read the description of the app prototype
-2. Are you able to clearly understandig of the relationship between the app and the ritual? Why or why not?
+2. Are you able to clearly understanding of the relationship between the app and the ritual? Why or why not?
 3. Does the app seem like it would facilitate the ritual? If not, why? 
-4. Submit your answers to your assigned Studio 
+4. Submit your feedback to your assigned Studio 
 
 ## Steps to completion
 
