@@ -6,11 +6,13 @@ To re-frame your ideas into opportunities, add the words "An app that..." in fro
 
 ## Tools and Materials
 
-1. Grid paper
-2. Cellphone Camera
-3. InVision App \(Free account\)
-4. InVision Mobile App \(free download\)
-5. Scissors
+1. Pen or Marker
+2. Assorted paper
+3. Scissors
+4. Ruler
+5. Cellphone Camera
+6. InVision App \(Free account\)
+7. InVision Mobile App \(free download\)
 
 ## Technical resources
 
@@ -22,17 +24,13 @@ To re-frame your ideas into opportunities, add the words "An app that..." in fro
 **Working InVisionApp:**
 
 * Lynda: [InVision Prototyping](https://www.lynda.com/Flinto-tutorials/Invision-prototyping/452520/493200-4.html) \([PSU Login](https://lynda.psu.edu)\)
+* [InvisionApp Tutorials](https://projects.invisionapp.com/d/main#/learn)
 
 ## Prototyping Instructions
 
-1. Determine what UI elements you will need for the mobile app
-   1. Number of unique screens
-   2. Navigation buttons
-   3. Text and media
-2. Draw UI elements including
-3. Choose a screen size
-   1. Draw interface elements.
-   2. Cut out the interface elements
+1. Choose a screen size. This can be done by measuring a phone you already have, or
+2. 1. Draw interface elements including buttons, images, icons, and text.
+   2. Cut out the interface elements so they can be rearranged for each screen
    3. Take pictures of each app screen
    4. Upload them to InvisionApp
    5. Build interactivity using InvisionApp's built-in hotspot and linking tools
@@ -41,8 +39,9 @@ To re-frame your ideas into opportunities, add the words "An app that..." in fro
 ## Steps to completion
 
 1. Create the prototype using the prototyping instructions
-2. Submit a Public Share Link to your submission in the Studio
-3. Write a design document according to the document requirements and upload to the Studio 
+2. Download a ZIP archive of your prototype from InvisionApp
+3. Submit a Public Share Link to your submission in the Studio
+4. Write a design document according to the document requirements and upload to the Studio 
 
 
 
