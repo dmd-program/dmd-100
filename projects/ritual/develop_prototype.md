@@ -8,8 +8,8 @@ To re-frame your ideas into opportunities, add the words "An app that..." in fro
 
 1. Grid paper
 2. Cellphone Camera
-3. InVision App: Free account
-4. InVision Mobile App
+3. InVision App \(Free account\)
+4. InVision Mobile App \(free download\)
 
 ## Technical resources
 
@@ -24,7 +24,10 @@ To re-frame your ideas into opportunities, add the words "An app that..." in fro
 
 ## Prototyping
 
-1. Determine what UI elements you will need.
+1. Determine what UI elements you will need for the mobile app
+   1. Number of unique screens
+   2. Navigation buttons
+   3. Text and media
 2. Draw UI elements including
 
 ## Steps to completion
