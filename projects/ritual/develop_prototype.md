@@ -39,6 +39,7 @@ Now that you have a storyboard, you will prototype a mobile application interfac
    4. Upload your cropped images to InvisionApp
    5. Build interactivity using InvisionApp's built-in hotspot and linking tools
    6. Test that all the desired interactivity is functioning
+4. Download a ZIP file of the project from the InvisionApp's project navigation bar
 
 ## Design Document
 
