@@ -2,12 +2,71 @@
 
 In this project, you will design a kit of parts that can be used to build a toy, model, or other object. This object will be a collection or kit of parts that can be reconfigured to create variations. There are two ways to approach this project. You can decide to create your own parts, custom from raw materials like cardboard, wood, foam, etc. Or, you could develop creative ways of using commonly found objects like rubber bands, toothpicks, paper clips, etc. The goal of this project is to develop a kit using commonly available resources. According to the most [recent and comprehensive data](http://www.worldbank.org/en/publication/poverty-and-shared-prosperity), 10.7% of the world's population lives in poverty, so the easier and cheaper it is for others to create or obtain your parts, the more accessible your project will be.
 
+## Constraints
+
+1. You must not spend more than $10.00 USD to assemble the kit.
+2. Your users must be able to assemble their kits without special skills or tools.
+   1. Allowed tools: Scissors, exacto knife
+   2. Allowed marking implements: Pen, pencil, marker
+
+## Audience
+
+1. Choose an age that you would like to focus on. The end user does not have to be a child.
+2. What purpose does the kit serve?
+3. Geographical location?
+4. Who is building vs using?
+
+## Category
+
+What kind of kit are you building?
+
+**Category ideas:**
+
+* Human or animal figures
+* Architectural models
+* Machines
+* Structures and shapes
+* Integrated electronics
+
+## Part types
+
+* Symbols
+* Shapes
+* Fasteners
+* Connectors
+* Support structures
+
+### Attributes
+
+* Name
+* Description
+* Quantity
+* Cost breakdown
+
+## Variations
+
+How many variations that can be constructed by reconfiguring the same parts?
+
+## Directions
+
+How will you help users gain mastery of using the kit?
+
+Directions could include photos or drawings, diagrams, and step-based text instructions. 
+
+## Testing/Feedback
+
+## Iteration
+
+## Kit
+
+## Documentation
+
 ## Requirements:
 
 1. Parts should be modular \( avoid parts that are difficult to construct or provide instructions for constructing.\)
 2. A kit should have more than one part \(parts may be the same\)
 
-There are many example of modular toys and kits on the Internet. If you decide to take direct inspiration and remix other works and ideas, you must ensure that there is a good balance between copying, transforming, and combining. There must be some novelty in your work, and it should be obvious that this project came from you.
+There are many examples of modular toys and kits in stores and on the Internet. If you decide to take direct inspiration and remix other works and ideas, you must ensure that there is a good balance between copying, transforming, and combining. There must be some novelty in your work, and it should be obvious that this project came from you.
 
 **Develop phase questions:**
 
@@ -23,6 +82,10 @@ There are many example of modular toys and kits on the Internet. If you decide t
 
 1. Prototype
 2. Test run/feedback/refine
+
+
+
+
 
 **Documentation:**
 
