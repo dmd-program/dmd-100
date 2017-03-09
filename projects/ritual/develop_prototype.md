@@ -30,16 +30,19 @@ To re-frame your ideas into opportunities, add the words "An app that..." in fro
    2. Navigation buttons
    3. Text and media
 2. Draw UI elements including
+3. Choose a screen size
+   1. Draw interface elements.
+   2. Cut out the interface elements
+   3. Take pictures of each app screen
+   4. Upload them to InvisionApp
+   5. Build interactivity using InvisionApp's built-in hotspot and linking tools
+   6. 
 
 ## Steps to completion
 
-1. Draw interface elements.
-2. Cut out the interface elements
-1. Take pictures of each app screen
-2. Upload them to InvisionApp
-3. Build interactivity using InvisionApp's built-in hotspot and linking tools
-4. Submit a Public Share Link to your submission in the Studio
-5. Create either a video of you using the app and walking through it's use, or create a presentation with PPT or Google Docs with 
+1. Create the prototype using the prototyping instructions
+2. Submit a Public Share Link to your submission in the Studio
+3. Create either a video of you using the app and walking through it's use, or create a presentation with PPT or Google Docs with 
 
 
 
