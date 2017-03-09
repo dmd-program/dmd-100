@@ -40,6 +40,7 @@ Now that you have a storyboard, you will prototype a mobile application interfac
    5. Build interactivity using InvisionApp's built-in hotspot and linking tools
    6. Test that all the desired interactivity is functioning
 4. Download a ZIP file of the project from the InvisionApp's project navigation bar
+5. Click the share button and choose share public link at the bottom to copy the public share link.
 
 ## Design Document
 
