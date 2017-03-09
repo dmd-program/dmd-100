@@ -1,8 +1,6 @@
 # Develop: Prototype
 
-Now that you have a storyboard, you will prototype a mobile app interface using a process known as paper prototyping. Paper prototyping is a quick way to  You will use
-
-To re-frame your ideas into opportunities, add the words "An app that..." in front of your ideas. Choose or expand on one idea that you really like. How might the app work?
+Now that you have a storyboard, you will prototype a mobile application interface using a process known as paper prototyping. Paper prototyping is a quick way to simulate a product before too many resources are used to design and engineer the final product. It works as a kind of model that others can react to, giving designers and insight as to whether they are going in the right direction. The purpose of this prototype is to quickly communicate to your peers how you intend to use a mobile device application to faciliate a ritual.
 
 ## Tools and Materials
 
