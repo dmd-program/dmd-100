@@ -23,7 +23,7 @@ To re-frame your ideas into opportunities, add the words "An app that..." in fro
 
 * Lynda: [InVision Prototyping](https://www.lynda.com/Flinto-tutorials/Invision-prototyping/452520/493200-4.html) \([PSU Login](https://lynda.psu.edu)\)
 
-## Prototyping
+## Prototyping Instructions
 
 1. Determine what UI elements you will need for the mobile app
    1. Number of unique screens
@@ -42,7 +42,7 @@ To re-frame your ideas into opportunities, add the words "An app that..." in fro
 
 1. Create the prototype using the prototyping instructions
 2. Submit a Public Share Link to your submission in the Studio
-3. Create either a video of you using the app and walking through it's use, or create a presentation with PPT or Google Docs with 
+3. Write a design document according to the document requirements and upload to the Studio 
 
 
 
