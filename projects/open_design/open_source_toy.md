@@ -47,15 +47,24 @@ What kind of kit are you building?
 
 How many variations that can be constructed by reconfiguring the same parts?
 
-## Directions
+## Kit instructions
 
 How will you help users gain mastery of using the kit?
 
-Directions could include photos or drawings, diagrams, and step-based text instructions. 
+Directions could include photos or drawings, diagrams, and step-based text instructions.
 
-## Testing/Feedback
+## Testing, feedback, and iteration
 
-## Iteration
+Ideally, you will want to get feedback from a user representative of your audience both in terms of who will be constructing with the kit and who will be the end user. For instance, a parent might be the one to put the kit together if the toy is intended for a small child. Alternatively, a child might be assembling the kit for themselves or as a gift for another.
+
+Plan a user test session for the kit. Carefully observe someone attempting to use the kit. Take notes of what you notice. You may need to give some verbal suggestions if your users get stuck, but try to say as little as possible. After the user has assembled the kit per the instructions, ask them some followup questions. Example followup questions include:
+
+1. What did you like about using the kit?
+2. What didn't you like? Why is that?
+3. Is there anything that can be improved on?
+4. Do you want more or less control over the final result?
+
+
 
 ## Kit
 
@@ -82,10 +91,6 @@ There are many examples of modular toys and kits in stores and on the Internet. 
 
 1. Prototype
 2. Test run/feedback/refine
-
-
-
-
 
 **Documentation:**
 
