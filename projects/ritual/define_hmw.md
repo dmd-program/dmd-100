@@ -11,7 +11,7 @@ Is this pattern for creating the sentence: How might we **\( positive action \)*
 
 ## Example Question
 
-In this example, let's say that I discovered that a friend of mine was anxious about socializing. The HMW question might look like this:
+In this example, let's say that I discovered that a friend was anxious about socializing. The HMW question could be phrased like this:
 
 How might we **\( relieve the stress of social interaction from \)** **\( a person who has trouble feeling comfortable in groups \)** **\( when they socialize with friends \)**?
 
