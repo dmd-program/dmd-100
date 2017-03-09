@@ -46,6 +46,7 @@ Now that you have a storyboard, you will prototype a mobile application interfac
 
 * Start your document with the following: "**This is a prototype for an app that...**" To complete the sentence, use your brainstorming ideas and storyboard.
 * Describe the ritual in detail and how the prototype works.
+* Write clearly, and check for grammar and spelling errors
 
 ## Steps to completion
 
