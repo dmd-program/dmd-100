@@ -55,7 +55,7 @@ How many variations that can be constructed by reconfiguring the same parts?
 How will you help users gain mastery of using the kit?
 
 1. **Create instructions for your users to follow.** They can include photos or drawings, diagrams, audio, pre-recorded video, and/or step-based text instructions.
-2. 
+
 ## Testing, feedback, and iteration
 
 Ideally, you will want to get feedback from a user representative of your audience both in terms of who will be constructing with the kit and who will be the end user. For instance, a parent might be the one to put the kit together if the toy is intended for a small child. Alternatively, a child might be assembling the kit for themselves or as a gift for another.
