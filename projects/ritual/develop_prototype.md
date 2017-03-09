@@ -34,8 +34,12 @@ To re-frame your ideas into opportunities, add the words "An app that..." in fro
 ## Steps to completion
 
 1. Draw interface elements.
-2. Cut out the interface elements  
-3. Submit a Public Share Link to your submission in the Studio
+2. Cut out the interface elements
+1. Take pictures of each app screen
+2. Upload them to InvisionApp
+3. Build interactivity using InvisionApp's built-in hotspot and linking tools
+4. Submit a Public Share Link to your submission in the Studio
+5. Create either a video of you using the app and walking through it's use, or create a presentation with PPT or Google Docs with 
 
 
 
