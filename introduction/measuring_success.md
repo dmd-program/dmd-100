@@ -36,3 +36,7 @@ I have assembled a list that attempts to describe the attitudes and attributes t
 
 
 
+Add section on "Guided Mastery" and "Self Effacacy"
+
+
+
