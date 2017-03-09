@@ -11,10 +11,11 @@ In this project, you will design a kit of parts that can be used to build a toy,
 
 ## Audience
 
-1. Choose an age that you would like to focus on. The end user does not have to be a child.
-2. What purpose does the kit serve?
-3. Geographical location?
-4. Who is building vs using?
+1. Conduct desktop and field research of toy kits and models. Investigate websites that sell toys and visit physical toy and hobby stores. See if you can understand the ways in which 
+2. Choose an age that you would like to focus on. The end user does not have to be a child.
+3. What purpose does the kit serve?
+4. Geographical location?
+5. Who is building vs using?
 
 ## Category
 
@@ -26,6 +27,7 @@ What kind of kit are you building?
 * Architectural models
 * Machines
 * Structures and shapes
+* Puzzles
 * Integrated electronics
 
 ## Part types
@@ -63,8 +65,6 @@ Plan a user test session for the kit. Carefully observe someone attempting to us
 2. What didn't you like? Why is that?
 3. Is there anything that can be improved on?
 4. Do you want more or less control over the final result?
-
-
 
 ## Kit
 
