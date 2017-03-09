@@ -9,11 +9,11 @@ Please provide feedback based on the following criteria:
 1. Read the description of the app prototype
 2. Are you able to clearly understanding of the relationship between the app and the ritual? Why or why not?
 3. Does the app seem integral to the ritual? Why? 
-4. Submit your feedback in Studio 
 
 ## Steps to completion
 
 1. Review the assigned prototypes according to the feeback requirements
+2. Submit your feedback in Studio 
 
 
 
