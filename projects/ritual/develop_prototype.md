@@ -51,7 +51,7 @@ Now that you have a storyboard, you will prototype a mobile application interfac
 ## Steps to completion
 
 1. Create the prototype using the prototyping instructions
-2. Download a ZIP archive of your prototype from InvisionApp
+2. Download a ZIP archive of your prototype from InvisionApp and upload to the Studio
 3. Submit a Public Share Link to your submission in the Studio
 4. Write a design document according to the document requirements and upload to the Studio 
 
