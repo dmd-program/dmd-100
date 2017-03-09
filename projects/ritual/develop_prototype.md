@@ -33,11 +33,12 @@ Now that you have a storyboard, you will prototype a mobile application interfac
    3. Cut out reusable interface elements so they can be rearranged for each application screen
    4. Arrange the components for each screen and take a picture with your phone's camera
 3. Upload prototype interfaces to InvisionApp
-   1. Crop each image to the screen boundary using the cropping methods suggested in the technical resources
-   2. Test that all desired interactivity is working
-   3. Sign into InvisionApp and create a new project. Choose the phone portrait template.
-   4. Build interactivity using InvisionApp's built-in hotspot and linking tools
-   5. Upload your cropped images to InvisionApp
+   1. Move the image files from your phone or camera to your computer.
+   2. Crop each image to the screen boundary using the cropping methods suggested in the technical resources
+   3. Test that all desired interactivity is working
+   4. Sign into InvisionApp and create a new project. Choose the phone portrait template.
+   5. Build interactivity using InvisionApp's built-in hotspot and linking tools
+   6. Upload your cropped images to InvisionApp
 
 ## Design Document
 
