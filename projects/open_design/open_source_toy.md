@@ -27,7 +27,7 @@ What kind of kit are you building?
 * Architectural models
 * Machines
 * Structures and shapes
-* Puzzles
+* Puzzle or game
 * Integrated electronics
 
 ## Part types
@@ -55,10 +55,7 @@ How many variations that can be constructed by reconfiguring the same parts?
 How will you help users gain mastery of using the kit?
 
 1. **Create instructions for your users to follow.** Instructions can include any one of or combination of photos or drawings, diagrams, audio, pre-recorded video, and/or step-based text instructions. Select your media based on the user's age.
-
-
-
-1. Photo Documentation should include a knolling image in the popular style of display known as knolling
+2. Instructions should include any process or technique required to prepare parts and how to combine parts together. 
 
 ## Testing, feedback, and iteration
 
@@ -77,11 +74,17 @@ Carefully observe someone attempting to use the kit. Take notes of what you noti
 
 ## Kit
 
-## Documentation
+### Photo Documentation should include:
+
+1. Single kit of parts image: knolling style
+2. Photos of various assemblies demonstrating the modular or reconfigurable characteristics of the kit
+
+
 
 ## Requirements:
 
-1. Parts should be modular \( avoid parts that are difficult to construct or provide instructions for constructing.\)
+1. Parts should be simple \( avoid parts that are difficult to construct or provide instructions for constructing.\)
+
 2. A kit should have more than one part \(parts may be the same\)
 
 There are many examples of modular toys and kits in stores and on the Internet. If you decide to take direct inspiration and remix other works and ideas, you must ensure that there is a good balance between copying, transforming, and combining. There must be some novelty in your work, and it should be obvious that this project came from you.
