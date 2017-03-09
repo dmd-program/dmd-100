@@ -27,13 +27,15 @@ Now that you have a storyboard, you will prototype a mobile application interfac
 ## Prototyping Instructions
 
 1. Identify parts of the storyboard that can translate into mobile application functions. For instance, if you ritual has a time component, then you can build in an timed audio cue into the prototype \(represented visually\).
-2. Choose a screen size. This can be done by measuring a phone you already have, or
-3. 1. Draw interface elements including buttons, images, icons, and text.
-   2. Cut out the interface elements so they can be rearranged for each screen
-   3. Take pictures of each app screen
-   4. Upload them to InvisionApp
-   5. Build interactivity using InvisionApp's built-in hotspot and linking tools
-   6. 
+2. Choose a screen size. This can be done by measuring a phone you already have, or lo
+3. 1. Draw the boundary of the screen approximately 3.5 inches tall by 2 inches wide.
+   2. Draw interface elements including buttons, images, icons, and text.
+   3. Cut out reusable interface elements so they can be rearranged for each screen
+   4. Take pictures of each app screen
+   5. Crop each image to the screen boundary using the cropping methods suggested in the technical resources
+   6. Upload them to InvisionApp
+   7. Build interactivity using InvisionApp's built-in hotspot and linking tools
+   8. 
 
 ## Design Document
 
