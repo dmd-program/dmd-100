@@ -54,7 +54,11 @@ How many variations that can be constructed by reconfiguring the same parts?
 
 How will you help users gain mastery of using the kit?
 
-1. **Create instructions for your users to follow.** They can include photos or drawings, diagrams, audio, pre-recorded video, and/or step-based text instructions.
+1. **Create instructions for your users to follow.** Instructions can include any one of or combination of photos or drawings, diagrams, audio, pre-recorded video, and/or step-based text instructions. Select your media based on the user's age.
+
+
+
+1. Photo Documentation should include a knolling image in the popular style of display known as knolling
 
 ## Testing, feedback, and iteration
 
