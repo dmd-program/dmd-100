@@ -17,9 +17,9 @@ How might we **\( relieve the stress of social interaction from \)** **\( a pers
 
 ## Steps to completion
 
-1. Based on your work from the Discover phase, complete the Mad Libs style sentence and write it in your journal.
+1. Based on your work from the Discover phase, use the sentence template to write three possible HMW questions.
 
-2. Try writing the question three different ways or writing three different questions. Circle the one you think works best.
+2. Review your sentences and _**circle**_ the one you think works best.
 
 3. Document your HMW question with a photograph or scan.
 
