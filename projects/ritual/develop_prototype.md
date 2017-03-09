@@ -1,6 +1,6 @@
 # Develop: Prototype
 
-Now that you have ideas from the brainstorm session, you will prototype a mobile app interface using. You will use
+Now that you have a storyboard, you will prototype a mobile app interface using a process known as paper prototyping. Paper prototyping is a quick way to  You will use
 
 To re-frame your ideas into opportunities, add the words "An app that..." in front of your ideas. Choose or expand on one idea that you really like. How might the app work?
 
@@ -10,6 +10,7 @@ To re-frame your ideas into opportunities, add the words "An app that..." in fro
 2. Cellphone Camera
 3. InVision App \(Free account\)
 4. InVision Mobile App \(free download\)
+5. Scissors
 
 ## Technical resources
 
@@ -32,8 +33,9 @@ To re-frame your ideas into opportunities, add the words "An app that..." in fro
 
 ## Steps to completion
 
-1. Step 1
-2. Submit a Public Share Link to your submission in the Studio
+1. Draw interface elements.
+2. Cut out the interface elements  
+3. Submit a Public Share Link to your submission in the Studio
 
 
 
