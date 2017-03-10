@@ -16,7 +16,7 @@ Now that your prototype is done, it is time to participate in feedback. You will
 ## Instructions: Part 2
 
 1. Make changes based on the peer feedback 
-2.  Describe what changes you made to your work and why you made them.
+2. Describe what changes you made to your work and why you made them.
 
 ## Report in
 
