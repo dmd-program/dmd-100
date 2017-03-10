@@ -48,12 +48,16 @@ Now that you have a storyboard, you will prototype a mobile application interfac
 * Describe the ritual in detail and how the prototype works.
 * Write clearly, and check for grammar and spelling errors
 
-## Steps to completion
+## Instructions
 
 1. Create the prototype using the prototyping instructions
-2. Download a ZIP archive of your prototype from InvisionApp and upload to the Studio
-3. Submit a Public Share Link to your submission in the Studio
-4. Write a design document according to the document requirements and upload to the Studio 
+2. Download a ZIP archive of your prototype from InvisionApp
+3. Copy the project's  Public Share Link
+4. Write a design document according to the document requirements
+
+## Report in
+
+Upload the ZIP archive file, Public Share Link, and the design document to the Studio 
 
 
 
