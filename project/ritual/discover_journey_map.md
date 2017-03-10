@@ -30,7 +30,7 @@ A journey map is great way to visualize an entire process of an interaction. By 
 
 30 - 60 minutes
 
-## Steps to completion
+## Instructions
 
 1. In the interview, your participant answered questions about a challenge they face. This will be the focus of the journey map.
 2. You will now assume their perspective. From the first person perspective, write short 1-5 word descriptions of the most core moment\(s\) of engagement on Post-its. **For example:** "I realized the grass was too long."
@@ -39,7 +39,7 @@ A journey map is great way to visualize an entire process of an interaction. By 
 5. This journey map is useful to help you communicate your experience to others and identify moments for intervention, change, and adaptation.
 6. Document your journey map with a photograph or scan and submit to the Studio.
 
-## Deliverables
+## Report in
 
 Photograph or scan your journey map and upload it to the assignment submission.
 
