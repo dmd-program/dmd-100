@@ -2,17 +2,27 @@
 
 Now that your prototype is done, it is time to participate in feedback. You will be assigned a few prototypes to review. Your prototype will also be reviewed by your classmates. This is an opportunity to learn how to recieve feedback. Enduring critique of your work might seem like a stressful process at first, but it is one of the most common, and useful processes in design. At Apple, Inc., Steve Jobs was a notorius critic on employees work, and at times vicious. What many employees learned to do was to interpret what Steve was saying, so they could elicit useful information.
 
-## Instructions
+## Instructions: Part 1
 
 1. **Provide feedback** to your assigned prototypes based on the following criteria:
    1. Are you able to clearly understanding of the relationship between the app and the ritual? Why or why not?
    2. Does the app seem integral to the ritual? Why?
-2. **Read the feedback you have been given.** To plan a course of action, you can categorize what was said in four categories: compliment, advice, criticism, and suggestion. Based on which category the feedback lands, you can analyze how to make decisions to improve your work. 
+2. **Read the feedback you have been given.** To plan a course of action, you can categorize what was said in four categories: compliment, advice, criticism, and suggestion. Based on which category the feedback lands, you can analyze how to make decisions to improve your work.
 
 ## Report in
 
 1. Submit your feedback to the studio.
-2. After you have recieved feedback, submit your iterative changes.
+
+## Instructions: Part 2
+
+1. Make changes based on the peer feedback 
+2.  Describe what changes you made to your work and why you made them.
+
+## Report in
+
+1. After you have recieved feedback and made changes
+   1. Resubmit your prototype ZIP archive to Studio
+   2. Write a description of the changes made to the prototype
 
 
 
