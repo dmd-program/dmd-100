@@ -17,11 +17,14 @@ There are many descriptions available of what a ritual is, and how it functions.
 3. **Trigger:** A trigger could be a time of day, the onset of a certain feeling, or some other moment that initiates the ritual, and the ritual's related events. For example, "It's Sunday afternoon" is a trigger to start the ritual. "Sunday afternoon is over," indicates that it's time to stop the ritual.
 4. **Event:** An event is any action or performance that occurs in the ritual. Indication to start an event comes from a trigger or script. Example events include, "Vote on which boardgame to play" and, "Play the boardgame until everyone is wants to stop."  
 
-## Steps to completion
+## Instructions
 
 1. In your journal, write the **frame** and list all of the **triggers**, and **events **that comprise the ritual.
 2. On another journal page, draw each trigger and event in chronological order and indicate the flow direction.
-3. Submit photos or scans of your journal pages to the Studio.
+
+## Report in
+
+1. Submit photos or scans of your journal pages to the Studio.
 
 
 
