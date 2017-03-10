@@ -30,7 +30,7 @@ Groups should meet via video call. Available tools include Skype, Bluejeans, gCh
 4. **Focus.** It's easy to derail a brainstorming session. If it happens, refocus on the task at hand.
 5. **Simplify.** If an idea takes two sentences to describe, try simplifying it to the core idea using as few words as possible.
 
-## Steps to completion
+## Instructions
 
 1. Ensure that you have read the Roles and Rules.
 2. Before the group video call, write your HMW question on a piece of sticky paper or index card and affix it to the poster board.
