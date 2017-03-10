@@ -10,8 +10,7 @@
    1. Write the guide title from step two.
    2. Describe the media you will use to create the guide. Choose any print media including but not limited to technical diagrams, figures, drawings, illustrations, and photography to support your guide. The guide should function without computers or devices.
 
-
 ## Report in
 
-Upload your proposal and guide name to Studio
+Upload your proposal to the Studio
 
