@@ -4,10 +4,10 @@ Local knowledge describes a kind of knowledge that is specific to your own exper
 
 ## Instructions
 
-1. In the middle, of a journal page, write your name.
-2. In a circle around your name, write skills, trips,   
-3. 4. 5. In your journal, write down the places that you are the most familiar with. about some things that you do very well. 
-6. List three ideas
+1. Write your name In the middle of an 8.5"x11" sheet of paper placed horizontally.
+2. In a circle around your name, write _**skills**_, _**places**_, _**things**, _  
+3. 1. 1. In your journal, write down the places that you are the most familiar with. about some things that you do very well. 
+4. List three ideas
 
 ## Citation
 

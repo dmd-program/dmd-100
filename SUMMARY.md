@@ -149,7 +149,7 @@
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
   * Project
     * [Field guide](projects/field_guide.md)
-    * [Discover: Top three](projects/field_guide/discover_top_three.md)
+    * [Discover: Mind mapping](projects/field_guide/discover_top_three.md)
     * [Define: Concept](projects/impact/define_concept.md)
     * [Define: Gut check](projects/impact/define_gut_check.md)
     * [Develop: Publishing tools](projects/impact/develop_publishing_tools.md)
