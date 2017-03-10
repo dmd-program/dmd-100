@@ -2,8 +2,13 @@
 
 ## Instructions
 
-1. Use Gitbook to prototype
-   * Follow Gitbook tutorial 
+1. Using the software and tools of your choice, start authoring the field guide
+   1. Recommended software:
+      1. GitBook.com
+      2. libreoffice.org
+      3. MS Word
+      4. Pages
+2. Export as a PDF
 
 ## Report in
 
