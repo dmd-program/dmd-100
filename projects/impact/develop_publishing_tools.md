@@ -1,6 +1,7 @@
 # Develop: Publishing
 
 ## Guide requirements
+You must produce all of the visuals in the guide yourself. You may take inspiration from others, but do not use other people's drawings, photos, or diagrams, etc.
 
 ### Pages
 
@@ -21,7 +22,7 @@
 2. File type: PDF
 3. Dimensions: 8.5" x 11" portrait
 
-### Publishing tools
+### Example Publishing tools
 
 1. [GitBook.com](https://www.gitbook.com)
 2. [libreoffice.org](https://www.libreoffice.org/)
@@ -30,7 +31,7 @@
 
 ## Instructions: Part 1
 
-1. Using the software and tools of your choice, start authoring the field guide
+1. Using the publishing tools of your choice, start authoring the field guide
 2. Export as a PDF
 
 ## Report in
