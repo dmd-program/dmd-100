@@ -15,7 +15,7 @@ In this example, let's say that I discovered that a friend was anxious about soc
 
 How might we **\( relieve the stress of social interaction from \)** **\( a person who has trouble feeling comfortable in groups \)** **\( when they socialize with friends \)**?
 
-## Steps to completion
+## Instructions
 
 1. Based on your work from the Discover phase, use the sentence template to write three possible HMW questions.
 
@@ -23,7 +23,7 @@ How might we **\( relieve the stress of social interaction from \)** **\( a pers
 
 3. Document your HMW question with a photograph or scan.
 
-## Deliverables
+## Report in
 
 Upload the photograph or scan of your HMW questions to the assignment submission.
 
