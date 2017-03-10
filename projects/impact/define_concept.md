@@ -15,5 +15,5 @@ In this step, you will choose a concept, a title, and decide which type of visua
 
 ## Report in
 
-Upload your proposal to the Studio
+Upload your proposal and the images you found for style inspriation to the Studio
 
