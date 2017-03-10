@@ -11,7 +11,7 @@ Local knowledge describes a kind of knowledge that is specific to your own exper
 
 ## Report in
 
-1. Take a photo or scan of your mind map and submit it to the studio
+1. Take a photo or scan of your mind map and submit it to Studio
 
 
 
