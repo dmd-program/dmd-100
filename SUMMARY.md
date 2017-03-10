@@ -151,7 +151,6 @@
     * [Field guide](projects/field_guide.md)
     * [Discover: Mind mapping](projects/field_guide/discover_top_three.md)
     * [Define: Concept](projects/impact/define_concept.md)
-    * [Define: Gut check](projects/impact/define_gut_check.md)
     * [Develop: Publishing tools](projects/impact/develop_publishing_tools.md)
     * [Develop: Test and Iterate](projects/impact/develop_test_and_iterate.md)
     * [Deliver: Field Guide](projects/impact/deliver_field_guide.md)
