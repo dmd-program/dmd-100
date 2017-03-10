@@ -125,7 +125,7 @@
     * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
     * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
   * Activities
-  * Project
+  * [Project](lessons/open_design/project.md)
     * [Open Toy Project: Introduction](projects/open_design/open_source_toy.md)
     * [Discover: Primary Research](projects/open_design/discover_primary_research.md)
     * [Discover: Secondary research](projects/open_design/discover_secondary_research.md)

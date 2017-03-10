@@ -7,7 +7,7 @@ Field research is a central part of the human-centered design process. You will 
 1. Journal
 2. Pencil or pen
 
-## Conduct an interview
+## Instructions
 
 Set up an interview. It can be a family member, a friend, a colleague at work, etc. The purpose of this interview is to understand the challenges that a person faces.
 
@@ -25,7 +25,7 @@ Laddering is a technique developed in the 1960s to help clinical psychologists u
 
 Make a note of any responses that led to a deeper understanding of what motivates this person?
 
-## Deliverables
+## Report in
 
 1. Submit an image of your notes from your journal pages.
 
