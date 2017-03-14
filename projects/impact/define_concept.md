@@ -1,6 +1,4 @@
-![](/assets/blanks-guide-to-blank-1200px@2x.png)
-
-# Define: Concept
+# ![](/assets/blanks-guide-to-blank-1200px@2x.png)Define: Concept
 
 In this step, you will choose a concept, a title, and decide which type of visuals you intend to use.
 
