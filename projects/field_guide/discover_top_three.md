@@ -16,7 +16,7 @@ Local knowledge describes a kind of knowledge that is specific to your own exper
    * **Familiar:** These are places, topics, scenarios, and issues, that you are somewhat or very knowledgeable about.
    * **Unfamiliar:** These are places, topics, scenarios, and issues, that you are note knowledgeable about, but have some interest in knowing.
 4. Tips:
-   1. The more specific you can be, the better. Your answers can be funny, but consider your audience and try not to over-share.
+   1. The more specific you can be, the better. Your answers can be funny or serious, but consider your audience and try not to over-share.
    2. Go for breadth instead of depth. For instance, you could name all of the dishes that you are skilled at cooking, but this limits the topic possibilities to one category of skill. Instead list one or two of your best options, and write skills from other categories.
 5. Spend 30 minutes to an hour writing as many specific ideas as you can. This process will give you good overview of your "local" knowledge and interests.
 
