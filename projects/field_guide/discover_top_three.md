@@ -1,6 +1,10 @@
+
+
 # Discover: Mind mapping
 
 Local knowledge describes a kind of knowledge that is specific to your own experiences. Is this step, you will create a mind map to try to better understand your local knowledge.
+
+![Graphic of mindmapping](/assets/mind-mapping-1200px@2x.png)
 
 ## Instructions
 
