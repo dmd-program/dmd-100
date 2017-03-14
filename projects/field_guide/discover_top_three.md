@@ -10,7 +10,7 @@ Local knowledge describes a kind of knowledge that is specific to your own exper
 
 1. Write your name in the middle of an 8.5"x11" sheet of paper placed horizontally.
 2. In a circle around your name, write _**skills**_, _**weaknesses**_, _**familiar**_, and _**unfamiliar**_. Draw lines from the center circle to each category.
-3. From each category, write a specific idea:
+3. From each category, try to write no less than **five** specific ideas:
    * **Skills:** These are things you are good at. They include hard and soft skills like cooking or conversation.
    * **Weaknesses:** Things you have done or currently do, but perhaps not so well.
    * **Familiar:** These are places, topics, scenarios, and issues, that you are somewhat or very knowledgeable about.
