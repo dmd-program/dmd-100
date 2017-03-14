@@ -1,6 +1,6 @@
 ![Photo of mind map](/assets/mind-mapping-header@2x.jpg)
 
-# Discover: Mind mapping
+# Discover: Knowledge mining
 
 Local knowledge describes a kind of knowledge that is specific to your own experiences. Is this step, you will create a mind map to try to better understand your local knowledge.
 
