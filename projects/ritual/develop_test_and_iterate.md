@@ -1,6 +1,6 @@
 # Develop: Test and Iterate
 
-Now that your prototype is done, it is time to participate in feedback. You will be assigned a few prototypes to review. Your prototype will also be reviewed by your classmates. This is an opportunity to learn how to recieve feedback. Enduring critique of your work might seem like a stressful process at first, but it is one of the most common, and useful processes in design.
+Now that your prototype is done, it is time to participate in feedback. You will be assigned a few prototypes to review. Your prototype will also be reviewed by your classmates. This is an opportunity to practice receiving and interpreting feedback. A critique of your work might be stressful at first, but it is one of the most common, and useful processes in design.
 
 ## Instructions: Part 1
 
