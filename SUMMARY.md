@@ -135,10 +135,10 @@
     * [Develop: Design Principles](projects/open_design/develop_design_principles.md)
     * [Develop: Instructions](projects/open_design/develop_instructions.md)
     * [Develop: Prototyping](projects/open_design/develop_prototyping.md)
-    * [Develop: Test and Iterate](projects/open_design/develop_user_testing.md)
+    * [Develop: Test](projects/open_design/develop_user_testing.md)
+    * [Develop: Iterate](projects/open_design/develop-iterate.md)
     * [Deliver: Open Toy](projects/open_design/deliver_open_toy.md)
     * [Deliver: Document](projects/open_design/deliver-document.md)
-    * [Develop: Iterate](projects/open_design/develop-iterate.md)
     * [Discuss: Open Toy Critique](projects/open_design/discuss_open_toy_critique.md)
 * [Lesson 5: Artifacts for Impact](lessons/co-generative_design.md)
   * Topics
