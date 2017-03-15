@@ -42,6 +42,7 @@
   * [Topics](topics.md)
     * [Object making](object-making.md)
     * [Interaction design](topics/interaction_design.md)
+    * [Users](the-user.md)
     * [Inclusive design](inclusive-design.md)
     * [Discursive design](topics/discursive_design.md)
     * [Visual design](topics/visual_design.md)

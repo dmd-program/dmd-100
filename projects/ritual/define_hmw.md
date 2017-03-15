@@ -18,16 +18,12 @@ How might we **\( relieve the stress of social interaction from \)** **\( a pers
 ## Instructions
 
 1. Based on your work from the Discover phase, use the sentence template to write three possible HMW questions.
-
 2. Review your sentences and _**circle**_ the one you think works best.
-
 3. Document your HMW question with a photograph or scan.
 
 ## Report in
 
 Upload the photograph or scan of your HMW questions to the assignment submission.
-
-## 
 
 
 
