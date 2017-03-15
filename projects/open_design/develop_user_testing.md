@@ -17,12 +17,6 @@ Carefully observe someone attempting to use the kit. Take notes of what you noti
     - Is there anything that can be improved on?
     - Do you want more or less control over the final result?
 
-## Iterate
-Using your notes from the test, make adjustments, clarifications, and revisions to improve your instructions.
-
-## Repeat
-In an ideal situation, there would be plenty of time for several iterations. If time allows, try testing another one or two participants to see if you can further improve the instructions. 
-
 ## Report in
 After you are done testing and iterating, submit your test notes and modified instructions to the studio.
 
