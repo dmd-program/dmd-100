@@ -1,3 +1,4 @@
+![](/assets/critical-thinking-chess.jpg)
 # Critical thinking
 
 Critical thinking is not the rote memorization and retention of information. Instead, you can think of critical thinking as the capabilities and competencies required for generating and processing information to evaluate, judge, and guide future actions. It's aim to achieve the best possible outcome for a given situation.
