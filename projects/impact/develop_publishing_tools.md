@@ -19,9 +19,9 @@
 
 1. Length: Any
 2. File type: PDF
-3. Dimensions: 8.5" x 11" portrait
+3. Dimensions: 8.5" x 11" portrait \(oriented vertically\)
 
-### Example Publishing tools
+### Example publishing tools
 
 1. [GitBook.com](https://www.gitbook.com)
 2. [libreoffice.org](https://www.libreoffice.org/)
@@ -30,12 +30,12 @@
 
 ## Instructions: Part 1
 
-1. Using the publishing tools of your choice, start authoring the field guide
+1. Using the publishing tools of your choice, publish a first draft of the field guide
 2. Export as a PDF
 
 ## Report in
 
-1. Upload progress to Studio
+1. Upload the draft to Studio
 
 ## Instructions: Part 2
 
