@@ -1,4 +1,4 @@
-# Develop: Prototyping
+# Develop: Kit prototyping
 
 ## Instructions
 
@@ -12,7 +12,7 @@
 
 ### Photo Documentation should include:
 
-1. Single kit of parts image: knolling style
+1. Single kit of parts image: [knolling style](https://medium.com/@Lyst/your-favorite-insta-aesthetic-has-an-unexpected-history-a929e078d4ea)
 2. Photos of various assemblies demonstrating the modular or reconfigurable characteristics of the kit
 
 ## Requirements:
