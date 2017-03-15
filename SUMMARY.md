@@ -66,7 +66,7 @@
     * [Make a Brand](practice/make_a_brand.md)
     * Type identity
     * Design language
-  * Project
+  * [Project](project.md)
     * [Ritual: Introduction](projects/ritual.md)
     * Tutorials
       * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
