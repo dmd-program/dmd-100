@@ -1,3 +1,5 @@
+![](/assets/design-thinking@2x.jpg)
+
 # Design thinking
 
 > "In an ambiguous situation, you don't know what you don't know."
