@@ -48,7 +48,7 @@
     * [Visual design](topics/visual_design.md)
     * [Media design](media-design.md)
     * [Identity design](identity-design.md)
-    * Interactive design
+    * [Interactive design](interactive-design.md)
     * [Typographic design](topics/typographic_design.md)
     * [Semiotics](topics/semiotics.md)
   * Listening
