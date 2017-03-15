@@ -1,3 +1,4 @@
+![](/assets/design-blocks-wall@2x.jpg)
 # Design blocks
 
 A design block is a mental, cultural, or social hinderance to finding solutions that stray from norms and assumed knowledge and ideas. Without a willingness to push boundaries, change will be a very slow process.
