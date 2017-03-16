@@ -17,7 +17,7 @@ A journey map is great way to visualize an entire process of an interaction. By 
 11. I thought about how I disliked mowing the lawn because the process is time consuming, dirty, and noisy
 12. I eventually finished and put the lawnmower back into the garage, and moved the objects back as they were
 13. I closed the garage door
-
+![](/assets/journey-map@2x.jpg)
 ## Materials
 
 * Pen
