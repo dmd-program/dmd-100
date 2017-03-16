@@ -78,6 +78,7 @@
     * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
     * [Develop: Prototype](projects/ritual/develop_prototype.md)
     * [Develop: Test and Iterate](projects/ritual/develop_test_and_iterate.md)
+    * [Discuss: Critique](projects/discuss-critique.md)
 * Lesson 3: Storytelling
   * [Introduction](lessons/narrative/introduction.md)
   * Topics
