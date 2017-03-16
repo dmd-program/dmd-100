@@ -32,7 +32,7 @@ I have assembled a list that attempts to describe the attitudes and attributes t
 6. Empathy
    * Put yourself in someone's shoes to better understand why we design
    * Talk to people you want to design for
-   * Don't judge, listen and question
+   * Don't judge. Listen and question.
 
 
 
