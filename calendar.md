@@ -34,7 +34,8 @@
   * Lesson 2 Topics
   * Chapter 3 from Design and Truth by Robert Grudin
 * Listening
-  * Podcast: 
+  * Podcast: 99 Percent Invisible: 10,000 years
+  * Podcast: 99 Percent Invisible: Unpleasant Design
 * Activities
   * Daily design journal: \(**Due** by end of week\)
   * Chapter 3 Reading response
