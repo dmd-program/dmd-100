@@ -114,7 +114,7 @@
 * Activities
   * Chapter 8 Reading response
 * Open Toy Project
-  * Open Toy Project Introduction
+  * Introduction
   * Discover: Primary research
   * Discover: Secondary research
 
