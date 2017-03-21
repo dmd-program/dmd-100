@@ -23,6 +23,7 @@
   * Daily design journal: \(**Assigned** beginning of week\)
   * Chapter 2 Reading response
 * Ritual Project
+  * Introduction
   * Discover: Interview
   * Discover: Journey Map
 
