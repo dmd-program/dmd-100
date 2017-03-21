@@ -84,7 +84,8 @@
   * Chapter 6 Reading response
 * Hypertext Narrative Project
   * Develop: Story and Plot
-  * Deliver
+  * Develop:
+  * Develop:
 
 ## Week 7 \(Lesson 3\)
 
@@ -222,7 +223,7 @@
 
 * Project 4
 
-* End of Lesson Discussion 
+* End of Lesson Discussion
 
 
 
