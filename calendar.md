@@ -30,7 +30,7 @@
 ## Week 3 \(Lesson 2\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 2 Topics
   * Chapter 3 from Design and Truth by Robert Grudin
 * Listening
@@ -47,7 +47,7 @@
 ## Week 4 \(Lesson 2\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 2 Topics
   * Chapter 4 from Design and Truth by Robert Grudin
 * Listening
@@ -64,12 +64,12 @@
 ## Week 5 \(Lesson 3\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 3 Topics
   * Chapter 5 from Design and Truth by Robert Grudin
   * Hypertext Narrative Project Introduction
 * Listening
-  * Podcast:
+  * Podcast: Creative Mornings: Writing your way to freedom
 * Activities
 * Hypertext Narrative Project
   * Discover: Word-pairs
@@ -78,7 +78,7 @@
 ## Week 6 \(Lesson 3\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 3 Topics
   * Chapter 6 from Design and Truth by Robert Grudin
 * Listening
@@ -93,7 +93,7 @@
 ## Week 7 \(Lesson 3\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 3 Topics
   * Chapter 7 from Design and Truth by Robert Grudin
 * Listening
@@ -108,7 +108,7 @@
 ## Week 8 \(Lesson 4\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 4 Topics
   * Chapter 8 from Design and Truth by Robert Grudin
 * Listening
@@ -122,7 +122,7 @@
 
 ## Week 9 \(Lesson 4\)
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 4 Topics
   * Chapter 9 from Design and Truth by Robert Grudin
   * Open Toy Project Introduction
@@ -138,7 +138,7 @@
 ## Week 10 \(Lesson 4\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 4 Topics
   * Chapter 10 from Design and Truth by Robert Grudin
 * Listening
@@ -153,7 +153,7 @@
   ## Week 11 \(Lesson 5\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 5 Topics
   * Chapter 11 from Design and Truth by Robert Grudin
 * Listening
@@ -168,7 +168,7 @@
 ## Week 12 \(Lesson 5\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 5 Topics
   * Chapter 12 from Design and Truth by Robert Grudin
   * Field Guide Project Introduction
@@ -183,7 +183,7 @@
 ## Week 13 \(Lesson 5\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 5 Topics
   * Chapter 13 from Design and Truth by Robert Grudin
 * Listening
@@ -196,7 +196,7 @@
 ## Week 14 \(Lesson 5\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 5 Topics
   * Chapter 14 from Design and Truth by Robert Grudin
 * Listening
