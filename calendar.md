@@ -139,95 +139,86 @@
 ## Week 10 \(Lesson 4\)
 
 * Reading
-
   * Course Introduction, Calendar
   * Lesson 4 Topics
   * Chapter 10 from Design and Truth by Robert Grudin
-
 * Listening
-
   * Podcast:
-
 * Activities
-
   * Chapter 10 Reading response
-
-* Project 3
-
+* Open Toy Project
+  * Introduction
+  * Discover: Primary research
+  * Discover: Secondary research
+  * Define:
+  * Develop: Instructions
+  * Develop: Prototyping
+  * Develop: Test
+  * Develop: Iterate
+  * Deliver: Open Toy
+  * Deliver: Document
+  * Discuss: Open Toy Critique
 * End of Lesson Discussion
 
   ## Week 11 \(Lesson 5\)
 
 * Reading
-
   * Course Introduction, Calendar
   * Lesson 5 Topics
   * Chapter 11 from Design and Truth by Robert Grudin
-
 * Listening
-
   * Podcast:
-
 * Activities
-
   * Chapter 11 Reading response
+* Open Toy Project
+  * Introduction
+  * Discover: Primary research
+  * Discover: Secondary research
+  * Define:
+  * Develop: Instructions
+  * Develop: Prototyping
+  * Develop: Test
+  * Develop: Iterate
+  * Deliver: Open Toy
+  * Deliver: Document
+  * Discuss: Open Toy Critique
 
-* Project 4
-
-  * ## Week 12 \(Lesson 5\)
+ 
+## Week 12 \(Lesson 5\)
 
 * Reading
-
   * Course Introduction, Calendar
   * Lesson 5 Topics
   * Chapter 12 from Design and Truth by Robert Grudin
-
 * Listening
-
   * Podcast:
-
 * Activities
-
   * Chapter 12 Reading response
-
 * Project 4
 
-  * ## Week 13 \(Lesson 5\)
+## Week 13 \(Lesson 5\)
 
 * Reading
-
   * Course Introduction, Calendar
   * Lesson 5 Topics
   * Chapter 13 from Design and Truth by Robert Grudin
-
 * Listening
-
   * Podcast:
-
 * Activities
-
   * Chapter 13 Reading response
-
 * Project 4
 
-  * ## Week 14 \(Lesson 5\)
+## Week 14 \(Lesson 5\)
 
 * Reading
-
   * Course Introduction, Calendar
   * Lesson 5 Topics
   * Chapter 14 from Design and Truth by Robert Grudin
-
 * Listening
-
   * Podcast:
-
 * Activities
-
   * Chapter 14 Reading response
-
 * Project 4
-
 * End of Lesson Discussion
 
 
