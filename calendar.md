@@ -17,13 +17,13 @@
 * Reading
   * Lesson 2 Topics
   * Chapter 2 from Design and Truth by Robert Grudin
+  * Ritual Project Introduction
 * Listening
   * Podcast: 99 Percent Invisible: Of mice and men
 * Activities
   * Daily design journal: \(**Assigned** beginning of week\)
   * Chapter 2 Reading response
 * Ritual Project
-  * Introduction
   * Discover: Interview
   * Discover: Journey Map
 
