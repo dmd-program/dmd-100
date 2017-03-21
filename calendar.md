@@ -53,7 +53,7 @@
 * Activities
   * Visual Manual
   * Chapter 4 Reading response
-* Project 1
+* Ritual Project
   * Develop: Test and Iterate
   * Deliver: Final Prototype
   * Discuss: Critique
@@ -69,7 +69,7 @@
   * Podcast:
 * Activities
 * Hypertext Narrative Project
-  * Discover: Word Pairs
+  * Discover: Word-pairs
   * Define: The way it was
 
 ## Week 6 \(Lesson 3\)
@@ -84,8 +84,8 @@
   * Chapter 6 Reading response
 * Hypertext Narrative Project
   * Develop: Story and Plot
-  * Develop:
-  * Develop:
+  * Develop: Iterate
+  * Develop: Narrative
 
 ## Week 7 \(Lesson 3\)
 
@@ -98,7 +98,8 @@
 * Activities
   * Chapter 7 Reading response
 * Hypertext Narrative Project
-  * Discuss 
+  * Deliver: Hypertext Narrative
+  * Discuss: Hypertext Narrative Critique
 * End of Lesson Discussion
 
 ## Week 8 \(Lesson 4\)
