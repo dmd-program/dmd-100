@@ -1,4 +1,6 @@
-## Instructions: Part 2
+## Deliver: Final Prototype
+
+## Instructions:
 
 1. Make changes based on the peer feedback 
 2. Describe what changes you made to your work and why you made them.
