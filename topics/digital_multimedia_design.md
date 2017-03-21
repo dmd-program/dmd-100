@@ -20,7 +20,7 @@ The program is comprised of three program-exclusive spine courses and six prescr
 
 ## Pathways
 
-Though design is part of the core identity of the program, each student will develop their own pathway. A pathway is literally a sequence of courses. However, you have great control over choosing which courses to combine into your sequence. To help you get started, there are pre-made course sequences available on the DMD Program Hub ([dmd.psu.edu](http://dmd.psu.edu)).
+Though design is part of the core identity of the program, each student will develop their own pathway. A pathway is literally a sequence of courses. However, you have great control over choosing which courses to combine into your sequence. To help you get started, there are pre-made course sequences available on the [DMD Program Hub \(dmd.psu.edu\)](http://dmd.psu.edu).
 
 ## Projects
 
