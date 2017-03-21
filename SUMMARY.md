@@ -77,9 +77,9 @@
     * [Define: HMW](projects/ritual/define_hmw.md)
     * [Develop: Brainstorm](projects/develop-brainstorm.md)
     * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
-    * [Deliver: Prototype](projects/ritual/develop_prototype.md)
     * [Develop: Test and Iterate](projects/ritual/develop_test_and_iterate.md)
     * [Discuss: Critique](projects/discuss-critique.md)
+    * [Deliver: Prototype](projects/ritual/develop_prototype.md)
 * Lesson 3: Storytelling
   * [Introduction](lessons/narrative/introduction.md)
   * Topics

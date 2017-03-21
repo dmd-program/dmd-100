@@ -40,7 +40,7 @@
 * Ritual Project
   * Define: HMW
   * Develop: Storyboard
-  * Develop: Prototype
+  * Develop: Test and Iterate
 
 ## Week 4 \(Lesson 2\)
 
@@ -54,6 +54,8 @@
   * Visual Manual
   * Chapter 4 Reading response
 * Project 1
+  * Deliver: Prototype
+  * Discuss: Critique
 * End of Lesson Discussion
 
 ## Week 5 \(Lesson 3\)
@@ -118,7 +120,9 @@
   * Chapter 9 from Design and Truth by Robert Grudin
 
 * Listening
+
   * Podcast:
+
 * Activities
   * Chapter 9 Reading response
 * Project 3
@@ -132,7 +136,9 @@
   * Chapter 10 from Design and Truth by Robert Grudin
 
 * Listening
+
   * Podcast:
+
 * Activities
   * Chapter 10 Reading response
 * Project 3
@@ -147,7 +153,9 @@
   * Chapter 11 from Design and Truth by Robert Grudin
 
 * Listening
+
   * Podcast:
+
 * Activities
   * Chapter 11 Reading response
 * Project 4
@@ -161,7 +169,9 @@
   * Chapter 12 from Design and Truth by Robert Grudin
 
 * Listening
+
   * Podcast:
+
 * Activities
   * Chapter 12 Reading response
 * Project 4
@@ -175,7 +185,9 @@
   * Chapter 13 from Design and Truth by Robert Grudin
 
 * Listening
+
   * Podcast:
+
 * Activities
   * Chapter 13 Reading response
 * Project 4
@@ -189,7 +201,9 @@
   * Chapter 14 from Design and Truth by Robert Grudin
 
 * Listening
+
   * Podcast:
+
 * Activities
   * Chapter 14 Reading response
 * Project 4
