@@ -68,9 +68,9 @@
 * Listening
   * Podcast:
 * Activities
-* Project 2
-  * Discover
-  * Define
+* Hypertext Narrative Project
+  * Discover: Word Pairs
+  * Define: The way it was
 
 ## Week 6 \(Lesson 3\)
 
@@ -82,8 +82,8 @@
   * Podcast:
 * Activities
   * Chapter 6 Reading response
-* Project 2
-  * Develop
+* Hypertext Narrative Project
+  * Develop: Story and Plot
   * Deliver
 
 ## Week 7 \(Lesson 3\)
@@ -96,7 +96,7 @@
   * Podcast:
 * Activities
   * Chapter 7 Reading response
-* Project 2
+* Hypertext Narrative Project
   * Discuss 
 * End of Lesson Discussion
 
@@ -147,6 +147,7 @@
   * Chapter 10 Reading response
 
 * Project 3
+
 * End of Lesson Discussion
 
   ## Week 11 \(Lesson 5\)
@@ -220,6 +221,7 @@
   * Chapter 14 Reading response
 
 * Project 4
+
 * End of Lesson Discussion 
 
 
