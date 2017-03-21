@@ -24,11 +24,11 @@ Though design is part of the core identity of the program, each student will dev
 
 ## Projects
 
-Over time, you will develop capabilities necessary to use digital technologies in multimedia projects. DMD 100 projects are designed for students with limited knowledge of digital production technology, but introduces foundational design knowledge that can be applied to frame all future DMD coursework. Final projects in the capstone course will be made available as part of an online exhibition.
+By the end of the DMD Program, you will develop capabilities necessary to use digital technologies in multimedia projects. DMD 100 projects are designed for students with limited knowledge of digital production technology, but introduces foundational design knowledge that can be applied to all future DMD coursework. Final projects in the capstone course will be made available as part of portfolios and an online exhibition.
 
 ## Portfolios
 
-Developing a creative digital portfolio of work that showcases your interest areas and capabilities will become an essential component for professional development.
+Developing a creative digital portfolio of work that showcases your interest areas and capabilities will become an essential component for professional development. More information on portfolios will become available on the DMD Program Hub website. 
 
 ## Citations
 
