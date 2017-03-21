@@ -96,7 +96,6 @@
   * Readings
     * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
     * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
-    * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
   * Project
     * [Hypertext Narrative Introduction](projects/narrative/narrative_project_social_design_option.md)
     * Tutorials
@@ -126,8 +125,8 @@
   * Watch
     * [Open Structures: Thomas Lommee](lessons/open-structures-thomas-lommee.md)
   * Readings
+    * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
     * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
-    * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
   * Activities
   * [Project](lessons/open_design/project.md)
     * [Open Toy Project Introduction](projects/open_design/open_source_toy.md)
@@ -160,6 +159,7 @@
     * Tutorials
       * Introduction to Gitbook
   * Readings
+    * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
     * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
     * [Chapter 14. Designing Time](practice/designing_time.md)
     * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)

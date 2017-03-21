@@ -150,11 +150,11 @@
   * Develop: Iterate
 * End of Lesson Discussion
 
-  ## Week 11 \(Lesson 5\)
+  ## Week 11 \(Lesson 4\)
 
 * Reading
   * Calendar
-  * Lesson 5 Topics
+  * Lesson 4 Topics
   * Chapter 11 from Design and Truth by Robert Grudin
 * Listening
   * Podcast:
@@ -199,6 +199,7 @@
   * Calendar
   * Lesson 5 Topics
   * Chapter 14 from Design and Truth by Robert Grudin
+  * Chapter 15 from Design and Truth by Robert Grudin
 * Listening
   * Podcast:
 * Activities
