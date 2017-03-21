@@ -28,8 +28,6 @@
     * [Design process](topics/design-process.md)
   * Readings
     * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
-    * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
-    * [Chapter 3. What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
   * Activities
     * [Visual Manual](practice/visual_manual.md)
     * [Daily Design Journal](practice/daily_design_journal.md)
@@ -58,10 +56,9 @@
     * [99 Percent Invisible: Unpleasant Design](listening/99_percent_invisible_unpleasant_design.md)
     * [Freakonomics: How to become great at just about anything](freakonomics-how-to-become-great-at-just-about-anything.md)
   * Readings
+    * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
+    * [Chapter 3. What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
     * [Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers](chapter-4-design-as-tragedy-the-rise-and-fall-of-the-twin-towers.md)
-    * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
-    * [Chapter 6. Designs of Darkness](practice/bad_design.md)
-    * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
   * Activities
     * [Design an Interface](practice/design_an_interface.md)
     * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
@@ -94,8 +91,9 @@
   * Listening
     * [Creative Mornings: Writing your way to freedom](listening/creative_mornings_writing_your_way_to_freedom.md)
   * Readings
-    * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
-    * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
+    * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
+    * [Chapter 6. Designs of Darkness](practice/bad_design.md)
+    * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
   * Project
     * [Hypertext Narrative Introduction](projects/narrative/narrative_project_social_design_option.md)
     * Tutorials
@@ -125,6 +123,8 @@
   * Watch
     * [Open Structures: Thomas Lommee](lessons/open-structures-thomas-lommee.md)
   * Readings
+    * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
+    * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
     * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
     * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
   * Activities
