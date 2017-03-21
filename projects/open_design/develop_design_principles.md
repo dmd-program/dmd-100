@@ -6,9 +6,10 @@ Let's look at how the [Open Structures project](http://beta.openstructures.net/p
 
 ## Instructions
 1. Create a list of the design principles that govern your modular toy's parts, methods for creation and assembly, and any other considerations that you are concerned with.
-2. Upload your list to the Studio.
 
 ## Report in
+
+1. Upload your list to the Studio.
 
 ## Citation
 Adapted from: http://www.designkit.org/methods/27
