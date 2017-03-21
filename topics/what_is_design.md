@@ -2,7 +2,7 @@
 
 ## Introduction
 
-From the moment you wake up, you are interacting with design. Everything in the home, place of work, and journey to and from has been influenced by a designer of some kind. The degree of care for each designed artifact or system can vary dramatically, causing you to experience delight, dismay, and everything in between. As design moved out of the basement and into the boardroom, the design field has grown larger in scope, and has become a tool for civic engagement and change. For this reason, a variety of ideas about what design is, how you do it, and what makes it good have emerged. I've located a few descriptions to compare.
+From the moment you wake up, you are interacting with design. Everything in the home, place of work, and journey to and from has been influenced by a designer of some kind. The degree of care for each designed artifact or system can vary dramatically, causing you to experience delight, dismay, and everything in between. As design moved out of the studio and into the boardroom, the design field has grown larger in scope, and has become a tool for civic engagement and change. For this reason, a variety of ideas about what design is, how you do it, and what makes it good have emerged. I've located a few descriptions to compare.
 
 In the book, _Design for the Real World, Human Ecology and Social Change_, Victor Papanek writes a rather broad definition of design:
 
@@ -71,5 +71,5 @@ An organization's success
 
 ## Citations
 
-[http://www.intrastructures.net/Intrastructures/About\\_-\\_how\\_we\\_define\\_design..html](http://www.intrastructures.net/Intrastructures/About\_-\_how\_we\_define\_design..html)
+[http://www.intrastructures.net/Intrastructures/About\\_-\\_how\\_we\\_define\\_design..html](http://www.intrastructures.net/Intrastructures/About_-_how_we_define_design..html)
 
