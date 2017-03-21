@@ -125,12 +125,12 @@
   * Course Introduction, Calendar
   * Lesson 4 Topics
   * Chapter 9 from Design and Truth by Robert Grudin
+  * Open Toy Project Introduction
 * Listening
   * Podcast:
 * Activities
   * Chapter 9 Reading response
 * Open Toy Project
-  * Introduction
   * Define: Design Principles
   * Develop: Instructions
   * Develop: Prototyping
@@ -171,12 +171,12 @@
   * Course Introduction, Calendar
   * Lesson 5 Topics
   * Chapter 12 from Design and Truth by Robert Grudin
+  * Field Guide Project Introduction
 * Listening
   * Podcast:
 * Activities
   * Chapter 12 Reading response
 * Field Guide Project
-  * Introduction
   * Discover: Mind mapping
   * Define: Concept
 
