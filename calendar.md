@@ -128,12 +128,9 @@
   * Chapter 9 Reading response
 * Open Toy Project
   * Introduction
-  * Discover: Primary research
-  * Discover: Secondary research
-  * Define:
+  * Define: Design Principles
   * Develop: Instructions
   * Develop: Prototyping
-
 
 ## Week 10 \(Lesson 4\)
 
