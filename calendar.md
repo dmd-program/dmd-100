@@ -112,27 +112,31 @@
   * Podcast:
 * Activities
   * Chapter 8 Reading response
-* Project 3
+* Open Toy Project
+  * Introduction
+  * Discover: Primary research
+  * Discover: Secondary research
+  * Define:
+  * Develop: Instructions
+  * Develop: Prototyping
+  * Develop: Test
+  * Develop: Iterate
+  * Deliver: Open Toy
+  * Deliver: Document
+  * Discuss: Open Toy Critique
 
-  * ## Week 9 \(Lesson 4\)
-
+## Week 9 \(Lesson 4\)
 * Reading
-
   * Course Introduction, Calendar
   * Lesson 4 Topics
   * Chapter 9 from Design and Truth by Robert Grudin
-
 * Listening
-
   * Podcast:
-
 * Activities
-
   * Chapter 9 Reading response
-
 * Project 3
 
-  * ## Week 10 \(Lesson 4\)
+## Week 10 \(Lesson 4\)
 
 * Reading
 
