@@ -40,7 +40,7 @@
 * Ritual Project
   * Define: HMW
   * Develop: Storyboard
-  * Develop: Test and Iterate
+  * Develop: Prototype
 
 ## Week 4 \(Lesson 2\)
 
@@ -54,7 +54,8 @@
   * Visual Manual
   * Chapter 4 Reading response
 * Project 1
-  * Deliver: Prototype
+  * Develop: Test and Iterate
+  * Deliver: Final Prototype
   * Discuss: Critique
 * End of Lesson Discussion
 
@@ -124,7 +125,9 @@
   * Podcast:
 
 * Activities
+
   * Chapter 9 Reading response
+
 * Project 3
 
   * ## Week 10 \(Lesson 4\)
@@ -140,7 +143,9 @@
   * Podcast:
 
 * Activities
+
   * Chapter 10 Reading response
+
 * Project 3
 * End of Lesson Discussion
 
@@ -157,7 +162,9 @@
   * Podcast:
 
 * Activities
+
   * Chapter 11 Reading response
+
 * Project 4
 
   * ## Week 12 \(Lesson 5\)
@@ -173,7 +180,9 @@
   * Podcast:
 
 * Activities
+
   * Chapter 12 Reading response
+
 * Project 4
 
   * ## Week 13 \(Lesson 5\)
@@ -189,7 +198,9 @@
   * Podcast:
 
 * Activities
+
   * Chapter 13 Reading response
+
 * Project 4
 
   * ## Week 14 \(Lesson 5\)
@@ -205,7 +216,9 @@
   * Podcast:
 
 * Activities
+
   * Chapter 14 Reading response
+
 * Project 4
 * End of Lesson Discussion 
 
