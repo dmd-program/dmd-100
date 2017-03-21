@@ -80,6 +80,7 @@
     * [Develop: Prototype](projects/ritual/develop_prototype.md)
     * [Develop: Test and Iterate](projects/ritual/develop_test_and_iterate.md)
     * [Deliver: Final Prototype](projects/deliver-final-prototype.md)
+    * Discuss: Ritual Project Critique
 * Lesson 3: Storytelling
   * [Introduction](lessons/narrative/introduction.md)
   * Topics
