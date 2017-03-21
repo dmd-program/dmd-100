@@ -22,9 +22,9 @@
 * Activities
   * Daily design journal: \(**Assigned** beginning of week\)
   * Chapter 2 Reading response
-* Project 1
-  * Ritual: Discover
-  * Ritual: Define
+* Ritual Project
+  * Discover: Interview
+  * Discover: Journey Map
 
 ## Week 3 \(Lesson 2\)
 
@@ -37,7 +37,10 @@
 * Activities
   * Daily design journal: \(**Due** by end of week\)
   * Chapter 3 Reading response
-* Project 1
+* Ritual Project
+  * Define: HMW
+  * Develop: Storyboard
+  * Develop: Prototype
 
 ## Week 4 \(Lesson 2\)
 
