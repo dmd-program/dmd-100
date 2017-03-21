@@ -81,8 +81,8 @@
   * Calendar
   * Lesson 3 Topics
   * Chapter 6 from Design and Truth by Robert Grudin
-* Listening
-  * Podcast:
+* Watch
+  * Open Structures: Thomas Lommee
 * Activities
   * Chapter 6 Reading response
 * Hypertext Narrative Project
