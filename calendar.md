@@ -51,7 +51,7 @@
   * Lesson 2 Topics
   * Chapter 4 from Design and Truth by Robert Grudin
 * Listening
-  * Podcast: 
+  * Podcast: 99 Percent Invisible: Unpleasant Design
 * Activities
   * Visual Manual
   * Chapter 4 Reading response
