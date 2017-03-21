@@ -116,14 +116,6 @@
   * Introduction
   * Discover: Primary research
   * Discover: Secondary research
-  * Define:
-  * Develop: Instructions
-  * Develop: Prototyping
-  * Develop: Test
-  * Develop: Iterate
-  * Deliver: Open Toy
-  * Deliver: Document
-  * Discuss: Open Toy Critique
 
 ## Week 9 \(Lesson 4\)
 * Reading
