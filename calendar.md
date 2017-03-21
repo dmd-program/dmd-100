@@ -134,7 +134,14 @@
   * Podcast:
 * Activities
   * Chapter 9 Reading response
-* Project 3
+* Open Toy Project
+  * Introduction
+  * Discover: Primary research
+  * Discover: Secondary research
+  * Define:
+  * Develop: Instructions
+  * Develop: Prototyping
+
 
 ## Week 10 \(Lesson 4\)
 
@@ -147,17 +154,8 @@
 * Activities
   * Chapter 10 Reading response
 * Open Toy Project
-  * Introduction
-  * Discover: Primary research
-  * Discover: Secondary research
-  * Define:
-  * Develop: Instructions
-  * Develop: Prototyping
   * Develop: Test
   * Develop: Iterate
-  * Deliver: Open Toy
-  * Deliver: Document
-  * Discuss: Open Toy Critique
 * End of Lesson Discussion
 
   ## Week 11 \(Lesson 5\)
@@ -171,19 +169,10 @@
 * Activities
   * Chapter 11 Reading response
 * Open Toy Project
-  * Introduction
-  * Discover: Primary research
-  * Discover: Secondary research
-  * Define:
-  * Develop: Instructions
-  * Develop: Prototyping
-  * Develop: Test
-  * Develop: Iterate
   * Deliver: Open Toy
   * Deliver: Document
   * Discuss: Open Toy Critique
 
- 
 ## Week 12 \(Lesson 5\)
 
 * Reading
@@ -194,7 +183,10 @@
   * Podcast:
 * Activities
   * Chapter 12 Reading response
-* Project 4
+* Field Guide Project
+  * Introduction
+  * Discover: Mind mapping
+  * Define: Concept
 
 ## Week 13 \(Lesson 5\)
 
@@ -206,7 +198,8 @@
   * Podcast:
 * Activities
   * Chapter 13 Reading response
-* Project 4
+* Field Guide Project
+  * Develop: Publishing tools
 
 ## Week 14 \(Lesson 5\)
 
@@ -218,7 +211,9 @@
   * Podcast:
 * Activities
   * Chapter 14 Reading response
-* Project 4
+* Field Guide Project
+  * Deliver: Field Guide
+  * Discuss: Field Guide Critique
 * End of Lesson Discussion
 
 
