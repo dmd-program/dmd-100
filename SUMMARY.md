@@ -69,7 +69,7 @@
     * Type identity
     * Design language
   * [Project](project.md)
-    * [Ritual: Introduction](projects/ritual.md)
+    * [Ritual Project Introduction](projects/ritual.md)
     * Tutorials
       * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
     * [Discover: Interview](projects/ritual/ritual_interview.md)
@@ -98,7 +98,7 @@
     * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
     * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
   * Project
-    * [Narrative Project: Civic Imagination](projects/narrative/narrative_project_social_design_option.md)
+    * [Hypertext Narrative Introduction](projects/narrative/narrative_project_social_design_option.md)
     * Tutorials
       * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
     * [Discover: Word-pairs](projects/narrative/discover_focus_words.md)
@@ -151,7 +151,7 @@
   * Listening
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
   * Project
-    * [Field guide](projects/field_guide.md)
+    * [Field Guide Project Introduction](projects/field_guide.md)
     * [Discover: Mind mapping](projects/field_guide/discover_top_three.md)
     * [Define: Concept](projects/impact/define_concept.md)
     * [Develop: Publishing tools](projects/impact/develop_publishing_tools.md)
