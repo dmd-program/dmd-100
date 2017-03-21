@@ -67,11 +67,11 @@
   * Course Introduction, Calendar
   * Lesson 3 Topics
   * Chapter 5 from Design and Truth by Robert Grudin
+  * Hypertext Narrative Project Introduction
 * Listening
   * Podcast:
 * Activities
 * Hypertext Narrative Project
-  * Introduction
   * Discover: Word-pairs
   * Define: The way it was
 
