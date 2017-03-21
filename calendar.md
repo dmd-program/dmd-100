@@ -19,8 +19,6 @@
   * Chapter 2 from Design and Truth by Robert Grudin
 * Listening
   * Podcast: 99 Percent Invisible: Of mice and men
-  * 99 Percent Invisible: 10,000 years
-  * 99 Percent Invisible: Unpleasant Design
 * Activities
   * Daily design journal: \(**Assigned** beginning of week\)
   * Chapter 2 Reading response
