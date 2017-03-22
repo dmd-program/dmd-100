@@ -23,7 +23,6 @@
     * [Design thinking](topics/design_thinking.md)
     * [Systems thinking](topics/systems_thinking.md)
     * [Critical thinking](topics/critical_thinking.md)
-    * [Critical making](topics/critical-making.md)
     * [Design process](topics/design-process.md)
   * Readings
     * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
