@@ -33,7 +33,7 @@ The [Designers Accord](http://designersaccord.org/) was a five year project that
 
 The [educational toolkit](http://edutoolkit.designersaccord.org/) also recommends that you do not use the word sustainability when incorporating it into a curriculum, and I have followed this recommendation for the most part within course projects and other assignments. Sustainability is a central part to all good design, though it's not specifically referenced. The Designers Accord is a clear example of an organized initiative to get designers thinking more systemically in terms of environmental and social impact.
 
-## A Speculative Hyper-object
+## A speculative hyper-object
 
 Now, let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration \(NOAA\):
 
