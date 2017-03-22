@@ -31,7 +31,6 @@
     * [Daily Design Journal](practice/daily_design_journal.md)
   * Listening
     * [Creative Mornings: Design is Magical](listening/creative_mornings_design_is_magical.md)
-    * [The Steering Wheel](listening/the_steering_wheel.md)
     * [Lawn Order](listening/lawn_order.md)
   * Discussions
     * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
@@ -49,8 +48,8 @@
     * [Typographic design](topics/typographic_design.md)
     * [Semiotics](topics/semiotics.md)
   * Listening
-    * [99 Percent Invisible: Of mice and men](listening/99_percent_invisible_of_mice_and_men.md)
     * [99 Percent Invisible: 10,000 years](listening/99_percent_invisible_10,000_years.md)
+    * [99 Percent Invisible: Of mice and men](listening/99_percent_invisible_of_mice_and_men.md)
     * [99 Percent Invisible: Unpleasant Design](listening/99_percent_invisible_unpleasant_design.md)
     * [Freakonomics: How to become great at just about anything](freakonomics-how-to-become-great-at-just-about-anything.md)
   * Readings
