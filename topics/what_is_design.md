@@ -1,3 +1,5 @@
+![Picture of a list of words describing design](/assets/what-is-design@2x.jpg)
+
 # What is Design?
 
 ## Introduction
