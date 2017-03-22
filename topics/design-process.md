@@ -2,6 +2,8 @@
 
 Depending on the industry a person works in, a set of contemporary best practices will be in fashion. If you don't know where to start, identifying, learning, and practicing those established guidelines makes good sense. If you are a seasoned designer, then adapting a process according to your own experiences is prudent, and something you would be used to doing. Innovating on an existing design process from the very start may be more inhibiting than helpful.
 
+![Graphic of the double diamond design process](/assets/double-diamond-design-process-1200px@2x.png)
+
 In this course, we will be adapting and simplifying a design process model called the Double Diamond, originally created by the British Design Council, and reimagined by [Dan Nessler](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812). The shape of a two-dimensional diamond is meant to be visual analogy describing the divergence and convergence of ideas. Read from left to right, you would use divergent thinking methods to create an array of possibilities, and then use convergent thinking methods to arrive as a specific outcome or decision.
 
 ## Divergent and convergent thinking
@@ -10,7 +12,7 @@ In this course, we will be adapting and simplifying a design process model calle
 
 **Convergent thinking** refers to the thought processes involved with resolving an idea or solution. A convergent thinking will analyze an idea's viability with respect to available resources, capabilities, human-factors implications, environmental considerations, cost, efficiency, and many other metrics. Engineers tend excel in convergent thinking, choosing the best options from given a set of possibilities.
 
-## The Double Diamond
+## The Four Phases
 
 On the Double Diamond Phases diagram, you can see how two connected diamonds describe four phases, two divergent, and two convergent. The red arrows pointing away from each other represent divergence whereas the red arrows pointed towards each other represent convergence. In the left-most diamond, you would establish an understanding of the prompt and a solution plan. In the right-most diamond, you would construct the response to the prompt. Each diamond is divided into two parts, creating four design phases which we will refer to throughout course projects.
 
@@ -43,8 +45,4 @@ In this phase you think of an array of possible ways to solve for the project go
 ### 4. Deliver
 
 In this phase, you build, test, and iterate a solution. Maintaining an open dialogue and getting feedback is important to ensure the work as as good as it can be. At the end of this phase, you are able to make an assertion or provide a functioning or complete solution.
-
-## Don't throw it over the wall
-
-Traditionally speaking, design was known as a styling process, or the tactical application of subjective beauty and elegance to things. There is something to be said about the importance of the stylist, but a stylist's design scope is incredibly limited, or walled off from the rest of the design process, as if they are behind a wall in an adjacent room. For example, a product design team might have the following process. A marketing department will perform design research and conceptualize ideas. They will then throw the information over the wall to the engineers who will start to build and parameterize the product. Once the product is functioning, they throw design constraints over the wall to a stylist, who creates forms and shapes that make a product aesthetically pleasing. Walling off parts of a design process makes feedback and iteration extremely time consuming or impossible. Many businesses that are traditionally marketing-centric or engineering-centric tend to use this design model and often prioritize what may be profitable over what may be beneficial for society. In order for designers to help these organizations prioritize a more holistic view of design, they must also be well versed in the language of business so they can communicate the value of design input throughout an entire process.
 
