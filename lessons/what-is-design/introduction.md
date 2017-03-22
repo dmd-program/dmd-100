@@ -1,6 +1,12 @@
 # Introduction
 
-In this lesson, we introduce you to...
+In this lesson, you will learn about how design thinking, systems thinking, and critical thinking play important roles in the process of design and the resulting impacts.
+
+You will also begin reading the book, _Design and Truth_, by Robert Grudin. This book talks about philisophy, ethics,
+
+![Photo of book, Design and Truth by Robert Grudin](/assets/design-and-truth-book@2x.jpg)
+
+## Learning objectives
  
 **Objectives related to developing Process and Procedural Skills (Designing)**
 
