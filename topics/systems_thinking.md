@@ -33,7 +33,7 @@ The [Designers Accord](http://designersaccord.org/) was a five year project that
 
 The [educational toolkit](http://edutoolkit.designersaccord.org/) also recommends that you do not use the word sustainability when incorporating it into a curriculum, and I have followed this recommendation for the most part within course projects and other assignments. Sustainability is a central part to all good design, though it's not specifically referenced. The Designers Accord is a clear example of an organized initiative to get designers thinking more systemically in terms of environmental and social impact.
 
-## A speculative example
+## A Speculative Hyper-object
 
 Now, let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration \(NOAA\):
 
@@ -42,31 +42,22 @@ Now, let us consider the issue of large congregations of plastic in the sea, des
 Essentially, there is a ton of discarded waste plastic that has found its way into the Pacific Ocean, and it is negatively impacting wildlife. Let's explore this issue through a bit of speculation. Where did the plastic come from, how did it find its way to the sea, and who might have been involved in this process? To answer these questions, we would have to imagine the shape and scope of the networked system. No actual research was performed for this speculation, but it sounds reasonable enough for the purposes of this example:
 
 1. Industrial producers: **Material design, Engineering Design**
-
    * Availability of cheap crude-oil makes plastic easy and cheap to produce
-
 2. Business and economics: **Business and Product Design**
-
-   * Financial markets trade heavily in crude oil
+   * Financial markets trade heavily in crude oil (from which plastic is made)
    * Availability of cheap plastic materials and mass production technology
    * Business goals and values do not align with minimizing impact to existing ecological system
-
-3. Public consensus:** Marketing design**
-
+3. Public consensus:** Public Relations and Marketing design**
    * Ad campaigns infiltrate popular culture
    * Wastefulness is widely accepted and normalized
-
 4. Waste management processes: **Service Design**
-
    * Wastefulness is good for business
    * No real long-term ecological considerations for disposal
-
 5. Government: **Policy Design**
-
    * Special interest lobbying prevents ecological policies from hindering the sale of products
    * Issue not prioritized by society
    * Recycling initiatives are not timely and universally ineffective
-
+   
 Supposing this list was accurate, the next step would to be to better understand the systems in which each participant was embedded so that we may clarify underlying systemic issues. Being able to comprehend and perceive an entire interconnected network is admittedly not easy. This idea becomes more apparent when considering the amount of people who disagree on the cause and effect responsible for the breakdown of a system. Modern examples of system breakdown include the 2008 global recession, man-made climate change, and the British exit of the European Union.
 
 Critic Timothy Morton calls these systems **hyperobjects**. They are objects so large and complex, that humans can not perceive them in their entirety.
