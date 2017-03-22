@@ -6,7 +6,7 @@
 
 From the moment you wake up, you are interacting with design. Everything in the home, place of work, and journey to and from has been influenced by a designer of some kind. The degree of care for each designed artifact or system can vary dramatically, causing you to experience delight, dismay, and everything in between. As design moved out of the studio and into the boardroom, the design field has grown larger in scope, and has become a tool for civic engagement and change. For this reason, a variety of ideas about what design is, how you do it, and what makes it good have emerged. I've located a few descriptions for us to compare.
 
-In the book, _Design for the Real World, Human Ecology and Social Change_, Victor Papanek writes a rather broad definition of design: "Design is the conscious and intuitive effort to impose meaningful order." We get another, even more broad definition from Robert Grudin's book, _Design and Truth: "_The primary function of design is to shape and channel energy."
+In the book, _Design for the Real World, Human Ecology and Social Change_, Victor Papanek writes a rather broad definition of design: "Design is the conscious and intuitive effort to impose meaningful order." We get another, even more broad definition from Robert Grudin's book, \_Design and Truth: "\_The primary function of design is to shape and channel energy."
 
 I think we can go even broader. I will now attempt to define the broadest definitions of design possible with the English language. At the broadest sense of _design as a verb_, design is the act of creating or making a **choice**. In the broadest sense of _design as a noun_, design is the **result** of a choice or series of choices.
 
@@ -57,15 +57,18 @@ These lists were not meant to be hard rules that apply to everything, but they c
 
 Jess McMullin, founder of the Centre for Citizen Experience and Situ Strategy, describes a continuum of design maturity for organizations in his model, _A Rough Design Maturity Continuum. _ There are five stages which range from having no strategic design to using design for identifying and framing central challenges and opportunities.
 
-1. No conscious design
-2. Style
-3. Function and Form
-4. Problem solving
-5. Framing
+1. **No conscious design:** The organization has assigned no value or priority to design. The product that results is deemed good enough.
+2. **Style:** Design is considered a secondary cosmetic process that makes a product more palatable for consumption. Aesthetic trends drive products.
+3. **Function and Form:** Design is applied as part of an iterative improvement process for product development. Metrics and methods drive products.
+4. **Problem solving:** Design is used in strategic processes for identifying opportunties, generating an array of ideas, and selecting solutions for existing problems. Problems drive products.
+5. **Framing:** Design drives disruptive innovation. Design is used to frame the organization's agenda, and to scope interest. Ideas drive products.
 
-An organization's success
+The organizations that incorporate design into the framing and problem solving end of the design maturity continuum are highlighted in the [Design Value Index (DVI)](http://www.dmi.org/?page=2015DVIandOTW). The superior performance of the index in relation to the S&P 500 is used to make the case not only for investing in design-driven companies, but as evidence for why design should take a larger role within large organizations. 
 
 ## Citations
 
 [http://www.intrastructures.net/Intrastructures/About\\_-\\_how\\_we\\_define\\_design..html](http://www.intrastructures.net/Intrastructures/About_-_how_we_define_design..html)
 
+http://thinkingandmaking.com/files/design_maturity.pdf
+
+http://www.dmi.org/?page=2015DVIandOTW
