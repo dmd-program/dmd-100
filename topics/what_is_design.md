@@ -27,6 +27,10 @@ Famed industrial designer, Dieter Rams, has written a rather popular list of wha
 9. Good design is environmentally friendly
 10. Good design is as little design as possible
 
+![](/assets/BraunRT20Radio@2x.jpg)
+Braun RT 20 Radio designed by Dieter Rams in 1961. Image by Nick Wade.
+
+
 On page 29 in _Design and Truth_, Robert Grudin assembles a slightly longer list:
 
 1. Good design is in accord with nature and human nature
@@ -59,4 +63,5 @@ These lists were not meant to be hard rules that apply to everything, but they c
 
 ## Citations
 
-1. [http://www.intrastructures.net/Intrastructures/About\_-\_how\_we\_define\_design..html](http://www.intrastructures.net/Intrastructures/About_-_how_we_define_design..html)
+1. Wade, Nick. Braun RT 40 Radio by Dieter Rams. https://www.flickr.com/photos/nickwade/4123875041
+2. [http://www.intrastructures.net/Intrastructures/About\_-\_how\_we\_define\_design..html](http://www.intrastructures.net/Intrastructures/About_-_how_we_define_design..html)
