@@ -21,7 +21,6 @@
     * [Digital Multimedia Design](topics/digital_multimedia_design.md)
     * [What is design?](topics/what_is_design.md)
     * [Design thinking](topics/design_thinking.md)
-    * [Design blocks](topics/design_blocks.md)
     * [Systems thinking](topics/systems_thinking.md)
     * [Critical thinking](topics/critical_thinking.md)
     * [Critical making](topics/critical-making.md)

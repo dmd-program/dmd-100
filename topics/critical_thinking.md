@@ -52,11 +52,25 @@ On page 172 in Victor Papanek's _Design for the Real World, Human Ecology and So
 
 We won't go into detail about what each of Papanek's methods are, however we will practice a few of them when completing course projects. 
 
+## Critical Making
+
+>Open design heralds new possibilities for artists, scholars, and interested citizens to engage in a simultaneously conceptual and material critique of technologies and information systems in society.[4]
+
+The term 'critical making' is intended to highlight the interwoven material and conceptual work that making involves. As a teaching and research strategy, critical making shares an emphasis on values with both critical design and critical practices — such as the critical technical practice[5] from which is derives, as well as value-sensitive-design[6] and values-in-design[7].
+
 ## Citation
 
 1. Richard Paul and Linda Elder, The Miniature Guide to Critical Thinking Concepts and Tools, Foundation for Critical Thinking Press, 2008
 2. Papanek, V. J. (1984). Design for the real world: Human ecology and social change (2nd, completely rev. ed.). New York: Van Nostrand Reinhold Co.
 3. Hasso Plattner Institute of Design at Stanford. https://dschool.stanford.edu/use-our-methods/the-bootcamp-bootleg/ CC BY-NC-SA
+4. Ratto, Matt. Open Design Now!. page 205
+5. Agre, P, ‘Toward a Critical Technical Practice: Lessons Learned in Trying to Reform AI’, in Bowker, G, Gasser, L, Star, L and Turner, B, eds, Bridging the Great Divide: Social Science, Technical Systems, and Cooperative Work. Erlbaum, 1997. Dourish, P, Finlay, J, Sengers, P, & Wright, P, ‘Reflective HCI: Towards a critical technical practice’, in CHI’04 extended abstracts on Human factors in computing systems, 2004, p. 1727–1728.
+6. Friedman, B, ‘Value-sensitive design’, interactions, 3(6), p.16-23. DOI:10.1145/242485.242493.
+7. Flanagan, M, Howe, D, & Nissenbaum, H, Embodying Values in Technology: Theory and Practice. 2005 (draft).
+
+
+
+
 
 
 
