@@ -22,10 +22,22 @@ A **heuristic** is essentially a shortcut that helps you solve a problem quickly
 
 Design thinking processes equip designers with heuristic devices that help us avoid implicit or explicit bias, form connections between new and existing ideas, understand underlying issues and themes, be more inclusive and wider in perspective, and get better outcomes and solutions. Without heuristic devices, the act of design would be a very long and inefficient process, and we might never be able to overcome the blocks to good design.
 
+## The Business Case for Design Thinking
+
+Jess McMullin, founder of the Centre for Citizen Experience and Situ Strategy, describes a continuum of design maturity for organizations in his model, _A Rough Design Maturity Continuum. _ There are five stages which range from having no strategic design to using design for identifying and framing central challenges and opportunities.
+
+1. **No conscious design:** The organization has assigned no value or priority to design. The product that results is deemed good enough.
+2. **Style:** Design is considered a secondary cosmetic process that makes a product more palatable for consumption. Aesthetic trends drive products.
+3. **Function and Form:** Design is applied as part of an iterative improvement process for product development. Metrics and methods drive products.
+4. **Problem solving:** Design is used in strategic processes for identifying opportunties, generating an array of ideas, and selecting solutions for existing problems. Problems drive products.
+5. **Framing:** Design drives disruptive innovation. Design is used to frame the organization's agenda, and to scope interest. Ideas drive products.
+
+The organizations that incorporate design into the framing and problem solving end of the design maturity continuum are highlighted in the [Design Value Index (DVI)](http://www.dmi.org/?page=2015DVIandOTW). The superior performance of the index in relation to the S&P 500 is used to make the case not only for investing in design-driven companies, but as further evidence for why design should take a larger role within large organizations. 
+
 ## Citation
 
 1. _Design and Thinking_. Dir. Mu-Ming Tsai. 2012. Film.
 2. James A. Lawrence and Earl N. Steck, _Overview of Management Theory _\(Carlisle Barracks, PA: U.S. Army War College, 1991\), ii & 34. [http://www.dtic.mil/dtic/tr/fulltext/u2/a235762.pdf](http://www.dtic.mil/dtic/tr/fulltext/u2/a235762.pdf)
-
-
+3. http://thinkingandmaking.com/files/design_maturity.pdf
+4. http://www.dmi.org/?page=2015DVIandOTW
 
