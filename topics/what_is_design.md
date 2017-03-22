@@ -43,7 +43,7 @@ On page 29 in _Design and Truth_, Robert Grudin assembles a slightly longer list
 12. Good design allows a user to perform optimally in engaging reality
 13. Good design can be delivered, installed, and repaired conveniently
 
-These lists were not meant to be hard rules that apply to everything, but they can be helpful guidelines when making or evaluating design. Unfortunately, these lists do little to explain the process behind good design work. Design studio, Intrastructures, has written a list that explains what design means to them, and the approaches that drive their design process. From their website, "We define design as...
+These lists were not meant to be hard rules that apply to everything, but they can be helpful guidelines when making or evaluating design. Unfortunately, these lists do little to explain the process behind good design work. Design studio, Intrastructures, has written a list that explains what design means to them, and the approaches that drive their design process. From their website [1], "We define design as...
 
 1. **Dissecting ubiquity. **Remaining curious to the obvious
 2. **Managing complexity. **Mapping our contemporary infrastructure in order to reveal opportunities
@@ -57,8 +57,4 @@ These lists were not meant to be hard rules that apply to everything, but they c
 
 ## Citations
 
-[http://www.intrastructures.net/Intrastructures/About\\_-\\_how\\_we\\_define\\_design..html](http://www.intrastructures.net/Intrastructures/About_-_how_we_define_design..html)
-
-http://thinkingandmaking.com/files/design_maturity.pdf
-
-http://www.dmi.org/?page=2015DVIandOTW
+1. [http://www.intrastructures.net/Intrastructures/About\\_-\\_how\\_we\\_define\\_design..html](http://www.intrastructures.net/Intrastructures/About_-_how_we_define_design..html)
