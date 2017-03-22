@@ -27,7 +27,6 @@
   * Readings
     * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
   * Activities
-    * [Visual Manual](practice/visual_manual.md)
     * [Daily Design Journal](practice/daily_design_journal.md)
   * Listening
     * [Creative Mornings: Design is Magical](listening/creative_mornings_design_is_magical.md)
@@ -197,8 +196,9 @@
   * [Linear Narrative](practice/linear_narrative.md)
   * [Design Fiction Project](projects/design_fiction_project.md)
   * [Everything is a Remix](topics/everything_is_a_remix.md)
-  * Design Methods
+  * [Design Methods](projects/design-methods.md)
   * [Future Living](practice/future_living.md)
   * [Interactive Story Project](projects/interactive_story_project.md)
   * [Example content w\/ OERSchema](example-content-w-oerschema.md)
+* [Visual Manual](practice/visual_manual.md)
 
