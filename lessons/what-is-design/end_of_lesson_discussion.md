@@ -4,5 +4,5 @@ Now is a good time to decompress with a class-wide open discussion. This is not 
 
 **Questions to guide the discussion:**
 
-- Were any of your preconceptions about what design is challenged? If so, what were they?
-- Do you feel a sense of anticipation or excitement to start designing, or does it seem out of reach?
+1. Were any of your preconceptions about what design is challenged or confirmed? If so, what were they?
+2. Do you normally consume any design news or entertainment/infotainment?
