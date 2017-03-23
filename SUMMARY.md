@@ -59,7 +59,7 @@
     * [Design an Interface](practice/design_an_interface.md)
     * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
     * [Make a Brand](practice/make_a_brand.md)
-    * Type identity
+    * [Type identity](practice/type-identity.md)
     * Design language
   * [Project](project.md)
     * [Ritual Project Introduction](projects/ritual.md)
@@ -73,7 +73,7 @@
     * [Develop: Prototype](projects/ritual/develop_prototype.md)
     * [Develop: Test and Iterate](projects/ritual/develop_test_and_iterate.md)
     * [Deliver: Final Prototype](projects/deliver-final-prototype.md)
-    * Discuss: Ritual Project Critique
+    * [Discuss: Ritual Project Critique](projects/discuss-ritual-project-critique.md)
 * Lesson 3: Storytelling
   * [Introduction](lessons/narrative/introduction.md)
   * Topics

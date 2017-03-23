@@ -11,5 +11,3 @@
    1. Resubmit your prototype ZIP archive to Studio
    2. Write a description of the changes made to the prototype
 
-
-
