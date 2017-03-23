@@ -1,6 +1,6 @@
 # Introduction
 
-In this lesson, you will learn about how design thinking, systems thinking, and critical thinking play important roles in the process of design and the complex interactions that design has out in the world. The double diamond design process will be introduced, and will be applied to projects in later lessons. You will have a Daily design journal activity that spans two weeks and will ask you to reflect on the designed objects that we interact with every day. This
+In this lesson, you will learn about how design thinking, systems thinking, and critical thinking play important roles in the process of design and the complex implications that design has for the world. The double diamond design process will be introduced, and will be applied to projects in later lessons. You will have a daily design journal activity that spans two weeks, culminating in a personal reflection writing. Design-related podcasts have been selected that talk about design issues.
 
 You will also begin reading the book, _Design and Truth_, by Robert Grudin. This book attempts to describe what design is and connect it to philisophy and ethics.
 

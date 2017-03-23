@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
   * [Preface](introduction/preface.md)
+  * [Digital Multimedia Design](topics/digital_multimedia_design.md)
   * [Learning Objectives](introduction/learning-objectives.md)
   * [Calendar](calendar.md)
   * [Measuring success](introduction/measuring_success.md)
@@ -18,7 +19,6 @@
 * [Lesson 1: What is Design?](lessons/introduction.md)
   * [Introduction](lessons/what-is-design/introduction.md)
   * [Topics](lessons/topics.md)
-    * [Digital Multimedia Design](topics/digital_multimedia_design.md)
     * [What is design?](topics/what_is_design.md)
     * [Design thinking](topics/design_thinking.md)
     * [Systems thinking](topics/systems_thinking.md)

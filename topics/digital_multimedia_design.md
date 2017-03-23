@@ -16,7 +16,7 @@ The Digital Multimedia Design Program promotes the value of imagination and crea
 
 ## DMD Core
 
-The program is comprised of three program-exclusive spine courses and six prescribed (required) "core" courses – two from each contributing college; Arts & Architecture, Communications, and Information Sciences & Technology. The core courses will provide skills and context pertinent to the disciplines from which they reside. The spine courses provide opportunities to frame and combine experiences from these disciplines.
+The program is comprised of three program-exclusive spine courses and six prescribed \(required\) "core" courses – two from each contributing college; Arts & Architecture, Communications, and Information Sciences & Technology. The core courses will provide skills and context pertinent to the disciplines from which they reside. The spine courses provide opportunities to frame and combine experiences from these disciplines.
 
 ## Pathways
 
@@ -28,7 +28,7 @@ By the end of the DMD Program, you will develop capabilities necessary to use di
 
 ## Portfolios
 
-Developing a creative digital portfolio of work that showcases your interest areas and capabilities will become an essential component for professional development. More information on portfolios will become available on the DMD Program Hub website. 
+Developing a creative digital portfolio of work that showcases your interest areas and capabilities will become an essential component for professional development. More information on portfolios will become available on the DMD Program Hub website.
 
 ## Citations
 

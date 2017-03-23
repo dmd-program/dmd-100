@@ -14,7 +14,7 @@ All of these definitions are better understood after you have been doing design 
 
 ## Good design in list form
 
-Famed industrial designer, Dieter Rams, has written a rather popular list of what makes for good product design. It follows:
+Famed industrial designer, Dieter Rams, has written a rather popular list of what makes for good product design, aptly called "Ten principles for good design." \[1\] It follows:
 
 1. Good design is innovative
 2. Good design makes a product useful
@@ -27,9 +27,8 @@ Famed industrial designer, Dieter Rams, has written a rather popular list of wha
 9. Good design is environmentally friendly
 10. Good design is as little design as possible
 
-![](/assets/BraunRT20Radio@2x.jpg)
-Braun RT 20 Radio designed by Dieter Rams in 1961. Image by Nick Wade.
-
+![](/assets/BraunRT20Radio@2x.jpg)  
+Braun RT 20 Radio designed by Dieter Rams in 1961. Image by Nick Wade.\[2\]
 
 On page 29 in _Design and Truth_, Robert Grudin assembles a slightly longer list:
 
@@ -47,7 +46,7 @@ On page 29 in _Design and Truth_, Robert Grudin assembles a slightly longer list
 12. Good design allows a user to perform optimally in engaging reality
 13. Good design can be delivered, installed, and repaired conveniently
 
-While inspiring, these lists do little to explain the process behind good design work. Design studio, Intrastructures, has written a list that explains what design means to them, and the approaches that drive their design process. From their website [2], "We define design as...
+While inspiring, these lists do little to explain the process behind good design work. A design studio called Intrastructures has written a list that explains what actions of design means to them, and the approaches that drive their design process. From their website \[3\], "We define design as...
 
 1. **Dissecting ubiquity. **Remaining curious to the obvious
 2. **Managing complexity. **Mapping our contemporary infrastructure in order to reveal opportunities
@@ -63,5 +62,9 @@ These lists were not meant to be hard rules that apply to everything, but they c
 
 ## Citations
 
-1. Wade, Nick. Braun RT 40 Radio by Dieter Rams. https://www.flickr.com/photos/nickwade/4123875041
-2. [http://www.intrastructures.net/Intrastructures/About\_-\_how\_we\_define\_design..html](http://www.intrastructures.net/Intrastructures/About_-_how_we_define_design..html)
+1. https://www.vitsoe.com/us/about/good-design \(Commons CC-BY-NC-ND 4.0\)
+2. Wade, Nick. Braun RT 40 Radio by Dieter Rams. [https://www.flickr.com/photos/nickwade/4123875041](https://www.flickr.com/photos/nickwade/4123875041)
+3. [http://www.intrastructures.net/Intrastructures/About\_-\_how\_we\_define\_design..html](http://www.intrastructures.net/Intrastructures/About_-_how_we_define_design..html)
+
+
+
