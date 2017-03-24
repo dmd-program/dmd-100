@@ -2,7 +2,7 @@
 
 # Typographic Design
 
-Typography is an old field, dating back to 
+Typography is an old field, dating back to ...
 
 ## Brief history
 
