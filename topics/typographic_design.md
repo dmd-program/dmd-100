@@ -1,10 +1,12 @@
-![](/assets/typography@2x.jpg)
+![Picture of a subway sign](/assets/typography@2x.jpg)
 
 # Typographic Design
 
+Typography is an old field, dating back to 
+
 ## Brief history
 
-Painting and drawing
+Typography is the ancient practice of arraging type, which consists of glyphs, to create a written language. Painting and drawing
 
 Calligraphy
 
@@ -21,6 +23,8 @@ Scribes wrote books
 7. Geometric Sans
 8. Humanist Sans
 9. Helvetica
+
+## Attributes of type
 
 Printing press
 
