@@ -4,9 +4,11 @@
 
 ## Brief history
 
-Typography is an ancient field that employed typographers who were specialists in the craft of arranging type for the purpose of communicating written language. These specilaists understood every facet of working with type, a stark contrast from how the availability of digital word processing applications have made typography accessible to almost anyone.
+Typography is an ancient field that employed typographers who were specialists in the craft of arranging type for the purpose of communicating written language. These specialists invented and understood every facet of working with type and were the only ones capable of producing. In contrast, the advent and availability of digital word processing applications have made typography accessible to everyone, and the knowledge of type's design nuances are lost on all but those who work at digital type studios and well-trained graphic designers.
 
-Sometime around 1440, Johannes Gutenburg adapted existing screw press technology to print words onto paper using inked woodblocks. Soon after, moveable
+In 1439, a German goldsmith named Johannes Gutenburg had struck a business deal with investors to produce and sell small mirrors to Pilgrims at their fair in a nearby town. After discovering he was told the wrong year for the fair, he pitched the idea of the printing press to his business investors. In 1440, Johannes Gutenburg adapted existing screw press technology and metal type. Soon after, mechanized moveable-type became popular and the speed at which knowledge could be spread exploded and by the year 1500, over 20 million books had been printed.
+
+The printing press fundamentally changes how knowledge was recorded and disseminated, a disruptive technology that shifted power from the monolithic structure imposed by the Chatholic church to individual change-makers spread across the west. The Church commissioned Bibles in more languages...
 
 Before digital tools, type foundaries produces metal type, kept in type cases.
 
