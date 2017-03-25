@@ -2,11 +2,15 @@
 
 # Typographic Design
 
-Typography is an old field, dating back to ...
-
 ## Brief history
 
-Typography is the ancient practice of arraging type, which consists of glyphs, to create a written language. Painting and drawing
+Typography is an ancient field that employed typographers who were specialists in the craft of arranging type for the purpose of communicating written language. These specilaists understood every facet of working with type, a stark contrast from how the availability of digital word processing applications have made typography accessible to almost anyone.
+
+Sometime around 1440, Johannes Gutenburg adapted existing screw press technology to print words onto paper using inked woodblocks. Soon after, moveable
+
+Before digital tools, type foundaries produces metal type, kept in type cases.
+
+Painting and drawing
 
 Calligraphy
 
