@@ -10,6 +10,14 @@ Critical thinking is not the rote memorization and retention of information. Ins
 
 Critical thinking is a rational and intellectual endeavor. Someone practiced in critical thinking can make well-constructed arguments, locate logical fallacies, connect ideas to draw conclusions, and identify bias. A critical thinker without ethical integrity would seek to manipulate others for the sake of their own benefit. One who is ignorant to critical thinking skills would be easy prey to such a person, thereby reinforcing critical thinking as a requisite work and life skill in any modern society. It is also an imperative skill for social, cultural, political, and technological leaders to guide society in a purposeful and beneficial way.
 
+## Constructing arguments
+
+There are four main types of arguments including deductive arguments, inductive arguments, abductive arguments, and analogy arguments.
+
+An argument is comprised of a premise, supporting evidence, and conclusions. In law, an argument is often built backwards, where a desireable conclusion is known early on, and premises (facts) are applied selectively. Arguments are heard in a court and the best one is selected by a judge or jury. Many artists work in the same way, producing work before they necessarily understand why. Either historians or artists themselves work to deconstruct the the result of their work to better understand its meaning and importance. Let's apply a design frame to constructing arguments. In many aspects of design, it is typically not desirable to have a pre-determined conclusion, or outcome, ahead of seeing the premises and discovering evidence. The term "ripping the brief" describes the questioning of the project's premises. "Are these facts actually true?" Design research is done to dig up evidence to guide design decisions (conclusions). 
+
+## Ethics
+
 ## Critical Making
 
 >Open design heralds new possibilities for artists, scholars, and interested citizens to engage in a simultaneously conceptual and material critique of technologies and information systems in society.[4]
