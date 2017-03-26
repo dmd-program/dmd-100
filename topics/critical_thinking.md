@@ -14,9 +14,11 @@ Critical thinking is a rational and intellectual endeavor. Someone practiced in 
 
 There are four main types of arguments including deductive arguments, inductive arguments, abductive arguments, and analogy arguments.
 
-An argument is comprised of a premise, supporting evidence, and conclusions. In law, an argument is often built backwards, where a desireable conclusion is known early on, and premises (facts) are applied selectively. Arguments are heard in a court and the best one is selected by a judge or jury. Many artists work in the same way, producing work before they necessarily understand why. Either historians or artists themselves work to deconstruct the the result of their work to better understand its meaning and importance.
+An argument is comprised of a premise, supporting evidence, and conclusions. In law, an argument is often built backwards, where a desireable conclusion is known early on based on available evidence, and premises (facts) are applied selectively. Arguments are heard in a court and the best one is selected by a judge or jury. Many artists work in the same way, producing work before they necessarily understand why. Either historians or artists themselves work to deconstruct the the result of their work to better understand its meaning and importance.
 
-Let's apply a design frame to constructing arguments. In many aspects of design, it is typically not desirable to have a pre-determined conclusion, or outcome, ahead of seeing the premises and discovering evidence. The term "ripping the brief" describes the questioning of the project's premises. "Are these facts actually true?" Design research is done to dig up evidence to guide design decisions (conclusions). 
+Let's apply a design frame to constructing arguments. Unlike in law and art, it is typically undesirable to have a pre-determined conclusion, or outcome, ahead of seeing the premises and discovering evidence. The term "ripping the brief" describes a design process where a designer or design team will question the project's premises to locate any false or problematic assumptions. Design research is done to dig up evidence to guide design decisions (conclusions). When you ask a designer "Why did you choose to do this?", it is fairly unusual for them to have no answer, even if it felt arbitrary during the design process.
+
+In storytelling, a well constructed story is often a well constructed argument that focuses on a central theme or issue. For many film viewers, poor visual effects or a departure from plausibility breaks the premise that what you are watching is real, and pulls you out of the experience of the film.
 
 ## Ethics
 
