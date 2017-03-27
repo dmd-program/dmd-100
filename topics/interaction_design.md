@@ -22,7 +22,7 @@ Lt. Gilbert S. Daniels had studied physical anthropology at Harvard, and was hir
 
 ## Flow
 
-The flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when performing some action. In design, you want your users to 
+The flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when performing some action. In interaction design, you typically want your users to be able to access the flow state 
 
 Csikszentmihalyi's 8 characteristics of flow:
 
