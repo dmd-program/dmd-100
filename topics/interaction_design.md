@@ -16,13 +16,11 @@ To design an interaction, a designer must seek to know:
 
 ![Image from The Measure of a Man: Human Factors in Design by Henry Dryfuss](/assets/avg-man-dreyfuss.png)Image from _The Measure of a Man: Human Factors in Design_ by Henry Dryfuss
 
-The term user is meant to describe a person who is intended to interact with something that you are designing, be it software or physical object. The idea of "average users" as they are conceptualized by designers tend to not be very good representations of the real people who use the products. The U.S. Airforce found this out first hand as they attempted to solve major flight issues in the 1950s. Pilots were having a lot of incidents, sometimes fatal, and they started to wonder if the dimensions of the cockpit, built to the average size of a 1926 male pilot, were no longer working. They took measurements of 4,000 people with 140 dimensions of measurement. Lt. Gilbert S. Daniels had studied physical anthropology at Harvard, and was hired to measure the pilots. He garnered skepticism of averages during his undergraduate work, and wondered how many pilots actually fit the average measurements. After crunching the numbers for 10 dimensions, he discovered that not a single average airman existed, and using only 3 of the 10 dimensions, roughly 3.5% matched the average. This discovery upended the assumptions that an average sized cockpit would fit most pilots. There was no average sized pilot. This revelation eventually led to the advent of adjustable, or customizable cockpitseats and pedals and flight incidents were dramatically reduced.
-
-## Interaction vs interactive
+The term user is meant to describe a person who is intended to interact with something that you are designing, be it software or physical object. The idea of "average users" as they are conceptualized by designers tend to not be very good representations of the real people who use the products. The U.S. Airforce found this out first hand as they attempted to solve major flight issues in the 1950s. Pilots were having a lot of incidents, sometimes fatal, and they started to wonder if the dimensions of the cockpit, built to the average size of a 1926 male pilot, were no longer working. They took measurements of over 4,000 people with 140 dimensions of measurement. Lt. Gilbert S. Daniels had studied physical anthropology at Harvard, and was hired to measure the pilots. He garnered skepticism of averages during his undergraduate work, and wondered how many pilots actually fit the average measurements. After crunching the numbers for the 10 most relevant dimensions, he discovered that not a single average airman existed, and using only 3 of the 10 dimensions, roughly 3.5% matched the average. This discovery upended the assumptions that an average sized cockpit would fit most pilots. There was no average sized pilot. This revelation eventually led to the advent of adjustable, or customizable cockpitseats and pedals and flight incidents were dramatically reduced.
 
 ## Flow
 
-The flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when performing some action.
+The flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when performing some action. In design, you want your users to 
 
 Csikszentmihalyi's 8 characteristics of flow:
 
@@ -55,7 +53,7 @@ In the computer engineering field, there are five common interaction principles 
 1. Adapted from: [http://myweb.lmu.edu/dondi/share/ixd/ixd-overview.pdf](http://myweb.lmu.edu/dondi/share/ixd/ixd-overview.pdf)
 2. Hogue, David M., Interaction Design Fundamentals. Lynda.com. [https://www.lynda.com/Dreamweaver-tutorials/Welcome/82822/97965-4.html](https://www.lynda.com/Dreamweaver-tutorials/Welcome/82822/97965-4.html)
 3. Thoughts on Interaction Design
-4. The Measure of a Man: Human Factors in Design. Henry Dryfuss. 1966. Accessed 3/27/2017. http://design.data.free.fr/RUCHE/documents/Ergonomie%20Henry%20DREYFUS.pdf
+4. The Measure of a Man: Human Factors in Design. Henry Dryfuss. 1966. Accessed 3/27/2017. [http://design.data.free.fr/RUCHE/documents/Ergonomie Henry DREYFUS.pdf](http://design.data.free.fr/RUCHE/documents/Ergonomie Henry DREYFUS.pdf)
 
 
 

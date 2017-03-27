@@ -51,6 +51,7 @@
     * [99 Percent Invisible: Of mice and men](listening/99_percent_invisible_of_mice_and_men.md)
     * [99 Percent Invisible: Unpleasant Design](listening/99_percent_invisible_unpleasant_design.md)
     * [Freakonomics: How to become great at just about anything](freakonomics-how-to-become-great-at-just-about-anything.md)
+    * 99 Percent Invisible: On Average
   * Readings
     * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
     * [Chapter 3. What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
