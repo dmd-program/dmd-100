@@ -22,10 +22,10 @@ In storytelling, a well constructed story is often a well constructed argument t
 
 ## Ethics
 
-Ethics is a rational study of moral dilemmas within human action and thought. Morals are codes of conduct defined by personal or socially-imposed beliefs and values. Ethical studies can ascribe an act to be considered moral, immoral or amoral. To be **moral**, the action or thought must be within established codes. An **immoral** act is a thought or action that disregards established moral codes. An **amoral** act or thought has no relevance to established codes.
+Ethics is a rational study of moral dilemmas within human action and thought. Morals are codes of conduct defined by personal or socially-imposed beliefs and values. Ethical studies help ascribe an act to be considered moral, immoral or amoral. Depending on the perspectives used a To be **moral**, the action or thought must be within established codes. An **immoral** act is a thought or action that disregards established moral codes. An **amoral** act or thought has no relevance to established codes.[2]
 
-Ethics issues are also design issues because design is as aspect of human action that can have dramatic consequences to a person's livelihood and mortality. For example, Facebook has come under fire in recent years for running experiements meant to manipulate their users' moods and implementing privacy controls that automatically revealed private information to a users's personal network. 
-[2]
+Ethics issues are also design issues because design is as aspect of human action that can have dramatic consequences to a person's livelihood and mortality. For example, Facebook has come under fire in recent years for running experiements meant to manipulate their users' moods and implementing privacy controls that automatically revealed private information to a users's personal network. If designed carelessly, social media can inadvertantly enable bullying, push certain individuals to suicide, cause the loss of employment, expose minorities and people of alternative lifesstyles to mortal danger, and negatively affect familial relations. Examples of these consequences are well documented and make a compelling case for design decisions to also pass ethics tests.
+
 
 ## Critical Making
 
@@ -36,7 +36,7 @@ The term 'critical making' is intended to highlight the interwoven material and 
 ## Citation
 
 1. Richard Paul and Linda Elder, The Miniature Guide to Critical Thinking Concepts and Tools, Foundation for Critical Thinking Press, 2008
-2. A quick primer for ethics in design. http://mlab.uiah.fi/polut/Yhteiskunnalliset/lisatieto_ethics_primer.html
+2. Condensed and adapted from: A quick primer for ethics in design. http://mlab.uiah.fi/polut/Yhteiskunnalliset/lisatieto_ethics_primer.html
 
 
 2. Papanek, V. J. (1984). Design for the real world: Human ecology and social change (2nd, completely rev. ed.). New York: Van Nostrand Reinhold Co.
