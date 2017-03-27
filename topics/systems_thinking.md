@@ -39,7 +39,7 @@ Now, let us consider the issue of large congregations of plastic in the sea, des
 
 [How Big Is the "Great Pacific Garbage Patch"? Science vs. Myth](http://response.restoration.noaa.gov/about/media/how-big-great-pacific-garbage-patch-science-vs-myth.html) \(External Website\)
 
-Essentially, there is a ton of discarded waste plastic that has found its way into the Pacific Ocean, and it is negatively impacting wildlife. Let's explore this issue through a bit of speculation. Where did the plastic come from, how did it find its way to the sea, and who might have been involved in this process? To answer these questions, we would have to imagine the shape and scope of the networked system. No actual research was performed for this speculation, but it sounds reasonable enough for the purposes of this example:
+Essentially, there is a ton of discarded waste plastic that has found its way into the Pacific Ocean, and it is negatively impacting wildlife. Let's explore this issue through a bit of speculation. Where did the plastic come from, how did it find its way to the sea, and who might have been involved in this process? To answer these questions, we would have to imagine the shape and scope of the networked system. No actual research was performed for this speculation, but the proposed ideas are reasonable enough for the purposes of this example. In a real study, citations would certainly be required:
 
 1. Industrial producers: **Material design, Engineering Design**
    * Availability of cheap crude-oil makes plastic easy and cheap to produce
@@ -50,6 +50,7 @@ Essentially, there is a ton of discarded waste plastic that has found its way in
 3. Public consensus:** Public Relations and Marketing design**
    * Ad campaigns infiltrate popular culture
    * Wastefulness is widely accepted and normalized
+   * Marketing campaigns are effective at selling products
 4. Waste management processes: **Service Design**
    * Wastefulness is good for business
    * No real long-term ecological considerations for disposal
