@@ -1,16 +1,22 @@
 # Interaction Design \(IxD\)
 
-Designing for interaction is the process of understanding, accounting for, and sometimes altering a user\(s\) mental model \(what they know and how they think\) to facilitate a dialogue between that user and an object, system, or event. This does not have to be software. You could be designing an conversation between two people by providing discussion topics, a voting ballot to reduce voter confusion and errors, or a new device to make virtual reality feel more like physical reality.
+Designing for interaction is the process of understanding, accounting for, and sometimes altering a user\(s\) mental model \(what they know and how they think\) to facilitate a dialogue between that user and an object, system, or event. In this way, the designer shapes the user. This does not have to be software. You could be designing an conversation between two people by providing discussion topics, a voting ballot to reduce voter confusion and errors, or a new device to make virtual reality feel more like physical reality.
 
 > ... changes will be realized by designers, and by a specific breed of designers: those creative designers who are both artists and engineers and who are able to balance, over an extended period of time, technology and aesthetics without ever losing sight of the most important facet of design: humanity. \[3\]
 
 To design an interaction, a designer must seek to know:
 
 * True goals of the interaction \(this is sometimes different than stated goals\)
-* User's constraints and mental model
+* User's abilities, constraints, and mental models
 * Where and how it will happen
 * Constraints of the environment it's happening in
 * How the interaction went
+
+## Users
+
+![Image from The Measure of a Man: Human Factors in Design by Henry Dryfuss](/assets/avg-man-dreyfuss.png)Image from _The Measure of a Man: Human Factors in Design_ by Henry Dryfuss
+
+The term user is meant to describe a person who is intended to interact with something that you are designing, be it software or physical object. The idea of "average users" as they are conceptualized by designers tend to not be very good representations of the real people who use the products. The U.S. Airforce found this out first hand as they attempted to solve major flight issues in the 1950s. Pilots were having a lot of incidents, sometimes fatal, and they started to wonder if the dimensions of the cockpit, built to the average size of a 1926 male pilot, were no longer working. They took measurements of 4,000 people with 140 dimensions of measurement. Lt. Gilbert S. Daniels had studied physical anthropology at Harvard, and was hired to measure the pilots. He garnered skepticism of averages during his undergraduate work, and wondered how many pilots actually fit the average measurements. After crunching the numbers for 10 dimensions, he discovered that not a single average airman existed, and using only 3 of the 10 dimensions, roughly 3.5% matched the average. This discovery upended the assumptions that an average sized cockpit would fit most pilots. There was no average sized pilot. This revelation eventually led to the advent of adjustable, or customizable cockpitseats and pedals and flight incidents were dramatically reduced.
 
 ## Interaction vs interactive
 
@@ -49,6 +55,7 @@ In the computer engineering field, there are five common interaction principles 
 1. Adapted from: [http://myweb.lmu.edu/dondi/share/ixd/ixd-overview.pdf](http://myweb.lmu.edu/dondi/share/ixd/ixd-overview.pdf)
 2. Hogue, David M., Interaction Design Fundamentals. Lynda.com. [https://www.lynda.com/Dreamweaver-tutorials/Welcome/82822/97965-4.html](https://www.lynda.com/Dreamweaver-tutorials/Welcome/82822/97965-4.html)
 3. Thoughts on Interaction Design
+4. The Measure of a Man: Human Factors in Design. Henry Dryfuss. 1966. Accessed 3/27/2017. http://design.data.free.fr/RUCHE/documents/Ergonomie%20Henry%20DREYFUS.pdf
 
 
 
