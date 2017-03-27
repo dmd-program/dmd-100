@@ -1,4 +1,3 @@
-
 ![](/assets/superstudio_quaderna_sitin.jpg)
 
 # Discursive design
@@ -48,9 +47,9 @@ If you look carefully at this list, you an also simultaneously locate a place fo
 1. [http://www.core77.com/posts/12232/the-4-fields-of-industrial-design-no-not-furniture-trans-consumer-electronics-toys-by-bruce-m-tharp-and-stephanie-m-tharp-12232](http://www.core77.com/posts/12232/the-4-fields-of-industrial-design-no-not-furniture-trans-consumer-electronics-toys-by-bruce-m-tharp-and-stephanie-m-tharp-12232). Accessed Oct 25, 2016
 2. [http://www.core77.com/posts/41991/What-is-Discursive-Design](http://www.core77.com/posts/41991/What-is-Discursive-Design). Accessed Oct 25, 2016
 3. [http://speculative.hr/en/introduction-to-speculative-design-practice/](http://speculative.hr/en/introduction-to-speculative-design-practice/). Accessed Dec 29, 2016
-4. [http://abyss.uoregon.edu/~js/21st\\_century\\_science/lectures/lec14.html](http://abyss.uoregon.edu/~js/21st\_century\_science/lectures/lec14.html). Accessed Dec 29, 2016
-5. [http://thinkingfutures.net/wp-content/uploads/2010/10/A\\_Primer\\_on\\_Futures\\_Studies1.pdf](http://thinkingfutures.net/wp-content/uploads/2010/10/A\_Primer\_on\_Futures\_Studies1.pdf). Accessed Dec 29, 2016
-6. [http://www.theoryofchange.org/wp-content/uploads/toco\\_library/pdf/ToCBasics.pdf](http://www.theoryofchange.org/wp-content/uploads/toco\_library/pdf/ToCBasics.pdf). Accessed Dec 30, 2016
+4. [http://abyss.uoregon.edu/~js/21st\\_century\\_science/lectures/lec14.html](http://abyss.uoregon.edu/~js/21st_century_science/lectures/lec14.html). Accessed Dec 29, 2016
+5. [http://thinkingfutures.net/wp-content/uploads/2010/10/A\\_Primer\\_on\\_Futures\\_Studies1.pdf](http://thinkingfutures.net/wp-content/uploads/2010/10/A_Primer_on_Futures_Studies1.pdf). Accessed Dec 29, 2016
+6. [http://www.theoryofchange.org/wp-content/uploads/toco\\_library/pdf/ToCBasics.pdf](http://www.theoryofchange.org/wp-content/uploads/toco_library/pdf/ToCBasics.pdf). Accessed Dec 30, 2016
 7. Superstudio image. [http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/](http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/)
 8. Dunne, Anthony. Raby, Fiona. Speculative Everything: Design, Fiction, and Social Dreaming. 2013. Page 4.
 9. Dunne, Anthony. Raby, Fiona. Design Noir: The Secret Life of Electronic Objects. Birkhäuser Basel. 2001.

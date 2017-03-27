@@ -4,6 +4,8 @@ Designing for interaction is the process of understanding, accounting for, and s
 
 > ... changes will be realized by designers, and by a specific breed of designers: those creative designers who are both artists and engineers and who are able to balance, over an extended period of time, technology and aesthetics without ever losing sight of the most important facet of design: humanity. \[3\]
 
+Consumer product design is located in a field called Industrial Design, a term coined in the early 20th century. In the mid-20th century, ergonomics, or the interaction between people and equipment, emerged. After microcomputers were invented, product design began to inlude software. This shifted design away from ergonomics into interaction design.
+
 To design an interaction, a designer must seek to know:
 
 * True goals of the interaction \(this is sometimes different than stated goals\)
@@ -22,7 +24,7 @@ Lt. Gilbert S. Daniels had studied physical anthropology at Harvard, and was hir
 
 ## Flow
 
-The flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when performing some action. In interaction design, you typically want your users to be able to access the flow state 
+The flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when performing some action. In interaction design, you typically want your users to be able to access the flow state
 
 Csikszentmihalyi's 8 characteristics of flow:
 
