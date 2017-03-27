@@ -22,6 +22,11 @@ In storytelling, a well constructed story is often a well constructed argument t
 
 ## Ethics
 
+Ethics is a rational study of moral dilemmas within human action and thought. Morals are codes of conduct defined by personal or socially-imposed beliefs and values. Ethical studies can ascribe an act to be considered moral, immoral or amoral. To be **moral**, the action or thought must be within established codes. An **immoral** act is a thought or action that disregards established moral codes. An **amoral** act or thought has no relevance to established codes.
+
+Ethics issues are also design issues because design is as aspect of human action that can have dramatic consequences to a person's livelihood and mortality. For example, Facebook has come under fire in recent years for running experiements meant to manipulate their users' moods and implementing privacy controls that automatically revealed private information to a users's personal network. 
+[2]
+
 ## Critical Making
 
 >Open design heralds new possibilities for artists, scholars, and interested citizens to engage in a simultaneously conceptual and material critique of technologies and information systems in society.[4]
@@ -31,13 +36,11 @@ The term 'critical making' is intended to highlight the interwoven material and 
 ## Citation
 
 1. Richard Paul and Linda Elder, The Miniature Guide to Critical Thinking Concepts and Tools, Foundation for Critical Thinking Press, 2008
+2. A quick primer for ethics in design. http://mlab.uiah.fi/polut/Yhteiskunnalliset/lisatieto_ethics_primer.html
+
+
 2. Papanek, V. J. (1984). Design for the real world: Human ecology and social change (2nd, completely rev. ed.). New York: Van Nostrand Reinhold Co.
 3. Hasso Plattner Institute of Design at Stanford. https://dschool.stanford.edu/use-our-methods/the-bootcamp-bootleg/ CC BY-NC-SA
-4. Ratto, Matt. Open Design Now!. page 205
-5. Agre, P, ‘Toward a Critical Technical Practice: Lessons Learned in Trying to Reform AI’, in Bowker, G, Gasser, L, Star, L and Turner, B, eds, Bridging the Great Divide: Social Science, Technical Systems, and Cooperative Work. Erlbaum, 1997. Dourish, P, Finlay, J, Sengers, P, & Wright, P, ‘Reflective HCI: Towards a critical technical practice’, in CHI’04 extended abstracts on Human factors in computing systems, 2004, p. 1727–1728.
-6. Friedman, B, ‘Value-sensitive design’, interactions, 3(6), p.16-23. DOI:10.1145/242485.242493.
-7. Flanagan, M, Howe, D, & Nissenbaum, H, Embodying Values in Technology: Theory and Practice. 2005 (draft).
-
 
 
 
