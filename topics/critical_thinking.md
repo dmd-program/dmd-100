@@ -16,12 +16,11 @@ Four typical kinds of arguments include deductive arguments, inductive arguments
 
 An argument is comprised of a premise, supporting evidence, and conclusions. In law, an argument is often built backwards, where a desirable conclusion is known early on based on available evidence, and premises (facts) are applied selectively to support that conclusion. Many artists (though certainly not all) work in the same way, producing work before they necessarily understand why. Art historians and sometimes the artists themselves work to deconstruct the the result of their work to better understand its meaning and importance.
 
-Unlike in law and art, it is typically undesirable to have a pre-determined conclusion, or outcome, ahead of seeing the premises and discovering evidence. The term "ripping the brief" describes a design process where a designer or design team will question the project's premises to locate any false or problematic assumptions. Design thinking and research is done to dig up evidence to guide design decisions (conclusions). When you ask a designer "Why did you choose to do this?", it is fairly unusual for them to have no answer.
+
+In a design critique, constructive arguments are meant to aid in the technical, contextual, and conceptual understanding of the design process.Unlike in law and art, it is typically undesirable to have a pre-determined conclusion, or outcome, ahead of seeing the premises and discovering evidence. The term "ripping the brief" describes a design process where a designer or design team will question the project's premises to locate any false or problematic assumptions. Design thinking and research is done to dig up evidence to guide design decisions (conclusions). When you ask a designer "Why did you choose to do this?", it is fairly unusual for them to have no answer.
 
 In storytelling, a well constructed story is often a well constructed argument that focuses on a central theme or issue. For many film viewers, poor visual effects or a departure from plausibility breaks the premise that what you are watching is real, and pulls you out of the illusion.
 
-In a design critique, constructive arguments are meant to aid in the technical, contextual, and conceptual understanding of the design process. They come 
-In a design critique, constructive arguments are meant to aid in the technical, contextual, and conceptual understanding of the design process.
 
 ## Ethics
 
