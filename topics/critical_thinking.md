@@ -22,22 +22,22 @@ Ethics is a rational study of moral dilemmas within human action and thought. Mo
 
 Ethics issues are also design issues because design is as aspect of human action that can have dramatic consequences to a person's livelihood and mortality. For example, Facebook has come under fire in recent years for running experiements meant to manipulate their users' moods and implementing privacy controls that automatically revealed private information to a users's personal network. If designed carelessly, social media can inadvertantly enable bullying, push certain individuals to suicide, cause the loss of employment, expose minorities and people of alternative lifesstyles to mortal danger, and negatively affect familial relationships. Examples of these consequences are well documented and make a compelling case that design decisions should be more tightly linked to ethics tests. 
 
+"The designer's ... social and moral judgment must be brought into play long before he begins to design, since he has to make a judgement an _a priori_ at that, as to whether the products he is asked to design or redesign merit his attention at all. In other words, will his design be on the side of social good or not"[3]
+
 A speculative near-future science fiction television series produced in the UK, called [Black Mirror](http://www.imdb.com/title/tt2085059/), delves into a world where ethics are a secondary consideration to technological advancement. In some cases, the scenarios are already in play in certain parts of the world, including a new [credit score](http://www.businessinsider.com/china-social-credit-score-like-black-mirror-2016-10) initiative in China which closely matches the plot of a Black Mirror episode called "Nosedive."
 
 ## Critical Making
 
 >Open design heralds new possibilities for artists, scholars, and interested citizens to engage in a simultaneously conceptual and material critique of technologies and information systems in society.[4]
 
-The term 'critical making' is intended to highlight the interwoven material and conceptual work that making involves. As a teaching and research strategy, critical making shares an emphasis on values with both critical design and critical practices — such as the critical technical practice[5] from which is derives, as well as value-sensitive-design[6] and values-in-design[7].
+The term 'critical making' is intended to highlight the interwoven material and conceptual work that making involves. As a teaching and research strategy, critical making shares an emphasis on values with both critical design and critical practices — such as the critical technical practice[5] from which it derives, as well as value-sensitive-design[6] and values-in-design[7].
 
 ## Citation
 
 1. Richard Paul and Linda Elder, The Miniature Guide to Critical Thinking Concepts and Tools, Foundation for Critical Thinking Press, 2008
 2. Condensed and adapted from: A quick primer for ethics in design. http://mlab.uiah.fi/polut/Yhteiskunnalliset/lisatieto_ethics_primer.html
-
-
 2. Papanek, V. J. (1984). Design for the real world: Human ecology and social change (2nd, completely rev. ed.). New York: Van Nostrand Reinhold Co.
-3. Hasso Plattner Institute of Design at Stanford. https://dschool.stanford.edu/use-our-methods/the-bootcamp-bootleg/ CC BY-NC-SA
+
 
 
 
