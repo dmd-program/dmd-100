@@ -45,6 +45,8 @@ Digitization
 ## Citations
 
 1. Image: [https://unsplash.com/search/type?photo=8GMCkGBvARw](https://unsplash.com/search/type?photo=8GMCkGBvARw)
-2. 
-[https://www.lynda.com/Design-Typography-tutorials/Foundations-Typography/106698-2.html](https://www.lynda.com/Design-Typography-tutorials/Foundations-Typography/106698-2.html)
+2. https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG
+3. [https://www.lynda.com/Design-Typography-tutorials/Foundations-Typography/106698-2.html](https://www.lynda.com/Design-Typography-tutorials/Foundations-Typography/106698-2.html)
+
+
 
