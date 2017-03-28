@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-  * [Preface](introduction/preface.md)
   * [Digital Multimedia Design](topics/digital_multimedia_design.md)
   * [Learning Objectives](introduction/learning-objectives.md)
   * [Calendar](calendar.md)
@@ -35,14 +34,11 @@
     * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
 * Lesson 2: Visual and Interaction Design
   * [Topics](topics.md)
-    * [Object making](object-making.md)
     * [Interaction design](topics/interaction_design.md)
     * [Inclusive design](inclusive-design.md)
     * [Discursive design](topics/discursive_design.md)
     * [Visual design](topics/visual_design.md)
-    * [Media design](media-design.md)
     * [Identity design](identity-design.md)
-    * [Interactive design](interactive-design.md)
     * [Typographic design](topics/typographic_design.md)
     * [Semiotics](topics/semiotics.md)
   * Listening
@@ -55,12 +51,6 @@
     * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
     * [Chapter 3. What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
     * [Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers](chapter-4-design-as-tragedy-the-rise-and-fall-of-the-twin-towers.md)
-  * Activities
-    * [Design an Interface](practice/design_an_interface.md)
-    * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
-    * [Make a Brand](practice/make_a_brand.md)
-    * [Type identity](practice/type-identity.md)
-    * Design language
   * [Project](project.md)
     * [Ritual Project Introduction](projects/ritual.md)
     * Tutorials
@@ -200,5 +190,11 @@
   * [Future Living](practice/future_living.md)
   * [Interactive Story Project](projects/interactive_story_project.md)
   * [Example content w\/ OERSchema](example-content-w-oerschema.md)
+* Activities
+  * [Design an Interface](practice/design_an_interface.md)
+  * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
+  * [Make a Brand](practice/make_a_brand.md)
+  * [Type identity](practice/type-identity.md)
+  * [Design language](practice/design-language.md)
 * [Visual Manual](practice/visual_manual.md)
 

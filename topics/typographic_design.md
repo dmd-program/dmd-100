@@ -8,7 +8,9 @@ Typography is an ancient field that employed typographers who were specialists i
 
 In 1439, a German goldsmith named Johannes Gutenburg had struck a business deal with investors to produce and sell small mirrors to Pilgrims at their fair in a nearby town. After discovering he was told the wrong year for the fair, he pitched the idea of the printing press to his business investors. In 1440, Johannes Gutenburg adapted existing screw press technology and metal type. Soon after, mechanized moveable-type became popular and the speed at which knowledge could be spread exploded and by the year 1500, over 20 million books had been printed.
 
-The printing press fundamentally changed how knowledge was recorded and disseminated, a disruptive technology that shifted power from the monolithic structure imposed by the Chatholic church to individual change-makers spread across the west. Ultimately, this contributed to the de-centralization of power to localized nations, where language, laws, taxes, and cultural identities could develop independently. 
+The printing press fundamentally changed how knowledge was recorded and disseminated, a disruptive technology that shifted power from the monolithic structure imposed by the Chatholic church to individual change-makers spread across the west. Ultimately, this contributed to the de-centralization of power to localized nations, where language, laws, taxes, and cultural identities could develop independently.
+
+## Craft
 
 Before digital tools, type foundaries produces metal type, kept in type cases.
 
@@ -43,6 +45,6 @@ Digitization
 ## Citations
 
 1. Image: [https://unsplash.com/search/type?photo=8GMCkGBvARw](https://unsplash.com/search/type?photo=8GMCkGBvARw)
-
+2. 
 [https://www.lynda.com/Design-Typography-tutorials/Foundations-Typography/106698-2.html](https://www.lynda.com/Design-Typography-tutorials/Foundations-Typography/106698-2.html)
 
