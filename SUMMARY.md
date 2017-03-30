@@ -7,7 +7,6 @@
   * [Measuring success](introduction/measuring_success.md)
   * [References](introduction/references.md)
   * [Recommended Tools](introduction/recommended_tools.md)
-  * [Outlandish Introductions](icebreakers/outlandish_introductions.md)
   * [The Studio](the_studio.md)
   * Reference Guidelines
     * [Project Management](toolkit/project_management.md)
@@ -17,6 +16,7 @@
   * [Grading](grading.md)
 * [Lesson 1: What is Design?](lessons/introduction.md)
   * [Introduction](lessons/what-is-design/introduction.md)
+  * [Outlandish Introductions](icebreakers/outlandish_introductions.md)
   * [Topics](lessons/topics.md)
     * [What is design?](topics/what_is_design.md)
     * [Design thinking](topics/design_thinking.md)

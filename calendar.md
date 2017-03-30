@@ -121,6 +121,7 @@
   * Discover: Secondary research
 
 ## Week 9 \(Lesson 4\)
+
 * Reading
   * Calendar
   * Lesson 4 Topics
@@ -153,9 +154,11 @@
   ## Week 11 \(Lesson 4\)
 
 * Reading
+
   * Calendar
   * Lesson 4 Topics
   * Chapter 11 from Design and Truth by Robert Grudin
+
 * Listening
   * Podcast:
 * Activities
