@@ -30,7 +30,7 @@ Branding is the narrative that presents the story of a person, company, product,
 
 Good branding will communicate the product's attributes and benefits to a person who has corresponding values to hep them choose that product, and will help the consumer feel that they've made the right choice. Buyer's remorse is when someone has regret after buying something, often because they prioritized incorrectly or didn't spend enough time thinking about their choice.
 
-In corporate branding, the market drives brand identity design for the purpose of attracting customers, clients, suppliers, investors, and other stakeholders. Branding can help a company to promote a kind of historical heritage, disruptive newness, or another set of values in order to appeal to a target market. Logos, word-marks, letterhead, packaging, architecture, employee culture, and product aesthetics, all contribute to the brand identity.
+In corporate branding, the market drives brand identity design for the purpose of attracting customers, clients, suppliers, investors, and other stakeholders. Branding can help a company to promote a kind of historical heritage, disruptive newness, or another set of values in order to appeal to a target market. Logos, word-marks, letterhead, packaging, architecture, corporate culture, product aesthetics, social impact, and leadership personalities all contribute to the brand identity.
 
 ## Citations
 
