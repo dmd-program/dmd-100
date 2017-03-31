@@ -29,7 +29,7 @@
     * [Daily Design Journal](practice/daily_design_journal.md)
   * Listening
     * [Creative Mornings: Design is Magical](listening/creative_mornings_design_is_magical.md)
-    * [Lawn Order](listening/lawn_order.md)
+    * [99 PI: Lawn Order](listening/lawn_order.md)
   * Discussions
     * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
 * Lesson 2: Visual and Interaction Design
@@ -96,6 +96,8 @@
     * [Write a story: draft 2](practice/object_story_draft_2.md)
   * Discussions
     * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
+  * Watching
+    * [Creative Mornings: Jordan Tannahill](lessons/narrative/creative-mornings-jordan-tannahill.md)
 * [Lesson 4: Open Design](lessons/remix.md)
   * [Introduction](lessons/open_design/introduction.md)
   * [Topics](lessons/open_design/topics.md)
