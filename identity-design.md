@@ -18,9 +18,11 @@ All of this contributes to the way humans made decisions.
 
 ## What is identity?
 
-Identity is who we are, who we think we are, and what others see us as. Identity can scale from a single person to an entire nation. Identification is an essential process for human decision making. Differentiating between safe or dangerous is one of the first things humans do unconsciously, and this process is typically based on patterns of the familiar. This is why if you are used to spending time only with the people that are visually similar to you
+Identity is who we are, who we think we are, and what others see us as. Identity can scale from a single person to an entire nation. Identification is an essential process for human decision making. Differentiating between safe or dangerous is one of the first things humans do unconsciously, and this process is typically based on patterns of the familiar. This plays a role in identity politics, typically results in exclusion. 
 
-Ontology: The study of the nature of being.
+What is an identity for a person? Tim Urban explores this question on his blog in a post entitled, [_What Makes You, You?_](http://waitbutwhy.com/2014/12/what-makes-you-you.html) 
+
+
 
 ## Brand identity
 
