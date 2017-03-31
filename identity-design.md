@@ -8,21 +8,17 @@ People spend a great deal of time doing **impression management**, that is, mana
 
 Identified with the acronym, **GOCASE**, each letter represents a different trait. **G** represents general intelligence, **O** represents openness to experience, **C** is for conscientiousness and self-control,  **A** is for agreeableness and kindness, **S** is for stability in emotion, and **E** is for extraversion. Conceivably, if you have an ability to understand a person based on those traits you will have a good idea about how they will behave in different circumstances. Marketers have concerned themselves with selling products to people by appealing to these personality traits.
 
-**Propaganda ** is used to sell products just as it is to galvanize mass consensus around political viewpoints, and as Bernays will argue in his book, "... such organization and focusing are necessary to orderly life." After World War II, the term took on a more sinister meaning due to the Nazi's considerable and effective use of design and media for propagandistic ends. Edward Bernays is considered the father of public relations \(a term synonymous with advertising and propaganda\) authored a book in 1928 aptly named, [_Propaganda_](http://www.historyisaweapon.org/defcon1/bernprop.html). Bernay's, Sigmund Freud's nephew, applied Freudian ideas of unconscious desire for selling  products and manipulation of mass opinion, inventing techniques that are in standard use today by politicians and corporations. As written in the opening paragraph of _Propaganda_, "The consious and intelligent manipulation of the organized  habits and opinions of the masses is an important element in a democratic society. Those who manipulate this unseen mechanism of society constitute an invisible government which is the ruling power of our country."
+**Propaganda ** is used to sell products just as it is to galvanize mass consensus around political viewpoints, and as Edward Bernays will argue, "... such organization and focusing are necessary to orderly life." After World War II, the term took on a more sinister meaning due to the Nazi's considerable and effective use of design and media for propagandistic and sinister ends. Edward Bernays is considered the father of public relations \(a term synonymous with advertising and propaganda\) authored a book in 1928 aptly named, [_Propaganda_](http://www.historyisaweapon.org/defcon1/bernprop.html). Bernay's, Sigmund Freud's nephew, applied Freudian ideas of unconscious desire for selling  products and manipulation of mass opinion, inventing techniques that are in standard use today by politicians and corporations. As written in the opening paragraph of _Propaganda_, "The consious and intelligent manipulation of the organized  habits and opinions of the masses is an important element in a democratic society. Those who manipulate this unseen mechanism of society constitute an invisible government which is the ruling power of our country."
 
 > The propagandist must treat personality as he would treat any other objective fact within his province.
 >
 > – Edward Bernays \[2\]
 
-All of this contributes to the way humans made decisions.
-
 ## What is identity?
 
-Identity is who we are, who we think we are, and what others see us as. Identity can scale from a single person to an entire nation. Identification is an essential process for human decision making. Differentiating between safe or dangerous is one of the first things humans do unconsciously, and this process is typically based on patterns of the familiar. This plays a role in identity politics, typically results in exclusion. 
+Identity is who we are, who we think we are, and what others see us as. Identity can scale from a single person to an entire nation. Identification is an essential process for human decision making. Differentiating between safe or dangerous is one of the first things humans do unconsciously, and this process is typically based on patterns of the familiar. This plays core role in identity politics, typically resulting in exclusion or separation of people–and by extension contributes to bigotry and ignorance according to a wide variety of .
 
-What is an identity for a person? Tim Urban explores this question on his blog in a post entitled, [_What Makes You, You?_](http://waitbutwhy.com/2014/12/what-makes-you-you.html) 
-
-
+What is an identity for a person? Tim Urban explores this question on his blog in a post entitled, [_What Makes You, You?_](http://waitbutwhy.com/2014/12/what-makes-you-you.html)
 
 ## Brand identity
 
