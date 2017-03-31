@@ -10,7 +10,7 @@ In 1439, a German goldsmith named Johannes Gutenburg had struck a business deal 
 
 The printing press fundamentally changed how knowledge was recorded and disseminated, a disruptive technology that shifted power from the monolithic structure imposed by the Chatholic church to individual change-makers spread across the west. Ultimately, this contributed to the de-centralization of power to localized nations, where language, laws, taxes, and cultural identities could develop independently.
 
-## Craft
+## Typefaces
 
 Before digital tools, type foundaries produces metal type, kept in type cases.
 
@@ -20,7 +20,7 @@ Calligraphy
 
 Scribes wrote books
 
-### Typefaces
+### Notable typefaces
 
 1. Blackletter typeface
 2. Roman - Jenson, Caslon

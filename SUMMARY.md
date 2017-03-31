@@ -29,7 +29,7 @@
     * [Daily Design Journal](practice/daily_design_journal.md)
   * Listening
     * [Creative Mornings: Design is Magical](listening/creative_mornings_design_is_magical.md)
-    * [99 PI: Lawn Order](listening/lawn_order.md)
+    * [99 Percent Invisible: Lawn Order](listening/lawn_order.md)
   * Discussions
     * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
 * Lesson 2: Visual and Interaction Design
