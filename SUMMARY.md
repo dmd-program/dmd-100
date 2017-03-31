@@ -38,8 +38,8 @@
     * [Inclusive design](inclusive-design.md)
     * [Discursive design](topics/discursive_design.md)
     * [Visual design](topics/visual_design.md)
-    * [Identity design](identity-design.md)
     * [Typographic design](topics/typographic_design.md)
+    * [Identity design](identity-design.md)
     * [Semiotics](topics/semiotics.md)
   * Listening
     * [99 Percent Invisible: On Average](listening/99-percent-invisible-on-average.md)
@@ -130,10 +130,10 @@
     * [Discuss: Open Toy Critique](projects/open_design/discuss_open_toy_critique.md)
 * [Lesson 5: Artifacts for Impact](lessons/co-generative_design.md)
   * Topics
-    * Design research
+    * [Design research](topics/design-research.md)
     * [Collaboration](topics/collaboration.md)
-    * Co-design
-    * Activism
+    * [Co-design](topics/co-design.md)
+    * [Activism](topics/activism.md)
     * [Self design](topics/self-design.md)
   * Listening
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
