@@ -131,13 +131,16 @@
 * [Lesson 5: Artifacts for Impact](lessons/co-generative_design.md)
   * Topics
     * [Design research](topics/design-research.md)
+    * Positive Pyschology
+    * [Learned helplessness](topics/learned-helplessness.md)
     * [Collaboration](topics/collaboration.md)
     * [Co-design](topics/co-design.md)
     * [Activism](topics/activism.md)
     * [Self design](topics/self-design.md)
+    * Behavioral nudging
   * Listening
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
-  * Project
+  * [Project](lessons/co-generative_design/project.md)
     * [Field Guide Project Introduction](projects/field_guide.md)
     * [Discover: Mind mapping](projects/field_guide/discover_top_three.md)
     * [Define: Concept](projects/impact/define_concept.md)
@@ -154,6 +157,8 @@
   * Activities
     * Co-generative Design Activity
     * Design your Day
+  * Project
+    * [Nudge project introduction](lessons/co-generative_design/nudge-project-introduction.md)
 * [License](LICENSE.md)
 * not yet organized
   * Design Methods
