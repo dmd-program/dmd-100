@@ -46,7 +46,16 @@ In the computer engineering field, there are five common interaction principles 
 
 Don Norman writes his seven fundamental principles of design in the book, _The Design of Everyday Things_ as follows:
 
-Discoverability
+1. Discoverability
+2. Feedback
+3. Conceptual model
+4. Affordances
+5. Signifiers
+6. Mappings
+
+## Interfaces
+
+Human-computer interaction \(HCI\) is a field concerned with the engineering and cognitive science implications for human use of technology. Douglas Engelbart gave a [technology presentation](https://www.youtube.com/watch?v=yJDv-zdhzMY) in 1968 which was later referred to as the "The Mother of All Demos". In one presentation, Engelbart showed the computer mouse, word processing, video conferencing, hyper-text and media, addressable objects, collaborative real-time editing, and other aspects of computing now taken for granted.
 
 # Citation
 
