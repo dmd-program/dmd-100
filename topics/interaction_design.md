@@ -46,7 +46,7 @@ In the computer engineering field, there are five common interaction principles 
 
 Don Norman writes his seven fundamental principles of design in the book, _The Design of Everyday Things_ as follows:
 
-Discoverability 
+Discoverability
 
 # Citation
 
