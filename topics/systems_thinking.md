@@ -44,7 +44,7 @@ Essentially, there is a ton of discarded waste plastic that has found its way in
 1. Industrial producers: **Material design, Engineering Design**
    * Availability of cheap crude-oil makes plastic easy and cheap to produce
 2. Business and economics: **Business and Product Design**
-   * Financial markets trade heavily in crude oil (from which plastic is made)
+   * Financial markets trade heavily in crude oil \(from which plastic is made\)
    * Availability of cheap plastic materials and mass production technology
    * Business goals and values do not align with minimizing impact to existing ecological system
 3. Public consensus:** Public Relations and Marketing design**
@@ -58,7 +58,7 @@ Essentially, there is a ton of discarded waste plastic that has found its way in
    * Special interest lobbying prevents ecological policies from hindering the sale of products
    * Issue not prioritized by society
    * Recycling initiatives are not timely and universally ineffective
-   
+
 Supposing this list was accurate, the next step would to be to better understand the systems in which each participant was embedded so that we may clarify underlying systemic issues. Being able to comprehend and perceive an entire interconnected network is admittedly not easy. This idea becomes more apparent when considering the amount of people who disagree on the cause and effect responsible for the breakdown of a system. Modern examples of system breakdown include the 2008 global recession, man-made climate change, and the British exit of the European Union.
 
 Critic Timothy Morton calls these systems **hyperobjects**. They are objects so large and complex, that humans can not perceive them in their entirety.
