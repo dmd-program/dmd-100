@@ -42,22 +42,13 @@ Ted: [Mihaly Csikszentmihalyi: Flow, the secret to happiness](https://www.ted.co
 
 ## Interaction Principles
 
-In the computer engineering field, there are five common interaction principles that software developers often refer to when building an effective graphical user interface, otherwise known as a **GUI** \(pronounced gooey\) . They dictate that an interface must be **perceivable**, **predictable**, **learnable**, **consistent**, and provide **feedback** to the user. Being perceivable means that a person, who has no prior knowledge must be able to sense and understand an object or interface. For GUI design, this often this means making the interaction possibilities visible in some way. Human's rely on predictions to navigate the world. An unpredictable environment can be frustrating, scary, and in some cases dangerous. Design language can be used to give users cues and resources for learning. Elements that perform the same action should look and function the same way. This not only refers to visual and physical elements, but also to sound, language, and conceptual organization. Feedback is important in an interface so the user knows that something is happening.
+Human-computer Interaction \(HCI\) is a field that emerged in the 1980s concerned with the engineering and cognitive science implications for human use of technology. Over a decade earlier, Douglas Engelbart gave a [technology presentation](https://www.youtube.com/watch?v=yJDv-zdhzMY) in 1968 which was later referred to as the "The Mother of All Demos". In a single presentation, Engelbart showed the computer mouse, word processing, video conferencing, hyper-text and media, addressable objects, collaborative real-time editing, and other aspects of computing that are now ubiquitous. This was a major turning point in computing technology history. Another major turning point was the 1984 introduction of the Macintosh by Apple Computer, Inc., which had the first 2D graphical user interface, otherwise known as a **GUI** \(pronounced gooey\).
 
-Don Norman writes his seven fundamental principles of design in the book, _The Design of Everyday Things_ as follows:
-
-1. Discoverability
-2. Feedback
-3. Conceptual model
-4. Affordances
-5. Signifiers
-6. Mappings
+There are five common interaction principles that software developers often refer to when building an interfaces. They dictate that an interface must be **perceivable**, **predictable**, **learnable**, **consistent**, and provide **feedback** to the user. Being perceivable means that a person, who has no prior knowledge must be able to sense and understand an object or interface. For GUI design, this often this means making the interaction possibilities visible in some way. Human's rely on predictions to navigate the world. An unpredictable environment can be frustrating, scary, and in some cases dangerous. Design language can be used to give users cues and resources for learning. Elements that perform the same action should look and function the same way. This not only refers to visual and physical elements, but also to sound, language, and conceptual organization. Feedback is important in an interface so the user knows that something is happening.
 
 ## Interfaces
 
-Human-computer Interaction \(HCI\) is a field that emerged in the 1980s concerned with the engineering and cognitive science implications for human use of technology. Over a decade earlier, Douglas Engelbart gave a [technology presentation](https://www.youtube.com/watch?v=yJDv-zdhzMY) in 1968 which was later referred to as the "The Mother of All Demos". In a single presentation, Engelbart showed the computer mouse, word processing, video conferencing, hyper-text and media, addressable objects, collaborative real-time editing, and other aspects of computing that are now ubiquitous.
-
-The science fiction genre has been prolific in pushing interface and display graphics. The website [HUDS and GUIS](http://www.hudsandguis.com/) documents
+Human-computer Interaction \(HCI\) is a field that emerged in the 1980s concerned with the engineering and cognitive science implications for human use of technology. Over a decade earlier, Douglas Engelbart gave a [technology presentation](https://www.youtube.com/watch?v=yJDv-zdhzMY) in 1968 which was later referred to as the "The Mother of All Demos". In a single presentation, Engelbart showed the computer mouse, word processing, video conferencing, hyper-text and media, addressable objects, collaborative real-time editing, and other aspects of computing that are now ubiquitous. This was a major turning point in computing technology history. The science fiction genre has been prolific in pushing interface and display graphics. The website [HUDS and GUIS](http://www.hudsandguis.com/) documents
 
 # Citation
 
