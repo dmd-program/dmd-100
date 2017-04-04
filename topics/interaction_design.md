@@ -55,7 +55,9 @@ Don Norman writes his seven fundamental principles of design in the book, _The D
 
 ## Interfaces
 
-Human-computer interaction \(HCI\) is a field concerned with the engineering and cognitive science implications for human use of technology. Douglas Engelbart gave a [technology presentation](https://www.youtube.com/watch?v=yJDv-zdhzMY) in 1968 which was later referred to as the "The Mother of All Demos". In one presentation, Engelbart showed the computer mouse, word processing, video conferencing, hyper-text and media, addressable objects, collaborative real-time editing, and other aspects of computing now taken for granted.
+Human-computer Interaction \(HCI\) is a field that emerged in the 1980s concerned with the engineering and cognitive science implications for human use of technology. Over a decade earlier, Douglas Engelbart gave a [technology presentation](https://www.youtube.com/watch?v=yJDv-zdhzMY) in 1968 which was later referred to as the "The Mother of All Demos". In a single presentation, Engelbart showed the computer mouse, word processing, video conferencing, hyper-text and media, addressable objects, collaborative real-time editing, and other aspects of computing that are now ubiquitous.
+
+The science fiction genre has been prolific in pushing interface and display graphics. The website [HUDS and GUIS](http://www.hudsandguis.com/) documents
 
 # Citation
 
