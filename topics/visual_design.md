@@ -22,18 +22,20 @@ If you have ever taken an art class in a primary or secondary education curricul
 6. Variety and variation
 7. Unity/Harmony
 
-But what about designing a government regulation, or designing a medical form? To make designing in these areas possible, we will surely need guiding principles. In the book, _Universal Principles of Design_, written by William Lidwell, Kritina Holden, and Jill Butler, 125 principles are listed.
-
-
-
-
-## Judging on Aesthetics
+### Formal analysis
 
 One common way to make a judgement about a creative work is through Formal Analysis. To make your feedback understandable by others, there are three steps you can follow:
 
 1. Identitfy and name the formal element
 2. Describe how it is being used
 3. Discuss the effect it has with respect to the entire work.
+
+
+But what about designing a government regulation, or designing a medical form? To make designing in these areas possible, we will surely need guiding principles. In the book, _Universal Principles of Design_, written by William Lidwell, Kritina Holden, and Jill Butler, 125 principles are listed.
+
+
+
+
 
 Perception
 
