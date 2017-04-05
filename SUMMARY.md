@@ -131,13 +131,14 @@
 * [Lesson 5: Artifacts for Impact](lessons/co-generative_design.md)
   * Topics
     * [Design research](topics/design-research.md)
+    * [Design principles for human behavior](topics/design-principles-for-human-behavior.md)
     * Positive Pyschology
+    * Behavioral nudging
     * [Learned helplessness](topics/learned-helplessness.md)
     * [Collaboration](topics/collaboration.md)
     * [Co-design](topics/co-design.md)
     * [Activism](topics/activism.md)
     * [Self design](topics/self-design.md)
-    * Behavioral nudging
   * Listening
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
   * [Project](lessons/co-generative_design/project.md)
