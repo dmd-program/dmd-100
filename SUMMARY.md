@@ -132,7 +132,7 @@
   * Topics
     * [Design research](topics/design-research.md)
     * [Design principles for human behavior](topics/design-principles-for-human-behavior.md)
-    * Positive Pyschology
+    * [Positive Pyschology](topics/positive-pyschology.md)
     * Behavioral nudging
     * [Learned helplessness](topics/learned-helplessness.md)
     * [Collaboration](topics/collaboration.md)
