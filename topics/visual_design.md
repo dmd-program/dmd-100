@@ -1,78 +1,51 @@
-# Visual Design
+# Visual design
 
-## Principles of Design
+## Aesthetics
 
-### Balance
+Why would someone want to take up their desk space with a small potted plant or hang a painting on the wall in their aparment? An aesthetic is a set of principles and elements that describe a creative work, locating the intended or emergent language and subjective beauty. Aesthetic language can impact a person's mood, comprehension, productivity, and heavily influence behavior. In visual design, an aesthetic langugage in constructed from elements that are organized based upon how humans see with their eyes. Elements of Visual Design include:
 
-When design elements are distributed in such a way that they draw the viewers attention to the entire composition, it can be said to have good balance. There tends to be a single focus point in work that is not balanced properly, where the viewer is not compelled to look at the entire composition.
+1. Line
+2. Shape
+3. Form
+4. Space
+5. Color
+6. Contrast
+7. Texture
 
-Balance can be achieved through both formal and informal composition techniques. Formal composition relies on mathematical patterns that produce symmetrical duplicates. Informal compositions tend to be asymmetrical, and rely on other principles such as dominance and scale to achieve balance.
+If you have ever taken an art class in a primary or secondary education curriculum, you were most likely taught those principles and elements to make images. The elements may be specific to visual accuity, however, the principles of design aren't restricted image making. They can be used with sound, architecture, fashion, interactive media, experience design, and other types of design. Common principles of design \[1\] are as follows:
 
-### Dominance, emphasis, and focal point
+1. Balance
+2. Dominance, emphasis, and focal point
+3. Movement
+4. Repetition, Rhythm, Pattern
+5. Proportion and scale
+6. Variety and variation
+7. Unity/Harmony
 
-This key principle is responsible for drawing a viewer's attention. An image can have more than one focal point, and a master painter could use the shifting of focus as a means to tell a story.
+But what about designing a government regulation, or designing a medical form? To make designing in these areas possible, we will surely need guiding principles. In the book, _Universal Principles of Design_, written by William Lidwell, Kritina Holden, and Jill Butler, 125 principles are listed.
 
-### Movement
 
-### Repetition, Rhythm, Pattern
 
-### Proportion and scale
 
-### Variety and variation
+## Judging on Aesthetics
 
-### Unity/Harmony
+One common way to make a judgement about a creative work is through Formal Analysis. To make your feedback understandable by others, there are three steps you can follow:
 
-[http://www.getty.edu/education/teachers/building\_lessons/principles\_design.pdf](http://www.getty.edu/education/teachers/building_lessons/principles_design.pdf)
-
-## Elements of Visual Design
-
-### Line
-
-A line is a two dimensional element, often referred to as a mark.
-
-* Implied: Sometimes the way two solid areas of color collide to form an implied line.
-* Outlines: edge that defines the shape and space of a subject.
-* Attributes of a line: Integrity \(solid or broken\), thickness, direction, complexity \(straightness\).
-
-### Shape
-
-* Geometric
-* Organic
-
-### Form
-
-### Space
-
-### Color
-
-* Hue
-  * Determined by the part\(s\) of the visible light spectrum
-* Saturation/Intensity
-  * Purity of a color
-  * Brightness or dullness of a color
-* Value
-  * Lightness or darkness of a color
-
-### Contrast
-
-Two elements placed in close proximity with opposing qualities creates contrast. Contrast is often used to direct focus
-
-### Texture
-
-* Real
-* Implied
-
-## Formal analysis
-
-When analyzing and critiquing visual work, there are three things to take into account that will make your feedback understandable by others:
-
-1. Name the formal element
-2. Describe what it is doing
+1. Identitfy and name the formal element
+2. Describe how it is being used
 3. Discuss the effect it has with respect to the entire work.
 
 Perception
 
-## Gestalt
+Gestalt
+
+
+
+## Citations
+
+1. [http://www.getty.edu/education/teachers/building\_lessons/principles\_design.pdf](http://www.getty.edu/education/teachers/building_lessons/principles_design.pdf)
+
+## 
 
 
 
