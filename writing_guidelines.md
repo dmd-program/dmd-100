@@ -5,6 +5,7 @@
 To do:
 
 1. Critical distance
+2. Writing context
 
 ## Drafts
 
