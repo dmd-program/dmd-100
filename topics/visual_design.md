@@ -30,19 +30,6 @@ One common way to make a judgement about a creative work is through Formal Analy
 2. Describe how it is being used
 3. Discuss the effect it has with respect to the entire work.
 
-
-But what about designing a government regulation, or designing a medical form? To make designing in these areas possible, we will surely need guiding principles. In the book, _Universal Principles of Design_, written by William Lidwell, Kritina Holden, and Jill Butler, 125 principles are listed.
-
-
-
-
-
-Perception
-
-Gestalt
-
-
-
 ## Citations
 
 1. [http://www.getty.edu/education/teachers/building\_lessons/principles\_design.pdf](http://www.getty.edu/education/teachers/building_lessons/principles_design.pdf)
