@@ -8,7 +8,7 @@ In this chapter, Grudin makes a distinction between painting styles of Adolf Hit
 
 ## **Writing guidelines**
 
-1. Write a response to the writing prompt on your course blog.
+1. Write a response to the writing prompt.
 2. Length: \(150-300 words\)
 3. Check for spelling and grammar.
 4. Choose clear and concise wording.
