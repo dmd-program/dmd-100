@@ -1,16 +1,17 @@
 # Face to Face with Design
 
-**Read:**
+Face to Face with Design \(p. 62-82\) in Design and Truth by Robert Grudin
 
-Face to Face with Design (p. 62-82) in Design and Truth by Robert Grudin
+## **Writing prompt**
 
-**Writing prompt:**
+In this chapter, Grudin talks about fixing and designing material objects which had some meaning in his life. Now think of a time that you designed or fixed something that you had a meaningful connection with. Describe it.
 
-In this chapter, Grudin...
+## **Writing guidelines**
 
-**Writing guidelines:**
-
-1. Write a response to the writing prompt on your course blog.
-2. Length: (150-300 words)
+1. Write a response to the writing prompt.
+2. Length: \(150-300 words\)
 3. Check for spelling and grammar.
 4. Choose clear and concise wording.
+
+
+
