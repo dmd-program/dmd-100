@@ -6,6 +6,8 @@ In fictional film or literature, character types are used to help viewers to emp
 
 In the process of characterization, a writer will construct traits of a character according to how they will serve the story's plot requirements. Characters are often inspired by people from real life, but often become simplified, combined, and adapted as needed.
 
+See [tvtropes.org wiki](http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes) for an expansive collection of characterization tropes.
+
 ## Types \(tropes\) in fictional stories
 
 Character types are often one or a combination of the following:
@@ -22,8 +24,6 @@ Character types are often one or a combination of the following:
 10. **Stock character:** Archetypal, stereotypical, and flat.
 11. **Foil character:** Typically contrasts the main character in qualities and values so that we may learn more about the main character.
 12. **Symbolic character:** This character represents an abstract concept like "hope" or "justice."
-
-See [tvtropes.org wiki](http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes) for an expansive collection of character tropes.
 
 ## Character profile
 
