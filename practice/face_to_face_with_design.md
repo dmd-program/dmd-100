@@ -4,7 +4,7 @@ Face to Face with Design \(p. 62-82\) in Design and Truth by Robert Grudin
 
 ## **Writing prompt**
 
-In this chapter, Grudin talks about fixing and designing material objects which had some meaning in his life. Now think of a time that you designed or fixed something that you had a meaningful connection with. Describe it.
+In this chapter, Grudin talks about fixing and designing material objects which had some meaning in his life. Now think of a time that you designed or fixed something that you had a meaningful connection with. Describe the experience.
 
 ## **Writing guidelines**
 
