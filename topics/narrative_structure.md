@@ -10,13 +10,19 @@ A story is a sequence of events and can be temporal \(happen within the viewer's
 
 Below, I have written a story \(based on real events\). I then described the plot of the story, and used written narrative to tell the story.
 
-**Story:** \(1\) A new family sets off on a voyage. \(2\) Their baby gets sick \(3\) Their vessel takes on water. \(4\) They call for help. \(5\) They get rescued and face public scrutiny
+#### **Story**
 
-**Plot:** A young husband and wife a newborn child and plan to cross the Pacific Ocean in their sailboat, a journey they have done many times. They take all necessary precautions before the trip. Despite being cleared for travel, their baby gets a fever. There is a harsh storm that damages their sailboat and it begins taking on water. With a damaged boat, a sick child, and no means of communication, they turn on a rescue beacon. The rescue team arrives in helicopter and they abandon their sailboat.
+ \(1\) A new family sets off on a voyage. \(2\) Their baby gets sick \(3\) Their vessel takes on water. \(4\) They call for help. \(5\) They get rescued and face public scrutiny
 
-**Written Narrative for Story:** ...
+#### **Plot**
 
-## Narrative structure
+A young husband and wife a newborn child and plan to cross the Pacific Ocean in their sailboat, a journey they have done many times. They take all necessary precautions before the trip. Despite being cleared for travel, their baby gets a fever. There is a harsh storm that damages their sailboat and it begins taking on water. With a damaged boat, a sick child, and no means of communication, they turn on a rescue beacon. The rescue team arrives in helicopter and they abandon their sailboat.
+
+#### **Written Narrative for Story**
+
+...
+
+### Narrative structure
 
 A narrative structure orders or disorders the events of a story for the audience, and combines those events with plot. A linear narrative is chronological, whereas a non-linear narrative is non-chronological. There are commonly used frameworks for storytelling which started with Aristotle's three part structure consisting of a beginning, middle, and end. From there, structures become more nuanced and descriptive.
 
@@ -130,7 +136,7 @@ In this linear structure, a user must complete node's requirements to continue t
 
 ##### Hero's journey
 
-![Hero's Journey Strucutre](../assets/narrative-journey-structure.png)  
+![Hero&apos;s Journey Strucutre](../assets/narrative-journey-structure.png)  
 In this linear structure, a user would follow the twelve stages of the hero's journey. However, there can be fewer or additional stages and still be considered a journey structure. Some stories continue around this path, creating a continuous.
 
 ##### Parallel worlds
