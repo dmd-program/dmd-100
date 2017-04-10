@@ -1,14 +1,12 @@
 # Character
 
-In fictional film or literature, character types are used to help viewers to empathize with the story. A person's character typically refers to the qualities they possess. However, a character can also be an animal, object, or abstraction in a story. Objects are often represented through anthropomorphism, where human attributes are applied to a non-human. According to an [explainer video about animated light](https://www.youtube.com/watch?v=xf0WjeE6eyM) for the movie, Akira, the city itself was considered to be a character. Other examples of non-human characters include an Lightning McQueen from [Cars (2006)](http://www.imdb.com/title/tt0317219/) and a homicidal car tire named Robert in the movie [Rubber (2010)](http://www.imdb.com/title/tt1612774/).
+In fictional film or literature, character types are used to help viewers to empathize with the story. A person's character typically refers to the qualities they possess. However, a character can also be an animal, object, or abstraction in a story. Objects are often represented through anthropomorphism, where human attributes are applied to a non-human. According to an [explainer video about animated light](https://www.youtube.com/watch?v=xf0WjeE6eyM) for the movie, Akira, the city itself was considered to be a character. Other examples of non-human characters include an Lightning McQueen from [Cars \(2006\)](http://www.imdb.com/title/tt0317219/) and a homicidal car tire named Robert in the movie [Rubber \(2010\)](http://www.imdb.com/title/tt1612774/).
 
 ## Characterization
 
 In the process of characterization, a writer will construct traits of a character according to how they will serve the story's plot requirements. Characters are often inspired by people from real life, but often become simplified, combined, and adapted as needed.
 
-See [tvtropes.org wiki](http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes) for an expansive collection of character tropes.
-
-## Types (tropes) in fictional stories
+## Types \(tropes\) in fictional stories
 
 Character types are often one or a combination of the following:
 
@@ -25,35 +23,39 @@ Character types are often one or a combination of the following:
 11. **Foil character:** Typically contrasts the main character in qualities and values so that we may learn more about the main character.
 12. **Symbolic character:** This character represents an abstract concept like "hope" or "justice."
 
+See [tvtropes.org wiki](http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes) for an expansive collection of character tropes.
 
 ## Character profile
 
-Creating a character profile is helpful to describe the way in which a character connects with and supports the telling of a story. 
+Creating a character profile is helpful to describe the way in which a character connects with and supports the telling of a story.
 
 1. Importance to story
-  - What role does the character play?
-  - Characterization types
+   * What role does the character play?
+   * Characterization types
 2. Physical Attributes
-  - Name, Age, Gender
-  - Markings, tattoos
-  - Abilities, disabilities
-  - Race/Ethnicity
+   * Name, Age, Gender
+   * Markings, tattoos
+   * Abilities, disabilities
+   * Race/Ethnicity
 3. Inner struggle and journey
-  - What motivates the character?
-  - What does the character want more than anything?
-  - What do they fear most?
-  - How do they hide their true selves from the world?
-  - What would they want to be remembered for?
-  - What do they learn by the end of the story?
+   * What motivates the character?
+   * What does the character want more than anything?
+   * What do they fear most?
+   * How do they hide their true selves from the world?
+   * What would they want to be remembered for?
+   * What do they learn by the end of the story?
 4. Personality
-  - Unique trait
-  - Strengths
-  - Weaknesses
-  - Critical flaw that impacts the story
-  - Behaviors and actions
-  - Back story that explains why they are this way
+   * Unique trait
+   * Strengths
+   * Weaknesses
+   * Critical flaw that impacts the story
+   * Behaviors and actions
+   * Back story that explains why they are this way
 5. Story interaction
-  - Internal conflicts
-  - External conflicts
-  - Meetings with other characters
-  - How are character flaws introduced into the story?
+   * Internal conflicts
+   * External conflicts
+   * Meetings with other characters
+   * How are character flaws introduced into the story?
+
+
+
