@@ -71,7 +71,6 @@
     * [Story structure](topics/narrative_structure.md)
     * [Story development](topics/organizing_story_development.md)
     * [Character](topics/character.md)
-    * [Audience](topics/audience.md)
     * [Hypertext](topics/hypertext.md)
     * [Media](topics/narrative-media.md)
   * Listening
@@ -171,6 +170,7 @@
     * [Prototype](toolkit/prototype.md)
     * [Insights](toolkit/insights.md)
     * [Journey map](toolkit/journey_map.md)
+  * [Audience](topics/audience.md)
   * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
   * [Toolkit Design Project](projects/toolkit_design_project.md)
   * [Everything is a Remix](topics/everything_is_a_remix.md)
