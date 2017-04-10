@@ -6,9 +6,9 @@ Meaning, however, cannot be created and widely distributed to people without goi
 
 A poorly delivered story presents us with what we can think of as a bad argument – that is that this story is not reasonable, I don't care about it, and it doesn't appeal to my sense of identity. Skepticism of new ideas can be assuaged with the persuasive argument's appeal to logic \(logos\), emotions \(pathos\), and ethics \(ethos\). What is reasonable, emotionally moving, and indicative of a someone's sensibilities is often specific to one point in history; from one culture to another; and from one person to another. For many, however, the appeal to emotion seems to be the driving force of an effective story, often moving viewers past logical or ethical shortcomings that may be present.
 
-You can read, watch, interact with, or listen to a new story every day for the rest of your life. Social media technology gives marketers the power to directly market stories according to a person's existing beliefs and interests, thereby surrounding a person in only the stories that support the reality they have already bought into. What effects might people believing in different realities have on a given society's ability to organize and govern?
-
 Great storytellers can have great impact. Storytelling does more than just help people understand the world. It motivates great action to be taken, moving an imagined dream into being. In this way, people who create and disseminate stories have a tremendous amount of power to shape the world. With this power comes an implicit contract with your audience – that what they are experiencing is authentic in a manner that allows them to understand a deeper truth.
+
+A person can now read, watch, interact with, or listen to a new story every day for the rest of their life. Social media technology gives marketers the power to directly market stories according to a person's existing beliefs and interests, thereby surrounding a person in only the stories that support the reality they have already bought into. What effects might this have on a given society's ability to organize and govern when its inhabitants have determined different interpretations of reality to be the "truth"?
 
 ## Story and object
 
