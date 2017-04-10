@@ -8,11 +8,11 @@ A story is a sequence of events and can be temporal \(happen within the viewer's
 
 ### Example Story:
 
-Below, I have written a story \(based on real events\). I then described the plot of the story, and used written narrative to tell the story.
+Below, I have written a story \(based on real events\). I then described the plot of the story, and used written narrative to tell a single moment in the story from a third person perspective.
 
 #### **Story**
 
- \(1\) A new family sets off on a voyage. \(2\) Their baby gets sick \(3\) Their vessel takes on water. \(4\) They call for help. \(5\) They get rescued and face public scrutiny
+\(1\) A new family sets off on a voyage. \(2\) Their baby gets sick \(3\) Their vessel takes on water. \(4\) They call for help. \(5\) They get rescued and face public scrutiny
 
 #### **Plot**
 
@@ -20,7 +20,7 @@ A young husband and wife a newborn child and plan to cross the Pacific Ocean in 
 
 #### **Written Narrative for Story**
 
-...
+"The waves have been crashing against the hull for hours. This has to be the worst storm we've ever sailed through," Joe thought to himself. To his horror, water begin to pour in through a crack at the base of the mast. He pulled the bright orange emergency beacon out of it's case and looked at it. He looked over at his wife, who was sitting at the back of the cabin, cradling their infant. "If we turn the beacon on, it's all over," he yelled. She nodded, confirming what was at stake. After all, it wasn't just a boat, it was also their home and they were about to abandon it forever.
 
 ### Narrative structure
 
