@@ -8,6 +8,10 @@ When drafting a story, it is often best to convey information and ideas indirect
 
 You can extrapolate this concept to practically everything you make. You want to let your viewers choose to connect the dots or leave some dots unconnected. If you don't give their brain any work to do, it can make for an extremely dull experience. Ask them to do too much work, and you risk giving them an experience that is confusing and frustrating.
 
+### Audience
+
+The audience is who are you writing the story for, and the way you put together the story elements should have your audience in mind. Story genre fan bases are essentially consumer markets. When a storyteller is complicit with fan service \(fulfills the expectations of fans\), it means they are catering to a market that buys a particular kind of story, which tend to be valued more by publishers as products rather than creative and expressive works. This exists heavily in literature, film, cartoons, video games, and other forms of media.
+
 ### Story Elements
 
 #### Setting/environment
@@ -48,6 +52,4 @@ Who is telling the story? Who are you experiencing the story through? Depending 
 ## Narrative media
 
 There are too many types of media to list here, but any method of communicating to a person is a type of media. For the purposes of this topic, an interactive digital hypertext narrative \(an HTML page with hyperlinks\) will be the type of media used to provide an experience for viewers of your story. Unlike single-source media, **trans-media** refers to the idea that a narrative is communicated and experienced across multiple forms of media. A good example of a trans-media narrative project is documented in the film, [The Institute \(2013\)](http://www.theinstitutemovie.com). In the film, fictional and non-fiction stories unfold through a wide array of media including paper fliers, physical installations and puzzles, radio programs, organized events, video recordings, phone calls, and others.
-
-
 
