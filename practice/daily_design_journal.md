@@ -22,7 +22,7 @@ In this activity, you will document a least one object each day for two weeks us
 
 ## Instructions
 
-1. Visually document one object that you come into contact with each day for two weeks \(14 objects total\). You can draw, write, sketch, collage, pin, or post about the object. Write contextual notes about the objects' materials, dimensions, if they were gifts, where you got it from, etc.
+1. Visually document one object that you come into contact with each day for two weeks \(14 objects total\). You can draw, write, sketch, or collage about the object. Write contextual notes about the objects' materials, dimensions, if they were gifts, where you got it from, etc.
 2. Write your responses to the prompt questions.
 
 ## Report in
