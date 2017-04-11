@@ -14,6 +14,7 @@
     * [Documentation Guidelines](toolkit/documentation_guidelines.md)
     * [Writing Guidelines](writing_guidelines.md)
   * [Grading](grading.md)
+  * [About this course](topics/about-this-course.md)
 * [Lesson 1: What is Design?](lessons/introduction.md)
   * [Introduction](lessons/what-is-design/introduction.md)
   * [Outlandish Introductions](icebreakers/outlandish_introductions.md)
