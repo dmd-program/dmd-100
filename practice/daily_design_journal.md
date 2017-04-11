@@ -27,7 +27,7 @@ In this activity, you will document a least one object each day for two weeks us
 
 ## Report in
 
-1. Submit scans, images, or a link to a digital journal in the course submission system.
+1. Submit scans or images in the course submission system.
 2. Submit the prompt responses to the course submission system.
 
 
