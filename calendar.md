@@ -160,7 +160,9 @@
   * Chapter 11 from Design and Truth by Robert Grudin
 
 * Listening
+
   * Podcast:
+
 * Activities
   * Chapter 11 Reading response
 * Open Toy Project

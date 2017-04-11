@@ -2,7 +2,7 @@
 
 In this lesson, you will learn about how design thinking, systems thinking, and critical thinking play important roles in the process of design and the complex implications that design has for the world. The double diamond design process will be introduced, and will be applied to projects in later lessons. You will have a daily design journal activity that spans two weeks, culminating in a personal reflection writing. Design-related podcasts have been selected that talk about design issues.
 
-You will also begin reading the book, _Design and Truth_, by Robert Grudin. This book attempts to describe what design is and connect it to philisophy and ethics.
+You will also begin reading the book, _Design and Truth_, by Robert Grudin. This book attempts to describe what design is and connect it to philosophy and ethics.
 
 ![Photo of book, Design and Truth by Robert Grudin](/assets/design-and-truth-book@2x.jpg)
 
