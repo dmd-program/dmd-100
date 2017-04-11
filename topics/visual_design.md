@@ -2,7 +2,7 @@
 
 ## Aesthetics
 
-Why would someone want to take up their desk space with a small potted plant or hang a painting on the wall in their aparment? An aesthetic is a set of principles and elements that describe a creative work, locating the intended or emergent language and subjective beauty. Aesthetic language can impact a person's mood, comprehension, productivity, and heavily influence behavior. In visual design, an aesthetic langugage in constructed from elements that are organized based upon how humans see with their eyes. Elements of Visual Design include:
+Why would someone want to take up their desk space with a small potted plant or hang a painting on the wall in their apartment? An aesthetic is a set of principles and elements that describe a creative work, locating the intended or emergent language and subjective beauty. Aesthetic language can impact a person's mood, comprehension, productivity, and heavily influence behavior. In visual design, an aesthetic language in constructed from elements that are organized based upon how humans see with their eyes. Elements of Visual Design include:
 
 1. Line
 2. Shape
@@ -26,7 +26,7 @@ If you have ever taken an art class in a primary or secondary education curricul
 
 One common way to make a judgement about a creative work is through Formal Analysis. To make your feedback understandable by others, there are three steps you can follow:
 
-1. Identitfy and name the formal element
+1. Identify and name the formal element
 2. Describe how it is being used
 3. Discuss the effect it has with respect to the entire work.
 
