@@ -6,13 +6,15 @@ A story is a sequence of events and can be temporal \(happen within the viewer's
 * **Plot:** Creates meaning by connecting story events with context.
 * **Narrative:** Method of telling story.
 
+Watch Kurt Vonnegut's humorous lecture on storytelling. [Shapes of Stories \(4:36\)](https://www.youtube.com/watch?v=oP3c1h8v2ZQ)
+
 ### Example Story:
 
 Below, I have written a story \(based on real events\). I then described the plot of the story, and used written narrative to tell a single moment in the story from a third person perspective.
 
 #### **Story**
 
-\(1\) A new family sets off on a voyage. \(2\) Their baby gets sick \(3\) Their vessel takes on water. \(4\) They call for help. \(5\) They get rescued and face public scrutiny
+\(1\) A new family sets off on a routine, but potentially dangerous voyage. \(2\) Their baby gets sick \(3\) Their vessel takes on water. \(4\) They call for help. \(5\) They get rescued and face public scrutiny
 
 #### **Plot**
 
@@ -23,8 +25,6 @@ A young husband and wife a newborn child and plan to cross the Pacific Ocean in 
 "The waves have been crashing against the hull for hours. This has to be the worst storm we've ever sailed through," Joe thought to himself. To his horror, water begin to pour in through a crack at the base of the mast. He pulled the bright orange emergency beacon out of it's case and looked at it. He looked over at his wife, who was sitting at the back of the cabin, cradling their infant. "If we turn the beacon on, it's all over," he yelled. She nodded, confirming the heavy weight of the decision. After all, it wasn't just a boat, it was also their home and they were about to abandon it. Forever.
 
 ### Narrative structure
-
-Watch Kurt Vonnegut's humorous lecture on storytelling. [Shapes of Stories \(4:36\)](https://www.youtube.com/watch?v=oP3c1h8v2ZQ)
 
 A narrative structure orders or disorders the events of a story for the audience, and combines those events with plot. A linear narrative is chronological, whereas a non-linear narrative is non-chronological. There are commonly used frameworks for storytelling which started with Aristotle's three part structure consisting of a beginning, middle, and end. From there, structures become more nuanced and descriptive.
 
