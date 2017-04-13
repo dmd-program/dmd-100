@@ -40,12 +40,12 @@ One common way to make a judgement about a creative work is through Formal Analy
 
 #### Example of formal analysis
 
-"The _blue_ area _above the figure_ seems to _give me a sense that we are outdoors_ with a clear sky above. This gives the image a _brighter and positive feeling_."
+"The _blue_ area _above the figure_ seems to _give me a sense that we are outdoors_ with a clear sky above. This gives the image a _bright and positive feeling_."
 
 * **Formal element:** blue
 * **How it is being used:** above the figure 
 * **Effect:** ...we are outdoors
-  , ...brighter and positive feeling
+  , ...bright and positive feeling
 
 ## Citations
 
