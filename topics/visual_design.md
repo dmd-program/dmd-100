@@ -49,7 +49,7 @@ One common way to make a judgement about a creative work is through Formal Analy
 * **Effect:** ...we are outdoors
   , ...bright and positive feeling
 
-## Typographic Design
+## Typography
 
 Typography is an ancient field that employed typographers who were specialists in the craft of arranging type for the purpose of communicating written language. These specialists invented and understood every facet of working with type and were the only ones capable of producing it–they were both designers and the gatekeepers for what was produced. In contrast, the advent and availability of digital word processing applications have made typography accessible to everyone, and the knowledge of type's design nuances are lost on all but those who work at digital type studios and well-trained graphic designers.
 
