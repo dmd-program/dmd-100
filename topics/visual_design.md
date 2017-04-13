@@ -1,6 +1,8 @@
 # Aesthetics
 
-Why would someone want to take up their desk space with a small potted plant? Why would a person hang a painting on the wall in their apartment? Why would they buy a red chair? The answer lies in the emotional consequence of aesthetics. An aesthetic is a set of principles and elements that describe a creative work, locating the intended or emergent language and subjective beauty. Aesthetic language can impact a person's mood, comprehension, productivity, and heavily influence behavior.
+> A certain painter, not without some reputation at the present day, once wrote a little book on the art he practises, in which he gave a definition of that art so succinct that I take it as a point of departure for this essay. “The art of painting,” says that eminent authority, “is the art of imitating solid objects upon a flat surface by means of pigments.” It is delightfully simple, but prompts the question—Is that all? And, if so, what a deal of unnecessary fuss has been made about it. \[2\]
+
+Why would someone want to take up their desk space with a small potted plant? Why would a person hang a painting on the wall in their apartment? Why would they buy a red chair? The answer lies in the emotional consequence of aesthetics. An aesthetic is a set of principles and elements that are used to describe a creative work, locating the intended or emergent language and subjective beauty. Aesthetics can impact a person's mood, comprehension, productivity, and heavily influence behavior.
 
 ## Language of aesthetics
 
@@ -30,7 +32,7 @@ These lists form the basis of a language around talking about design, and help u
 
 ### Formal analysis
 
-One common way to make a judgement about a creative work is through Formal Analysis. This type of analysis is based entirely on what the viewer sees, and forgoes cultural and historical contexts. One advantage of this is that it helps to make feedback understandable by others. There are three steps to conduct a formal analysis:
+One common way to make a judgement about a creative work is through Formal Analysis. This type of analysis is based entirely on what the viewer sees, and forgoes cultural and historical contexts. Something that is formally ugly can be conceptually beautiful, and something formally beautiful can be vapid and tasteless. One advantage of this is that it helps to make feedback understandable by others. There are three steps to conduct a formal analysis:
 
 1. Identify and name the formal element
 2. Describe how it is being used
