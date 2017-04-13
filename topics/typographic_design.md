@@ -12,16 +12,6 @@ The printing press fundamentally changed how knowledge was recorded and dissemin
 
 ## Typefaces
 
-Before digital tools, type foundaries produces metal type, kept in type cases.
-
-Painting and drawing
-
-Calligraphy
-
-Scribes wrote books
-
-### Notable typefaces
-
 1. Blackletter typeface
 2. Roman - Jenson, Caslon
 3. Italics - Invented by Aldus Manutius
