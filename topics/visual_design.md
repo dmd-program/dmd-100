@@ -1,8 +1,10 @@
-# Visual design
+# Aesthetics
 
-## Aesthetics
+Why would someone want to take up their desk space with a small potted plant or hang a painting on the wall in their apartment? An aesthetic is a set of principles and elements that describe a creative work, locating the intended or emergent language and subjective beauty. Aesthetic language can impact a person's mood, comprehension, productivity, and heavily influence behavior. 
 
-Why would someone want to take up their desk space with a small potted plant or hang a painting on the wall in their apartment? An aesthetic is a set of principles and elements that describe a creative work, locating the intended or emergent language and subjective beauty. Aesthetic language can impact a person's mood, comprehension, productivity, and heavily influence behavior. In visual design, an aesthetic language in constructed from elements that are organized based upon how humans see with their eyes. Elements of Visual Design include:
+## Visual Design
+
+In visual design, an aesthetic language in constructed from elements that are organized based upon how humans see with their eyes. Elements of Visual Design include:
 
 1. Line
 2. Shape
@@ -12,7 +14,7 @@ Why would someone want to take up their desk space with a small potted plant or 
 6. Contrast
 7. Texture
 
-If you have ever taken an art class in a primary or secondary education curriculum, you were most likely taught those principles and elements to make images. The elements may be specific to visual accuity, however, the principles of design aren't restricted image making. They can be used with sound, architecture, fashion, interactive media, experience design, and other types of design. Common principles of design \[1\] are as follows:
+Common principles of design \[1\] are as follows:
 
 1. Balance
 2. Dominance, emphasis, and focal point
@@ -21,6 +23,8 @@ If you have ever taken an art class in a primary or secondary education curricul
 5. Proportion and scale
 6. Variety and variation
 7. Unity/Harmony
+
+If you have ever taken an art class in a primary or secondary education curriculum, you were most likely taught those principles and elements to make images. The elements may be specific to visual acuity, however, the principles of design aren't restricted image making. They can be used with sound, architecture, fashion, interactive media, experience design, and other types of design.
 
 ### Formal analysis
 
