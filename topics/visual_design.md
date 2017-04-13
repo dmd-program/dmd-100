@@ -32,7 +32,7 @@ These lists form the basis of a language around talking about design, and help u
 
 ### Formal analysis
 
-One common way to make a judgement about a creative work is through Formal Analysis. This type of analysis is based entirely on what the viewer sees, and forgoes cultural and historical contexts. Something that is formally ugly can be conceptually beautiful, and something formally beautiful can be vapid and tasteless. One advantage of this is that it helps to make feedback understandable by others. There are three steps to conduct a formal analysis:
+One common way to make a judgement about a creative work is through Formal Analysis. This type of analysis is based entirely on what the viewer sees, and forgoes cultural and historical contexts. Something that is formally ugly can be conceptually beautiful, and something formally beautiful can be vapid and tasteless. One advantage of formal analysis is that it helps to make feedback understandable by others. There are three steps to conduct a formal analysis:
 
 1. Identify and name the formal element
 2. Describe how it is being used
