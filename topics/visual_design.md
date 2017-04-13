@@ -1,4 +1,6 @@
-# Aesthetics
+# Visual Design
+
+## Aesthetics
 
 > A certain painter, not without some reputation at the present day, once wrote a little book on the art he practises, in which he gave a definition of that art so succinct that I take it as a point of departure for this essay. “The art of painting,” says that eminent authority, “is the art of imitating solid objects upon a flat surface by means of pigments.” It is delightfully simple, but prompts the question—Is that all? And, if so, what a deal of unnecessary fuss has been made about it. \[2\]
 
