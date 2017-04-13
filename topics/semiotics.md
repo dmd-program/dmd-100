@@ -20,15 +20,13 @@ Conceptual semantics focuses on understanding how meaning is formed cognitively.
 
 ![](/assets/semiotic-triangle-1200w@2x.png)
 
-Whenever someone produces something that others will interact with, they are playing in the semiotic realm, and an understanding of these mechanics will help a designer communicate more effectively. 
+Whenever someone produces something that others will interact with, they are playing in the semiotic realm, and an understanding of these mechanics will help a designer communicate more effectively.
 
 ## Citations
 
 1. ECO, UMBERTO. “THEORY OF SIGN PRODUCTION.” A Theory of Semiotics, Indiana University Press, 1976, pp. 151–313, www.jstor.org/stable/j.ctt16xwcfd.8. René Magritte, The Treachery of Images \(1928-9\). \("This is not a pipe."\). Accessed Dec. 31, 2016. [https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948](https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948)
 2. [http://www.jfsowa.com/ontology/ontometa.htm](http://www.jfsowa.com/ontology/ontometa.htm)
 3. Lucie Guillemette and Josiane Cossette \(2006\), « The Semiotic Process and the Classification of Signs », in Louis Hébert \(dir.\), _Signo _\[online\], Rimouski \(Quebec\), [http://www.signosemio.com/eco/semiotic-process-and-classification-of-signs.asp](http://www.signosemio.com/eco/semiotic-process-and-classification-of-signs.asp).
-
-4. Image: [https://unsplash.com/photos/U9x5mG0pBiQ](https://unsplash.com/photos/U9x5mG0pBiQ)
 
 
 
