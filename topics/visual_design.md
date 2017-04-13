@@ -2,7 +2,7 @@
 
 Why would someone want to take up their desk space with a small potted plant or hang a painting on the wall in their apartment? An aesthetic is a set of principles and elements that describe a creative work, locating the intended or emergent language and subjective beauty. Aesthetic language can impact a person's mood, comprehension, productivity, and heavily influence behavior.
 
-## Visual Design
+## Language of aesthetics
 
 In visual design, an aesthetic language in constructed from elements that are organized based upon how humans see with their eyes. Elements of Visual Design include:
 
@@ -26,9 +26,7 @@ Common principles of design \[1\] are as follows:
 
 If you have ever taken an art class in a primary or secondary education curriculum, you were most likely taught those principles and elements to make images. The elements may be specific to visual acuity, however, the principles of design aren't restricted image making. They can be used with sound, architecture, fashion, interactive media, experience design, and other types of design.
 
-These lists form the basis of a language around talking about design, and help us conduct a process of formal analysis with which we can then break down a work of almost any kind.
-
-This language is flexible. For instance, we can use the term shape to refer to both a geometric or organic
+These lists form the basis of a language around talking about design, and help us conduct a process of formal analysis with which we can then break down a work of almost any kind. This language is flexible between media and modes of creative expression. For instance, we can use the term **shape** to refer to both a geometric or organic visual element or to describe the narrative arc of a story, where the shape of the narrative arc tells us about the high and low moments. We can even use shape to describe aspects of how an online course can be taught, indicating moments of passive and active engagement in learning. In this way, shape works as both a visual (physical) and a conceptual (virtual) idea. This ability of language to slip between physical and virtual spaces can be both thrilling and highly useful. 
 
 ### Formal analysis
 
