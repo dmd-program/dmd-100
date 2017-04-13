@@ -38,14 +38,19 @@ One common way to make a judgement about a creative work is through Formal Analy
 2. Describe how it is being used
 3. Discuss the effect it has with respect to the entire work.
 
-**Example:**"The blue area above the figure seems to give me a sense that we are outdoors with a clear sky above. This gives the image a brighter and positive feeling.
+#### Example of formal analysis
+
+"The _blue_ area _above the figure_ seems to _give me a sense that we are outdoors_ with a clear sky above. This gives the image a _brighter and positive feeling_."
+
+- **Formal element:** blue
+- **How it is being used:** above the figure 
+- **Effect:** ...we are outdoors
+, ...brighter and positive feeling
 
 ## Citations
 
 1. [http://www.getty.edu/education/teachers/building\_lessons/principles\_design.pdf](https://www.gitbook.com/book/dmd-program/dmd-100-sp17/edit#)
-2. [Roger Fry, “An Essay in Aesthetics” in_Vision and Design_\(orig. publ. 1920; rpt. New York: New American Library, 1974\),16-38.](https://www.gitbook.com/book/dmd-program/dmd-100-sp17/edit#)
-
-## 
+2. [Roger Fry, “An Essay in Aesthetics” in_Vision and Design_\(orig. publ. 1920; rpt. New York: New American Library, 1974\),16-38.](https://www.gitbook.com/book/dmd-program/dmd-100-sp17/edit#) 
 
 
 
