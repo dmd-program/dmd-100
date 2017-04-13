@@ -38,7 +38,7 @@
     * [Interaction design](topics/interaction_design.md)
     * [Inclusive design](inclusive-design.md)
     * [Discursive design](topics/discursive_design.md)
-    * [Aesthetics](topics/visual_design.md)
+    * [Visual design](topics/visual_design.md)
     * [Typographic design](topics/typographic_design.md)
     * [Identity design](identity-design.md)
     * [Semiotics](topics/semiotics.md)
