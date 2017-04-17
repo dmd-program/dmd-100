@@ -12,10 +12,10 @@ Martin Seligman's TED Talk on the subject of positive psychology and its relatio
 ## Materials and tools
 
 * Camera \(a smartphone camera is fine\)
-* InVisionApp account
+* InVisionApp account \(free\)
 * Graph Paper
 * Pens, pencils, markers
-* scissors
+* Scissors
 * Post-It notes
 
 
