@@ -20,10 +20,10 @@ Start the interview by asking your participant about something they do or experi
 **Example questions:**
 
 1. Tell me about your day today or a typical day in your life.
-2. Did find anything particularly challenging?
-3. Do you have any reoccurring frustrations?  
-4. If you could change something about your day, what would it be?
-5. Is there something that, if you were incredibly good at it, you could improve some aspect of your life?
+2. Do you find anything particularly challenging about your daily routine?
+   1. Do you have any reoccurring frustrations?  
+3. If you could change something about your day, what would it be?
+4. Is there something that, if only you were incredibly good at it, you could improve some aspect of your life?
    1. Why aren't you good at it?
 
 ### Step 2: Laddering: Five 'Why?'s
