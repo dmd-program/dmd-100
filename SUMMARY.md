@@ -39,7 +39,6 @@
     * [Inclusive design](inclusive-design.md)
     * [Discursive design](topics/discursive_design.md)
     * [Visual design](topics/visual_design.md)
-    * [Typographic design](topics/typographic_design.md)
     * [Identity design](identity-design.md)
     * [Semiotics](topics/semiotics.md)
   * Listening
@@ -130,10 +129,10 @@
     * [Discuss: Open Toy Critique](projects/open_design/discuss_open_toy_critique.md)
 * [Lesson 5: Artifacts for Impact](lessons/co-generative_design.md)
   * Topics
-    * [Design research](topics/design-research.md)
-    * [Design principles for human behavior](topics/design-principles-for-human-behavior.md)
     * [Positive Pyschology](topics/positive-pyschology.md)
     * Behavioral nudging
+    * [Design research](topics/design-research.md)
+    * [Design principles for human behavior](topics/design-principles-for-human-behavior.md)
     * [Learned helplessness](topics/learned-helplessness.md)
     * [Collaboration](topics/collaboration.md)
     * [Co-design](topics/co-design.md)
@@ -171,6 +170,14 @@
     * [Prototype](toolkit/prototype.md)
     * [Insights](toolkit/insights.md)
     * [Journey map](toolkit/journey_map.md)
+  * Activities
+    * [Design an Interface](practice/design_an_interface.md)
+    * [Visual Manual](practice/visual_manual.md)
+    * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
+    * [Make a Brand](practice/make_a_brand.md)
+    * Thing
+    * [Type identity](practice/type-identity.md)
+    * [Design language](practice/design-language.md)
   * [Audience](topics/audience.md)
   * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
   * [Toolkit Design Project](projects/toolkit_design_project.md)
@@ -199,12 +206,4 @@
   * [Future Living](practice/future_living.md)
   * [Interactive Story Project](projects/interactive_story_project.md)
   * [Example content w\/ OERSchema](example-content-w-oerschema.md)
-* Activities
-  * [Design an Interface](practice/design_an_interface.md)
-  * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
-  * [Make a Brand](practice/make_a_brand.md)
-  * [Type identity](practice/type-identity.md)
-  * [Design language](practice/design-language.md)
-* [Visual Manual](practice/visual_manual.md)
-* Thing
 
