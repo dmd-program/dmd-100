@@ -29,15 +29,13 @@ Start the interview by asking your participant about something they do or experi
 
 #### Laddering - Five 'Why?'s
 
-Laddering is a technique developed in the 1960s to help clinical psychologists uncover core values and beliefs. If your participant has many responses from the previous step, focus on one response. Ask your participant **why**. Asking why helps us to better understand an ambiguous issue and gets to a more emotional aspect of a problem. After they respond, ask why again. Repeat this until you have asked why five times. Asking five times is important because core issues will start to emerge around four or five levels deep. Ask about their responses specifically to avoid horizontal questions. For example, "Why else didn't you get your homework done?" is a horizontal question. "Why didn't you have enough time to complete the assignment?" is a deeper question. 
+Laddering is a technique developed in the 1960s to help clinical psychologists uncover core values and beliefs. If your participant has many responses from the previous step, focus on one response. Ask your participant **why**. Asking why helps us to better understand an ambiguous issue and gets to a more emotional aspect of a problem. After they respond, ask why again. Repeat this until you have asked why five times. Asking five times is important because core issues will start to emerge around four or five levels deep. Ask about their responses specifically to avoid horizontal questions. For example, "Why else didn't you get your homework done?" is a horizontal question. "Why didn't you have enough time to complete the assignment?" is a deeper question.
 
 ### Step 3: Recording responses
 
-* Record their responses in your journal.
-
+* Record the interviewee's responses in your journal. You don't need to write everything they say. Try to capture the key insights.
 * Make a note of any responses that led to a deeper understanding of what motivates this person?
-
-* Try not to make reference to a ritual or app during the questions that may lead the interviewee to attempt to think of solutions. The interview is about better understanding a potential user's problems.
+* The interview is about better understanding a potential user's problems. Try not to make reference to the project during the questions that may lead the interviewee to attempt to think of solutions. 
 
 ## Instructions
 
