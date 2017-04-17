@@ -24,9 +24,9 @@ Start the interview by asking your participant about something they do or experi
    1. Do you have any reoccurring frustrations?  
 3. If you could change something about your day, what would it be?
 4. Is there something that, if only you were incredibly good at it, you could improve some aspect of your life?
-   1. Why aren't you good at it?
+   1. Why aren't you good at it? \("it" should be a specific thing, see Step 2\)
 
-### Step 2: Laddering: Five 'Why?'s
+### Step 2: Laddering - Five 'Why?'s
 
 Laddering is a technique developed in the 1960s to help clinical psychologists uncover core values and beliefs. If your participant has many responses from the previous step, focus on one response. Ask your participant **why**. After they respond, ask why again. Repeat this until you have asked why five times. Asking five times is important because core issues will start to emerge around four or five levels deep. Ask about their responses specifically to avoid horizontal questions. For example, "Why else didn't you get your homework done?" is a horizontal question. "Why didn't you have enough time to complete the assignment?" is a deeper question. Record their responses in your journal.
 
