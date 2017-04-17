@@ -41,6 +41,7 @@
     * [Visual design](topics/visual_design.md)
     * [Identity design](identity-design.md)
     * [Semiotics](topics/semiotics.md)
+    * Color and composition
   * Listening
     * [99 Percent Invisible: On Average](listening/99-percent-invisible-on-average.md)
     * [99 Percent Invisible: 10,000 years](listening/99_percent_invisible_10,000_years.md)
