@@ -1,6 +1,6 @@
 # Ritual Project: Interview
 
-Field research is a central part of the human-centered design process. You will now practice field research by finding and interviewing a person who will become your target user. 
+Field research is a central part of the human-centered design process. You will now practice field research by finding and interviewing a person who will become your target user.
 
 ## Materials
 
@@ -8,7 +8,7 @@ Field research is a central part of the human-centered design process. You will 
 2. Pencil or pen
 3. Access to a communication device \(computer or phone\)
 
-## Instructions
+## Instructions guide
 
 ### Step 1: Interview Setup
 
@@ -16,9 +16,9 @@ The purpose of this interview is to better understand the day-to-day challenges 
 
 ### Step 2: Find issues
 
-Start the interview by asking your participant about something they do or experience every day that they find distracting, challenging, frustrating, or something they wish they didn't have to do. Record their responses in your journal.
+Start the interview by asking your participant about something they do or experience every day that they find distracting, challenging, frustrating, or something they wish they didn't have to do.
 
-**Example questions:**
+#### Preliminary questions
 
 1. Tell me about your day today or a typical day in your life.
 2. Do you find anything particularly challenging about your daily routine?
@@ -27,14 +27,23 @@ Start the interview by asking your participant about something they do or experi
 4. Is there something that, if only you were incredibly good at it, you could improve some aspect of your life?
    1. Why aren't you good at it? \("it" should be a specific thing, see **Laddering - Five 'Why?'s**\)
 
-### Step 3: Laddering - Five 'Why?'s
+#### Laddering - Five 'Why?'s
 
-Laddering is a technique developed in the 1960s to help clinical psychologists uncover core values and beliefs. If your participant has many responses from the previous step, focus on one response. Ask your participant **why**. Asking why helps us to better understand an ambiguous issue and gets to a more emotional aspect of a problem. After they respond, ask why again. Repeat this until you have asked why five times. Asking five times is important because core issues will start to emerge around four or five levels deep. Ask about their responses specifically to avoid horizontal questions. For example, "Why else didn't you get your homework done?" is a horizontal question. "Why didn't you have enough time to complete the assignment?" is a deeper question. Record their responses in your journal.
+Laddering is a technique developed in the 1960s to help clinical psychologists uncover core values and beliefs. If your participant has many responses from the previous step, focus on one response. Ask your participant **why**. Asking why helps us to better understand an ambiguous issue and gets to a more emotional aspect of a problem. After they respond, ask why again. Repeat this until you have asked why five times. Asking five times is important because core issues will start to emerge around four or five levels deep. Ask about their responses specifically to avoid horizontal questions. For example, "Why else didn't you get your homework done?" is a horizontal question. "Why didn't you have enough time to complete the assignment?" is a deeper question. 
 
-### Notes
+### Step 3: Recording responses
+
+* Record their responses in your journal.
 
 * Make a note of any responses that led to a deeper understanding of what motivates this person?
-* Don't make reference to app, or ask about features they want. The interview is about understanding a potential user's problems.
+
+* Try not to make reference to a ritual or app during the questions that may lead the interviewee to attempt to think of solutions. The interview is about better understanding a potential user's problems.
+
+## Instructions
+
+1. Set up the interview
+2. Ask questions to find key issue\(s\)
+3. Record the interviewee's responses in your journal
 
 ## Report in
 
