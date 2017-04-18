@@ -55,7 +55,6 @@ Groups should meet via video call. Available tools include Skype, Bluejeans, gCh
 ## Report in
 
 1. Download the PNG image from your whiteboard [https://www.webwhiteboard.com](https://www.webwhiteboard.com) and upload it to the Studio. Follow documentation guidelines.
-2. Fill out the de-brief report.
 
 
 
