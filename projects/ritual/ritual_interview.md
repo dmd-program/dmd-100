@@ -18,7 +18,7 @@ The purpose of this interview is to better understand the day-to-day challenges 
 
 Start the interview by asking your participant about something they do or experience every day that they find distracting, challenging, frustrating, or something they wish they didn't have to do.
 
-#### Preliminary questions
+#### Example questions
 
 1. Tell me about your day today or a typical day in your life.
 2. Do you find anything particularly challenging about your daily routine?
