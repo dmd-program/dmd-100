@@ -1,15 +1,13 @@
 # Brainstorm
 
-Now that you have a direction, it's time to brainstorm some ideas. Generating ideas by yourself \(AKA – in a vacuum\) can be fairly difficult if you are new to this process. Even experienced designers benefit from working in groups because typically the array of ideas generated in a discussion is far larger than when working alone. For this step, you will partner up with small groups to brainstorm ideas for each person's project.
+Now that you have a direction, it's time to brainstorm some ideas. Generating ideas by yourself \(AKA – in a vacuum\) can be fairly difficult if you are new to this process. Even experienced designers benefit from working in groups because typically the array of ideas generated in a discussion is far larger than when working alone. For this step, you will partner up with small groups to brainstorm ideas for each person's project. You will use the free tool, https://www.webwhiteboard.com, to collaboratively make a whiteboard. However, if the website is not functioning when you meet with your group, you will have to record the brainstorm with sticky notes and photograph them on a large open wall or poster board. 
 
 Groups should meet via video call. Available tools include Skype, Bluejeans, gChat, AppleFacetime, . If the video call fails do to Internet connectivity issues, follow the directions, but using a chat tool of your choice.
 
+![](/assets/k2vay57y %281%29.png)
+
 ## Materials and tools
 
-* Pen/Marker
-* Poster-board \(An area of open wall can also work\)
-* Post-it notes
-* Index card or similarly sized sticky paper
 * Computer with Webcam and steady Internet Connection
 
 ## **Roles and Rules**
@@ -19,7 +17,7 @@ Groups should meet via video call. Available tools include Skype, Bluejeans, gCh
 1. Introduce yourselves if you don't already all know each other.
 2. There will be one brainstorming round for each person in the group.
 3. Each round will focus on a different person's HMW question.
-4. Designated recorder. For each round, the person currently in focus for the discussion will be the designated recorder of the discussion, and is responsible for uploading the recorded accounts of the conversation.
+4. Designated facilitator. For each round, the person currently in focus for the discussion will be the designated recorder of the discussion, and is responsible for uploading the recorded accounts of the conversation.
 5. Spend about 10-15 minutes minutes per round. The designated recorder is responsible for keeping time.
 
 ### Brainstorming
@@ -33,18 +31,19 @@ Groups should meet via video call. Available tools include Skype, Bluejeans, gCh
 ## Instructions
 
 1. Ensure that you have read the Roles and Rules.
-2. Before the group video call, write your HMW question on a piece of sticky paper or index card and affix it to the poster board.
-3. Decide on the order you will all go. 
-4. Designated recorder: Set a timer for 15 minutes. 
-5. The designated recorder will read the HMW question to the group.
-6. The group will spend up to 15 minutes generating ideas for the HMW question.
-   1. The designated recorder will write down the ideas onto sticky notes and put them on the poster-board.
+2. Before the group video call, have your HMW question ready.
+3. Setup a group video and invite group members 
+4. Decide on the order you will all go. 
+5. Designated facilitator: Set a timer for 15 minutes. 
+6. The designated facilitator will read the HMW question to the group.
+7. The group will spend up to 15 minutes generating ideas for the HMW question.
+   1. The designated facilitator is repsonsible will write down the ideas onto sticky notes and put them on the poster-board.
    2. After 15 minutes, briefly discuss which ideas you like.
-7. When all group members have taken their turn, you are finished the brainstorming session.
+8. When all group members have taken their turn, you are finished the brainstorming session.
 
 ## Report in
 
-1. Take a picture of your poster-board of ideas and upload to the Studio. Follow documentation guidelines.
+1. Download the PNG image from your https://www.webwhiteboard.com and upload it to the Studio. Follow documentation guidelines.
 2. Fill out the de-brief report.
 
 

@@ -13,7 +13,7 @@ A journey map is great way to visualize an entire process of an interaction. By 
 7. I check to see that it had enough gasoline - it was low.
 8. I fill the fuel tank with gasoline.
 9. I start to mow the grass.
-10.  I stopped to get a drink of water halfway through, because I was dehydrated.
+10. I stopped to get a drink of water halfway through, because I was dehydrated.
 11. I emptied the grass clippings many times during the process.
 12. I eventually finished and put the lawnmower back into the garage.
 13. I contemplate the Sisyphean process of lawn-care
@@ -39,7 +39,6 @@ A journey map is great way to visualize an entire process of an interaction. By 
 3. Write down the name of any other key moments on separate Post-it notes. Try to identify as many as you can. Consider what the most critical aspects of what the experience might be. 
 4. Place the Post-it notes in order as you would likely experience them.
 5. This journey map is useful to help you communicate your experience to others and identify moments for intervention, change, and adaptation.
-6. Document your journey map with a photograph or scan and submit to the Studio.
 
 ## Report in
 
