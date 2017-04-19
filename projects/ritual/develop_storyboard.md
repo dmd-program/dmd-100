@@ -9,7 +9,6 @@ Using the ideas generated during the brainstorm, you will now map out key aspect
 * Camera or scanner
 * Printer
 
-
 ## Components of a ritual
 
 There are many descriptions available of what a ritual is, and how it functions. We will consider four key aspects as core design components for the ritual.
@@ -23,6 +22,7 @@ There are many descriptions available of what a ritual is, and how it functions.
 
 1. Download: [Ritual Storyboard Template](https://github.com/dmd-program/dmd-100-sp17/raw/master/assets/ritual-storyboard.pdf "Ritual Storyboard Download") 
 2. Write the **frame** and list all of the **triggers**, **events**, and **scripts **that comprise the ritual on the storyboard. Number the sequence to indicate the flow direction.
+   1. You can print the Ritual Storyboard PDF or use a markup tool to write directly on the digital file.
 
 ## Report in
 
