@@ -19,7 +19,7 @@ There are many descriptions available of what a ritual is, and how it functions.
 
 ## Instructions
 
-1. Download: Ritual Storyboard Template 
+1. Download: [Ritual Storyboard Template](/assets/ritual-storyboard.pdf "Ritual Storyboard") 
 2. Write the **frame** and list all of the **triggers**, **events**, and **scripts **that comprise the ritual on the storyboard.
 3. On the storyboard template, write all the triggers and events in chronological order and indicate the flow direction.
 
