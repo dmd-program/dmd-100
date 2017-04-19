@@ -21,13 +21,13 @@ There are many descriptions available of what a ritual is, and how it functions.
 ## Instructions
 
 1. Download: [Ritual Storyboard Template](https://github.com/dmd-program/dmd-100-sp17/raw/master/assets/ritual-storyboard.pdf "Ritual Storyboard Download") 
-2. Write the **frame** and list all of the **triggers**, **events**, and **scripts **that comprise the ritual on the storyboard. Number the sequence to indicate the flow direction.
+2. Write the **frame** and list all of the **triggers**, **events**, and **scripts **that comprise the ritual on the storyboard. Number the sequence to indicate the flow of the storyboard.
    1. You can print the Ritual Storyboard PDF or use a markup tool to write directly on the digital file.
 
 ## Report in
 
 1. Submit photos or scans of your journal pages to the Studio.
-2. Submit the Ritual Storyboard to the studio.
+2. Submit the Ritual Storyboard to the studio, either a marked-up PDF or scan or photo.
 
 
 
