@@ -27,7 +27,7 @@ There are many descriptions available of what a ritual is, and how it functions.
 ## Report in
 
 1. Submit photos or scans of your journal pages to the Studio.
-2. Submit the Ritual Storyboard to the studio, either a marked-up PDF or scan or photo.
+2. Submit the Ritual Storyboard to the studio, either as a marked-up PDF or scanned/photographed image.
 
 
 
