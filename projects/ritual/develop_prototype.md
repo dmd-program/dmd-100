@@ -29,12 +29,13 @@ Now that you have a storyboard, you will prototype a mobile application interfac
 ### A. Making a paper prototype
 
 1. List the parts of the storyboard that can translate into mobile application functions. For instance, if the ritual has a time component, then you can build in an timed audio cue into the prototype \(represented visually\).
-2. Create the paper interface components
-   1. In the center of the graph paper, draw a rectangle approximately 3.5 inches tall by 2 inches wide. This will define the border of the paper prototype screen.
-   2. On another sheet, draw interface elements including buttons, images, icons, and text.
+2. Find UI inspiration: http://collectui.com/, https://dribbble.com/, http://www.mobile-patterns.com/
+3. Create the paper interface components
+   1. Download and print the Mobile UI Template PDF.
+   2. Draw and cut out interface elements including buttons, images, icons, navigation, text, and other elements needed to prototype your app interface.
    3. Cut out reusable interface elements so they can be rearranged for each application screen.
    4. Arrange the components for each screen and take a picture with your phone's camera.
-3. Import images to your project folder. Crop all images to the crop area.
+4. Import images to your project folder. Crop all images to the crop area.
 
 ### B. Making an interactive prototype
 
