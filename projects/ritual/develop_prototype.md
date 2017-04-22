@@ -26,38 +26,42 @@ Now that you have a storyboard, you will prototype a mobile application interfac
 
 ## Prototyping Instructions
 
-1. Identify parts of the storyboard that can translate into mobile application functions. For instance, if the ritual has a time component, then you can build in an timed audio cue into the prototype \(represented visually\).
+### A. Making a paper prototype
+
+1. List the parts of the storyboard that can translate into mobile application functions. For instance, if the ritual has a time component, then you can build in an timed audio cue into the prototype \(represented visually\).
 2. Create the paper interface components
    1. In the center of the graph paper, draw a rectangle approximately 3.5 inches tall by 2 inches wide. This will define the border of the paper prototype screen.
    2. On another sheet, draw interface elements including buttons, images, icons, and text.
-   3. Cut out reusable interface elements so they can be rearranged for each application screen
-   4. Arrange the components for each screen and take a picture with your phone's camera
-3. Upload prototype interfaces to InvisionApp
+   3. Cut out reusable interface elements so they can be rearranged for each application screen.
+   4. Arrange the components for each screen and take a picture with your phone's camera.
+3. Import images to your project folder. Crop all images to the crop area.
+
+### B. Making an interactive prototype
+
+1. Upload prototype interfaces to InvisionApp
    1. Move the image files from your phone or camera to your computer.
    2. Crop each image to the screen border using the cropping methods suggested in the technical resources
    3. Sign into InvisionApp and create a new project. Choose the phone portrait template.
    4. Upload your cropped images to InvisionApp
    5. Build interactivity using InvisionApp's built-in hotspot and linking tools
    6. Test that all the desired interactivity is functioning
-4. Download a ZIP file of the project from the InvisionApp's project navigation bar
-5. Click the share button and choose share public link at the bottom to copy the public share link.
+2. Download a ZIP file of the project from the InvisionApp's project navigation bar
+3. Click the share button and choose share public link at the bottom to copy the public share link.
 
 ## Design Document
 
 * Start your document with the following: "**This is a prototype for an app that...**" To complete the sentence, use your brainstorming ideas and storyboard.
-* Describe the ritual in detail and how the prototype works.
-* Write clearly, and check for grammar and spelling errors
+* Describe the ritual in detail and how the prototype app is intended to work.
+* Write clearly, and check for grammar and spelling errors.
 
 ## Instructions
 
-1. Create the prototype using the prototyping instructions
+1. Create the interactive prototype using the prototyping instructions
 2. Download a ZIP archive of your prototype from InvisionApp
-3. Copy the project's  Public Share Link
+3. Copy the InvisionApp project's  Public Share Link
 4. Write a design document according to the document requirements
 
 ## Report in
 
-Upload the ZIP archive file, Public Share Link, and the design document to the Studio 
-
-
+Upload the ZIP archive file, Public Share Link, and the design document to the Studio
 
