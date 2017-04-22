@@ -16,13 +16,15 @@ There are many descriptions available of what a ritual is, and how it functions.
 1. **Script:** The script describes the triggers and the associated events.
 2. **Frame:** The frame is the mental model that suggests what the ritual's purpose is, and what the intended outcome is. Instead of writing, "I play boardgames with my family on Sunday," you would add context for why the ritual is important and instead write, "Family Board-game Day transforms Sunday afternoons into time for positive interactions with my family."
 3. **Trigger:** A trigger could be a time of day, the onset of a certain feeling, or some other moment that initiates the ritual, and the ritual's related events. For example, "It's Sunday afternoon" is a trigger to start the ritual. "Sunday afternoon is over," indicates that it's time to stop the ritual.
-4. **Event:** An event is any action or performance that occurs in the ritual. Indication to start an event comes from a trigger or script. Example events include, "Vote on which board-game to play" and, "Play the board-game until everyone is wants to stop."  
+4. **Event:** An event is any action or performance that occurs in the ritual. Indication to start an event comes from a trigger or script. Example events include, "Gather in the game room",  and "choose which board-game to play".
 
 ## Instructions
 
 1. Download: [Ritual Storyboard Template](https://github.com/dmd-program/dmd-100-sp17/raw/master/assets/ritual-storyboard.pdf "Ritual Storyboard Download") 
 2. Write the **frame** and list all of the **triggers**, **events**, and **scripts **that comprise the ritual on the storyboard. Number the sequence to indicate the flow of the storyboard.
    1. You can print the Ritual Storyboard PDF or use a markup tool to write directly on the digital file.
+
+![](/assets/ritual-storyboard.jpg)
 
 ## Report in
 
