@@ -8,6 +8,7 @@ Using the ideas generated during the brainstorm, you will now map out key aspect
 * Journal
 * Camera or scanner
 * Printer
+* [Ritual Storyboard Template](https://github.com/dmd-program/dmd-100-sp17/raw/master/assets/ritual-storyboard.pdf "Ritual Storyboard Download")
 
 ## Components of a ritual
 
