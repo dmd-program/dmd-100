@@ -28,26 +28,27 @@ Now that you have a storyboard that describes the various components of the ritu
 
 ### A. Making a paper prototype
 
-1. List the parts of the storyboard that can translate into mobile application functions. For instance, if the ritual has a time component, then you can build in an timed audio cue into the prototype \(represented visually\).
-2. Find UI inspiration: [http://collectui.com/](http://collectui.com/), [https://dribbble.com/](https://dribbble.com/), [http://www.mobile-patterns.com/](http://www.mobile-patterns.com/)
-3. Create the paper interface components
+1. 2. List the parts of the storyboard that can translate into mobile application functions. For instance, if the ritual has a time component, then you can build in an timed audio cue into the prototype \(represented visually\).
+3. Find UI inspiration: [http://collectui.com/](http://collectui.com/), [https://dribbble.com/](https://dribbble.com/), [http://www.mobile-patterns.com/](http://www.mobile-patterns.com/)
+4. Create the paper interface components
    1. Download and print the Paper Prototyping PDF.
    2. Draw and cut out interface elements including buttons, images, icons, navigation, text, and other elements needed to prototype your app interface.
    3. Cut out reusable interface elements so they can be rearranged for each application screen.
    4. Arrange the components for each screen and take a picture with your phone's camera.
-4. Import images to your project folder. Crop all images to the crop area.
+5. Import images to your project folder. Crop all images to the crop area.
 
 ### B. Making an interactive prototype
 
-1. Upload prototype interfaces to InvisionApp
+1. See example prototype: https://invis.io/V8BEQKLWN 
+2. Upload prototype interfaces to InvisionApp
    1. Move the image files from your phone or camera to your computer.
    2. Crop each image to the screen border using the cropping methods suggested in the technical resources
    3. Sign into InvisionApp and create a new project. Choose the phone portrait template.
    4. Upload your cropped images to InvisionApp
    5. Build interactivity using InvisionApp's built-in hotspot and linking tools
    6. Test that all the desired interactivity is functioning
-2. Download a ZIP file of the project from the InvisionApp's project navigation bar
-3. Click the share button and choose share public link at the bottom to copy the public share link.
+3. Click on the More button \(three dots\) and click **Download Prototype.** Choose the export a ZIP file of the project.
+4. Click the share button and choose share public link at the bottom to copy the public share link.
 
 ## Design Document
 
