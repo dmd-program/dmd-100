@@ -67,7 +67,7 @@
     * [Discuss: Ritual Project Critique](projects/discuss-ritual-project-critique.md)
 * Lesson 3: Storytelling
   * [Introduction](lessons/narrative/introduction.md)
-  * Topics
+  * [Topics](lessons/narrative/topics.md)
     * [Why stories?](topics/narrative.md)
     * [Story structure](topics/narrative_structure.md)
     * [Story development](topics/organizing_story_development.md)
