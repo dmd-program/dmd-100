@@ -24,7 +24,7 @@ Who is telling the story? Who are you experiencing the story through? Depending 
 
 1. First person: \(I, we\)
 2. Second person: \(you\)
-3. Third person:\(he, she, they\)
+3. Third person: \(he, she, they\)
 
 #### Character
 
