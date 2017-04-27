@@ -62,7 +62,7 @@ These lists were not meant to be hard rules that apply to everything, but they c
 
 ## Citations
 
-1. https://www.vitsoe.com/us/about/good-design \(Commons CC-BY-NC-ND 4.0\)
+1. [https://www.vitsoe.com/us/about/good-design](https://www.vitsoe.com/us/about/good-design) \(Commons CC-BY-NC-ND 4.0\)
 2. Wade, Nick. Braun RT 40 Radio by Dieter Rams. [https://www.flickr.com/photos/nickwade/4123875041](https://www.flickr.com/photos/nickwade/4123875041)
 3. [http://www.intrastructures.net/Intrastructures/About\_-\_how\_we\_define\_design..html](http://www.intrastructures.net/Intrastructures/About_-_how_we_define_design..html)
 
