@@ -1,6 +1,6 @@
 # Twine tutorial: Getting started with Twine
 
-In this tutorial, you will be guided through the steps to create a simple hyptertext Twine story.
+In this tutorial, you will be guided through the steps to create a simple hypertext Twine story.
 
 ## Creating linked passages
 
