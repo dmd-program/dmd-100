@@ -82,14 +82,14 @@
     * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
   * Project
     * [Hypertext Narrative Introduction](projects/narrative/narrative_project_social_design_option.md)
-    * Tutorials
-      * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
     * [Discover: Word-pairs](projects/narrative/discover_focus_words.md)
     * [Define: The way it was](projects/narrative/define_the_way_it_was.md)
     * [Develop: Story and Plot](projects/narrative/develop_story_and_plot.md)
     * [Deliver: Iterate](projects/narrative/deliver_iterate.md)
     * [Develop: Narrative](projects/narrative/develop_narrative.md)
     * [Deliver: Hypertext Narrative](projects/narrative/deliver_hypertext_story.md)
+    * Tutorials
+      * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
     * [Discuss: Hypertext Narrative Critique](projects/narrative/discuss_hypertext_story_critique.md)
   * Activities
     * [Write a story: draft 1](practice/object_story.md)
