@@ -10,7 +10,6 @@
   * [The Studio](the_studio.md)
   * Reference Guidelines
     * [Project Management](toolkit/project_management.md)
-    * [Feedback and Critiques](feedback_and_critiques.md)
     * [Documentation Guidelines](toolkit/documentation_guidelines.md)
     * [Writing Guidelines](writing_guidelines.md)
     * [Feedback and critique](toolkit/feedback-and-critique.md)
