@@ -14,7 +14,7 @@ Though feedback typically centers on your work, sometimes comments are aimed at 
 
 ## Giving feedback
 
-A tried and true technique for feedback, where appropriate, is called the "critique sandwich." This is the Happy Meal of the critique process. Essentially, you will start and end a critique with positive comments \(the bread\), using the comments in between \(the meat or meat-flavored tofu\) for the important, possibly negative-sounding feedback. This makes hard-to-swallow comments more palatable, yet still communicates the important issues. 
+A tried and true technique for feedback, where appropriate, is called the "critique sandwich." This is the Happy Meal of the critique process. Essentially, you will start and end a critique with positive comments \(the bread\), using the comments in between \(the meat or meat-flavored tofu\) for the important, possibly negative-sounding feedback. This makes hard-to-swallow comments more palatable, yet still communicates the important issues.
 
 ## Trolling
 
@@ -22,5 +22,5 @@ A troll is a person who is intent on disrupting constructive discussion by posti
 
 In an academic setting, the instructor sets the social norms of the classroom and maintains authority over moderating a discussion. It is not an instructor's job to be "thought police." Therefore, if a student has an opinion that is counter to the general opinions of the class, voicing those opinions are encouraged to provoke thoughtful discussion. However, disrespectful remarks meant to oppress another student will be considered trolling behavior and will not be allowed to continue without consequence.
 
-Trolling is the antithetical to meaningful discussion, so try to be mindful that your remarks \(possibly being written under some emotional stress\) don't accidentally veer off course and shut down a conversation.
+Trolling is the antithetical to meaningful discussion and learning, so try to be mindful that your remarks \(possibly being written under some emotional stress\) don't accidentally veer off course and shut down a potentially helpful conversation.
 
