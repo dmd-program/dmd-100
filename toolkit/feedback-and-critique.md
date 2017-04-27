@@ -14,7 +14,7 @@ Though feedback typically centers on your work, sometimes comments are aimed at 
 
 ## Giving feedback
 
-A tried and true technique for feedback, where appropriate, is called the "critique sandwich." This is the Happy Meal of the critique process. Essentially, you will start and end a critique with positive comments \(the bread\), using the comments in between \(the meat or meat-flavored tofu\) for the important, possibly negative-sounding feedback. This makes hard-to-swallow comments more palatable, yet still communicates the important issues.
+Keep it positive. A tried and true technique for feedback, where appropriate, is called the "critique sandwich." This is the Happy Meal of the critique process. Essentially, you will start and end a critique with positive comments \(the bread\), using the comments in between \(the meat or meat-flavored tofu\) for the important, possibly negative-sounding feedback. This makes hard-to-swallow comments more palatable, yet still communicates the important issues.
 
 ## Trolling
 
