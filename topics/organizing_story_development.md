@@ -37,9 +37,11 @@ Who is telling the story? Who are you experiencing the story through? Depending 
 1. Write critical beats \(decision points\)
    * Supports critical story path
    * Include elements:
-     * Exposition
-     * Conflict
-     * Resolution 
+      * The way it was
+      * And then one day...
+      * Raising the stakes
+      * Moment of change
+      * World as it is now
 2. Write optional beats.
    * These become possible branches in your narrative.
 
