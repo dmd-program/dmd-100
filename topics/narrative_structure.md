@@ -20,7 +20,7 @@ Below, I have written a story \(based on real events\). I then described the plo
 
 A young husband and wife a newborn child and plan to cross the Pacific Ocean in their sailboat, a journey they have done many times. They take all necessary precautions before the trip. Despite being cleared for travel, their baby gets a fever. There is a harsh storm that damages their sailboat and it begins taking on water. With a damaged boat, a sick child, and no means of communication, they turn on a rescue beacon. The rescue team arrives in helicopter and they abandon their sailboat. They must then defend themselves from public scrutiny related to child endangerment and the high cost of a rescue at sea.
 
-#### **Written Narrative for Story**
+#### **Written story narrative**
 
 "The waves have been crashing against the hull for hours. This has to be the worst storm we've ever sailed through," Joe thought to himself. To his horror, water begin to pour in through a crack at the base of the mast. He pulled the bright orange emergency beacon out of it's case and looked at it. He looked over at his wife, who was sitting at the back of the cabin, cradling their infant. "If we turn the beacon on, it's all over," he yelled. She nodded, confirming the heavy weight of the decision. After all, it wasn't just a boat, it was also their home and they were about to abandon it. Forever.
 

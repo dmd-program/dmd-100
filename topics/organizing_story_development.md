@@ -43,6 +43,8 @@ Who is telling the story? Who are you experiencing the story through? Depending 
 2. Write optional beats.
    * These become possible branches in your narrative.
 
+
+
 #### Structure
 
 1. Choose or design a structural model
