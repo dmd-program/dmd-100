@@ -1,4 +1,6 @@
-# Ritual
+# Ritual Project
+
+![Picture of a person holding a sparkler](/assets/jamie-street-96982.jpg)
 
 For this project, you will be designing a ritual and producing a prototype for a mobile app interface that would support the ritual in some way.
 
