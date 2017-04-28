@@ -6,7 +6,7 @@ Twine is available as a downloadable app for Linux, OSX, and Windows, or as an o
 
 ## Learning resources
 
-
+Twine Tutorial: [Getting started with Twine](/topics/twine-tutorial-getting-started.md)
 
 ## Instructions
 
