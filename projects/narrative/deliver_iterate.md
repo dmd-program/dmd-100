@@ -1,5 +1,12 @@
 # Deliver: Iterate
 
+Now that your first draft is done, and you will get peer feedback and 
+
+## Reference Guidelines
+
+- [Feedback and critique](/toolkit/feedback-and-critique.md)
+- [Writing Guidelines](/writing_guidelines.md)
+
 ## Instructions
 
 1. Get feedback for your Narrative draft.
@@ -8,8 +15,8 @@
 
 ## Report in
 
-1. Name it: `second-draft.doc`
-2. Make sure your name and date is on your draft.
+1. File name: `second-draft.doc`
+2. Make sure your name and date is at the top of your draft.
 3. Submit your second draft to the studio. Acceptable file types include TXT, RTF, DOC, PDF.
 
 
