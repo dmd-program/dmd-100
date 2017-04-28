@@ -1,4 +1,4 @@
-# Narrative Project: Civic Imagination
+# Hypertext Narrative Project: Civic Imagination
 
 ![Photo of clouds and a small airplane contrail](/assets/1500.jpg)
 
