@@ -2,6 +2,8 @@
 
 In fictional film or literature, character types are used to help viewers to empathize with the story. A person's character typically refers to the qualities they possess. However, a character can also be an animal, object, or abstraction in a story. Objects are often represented through anthropomorphism, where human attributes are applied to a non-human. According to an [explainer video about animated light](https://www.youtube.com/watch?v=xf0WjeE6eyM) for the movie, Akira, the city itself was considered to be a character. Other examples of non-human characters include an Lightning McQueen from [Cars \(2006\)](http://www.imdb.com/title/tt0317219/) and a homicidal car tire named Robert in the movie [Rubber \(2010\)](http://www.imdb.com/title/tt1612774/).
 
+In video games, if a main character is present, usually the role of that
+
 ## Characterization
 
 In the process of characterization, a writer will construct traits of a character according to how they will serve the story's plot requirements. Characters are often inspired by people from real life, but often become simplified, combined, and adapted as needed.
