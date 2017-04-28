@@ -1,6 +1,6 @@
 # Narrative Project: Civic Imagination
 
-![Photo of clouds and a small airplane contrail](https://unsplash.it/3000/1500?image=38)
+![Photo of clouds and a small airplane contrail](/assets/1500.jpg)
 
 ## Brief:
 
