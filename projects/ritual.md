@@ -2,7 +2,9 @@
 
 ![Picture of a person holding a sparkler](/assets/jamie-street-96982.jpg)
 
-For this project, you will be designing a ritual and producing a prototype for a mobile app interface that would support the ritual in some way.
+**Brief**
+
+For this project, you will be designing a ritual and producing a prototype for a mobile app interface that would support the ritual in some way. Mobile devices have become 
 
 A ritual is a designed experience that combines habits and routine with symbolism, ultimately producing an event or moment that has meaning. Rituals are intended to be specially designed events that provide opportunities for reflection, celebration, connectivity, behavioral nudging, focus, reinforcement, and more. An example of a small or humble ritual could be a group of friends who have lunch together every week or a busy professional who writes reflective journal entries at the end of the day. Larger, more prestigious rituals inlcude graduation ceremonies, weddings, and organized sporting events like football and baseball. Small rituals tend to not require many resources, are relatively inexpensive, and occur more frequently than larger rituals, some of which may only be experienced once in a lifetime.
 
