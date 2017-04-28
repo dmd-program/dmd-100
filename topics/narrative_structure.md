@@ -98,7 +98,7 @@ The following Plot Diagram shows the Five Act plot points laid over a Three Act 
 
 ### Non-linear narrative structures
 
-A non-linear structure is not necessarily chronological or cause and effect based. Story is unfolded simultaneously and recursively.
+A non-linear structure is not necessarily chronological or cause and effect based. Story is unfolded simultaneously and recursively. Non-linear narratives are often used to create links between things that are otherwise not connected to create meaning or tension; a device used commonly in surrealism.
 
 ### Interactive narrative
 
