@@ -10,10 +10,11 @@
    3. Raising the stakes
    4. Moment of change
    5. World as it is now
-3. Story elements
-   1. Characters
-   2. Critical pathway nodes \(events\)
-   3. Branching nodes \(these are optional\)
+3. Consider the following story elements
+   1. Point of View \(PoV\)
+   2. Characters
+   3. Characterizations
+   4. Environment/setting
 
 ## Report in
 
