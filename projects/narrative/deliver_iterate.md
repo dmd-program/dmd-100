@@ -8,7 +8,7 @@
 
 ## Report in
 
-1. Name it: second-draft.doc
+1. Name it: `second-draft.doc`
 2. Make sure your name and date is on your draft.
 3. Submit your second draft to the studio. Acceptable file types include TXT, RTF, DOC, PDF.
 
