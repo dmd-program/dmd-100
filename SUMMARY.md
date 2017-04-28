@@ -42,7 +42,7 @@
     * [Identity design](identity-design.md)
     * [Semiotics](topics/semiotics.md)
     * [Color and composition](topics/color-and-composition.md)
-    * [Deconstruction](topics/deconstructing.md)
+    * [Analysis](topics/deconstructing.md)
   * Listening
     * [99 Percent Invisible: On Average](listening/99-percent-invisible-on-average.md)
     * [99 Percent Invisible: 10,000 years](listening/99_percent_invisible_10,000_years.md)
@@ -87,11 +87,12 @@
     * [Define: The way it was](projects/narrative/define_the_way_it_was.md)
     * [Develop: Story and Plot](projects/narrative/develop_story_and_plot.md)
     * [Develop: Feedback](projects/narrative/develop-feedback.md)
-    * [Deliver: Iterate](projects/narrative/deliver_iterate.md)
+    * Develop: Characters
     * [Develop: Narrative](projects/narrative/develop_narrative.md)
     * [Deliver: Hypertext Narrative](projects/narrative/deliver_hypertext_story.md)
     * Tutorials
       * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
+    * [Deliver: Iterate](projects/narrative/deliver_iterate.md)
     * [Discuss: Hypertext Narrative Critique](projects/narrative/discuss_hypertext_story_critique.md)
   * Activities
     * [Write a story: draft 1](practice/object_story.md)
