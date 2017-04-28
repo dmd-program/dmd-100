@@ -1,4 +1,6 @@
-# Open Toy Kit Project: Introduction
+# Open Toy Kit Project
+
+![Paper cutting tools and tape](/assets/jo-szczepanska-57782.jpg)
 
 In this project, you will design a kit of parts that can be used to build a toy, model, or other object. This object will be a collection or kit of parts that can be reconfigured to create variations. There are two ways to approach this project. You can decide to create your own parts, create custom parts from raw materials like cardboard, wood, foam, and others. Or, you could develop creative ways of using commonly found objects like rubber bands, toothpicks, paper clips, etc. The goal of this project is to develop a kit using commonly available resources. According to the most [recent and comprehensive data](http://www.worldbank.org/en/publication/poverty-and-shared-prosperity), 10.7% of the world's population lives in poverty, so the easier and cheaper it is for others to create or obtain your parts, the more accessible your project will be.
 
