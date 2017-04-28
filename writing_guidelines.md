@@ -1,6 +1,6 @@
 # Writing Guidelines
 
-> Don't make the reader do the thinking you failed to do.
+> "Don't make the reader do the thinking you failed to do."
 
 To do:
 

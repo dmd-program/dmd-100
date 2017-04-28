@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. You will now write a fictional, yet _**plausible**_ narrative that describes how this imagined future 30 years from now came to be. For example, shape-shifting lizard people are not plausible to exist in 30 years, but technology developed to enable a person to change their appearance at will is plausible. Develop and include the following in your story.
+1. You will now write a fictional, yet _**plausible**_ narrative that describes how this imagined future 30 years from now came to be. For example, shape-shifting lizard people are not plausible to exist in 30 years, but technology developed to enable a person to change their appearance at will is plausible.
 2. Use the following story structure checklist to build your draft:
    1. The way it was
    2. And then one day...

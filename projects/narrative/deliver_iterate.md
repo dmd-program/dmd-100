@@ -1,6 +1,6 @@
 # Deliver: Iterate
 
-Now that your first draft is done, and you will get peer feedback and 
+Now that your first draft is finished, and you will get peer feedback and 
 
 ## Reference Guidelines
 
