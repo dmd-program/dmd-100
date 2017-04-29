@@ -76,6 +76,7 @@
     * [Hypertext](topics/hypertext.md)
     * [Media](topics/narrative-media.md)
     * [Transmedia](topics/transmedia.md)
+    * [Narrative media](topics/narrative-media.md)
   * Listening
     * [Creative Mornings: Writing your way to freedom](listening/creative_mornings_writing_your_way_to_freedom.md)
   * Readings
