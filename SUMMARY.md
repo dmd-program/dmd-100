@@ -84,7 +84,7 @@
   * Project
     * [Hypertext Narrative Introduction](projects/narrative/narrative_project_social_design_option.md)
     * [Discover: Word-pairs](projects/narrative/discover_focus_words.md)
-    * [Define: The way it was](projects/narrative/define_the_way_it_was.md)
+    * [Define: Synopsis](projects/narrative/define_the_way_it_was.md)
     * [Develop: Characters](projects/narrative/develop-characters.md)
     * [Develop: Story and Plot](projects/narrative/develop_story_and_plot.md)
     * [Develop: Feedback](projects/narrative/develop-feedback.md)
