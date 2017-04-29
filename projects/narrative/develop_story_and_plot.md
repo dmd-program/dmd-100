@@ -10,20 +10,50 @@ You will now write a fictional, yet _**plausible**_ story that describes how thi
 * **Content:** The plot must be of a positive future.
 * The story must be in the realm of technological scientific plausibility.
 
+## Document structure
+```
+
+Your Name Here
+Date
+Draft 1
+
+A. Synopsis
+
+    Write your synopsis sentence here.
+
+
+B. Plot
+
+  1) The way it was
+    
+  
+  2) And then one day...
+  
+  
+  3) Raising the stakes
+  
+  
+  4) Moment of change
+  
+  
+  5) World as it is now
+
+```
+
 ## Story structure checklist
 
 Use the following story structure checklist to build your draft. **Note: This list has no recommended ordering of events:**
 
-* The way it was
-* And then one day...
-* Raising the stakes
-* Moment of change
-* World as it is now
+1. The way it was
+2. And then one day...
+3. Raising the stakes
+4. Moment of change
+5. World as it is now
 
 ## Instructions
 
 1. Make a new text document. Write the synopsis sentence at the top. 
-2. Write the story structure checklist elements as headings. You do not need to use the exact words in the story itself.
+2. Write the story structure checklist elements as headings.
 
 ## Report in
 
