@@ -87,13 +87,13 @@
     * [Define: Synopsis](projects/narrative/define_the_way_it_was.md)
     * [Develop: Characters](projects/narrative/develop-characters.md)
     * [Develop: Plot](projects/narrative/develop_story_and_plot.md)
-    * [Develop: Feedback](projects/narrative/develop-feedback.md)
     * [Develop: Narrative](projects/narrative/develop_narrative.md)
+    * [Develop: Script](projects/narrative/develop-script.md)
     * [Deliver: Hypertext Narrative](projects/narrative/deliver_hypertext_story.md)
     * Tutorials
       * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
+    * [Develop: Feedback](projects/narrative/develop-feedback.md)
     * [Deliver: Iterate](projects/narrative/deliver_iterate.md)
-    * [Discuss: Hypertext Narrative Critique](projects/narrative/discuss_hypertext_story_critique.md)
   * Activities
     * [Write a story: draft 1](practice/object_story.md)
     * [Write a story: draft 2](practice/object_story_draft_2.md)
