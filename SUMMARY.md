@@ -86,8 +86,8 @@
     * [Discover: Word-pairs](projects/narrative/discover_focus_words.md)
     * [Define: The way it was](projects/narrative/define_the_way_it_was.md)
     * [Develop: Story and Plot](projects/narrative/develop_story_and_plot.md)
+    * [Develop: Characters](projects/narrative/develop-characters.md)
     * [Develop: Feedback](projects/narrative/develop-feedback.md)
-    * Develop: Characters
     * [Develop: Narrative](projects/narrative/develop_narrative.md)
     * [Deliver: Hypertext Narrative](projects/narrative/deliver_hypertext_story.md)
     * Tutorials
