@@ -4,13 +4,10 @@ You will now write a fictional, yet _**plausible**_ story that describes how thi
 
 ## Requirements
 
-* Include a title, your name, and date at the top of the draft.
-* **Length:** The draft's length will be determined by how many plot points there are. At a minimum, you should include five plot points to map to the story structure checklist.
-* **Characters:** You must have at least **two** characters. Characters do not have to be people.
 * **Content:** The plot must be of a positive future.
-* The story must be in the realm of technological scientific plausibility.
+* **Plausible:** The story must be in the realm of technological scientific plausibility.
 
-## Document structure
+### Document guidelines
 ```
 
 Your Name Here
@@ -40,7 +37,7 @@ B. Plot
 
 ```
 
-## Story structure checklist
+### Story structure checklist
 
 Use the following story structure checklist to build your draft. **Note: This list has no recommended ordering of events:**
 
@@ -52,12 +49,16 @@ Use the following story structure checklist to build your draft. **Note: This li
 
 ## Instructions
 
-1. Make a new text document. Write the synopsis sentence at the top. 
-2. Write the story structure checklist elements as headings.
+1. Make a new text document in `.doc` or `.docx` format.
+2. Write the document according the document guidelines.
+3. Follow the story structure checklist.
+4. Ensure you've met all other listed requirements.
+
+
 
 ## Report in
 
-1. Submit the first draft to the studio. Acceptable file types include TXT, RTF, DOC, PDF.
+1. Submit the plot document to the studio.
 
 
 
