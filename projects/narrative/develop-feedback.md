@@ -1,10 +1,10 @@
 # Deliver: Feedback
 
-Now that your first draft is finished, and you will provide feedback to your peers. Evaluate the assigned drafts according to the following
+Now that your first draft is finished, and you will evaluate assigned peer work and provide feedback.
 
 ## Peer Feedback Guidelines
 
-For this task, we will use Feldman’s Model for criticism of creative works:
+For this task, we will use Feldman’s Model for criticism of creative works. Please use the following criteria to guide your feedback:
 
 1. Description
    1. Who/what are the characters in the story?
