@@ -92,7 +92,7 @@
     * [Deliver: Hypertext Narrative](projects/narrative/deliver_hypertext_story.md)
     * Tutorials
       * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
-    * [Develop: Feedback](projects/narrative/develop-feedback.md)
+    * [Deliver: Feedback](projects/narrative/develop-feedback.md)
     * [Deliver: Iterate](projects/narrative/deliver_iterate.md)
   * Activities
     * [Write a story: draft 1](practice/object_story.md)
