@@ -13,7 +13,7 @@ For this task, we will use Feldman’s Model for criticism of creative works. Pl
    4. Are there any character tropes you can identify?
    5. What is the setting or environment?
 2. Analysis
-   1. How is interest created or thwarted?
+   1. How is interest created?
    2. Where are the moments of dramatic tension?
    3. Does the story use the "show, don't tell" principle?
 3. Interpretation
