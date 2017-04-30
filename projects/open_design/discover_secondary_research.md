@@ -21,7 +21,8 @@ A PDF research presentation should stand on its own. You will produce a presenta
 
 ## Instructions
 
-1. Conduct desktop and field research of toy kits and models. Investigate websites that sell toys and visit physical toy and hobby stores. See if you can understand the ways in which 
+1. Conduct desktop and field research of toy kits and models. Investigate websites that sell toys and visit physical toy and hobby stores. You are seeking to know and describe the following:
+   1. Existing toy categories
 2. Choose an age that you would like to focus on. The end user does not have to be a child.
 3. What purpose does the kit serve?
 4. Geographical location?
