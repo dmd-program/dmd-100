@@ -1,10 +1,10 @@
 # Hypertext Narrative Project: Civic Imagination
 
-![Photo of clouds and a small airplane contrail](/assets/1500.jpg)
+![Photo of clouds and an airplane contrail](/assets/1500.jpg)
 
 ## Brief
 
-For this project, you will create a hypertext story focused on building a better future world, set in the year 2047. A hypertext story is one that is told through a series of hyperlinks, each hyperlink leading to another node in the story. You will follow a design process that will help you generate ideas, create drafts, consider feedback, and iterate towards a final work.
+For this project, you will create a hypertext fiction focused on building a better future world, set in the year 2047. A hypertext fiction is a fictional story that is read by progressing through a series of story nodes containing hypertext links, with each link leading to another node in the story. You will follow a design process that will help you generate ideas, create characters and plot, incorporate feedback, and iterate towards a final work.
 
 ## Tools
 
