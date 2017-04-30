@@ -11,23 +11,14 @@ There is an enormous variety of fiction genres. Start with the links below, and 
 
 ## Document structure
 
-```
-Name
-Date
-Synopsis
-
-1) The way it was...
-
-        Write sentence here.
-
-2) Character list
-
-        List characters here.
-
-3) Story Genre
-
-        Write genre here.
-```
+1. Your Name
+2. Date
+3. Title: Synopsis sentence
+4. The way it was...
+   1. Write sentence here.
+5. Character list
+   1. List characters here. You will describe the characters in more detail later. For now, just list the characters you think you might want in the story.
+6. Story Genre
 
 ## Instructions
 
