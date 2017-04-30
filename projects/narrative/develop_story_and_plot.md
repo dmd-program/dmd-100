@@ -4,8 +4,8 @@ You will now write a fictional, yet _**plausible**_ story that describes how thi
 
 ## Requirements
 
-* **Content:** The plot must be of a positive future.
-* **Plausible:** The story must be in the realm of technological scientific plausibility.
+* **Content:** The result of the plot must be of a positive future.
+* **Plausible:** The story must be in the realm of technological and scientific plausibility.
 
 ### Document guidelines
 ```
