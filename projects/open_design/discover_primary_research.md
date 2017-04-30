@@ -9,5 +9,7 @@ Primary research typically refers to "field research" or findings that you have 
 
 ## Report in
 
-Upload photographs to the studio
+1. Upload photographs to the studio
+
+
 
