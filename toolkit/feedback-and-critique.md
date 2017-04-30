@@ -18,7 +18,7 @@ Keep it positive. A tried and true technique for feedback, where appropriate, is
 
 ## Trolling
 
-A troll is a person who is intent on disrupting constructive discussion by posting inflammatory remarks to halt the progress of a discussion–typically for the purposes of self-amusement or for the emotional high of winning an argument. This happens in online \(and sometimes offline\) spaces that lack established social norms or policy enforcement.
+Anyone can intentionally or unintentionally become a troll. A troll is a person who is intent on disrupting constructive discussion by posting inflammatory remarks to halt the progress of a discussion–typically for the purposes of self-amusement or for the emotional high of winning an argument. This happens in online \(and sometimes offline\) spaces that lack established social norms or policy enforcement.
 
 In an academic setting, the instructor sets the social norms of the classroom and maintains authority over moderating a discussion. It is not an instructor's job to be "thought police." Therefore, if a student has an opinion that is counter to the general opinions of the class, voicing those opinions are encouraged to provoke thoughtful discussion. However, disrespectful remarks meant to oppress another student will be considered trolling behavior and will not be allowed to continue without consequence.
 
