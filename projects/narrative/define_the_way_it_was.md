@@ -1,10 +1,6 @@
 # Define: Synopsis
 
-In this activity, you will create a short synopsis sentence to guide the story narrative and list potential story characters.
-
-## Genre list
-
-
+In this activity, you will create a short synopsis sentence to guide the story narrative.
 
 ## Document structure
 
