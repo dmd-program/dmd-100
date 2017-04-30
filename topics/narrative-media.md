@@ -4,10 +4,6 @@ A medium is a carrier or vehicle of stuff, and in the case of creative work, con
 
 Fast forward to now, digital formats now afford people communicate across the planet by talking into a box that fits into the palm of your hand. [Some are working on brain interfaces](http://waitbutwhy.com/2017/04/neuralink.html) so that communication of thoughts can happen automatically and without the possible constraints imposed by spoken and written language.
 
-## Analog and digital
-
-Before the advent of microprocessors, capturing visual information was a laborious process that required master drawing and painting skills. However, that all changed in the 1830's when a French artist and chemist Louis-Jacques-Mandé Daguerre patented the Daguerreotype. The Daguerreotype extended that ability of a Camera Obscura–a large structure that allows light in through a pinhole, projecting the exterior scene onto an interior surface–by chemically recording the images onto metal plates.
-
 ## Transmedia
 
 Transmedia is communication of ideas and experiences through multiple mediums. But what exactly is a medium?
