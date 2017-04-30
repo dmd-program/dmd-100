@@ -21,7 +21,7 @@ Produce a document with the following items:
      * **Wikipedia:** [List of writing genres](https://en.wikipedia.org/wiki/List_of_writing_genres) 
      * [35 Genres and Other Varieties of Fiction](http://www.dailywritingtips.com/35-genres-and-other-varieties-of-fiction/)
 6. **Settings/Environment**
-   * Describe what the time period is like, where the characters are, etc.
+   * Describe the sights, sounds, smells, etc. In what location are the characters?  
 7. **Character list**
    * List the people who would need to see this story in order for it to become a reality? Who are the decision makers that can make this happen? Who are the organizers, supporters, proponents, and opponents? These people are your characters. Read the [character topic](/topics/character.md) for more details.
 8. **Plot structure**
