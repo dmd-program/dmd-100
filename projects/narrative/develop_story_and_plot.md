@@ -9,46 +9,37 @@ You will now write a fictional, yet _**plausible**_ story that describes how thi
 
 ### Document guidelines
 
-1. Your name
-2. Date
-3. Title: Story and plot elements
-4. Synopsis sentence
+Produce a document with the following items:
+
+1. **Your name**
+2. **Date**
+3. **Title:** Story and plot elements
+4. **Synopsis sentence**
    * Write your synopsis sentence here.
-5. Settings/Environment
-   1. * Describe what the time period is like, where the characters are, etc.
-6. Characters
-   * Name an trope type
-7. Plot
+5. **Story Genre**
+   * In what genre would you like to tell the story? **Ensure that the genre supports a story that is plausible and results in a positive future.** Avoid fantasy, tragedy, dystopian, and erotica genres. There is an enormous variety of fiction genres. Start with the links below, and investigate further as needed:
+     * **Wikipedia:** [List of writing genres](https://en.wikipedia.org/wiki/List_of_writing_genres) 
+     * [35 Genres and Other Varieties of Fiction](http://www.dailywritingtips.com/35-genres-and-other-varieties-of-fiction/)
+6. **Settings/Environment**
+   * Describe what the time period is like, where the characters are, etc.
+7. **Character list**
+   * List the people who would need to see this story in order for it to become a reality? Who are the decision makers that can make this happen? Who are the organizers, supporters, proponents, and opponents? These people are your characters. Read the [character topic](/topics/character.md) for more details.
+8. **Plot structure**
    1. The way it was
    2. And then one day...
    3. Raising the stakes
    4. Moment of change
    5. World as it is now
 
-### Story structure checklist
-
-Use the following story structure checklist:
-
-1. The way it was
-2. And then one day...
-3. Raising the stakes
-4. Moment of change
-5. World as it is now
-
-### Characters
-
-Read the [character topic](/topics/character.md) for more details.
-
 ## Instructions
 
-1. Make a new text document in `.doc` or `.docx` format.
+1. Make a new text document in `.doc` format.
 2. Write the document according the document guidelines.
-3. Follow the story structure checklist.
-4. Ensure you've met all other listed requirements.
+3. Double-check that you've met all other listed requirements.
 
 ## Report in
 
-1. Submit the plot document to the studio.
+1. Submit the plot document to Canvas.
 
 
 
