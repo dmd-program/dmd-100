@@ -10,7 +10,7 @@ Watch Kurt Vonnegut's humorous lecture on storytelling. [Shapes of Stories \(4:3
 
 ### Example Story:
 
-Below, I have written a story \(based on real events\). I then described the plot of the story, and used written narrative to tell a single moment in the story from a third person perspective.
+Below, I have written a story \(based on real events\). I then described the plot of the story, and used written narrative to tell a single moment in the story from a third person Point of View.
 
 #### **Story**
 
