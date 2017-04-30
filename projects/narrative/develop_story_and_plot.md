@@ -39,7 +39,7 @@ B. Plot
 
 ### Story structure checklist
 
-Use the following story structure checklist to build your draft. **Note: This list has no recommended ordering of events:**
+Use the following story structure checklist:
 
 1. The way it was
 2. And then one day...
