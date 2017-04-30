@@ -1,4 +1,4 @@
-# Develop: Plot
+# Develop: Story and plot elements
 
 You will now write a fictional, yet _**plausible**_ story that describes how this imagined future 30 years from now came to be. For example, Unicorns are not plausible to exist in 30 years \(unless you make a compelling CRISPR argument\), but autonomous flying cars are plausible.
 
@@ -9,32 +9,21 @@ You will now write a fictional, yet _**plausible**_ story that describes how thi
 
 ### Document guidelines
 
-```
-Your Name Here
-Date
-Plot
-
-A. Synopsis
-
-    Write your synopsis sentence here.
-
-
-B. Plot
-
-  1) The way it was
-
-
-  2) And then one day...
-
-
-  3) Raising the stakes
-
-
-  4) Moment of change
-
-
-  5) World as it is now
-```
+1. Your name
+2. Date
+3. Title: Story and plot elements
+4. Synopsis
+   * Write your synopsis sentence here.
+5. Settings/Environment
+   1. * Describe what the time period is like, where the characters are, etc.
+6. Characters
+   * Name an trope type
+7. Plot
+   1. The way it was
+   2.  And then one day...
+   3. Raising the stakes
+   4. Moment of change
+   5. World as it is now
 
 ### Story structure checklist
 
@@ -45,6 +34,10 @@ Use the following story structure checklist:
 3. Raising the stakes
 4. Moment of change
 5. World as it is now
+
+### Characters
+
+Read the [character topic](/topics/character.md) for more details.
 
 ## Instructions
 
