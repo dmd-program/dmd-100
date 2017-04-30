@@ -6,12 +6,17 @@ In this phase, you will use a tool called Twine to create an interactive narrati
 
 Twine Tutorial: [Getting started with Twine](/topics/twine-tutorial-getting-started.md)
 
+## Story requirements
+
+1. Your story must have a title. "Untitled" is an acceptable title. "My class project" or something similar is not an acceptable title.
+2. Your Twin story must have an image at the beginning.
+3. You must have a minimum of five critical pathway nodes \(events\). These nodes can correspond to the plot structure, however, this is not required. Your narrative should take a viewer no longer than 10 minutes to get through the critical pathway.
+4. Branching nodes are optional. You can use branching nodes to elaborate on backstory, settings, drill-downs into characters, to explore sub plots, and anything else you think would be interesting and contribute to the telling of the narrative.
+
 ## Instructions
 
 1. Use the Twine application to create a hypertext narrative from the story and plot elements that you wrote in the develop phase of the project.
-   1. You must have a minimum of five critical pathway nodes \(events\). These nodes can correspond to the plot structure, however, this is not required.
-   2. Branching nodes are optional. You can use branching nodes to elaborate on backstory, settings, drill-downs into characters, to explore sub plots, and anything else you think would be interesting.
-2. Follow the Twine Tutorial to learn how to create a linear hypertext narrative. If you include branching nodes, your narrative should take a viewer no longer than 10 minutes to get through the critical pathway.
+2. Follow the Twine Tutorial to learn how to create a linear hypertext narrative.
 3. You can add as many supporting events or nodes as you want. If you are unsure of what type of story to produce, start with a linear narrative model. Refer back to the topic on story structure for more information.
 4. Download the Twine HTML file.
 
