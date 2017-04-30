@@ -39,8 +39,7 @@ For this project, you will create a hypertext fiction with an open-source applic
    * Discover: Word-pairs
    * Define: Synopsis
    * Define: Characters
-   * Develop: Plot
-   * Develop: Script
+   * Develop: Story and plot elements
    * Deliver: Hypertext Narrative
    * Discuss: Hypertext Narrative Critique
 4. Submit frequent updates of your progress to the Studio
