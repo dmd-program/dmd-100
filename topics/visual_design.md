@@ -16,8 +16,8 @@ In visual design, an aesthetic language in constructed from elements that are or
 2. Shape
 3. Form
 4. Space
-5. Color
-6. Contrast
+5. Color \(hue\)
+6. Value \(tone\)
 7. Texture
 
 Common **principles** of design \[1\]:
@@ -29,10 +29,13 @@ Common **principles** of design \[1\]:
 5. Proportion and scale
 6. Variety and variation
 7. Unity/Harmony
+8. Contrast
 
 If you have ever taken an art class in a primary or secondary education curriculum, you were most likely taught those principles and elements to make drawings or paintings. The elements may be specific to visual acuity, however, the principles of design aren't restricted image making. They can be used with sound, architecture, fashion, interactive media, experience design, and other types of design.
 
 These lists form the basis of a language around talking about design, and help us conduct a process of formal analysis with which we can then break down a work of almost any kind. This language is flexible between media and modes of creative expression. For instance, we can use the term **shape** to refer to both a geometric or organic visual element. This is it's most direct and literal use. We can also use shape to describe the narrative arc of a story, where the shape of the narrative arc tells us about the high and low moments. We can even use shape to describe aspects of how an online course can be taught, indicating moments of passive and active engagement in learning. In this way, shape works as both a visual \(physical\) and a conceptual \(virtual\) idea. This ability of this language to slip between physical and virtual references makes it highly useful and adaptable for communicating about design. Creative works can develop their own unique design language, including elements and principles that emerge from the design process or appropriated from other disciplines and fields. It is often the designer's job to define the language that articulates the creative vision.
+
+If you'd like to see examples of these elements in use, see the [Design Aesthetics for the Web course](https://www.lynda.com/Design-Techniques-tutorials/Understanding-elements-design/506078/539538-4.html) on Lynda.com. They have a slightly different list than the one listed above. I have left type out of my list because I believe that it is more of a semiotic element and I would need to include other "higher order" elements into the list–a slippery slope to an unhelpful taxonomy.
 
 ### Formal analysis
 
@@ -52,6 +55,7 @@ One common way to make a judgement about a creative work is through Formal Analy
   , ...bright and positive feeling
 
 ## Representation technology
+
 ### Typography
 
 Typography is an ancient field that employed typographers who were specialists in the craft of arranging type for the purpose of communicating written language. These specialists invented and understood every facet of working with type and were the only ones capable of producing it–they were both designers and the gatekeepers for what was produced. In contrast, the advent and availability of digital word processing applications have made typography accessible to everyone, and the knowledge of type's design nuances are lost on all but those who work at digital type studios and well-trained graphic designers.
@@ -62,11 +66,11 @@ The printing press fundamentally changed how knowledge was recorded and dissemin
 
 ### Image
 
-Capturing accurate visual information as a representational image was a laborious process that required master drawing and painting skills developed over a lifetime of practice–most famously celebrated during the Renaissance period. However, that changed in the 1830's when a French artist and chemist Louis-Jacques-Mandé Daguerre patented the Daguerreotype. A Camera Obscura is an ancient structure or device that allows light in through a small hole, projecting light from the exterior scene onto an interior surface. The Daguerreotype combined the projection ability of the Camera Obscura by exposing chemicals to this light, recording the images onto metal plates. 
+Capturing accurate visual information as a representational image was a laborious process that required master drawing and painting skills developed over a lifetime of practice–most famously celebrated during the Renaissance period. However, that changed in the 1830's when a French artist and chemist Louis-Jacques-Mandé Daguerre patented the Daguerreotype. A Camera Obscura is an ancient structure or device that allows light in through a small hole, projecting light from the exterior scene onto an interior surface. The Daguerreotype combined the projection ability of the Camera Obscura by exposing chemicals to this light, recording the images onto metal plates.
 
 George Eastman pioneered film photography technology and began selling it in the late 1800's. The first film camera, called the "Kodak," was offered for sale in 1888. The advent of microprocessors and digital sensors capable of quickly and cheaply recording light information led to the first digital camera in the late 1970's. Now, almost all handheld computing and communication devices like cellphones and tablet computers have hi-resolution cameras embedded.
 
-It took John Singer Sargent more than a year to finish the Portrait of Madame X (1884). The computer has enabled the average person with little understanding of chemistry, physics, or painting skills to easily and cheaply capture, edit, duplicate, and disseminate beautiful images to hundreds of people within seconds of the initial impulse.
+It took John Singer Sargent more than a year to finish the Portrait of Madame X \(1884\). The computer has enabled the average person with little understanding of chemistry, physics, or painting skills to easily and cheaply capture, edit, duplicate, and disseminate beautiful images to hundreds of people within seconds of the initial impulse.
 
 ## Citations
 
