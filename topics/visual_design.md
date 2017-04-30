@@ -20,7 +20,7 @@ In visual design, an aesthetic language in constructed from elements that are or
 6. Contrast
 7. Texture
 
-Common **principles** of design \[1\] are as follows:
+Common **principles** of design \[1\]:
 
 1. Balance
 2. Dominance, emphasis, and focal point
