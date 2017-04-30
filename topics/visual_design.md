@@ -68,7 +68,6 @@ George Eastman pioneered film photography technology and began selling it in the
 
 It took John Singer Sargent more than a year to finish the Portrait of Madame X (1884). The computer has enabled the average person with little understanding of chemistry, physics, or painting skills to easily and cheaply capture, edit, duplicate, and disseminate beautiful images to hundreds of people within seconds of the initial impulse.
 
-
 ## Citations
 
 1. [http://www.getty.edu/education/teachers/building\_lessons/principles\_design.pdf](https://www.gitbook.com/book/dmd-program/dmd-100-sp17/edit#)
