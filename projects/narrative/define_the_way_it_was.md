@@ -9,7 +9,7 @@ There is an enormous variety of fiction genres. Start with the links below, and 
 * **Wikipedia:** [List of writing genres](https://en.wikipedia.org/wiki/List_of_writing_genres) 
 * [35 Genres and Other Varieties of Fiction](http://www.dailywritingtips.com/35-genres-and-other-varieties-of-fiction/)
 
-## Document format
+## Document structure
 
 ```
 Name
