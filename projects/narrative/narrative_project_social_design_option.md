@@ -21,8 +21,12 @@ For this project, you will create a hypertext fiction focused on building a bett
 
 **From the Twine community:**
 
+* Twine Guide: [Twine Wiki](http://twinery.org/wiki/twine2:guide)
 * Making a game with Twine: [Twine Game Tutorial](http://www.auntiepixelante.com/twine/)
-* Mastering Twine: [Twine Wiki](http://twinery.org/wiki/twine2:guide)
+
+### Example stories
+
+[Fabricationist DeWit Remakes the World by Jedediah Berry](http://thirdarchive.net/fabricationist-dewit-remakes-the-world/)
 
 ### Steps to completion
 
