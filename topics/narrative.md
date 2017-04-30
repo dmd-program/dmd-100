@@ -18,7 +18,7 @@ Semiotics, the study of signs and symbols, has produced models for describing ho
 
 The significance of this event is that people could now ascribe meaning \(in this case to count grain and livestock for trade\) using abstract markings on clay tokens. The token was a standardized signifier, which made commerce possible in prehistoric times. Eventually, the desire to describe other types of information led to the development of a written language and number systems. Out of that arose complex social structures, division of labor, law, cities, property ownership, and other aspects of modern civilization.
 
-## Stories and media
+## Stories, media, and society
 
 Because story is ubiquitous to the human experience, you find it embedded in every human endeavor. Films, novels, drawings, paintings, comic books, and games are products that tell stories to highlight a moral or ethical quandary, to contribute to discourse on a popular or marginalized subject, to function a teaching tool, to entertain, to enlighten, and to otherwise encapsulate cultural expression. Architecture uses form and dimension of space and structure to tell the story of how people should use space, to signal the culture of a place, and to describe other aspects of sheltered human interaction.
 
