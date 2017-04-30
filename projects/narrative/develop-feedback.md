@@ -1,6 +1,6 @@
 # Deliver: Feedback
 
-Now that your first draft is finished, and you will evaluate assigned peer work and provide feedback.
+You will now evaluate assigned peer work and provide feedback.
 
 ## Peer Feedback Guidelines
 
