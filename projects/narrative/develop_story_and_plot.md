@@ -12,7 +12,7 @@ You will now write a fictional, yet _**plausible**_ story that describes how thi
 1. Your name
 2. Date
 3. Title: Story and plot elements
-4. Synopsis
+4. Synopsis sentence
    * Write your synopsis sentence here.
 5. Settings/Environment
    1. * Describe what the time period is like, where the characters are, etc.
@@ -20,7 +20,7 @@ You will now write a fictional, yet _**plausible**_ story that describes how thi
    * Name an trope type
 7. Plot
    1. The way it was
-   2.  And then one day...
+   2. And then one day...
    3. Raising the stakes
    4. Moment of change
    5. World as it is now
