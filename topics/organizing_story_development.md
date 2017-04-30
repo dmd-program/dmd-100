@@ -37,15 +37,13 @@ Who is telling the story? Who are you experiencing the story through? Depending 
 1. Write critical beats \(decision points\)
    * Supports critical story path
    * Include elements:
-      * The way it was
-      * And then one day...
-      * Raising the stakes
-      * Moment of change
-      * World as it is now
+     * The way it was
+     * And then one day...
+     * Raising the stakes
+     * Moment of change
+     * World as it is now
 2. Write optional beats.
    * These become possible branches in your narrative.
-
-
 
 #### Structure
 
@@ -53,6 +51,9 @@ Who is telling the story? Who are you experiencing the story through? Depending 
    * Should support critical story path and desired supplemental story interaction
    * If developing an interactive story, the structure might be on a dynamic scale between linear and non-linear. In games, cut scenes tend to be linear while gameplay and interaction tends to be non-linear.
 
-## Narrative media
+## Writing a narrative
 
-There are too many types of media to list here, but any method of communicating to a person is a type of media. For the purposes of this topic, an interactive digital hypertext narrative \(an HTML page with hyperlinks\) will be the type of media used to provide an experience for viewers of your story.
+Introduce characters. Describe setting. State the problem.
+
+
+
