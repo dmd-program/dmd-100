@@ -30,14 +30,15 @@ Now that you have a storyboard that describes the various components of the ritu
 
 ### A. Making a paper prototype
 
-1. 2. List the parts of the storyboard that can translate into mobile application functions. For instance, if the ritual has a time component, then you can build in an timed audio cue into the prototype \(represented visually\).
+1. List the parts of the storyboard that can translate into mobile application functions. For instance, if the ritual has a time component, then you can build in an timed audio cue into the prototype \(represented visually\).
 3. Find UI inspiration: [http://collectui.com/](http://collectui.com/), [https://dribbble.com/](https://dribbble.com/), [http://www.mobile-patterns.com/](http://www.mobile-patterns.com/)
 4. Create the paper interface components
    1. Download and print the Paper Prototyping PDF.
    2. Draw and cut out interface elements including buttons, images, icons, navigation, text, and other elements needed to prototype your app interface.
    3. Cut out reusable interface elements so they can be rearranged for each application screen.
    4. Arrange the components for each screen and take a picture with your phone's camera.
-5. Import images to your project folder. Crop all images to the crop area.
+5. Crop all images to the crop marks.
+6. Upload images to a project folder on box.psu.edu.
 
 ### B. Making an interactive prototype
 
