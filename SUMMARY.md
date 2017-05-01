@@ -15,6 +15,7 @@
     * [Feedback and critique](toolkit/feedback-and-critique.md)
   * [Grading](grading.md)
   * [About this course](topics/about-this-course.md)
+  * [Technology](topics/technology.md)
 * [Lesson 1: What is Design?](lessons/introduction.md)
   * [Introduction](lessons/what-is-design/introduction.md)
   * [Outlandish Introductions](icebreakers/outlandish_introductions.md)
