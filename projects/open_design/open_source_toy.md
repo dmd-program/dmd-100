@@ -61,22 +61,6 @@ How will you help users gain mastery of using the kit?
 1. **Create instructions for your users to follow.** Instructions can include any one of or combination of photos or drawings, diagrams, audio, pre-recorded video, and/or step-based text instructions. Select your media based on the user's age.
 2. Instructions should include any process or technique required to prepare parts and how to combine parts together. 
 
-## Testing, feedback, and iteration
-
-Ideally, you will want to get feedback from a user representative of your audience both in terms of who will be constructing with the kit and who will be the end user. For instance, a parent might be the one to put the kit together if the toy is intended for a small child. Alternatively, a child might be assembling the kit for themselves or as a gift for another.
-
-### **Plan a user test session**
-
-Carefully observe someone attempting to use the kit. Take notes of what you notice. You may need to give some verbal suggestions if your users get stuck, but try to say as little as possible. After the user has assembled the kit per the instructions, ask them some followup questions. Take pictures of your test users during this process.
-
-**Example followup questions include:**
-
-1. What did you like about using the kit?
-2. What didn't you like? Why is that?
-3. Is there anything that can be improved on?
-4. Do you want more or less control over the final result?
-
-## Kit
 
 ### Photo Documentation should include:
 
