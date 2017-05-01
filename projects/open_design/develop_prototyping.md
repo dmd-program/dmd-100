@@ -2,7 +2,7 @@
 
 # Develop: Kit prototyping
 
-You will now start prototyping with your materials to try to approximate the toy from your pitch.
+You will now start prototyping with your materials to try to approximate the toy from your product pitch.
 
 ## Instructions
 
