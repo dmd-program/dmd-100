@@ -2,7 +2,7 @@
 
 # Discover: Resources
 
-It is imperative that you are able to acquire the necessary resources to finish a project. Before acquiring them, however, you need to see what you have to work with. In this activity, you will be gathering information about the raw materials available to complete the project.
+In this activity, you will be gathering information about the raw materials available to complete the project. Remember, you have a budget between $0 and $10. Ideally, someone with no financial resources should be able to reproduce your design. Please do not use combustable or explosive materials like matches, or materials that would most likely injure someone like shards of glass. Safety first.
 
 ## Instructions
 
