@@ -26,6 +26,3 @@ How might we **\( relieve the stress of social interaction from \)** **\( a pers
 ## Report in
 
 Upload the photograph or scan of your HMW questions to the assignment submission.
-
-
-
