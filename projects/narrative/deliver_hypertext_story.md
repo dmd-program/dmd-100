@@ -10,7 +10,7 @@ Twine Tutorial: [Getting started with Twine](/topics/twine-tutorial-getting-star
 
 ## Story requirements
 
-1. Your story must have a title. "Untitled" is an acceptable title. "My class project" or something similar is not an acceptable title.
+1. Your story must have a title. "Untitled" is an acceptable title. "My class project" or something similar is not an acceptable title unless the story is actually about a class project.
 2. Your Twin story must have an image at the beginning.
 3. You must have a minimum of five critical pathway nodes \(events\). These nodes can correspond to the plot structure, however, this is not required. Your narrative should take a viewer no longer than 10 minutes to get through the critical pathway.
 4. Branching nodes are optional. You can use branching nodes to elaborate on backstory, settings, drill-downs into characters, to explore sub plots, and anything else you think would be interesting and contribute to the telling of the narrative.
@@ -27,3 +27,6 @@ Twine Tutorial: [Getting started with Twine](/topics/twine-tutorial-getting-star
 1. To submit the project, you will need to upload the Twine HTML file to a box folder. 
 2. Post the web link of your Twine narrative to the Canvas feed for the class to review.
 3. Download the Twine file and submit to the Studio Project Dropbox. Post the URL to the Studio page for your classmates to review.
+
+
+
