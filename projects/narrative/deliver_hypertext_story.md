@@ -20,7 +20,7 @@ Twine Tutorial: [Getting started with Twine](/topics/twine-tutorial-getting-star
 1. Use the Twine application to create a hypertext narrative from the story and plot elements that you wrote in the develop phase of the project.
 2. Follow the Twine Tutorial to learn how to create a linear hypertext narrative.
 3. You can add as many supporting events or nodes as you want. If you are unsure of what type of story to produce, start with a linear narrative model. Refer back to the topic on story structure for more information.
-4. Download the Twine HTML file.
+4. [Publish the Twine story](https://twinery.org/wiki/twine2:playing_testing_proofing_and_publishing_stories) to an HTML file.
 
 ## Report in
 
