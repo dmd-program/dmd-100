@@ -1,3 +1,5 @@
+![Double Diamond Develop Phase graphic](/assets/dd-process-develop-1200px@2x.png)
+
 # Develop: User testing
 
 Ideally, you will want to get feedback from a user representative of your audience both in terms of who will be constructing with the kit and who will be the end user. For instance, a parent might be the one to put the kit together if the toy is intended for a small child. Alternatively, a child might be assembling the kit for themselves or as a gift for another.
