@@ -12,7 +12,7 @@ Create a `.doc` file with the following:
 2. Date
 3. Title
 4. Current Toy Profile
-   1. Toy name or type
+   1. Toy name or type (choose one)
       * Human or animal figures
       * Architectural models
       * Machines
@@ -26,7 +26,8 @@ Create a `.doc` file with the following:
    5. What materials is it made of?
    6. How much does it cost?
 5. The Pitch
-   1. I will redesign a(n) **\(toy name\)** so that **\(describe changes\)**. The key changes include **(list key changes)**.   
+   1. I will redesign a(n) **\(toy name\)** so that **\(describe changes\)**. The key changes include **(list key changes)**.
+      * This pitch will guide the direction for the rest of the project.
 
 ## Instructions
 
