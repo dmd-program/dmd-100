@@ -68,4 +68,3 @@ Now that you have a storyboard that describes the various components of the ritu
 ## Report in
 
 Upload the ZIP archive file, Public Share Link, and the design document to the Studio
-
