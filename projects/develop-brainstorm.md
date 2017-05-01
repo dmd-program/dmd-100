@@ -1,3 +1,5 @@
+![Double Diamond Develop Phase graphic](/assets/dd-process-develop-1200px@2x.png)
+
 # Brainstorm
 
 Now that you have a How Might We question, it's time to brainstorm some ideas to try to solve for the question. Generating ideas by yourself \(AKA – in a vacuum\) can be fairly difficult if you are new to this process. Even experienced designers benefit from working in groups because typically the array of ideas generated in a discussion is far larger than when working alone. For this step, you will partner up with small groups to brainstorm ideas for each person's project. You will use the free tool, [https://www.webwhiteboard.com](https://www.webwhiteboard.com), to collaboratively make a whiteboard. However, if the website is not functioning when you meet with your group, you will have to record the brainstorm with sticky notes and photograph them on a large open wall or poster board.
