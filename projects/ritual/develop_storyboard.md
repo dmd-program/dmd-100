@@ -1,3 +1,5 @@
+![Double Diamond Develop Phase graphic](/assets/dd-process-develop-1200px@2x.png)
+
 # Develop: Storyboard
 
 Using the ideas generated during the brainstorm, you will now map out key aspects of the ritual in storyboard form. In this case, the storyboard is a sequence of drawings or images that communicate how the ritual will occur. This will give others the opportunity to provide feedback, and forces the designer to think about all of the key decisions in more detail.
