@@ -66,9 +66,6 @@
     * [Character](topics/character.md)
     * [Hypertext](topics/hypertext.md)
     * [Narrative media](topics/narrative-media.md)
-  * Activities
-    * [Write a story: draft 1](practice/object_story.md)
-    * [Write a story: draft 2](practice/object_story_draft_2.md)
   * Listening
     * [Creative Mornings: Writing your way to freedom](listening/creative_mornings_writing_your_way_to_freedom.md)
     * [99 Percent Invisible: Of mice and men](listening/99_percent_invisible_of_mice_and_men.md)
@@ -120,24 +117,26 @@
     * [Deliver: Open Toy](projects/open_design/deliver_open_toy.md)
 * [Lesson 5: Self Design](lessons/co-generative_design.md)
   * [Topics](lessons/co-generative_design/topics.md)
-    * [Self design](topics/self-design.md)
+    * [Design principles for human behavior](topics/design-principles-for-human-behavior.md)
+    * Identity and purpose
     * [Learned helplessness](topics/learned-helplessness.md)
     * Behavioral nudging
     * [Positive Pyschology](topics/positive-pyschology.md)
-    * [Design principles for human behavior](topics/design-principles-for-human-behavior.md)
-    * [Co-design](topics/co-design.md)
     * Agency
     * Hand skills
+    * Listening skills
     * Decision making
-    * [Productivity and routine](topics/productivity-and-routine.md)
+    * Listening skills
+    * Time
   * Listening
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
+  * Activities
+    * [Design your Day](lessons/co-generative_design/design-your-day.md)
+    * [Self design](lessons/co-generative_design/self-design.md)
   * Readings
     * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
     * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
     * [Chapter 14. Designing Time](practice/designing_time.md)
     * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
-  * Activities
-    * [Design your Day](lessons/co-generative_design/design-your-day.md)
 * [License](LICENSE.md)
 
