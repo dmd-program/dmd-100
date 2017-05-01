@@ -2,7 +2,7 @@
 
 # Discover: Research
 
-In this phase, you will research toys and physical modular systems on the Internet. Find images of interesting or inspiring ways of making, attaching, and combining parts. You will create a PDF presentation of your findings to help others understand how toys work.
+In this phase, you will research toys and physical modular systems on the Internet. Find images of interesting or inspiring ways of making, attaching, and combining parts. You will create a presentation of your findings to help others understand how toys work.
 
 ## PDF Presentation
 
@@ -16,8 +16,8 @@ A PDF research presentation should stand on its own. You will produce a presenta
 2. Research areas
    1. What toy categories did you find? You can identify your own categories.
    2. What materials are the toys made from?
-   3. What age groups were toys designed for?
-   4. Who are the users?
+   3. Who are the intended users? How do you know?
+   4. What are toys and what are they for?
 
 ### Exporting presentation to a PDF format
 
