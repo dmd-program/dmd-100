@@ -15,8 +15,7 @@ You will now take photos of the toy kit and make any needed adjustments to the i
 ### Instructions document
 
 1. Add the knolling-style image to the title page of the document. If used as a background, ensure all text is still legible.
-2. Add at least one image to the end of the instructions to show the final result.
-
+2. Add at least one of the other images to the end of the instructions to show the final result.
 
 ## Instructions
 
