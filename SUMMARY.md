@@ -6,11 +6,10 @@
   * [Digital Multimedia Design](topics/digital_multimedia_design.md)
   * [Learning Objectives](introduction/learning-objectives.md)
   * [Measuring success](introduction/measuring_success.md)
-  * [Technology](topics/technology.md)
   * [The Studio](the_studio.md)
   * Reference Guidelines
-    * [Project Management](toolkit/project_management.md)
     * [Writing Guidelines](writing_guidelines.md)
+    * [Technology](topics/technology.md)
     * [Feedback and critique](toolkit/feedback-and-critique.md)
 * [Lesson 1: What is Design?](lessons/introduction.md)
   * [Introduction](lessons/what-is-design/introduction.md)
