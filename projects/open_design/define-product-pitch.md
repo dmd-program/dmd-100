@@ -13,13 +13,20 @@ Create a `.doc` file with the following:
 3. Title
 4. Current Toy Profile
    1. Toy name or type
+      * Human or animal figures
+      * Architectural models
+      * Machines
+      * Structures and shapes
+      * Puzzle or game
+      * Integrated electronics
+      * other
    2. Describe the basic function or essence of the toy.
    3. Who is the toy designed for?
    4. What does it do? How does it work?
    5. What materials is it made of?
    6. How much does it cost?
 5. The Pitch
-   1. I will redesign a(n) **\(object\)** so that **\(describe changes\)**. The key differences include **(list key differences)**.
+   1. I will redesign a(n) **\(toy name\)** so that **\(describe changes\)**. The key changes include **(list key changes)**.   
 
 ## Instructions
 
