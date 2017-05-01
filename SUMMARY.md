@@ -122,12 +122,12 @@
     * [Learned helplessness](topics/learned-helplessness.md)
     * Behavioral nudging
     * [Positive Pyschology](topics/positive-pyschology.md)
-    * Agency
     * Hand skills
     * Listening skills
     * Decision making
     * Listening skills
     * Time
+    * Set your calendar
   * Listening
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
   * Activities
