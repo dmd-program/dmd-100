@@ -38,9 +38,11 @@ Now that you have a storyboard that describes the various components of the ritu
    3. Cut out reusable interface elements so they can be rearranged for each application screen.
    4. Arrange the components for each screen and take a picture with your phone's camera.
 5. Crop all images to the crop marks.
-6. Upload images to a project folder on box.psu.edu.
+6. Upload images to a project folder on box.psu.edu to keep a backup.
 
 ### B. Making an interactive prototype
+
+![InvisionApp project view](/assets/invision-proj-view.png)
 
 1. See example prototype: https://invis.io/V8BEQKLWN 
 2. Upload prototype interfaces to InvisionApp
