@@ -5,10 +5,8 @@
 ## Instructions:
 
 1. Make changes based on the peer feedback 
-2. Describe what changes you made to your work and why you made them.
+2. Write a description of the changes made to the prototype in a `.doc` file and include it in the `.zip` file.
 
 ## Report in
 
-1. After you have recieved feedback and made changes
-   1. Resubmit your prototype ZIP archive to Studio
-   2. Write a description of the changes made to the prototype.
+1. After you have received feedback and made changes, resubmit your prototype ZIP archive to Studio.
