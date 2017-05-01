@@ -91,7 +91,27 @@
     * [Deliver: Iterate](projects/narrative/deliver_iterate.md)
   * Discussions
     * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
-* [Lesson 4: Open Design](lessons/remix.md)
+* [Lesson 4: Self Design](lessons/co-generative_design.md)
+  * [Topics](lessons/co-generative_design/topics.md)
+    * [Self design](topics/self-design.md)
+    * [Learned helplessness](topics/learned-helplessness.md)
+    * Behavioral nudging
+    * [Positive Pyschology](topics/positive-pyschology.md)
+    * [Design research](topics/design-research.md)
+    * [Design principles for human behavior](topics/design-principles-for-human-behavior.md)
+    * [Collaboration](topics/collaboration.md)
+    * [Co-design](topics/co-design.md)
+    * [Activism](topics/activism.md)
+  * Listening
+    * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
+  * Activities
+    * [Design your Day](lessons/co-generative_design/design-your-day.md)
+  * Readings
+    * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
+    * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
+    * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
+    * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
+* [Lesson 5: Open Design](lessons/remix.md)
   * [Introduction](lessons/open_design/introduction.md)
   * [Topics](lessons/open_design/topics.md)
     * [Open design](topics/open_design.md)
@@ -104,11 +124,10 @@
   * Watch
     * [Open Structures: Thomas Lommee](lessons/open-structures-thomas-lommee.md)
   * Readings
-    * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
-    * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
-    * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
-    * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
-  * Activities
+    * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
+    * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
+    * [Chapter 14. Designing Time](practice/designing_time.md)
+    * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
   * [Project](lessons/open_design/project.md)
     * [Open Toy Project Introduction](projects/open_design/open_source_toy.md)
     * [Discover: Research](projects/open_design/discover_secondary_research.md)
@@ -119,37 +138,5 @@
     * [Develop: Test](projects/open_design/develop_user_testing.md)
     * [Develop: Iterate](projects/open_design/develop-iterate.md)
     * [Deliver: Open Toy](projects/open_design/deliver_open_toy.md)
-* [Lesson 5: Artifacts for Impact](lessons/co-generative_design.md)
-  * Topics
-    * [Positive Pyschology](topics/positive-pyschology.md)
-    * Behavioral nudging
-    * [Design research](topics/design-research.md)
-    * [Design principles for human behavior](topics/design-principles-for-human-behavior.md)
-    * [Learned helplessness](topics/learned-helplessness.md)
-    * [Collaboration](topics/collaboration.md)
-    * [Co-design](topics/co-design.md)
-    * [Activism](topics/activism.md)
-    * [Self design](topics/self-design.md)
-  * Listening
-    * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
-  * [Project](lessons/co-generative_design/project.md)
-    * [Field Guide Project Introduction](projects/field_guide.md)
-    * [Discover: Mind mapping](projects/field_guide/discover_top_three.md)
-    * [Define: Concept](projects/impact/define_concept.md)
-    * [Develop: Publishing tools](projects/impact/develop_publishing_tools.md)
-    * [Deliver: Field Guide](projects/impact/deliver_field_guide.md)
-    * [Discuss: Field Guide Critique](projects/impact/discuss_field_guide_critique.md)
-    * Tutorials
-      * Introduction to Gitbook
-  * Readings
-    * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
-    * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
-    * [Chapter 14. Designing Time](practice/designing_time.md)
-    * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
-  * Activities
-    * Co-generative Design Activity
-    * Design your Day
-  * Project
-    * [Nudge project introduction](lessons/co-generative_design/nudge-project-introduction.md)
 * [License](LICENSE.md)
 
