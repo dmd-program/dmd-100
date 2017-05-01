@@ -4,7 +4,7 @@
 
 Photograph the parts, and write instructions for combining them. 
 
-## Writing and publishing the intructions
+## Writing and publishing the instructions
 
 ## Documenting toy variations
 

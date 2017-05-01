@@ -1,3 +1,5 @@
+![Double Diamond Discover Phase graphic](/assets/dd-process-discover-1200px@2x.png)
+
 # Discover: Word-pairs
 
 ## Materials
