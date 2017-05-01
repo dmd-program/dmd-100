@@ -1,3 +1,5 @@
+![Double Diamond Discover Phase graphic](/assets/dd-process-discover-1200px@2x.png)
+
 # Ritual Project: Interview
 
 Field research is a central part of the human-centered design process. You will now practice field research by finding and interviewing a person who will become your target user.
