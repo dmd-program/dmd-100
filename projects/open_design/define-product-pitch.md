@@ -19,13 +19,18 @@ Create a `.doc` file with the following:
    5. What materials is it made of?
    6. How much does it cost?
 5. The Pitch
-   1. I will redesign a **\(object\)** so that now **\(describe changes\)**.
+   1. I will redesign a(n) **\(object\)** so that **\(describe changes\)**. The key differences include **(list key differences)**.
 
 ## Instructions
 
-1. Choose an existing toy that interests you
-2. Write a Toy Profile
+1. Choose an existing toy that interests you.
+2. Write a profile for this toy in the product pitch document.
+2. Consider how you will change the toy to suit the requirements of the project brief. Write a pitch and include a description of the attributes you will modify. Examples include:
+   1. Target audience (from child to adult for instance)
+   2. Materials, fasteners
+   3. Aesthetics
+   4. Operation, assembly, use, or purpose
 
 ## Report in
 
-1. Upload photographs to the studio
+1. Upload the `.doc` to the Studio.
