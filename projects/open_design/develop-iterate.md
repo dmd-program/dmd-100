@@ -1,3 +1,5 @@
+![Double Diamond Develop Phase graphic](/assets/dd-process-develop-1200px@2x.png)
+
 # Develop: Iterate
 
 Using your notes from the user test, make adjustments, clarifications, and revisions to improve your kit and instructions. Whether your users have given you general feedback or specific feedback, it is your job to interpret what they are really telling you. 
