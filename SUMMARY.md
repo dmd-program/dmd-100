@@ -92,7 +92,7 @@
     * Tutorials
       * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
     * [Deliver: Feedback](projects/narrative/develop-feedback.md)
-    * [Deliver: Iterate](projects/narrative/deliver-iterate.md)
+    * [Deliver: Iterate](projects/narrative/deliver_iterate.md)
   * Discussions
     * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
 * [Lesson 4: Open Design](lessons/remix.md)
