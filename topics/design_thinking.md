@@ -75,12 +75,14 @@ Jess McMullin, founder of the Centre for Citizen Experience and Situ Strategy, d
 4. **Problem solving:** Design is used in strategic processes for identifying opportunties, generating an array of ideas, and selecting solutions for existing problems. Problems drive products.
 5. **Framing:** Design drives disruptive innovation. Design is used to frame the organization's agenda, and to scope interest. Ideas drive products.
 
-The organizations that incorporate design into the framing and problem solving end of the design maturity continuum are highlighted in the [Design Value Index (DVI)](http://www.dmi.org/?page=2015DVIandOTW). The superior performance of the index in relation to the S&P 500 is used to make the case not only for investing in design-driven companies, but as further evidence for why design should take a larger role within large organizations. 
+The organizations that incorporate design into the framing and problem solving end of the design maturity continuum are highlighted in the [Design Value Index \(DVI\)](http://www.dmi.org/?page=2015DVIandOTW). The superior performance of the index in relation to the S&P 500 is used to make the case not only for investing in design-driven companies, but as further evidence for why design should take a larger role within large organizations.
 
 ## Citation
 
 1. _Design and Thinking_. Dir. Mu-Ming Tsai. 2012. Film.
 2. James A. Lawrence and Earl N. Steck, _Overview of Management Theory _\(Carlisle Barracks, PA: U.S. Army War College, 1991\), ii & 34. [http://www.dtic.mil/dtic/tr/fulltext/u2/a235762.pdf](http://www.dtic.mil/dtic/tr/fulltext/u2/a235762.pdf)
-3. http://thinkingandmaking.com/files/design_maturity.pdf
-4. http://www.dmi.org/?page=2015DVIandOTW
+3. [http://thinkingandmaking.com/files/design\_maturity.pdf](http://thinkingandmaking.com/files/design_maturity.pdf)
+4. [http://www.dmi.org/?page=2015DVIandOTW](http://www.dmi.org/?page=2015DVIandOTW)
+
+
 
