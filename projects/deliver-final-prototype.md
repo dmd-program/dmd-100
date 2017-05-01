@@ -11,7 +11,4 @@
 
 1. After you have recieved feedback and made changes
    1. Resubmit your prototype ZIP archive to Studio
-   2. Write a description of the changes made to the prototype
-
-
-
+   2. Write a description of the changes made to the prototype.
