@@ -73,8 +73,13 @@
     * [Character](topics/character.md)
     * [Hypertext](topics/hypertext.md)
     * [Narrative media](topics/narrative-media.md)
+  * Activities
+    * [Write a story: draft 1](practice/object_story.md)
+    * [Write a story: draft 2](practice/object_story_draft_2.md)
   * Listening
     * [Creative Mornings: Writing your way to freedom](listening/creative_mornings_writing_your_way_to_freedom.md)
+  * Watching
+    * [Creative Mornings: Jordan Tannahill](lessons/narrative/creative-mornings-jordan-tannahill.md)
   * Readings
     * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
     * [Chapter 6. Designs of Darkness](practice/bad_design.md)
@@ -90,13 +95,8 @@
       * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
     * [Deliver: Feedback](projects/narrative/develop-feedback.md)
     * [Deliver: Iterate](projects/narrative/deliver_iterate.md)
-  * Activities
-    * [Write a story: draft 1](practice/object_story.md)
-    * [Write a story: draft 2](practice/object_story_draft_2.md)
   * Discussions
     * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
-  * Watching
-    * [Creative Mornings: Jordan Tannahill](lessons/narrative/creative-mornings-jordan-tannahill.md)
 * [Lesson 4: Open Design](lessons/remix.md)
   * [Introduction](lessons/open_design/introduction.md)
   * [Topics](lessons/open_design/topics.md)
@@ -119,13 +119,14 @@
     * [Open Toy Project Introduction](projects/open_design/open_source_toy.md)
     * [Discover: Research](projects/open_design/discover_secondary_research.md)
     * [Discover: Resources](projects/open_design/discover_primary_research.md)
+    * [Define: Product pitch](projects/open_design/define-product-pitch.md)
     * [Define: Design Principles](projects/open_design/develop_design_principles.md)
     * [Develop: Instructions](projects/open_design/develop_instructions.md)
     * [Develop: Prototyping](projects/open_design/develop_prototyping.md)
     * [Develop: Test](projects/open_design/develop_user_testing.md)
     * [Develop: Iterate](projects/open_design/develop-iterate.md)
     * [Deliver: Open Toy](projects/open_design/deliver_open_toy.md)
-    * [Deliver: Document](projects/open_design/deliver-document.md)
+    * Define: Product pitch
     * [Discuss: Open Toy Critique](projects/open_design/discuss_open_toy_critique.md)
 * [Lesson 5: Artifacts for Impact](lessons/co-generative_design.md)
   * Topics
