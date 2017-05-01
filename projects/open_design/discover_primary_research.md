@@ -11,7 +11,4 @@ It is imperative that you are able to acquire the necessary resources to finish 
 
 ## Report in
 
-1. Upload photographs to the studio
-
-
-
+1. Upload photographs to the Studio
