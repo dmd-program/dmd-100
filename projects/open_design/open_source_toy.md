@@ -6,20 +6,8 @@
 
 In this project, you will design a kit of parts that can be used to build a toy, model, or other object. This object will be a collection or kit of parts that can be reconfigured to create variations. This is serious \(though playful\) product design. There are two ways to approach this project. You can decide to create your own parts, create custom parts from raw materials like cardboard, wood, foam, and others. Or, you could develop creative ways of using commonly found objects like rubber bands, toothpicks, paper clips, etc. The goal of this project is to develop a kit using commonly available resources. According to the most [recent and comprehensive data](http://www.worldbank.org/en/publication/poverty-and-shared-prosperity), 10.7% of the world's population lives in poverty, so the easier and cheaper it is for others to create or obtain your parts, the more accessible your project will be.
 
-## Constraints
 
-1. You must not spend more than $10.00 USD to assemble the kit.
-2. Your users must be able to assemble their kits without special skills or tools.
-   1. Allowed tools: Scissors, exacto knife
-   2. Allowed marking implements: Pen, pencil, marker
 
-## Audience
-
-1. Conduct desktop and field research of toy kits and models. Investigate websites that sell toys and visit physical toy and hobby stores. See if you can understand the ways in which 
-2. Choose an age that you would like to focus on. The end user does not have to be a child.
-3. What purpose does the kit serve?
-4. Geographical location?
-5. Who is building vs using?
 
 ## Category
 

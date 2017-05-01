@@ -4,6 +4,13 @@
 
 You will now start prototyping with your materials to try to approximate the toy from your product pitch.
 
+## Constraints
+
+1. You must not spend more than $10.00 USD to assemble the kit.
+2. Your users must be able to assemble their kits without special skills or tools. Tools are excluded from the cost restriction.
+   1. Allowed tools: Scissors, exacto knife
+   2. Allowed marking implements: Pen, pencil, marker
+
 ## Instructions
 
 1. Revisit your research, resources, and product pitch. Make note in your journal of any ideas, insights, themes, or opportunities that you want to explore.
