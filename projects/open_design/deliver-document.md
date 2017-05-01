@@ -1,3 +1,5 @@
+![Double Diamond Deliver Phase graphic](/assets/dd-process-deliver-1200px@2x.png)
+
 # Photo Documentation
 
 1. Single kit of parts image: [knolling style](https://medium.com/@Lyst/your-favorite-insta-aesthetic-has-an-unexpected-history-a929e078d4ea)
