@@ -14,6 +14,3 @@ Now that your prototype is done, it is time to participate in feedback. You will
 ## Report in
 
 1. Submit your feedback to the studio.
-
-
-
