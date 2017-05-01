@@ -34,4 +34,4 @@ A PDF research presentation should stand on its own. You will produce a presenta
 
 ## Report in
 
-1. Upload images to the Studio
+1. Upload the PDF presentation to the Studio.
