@@ -6,7 +6,7 @@ Review your notes from the user test and make adjustments, clarifications, and r
 
 ## Instructions
 
-1. Make changes and improvements to your kit instructions based on your feedback in the user test.
+1. Make changes and improvements to your kit and instructions based on your feedback in the user test.
 
 ## Report in
 
