@@ -2,6 +2,8 @@
 
 # Develop: Kit prototyping
 
+You will now start prototyping with your materials to try to approximate the toy from your pitch.
+
 ## Instructions
 
 1. Revisit your research, resources, and product pitch. Make note of any insights, themes, or opportunities that you want to explore.
@@ -9,7 +11,6 @@
 3. **Start experimenting.** Transform manipulate materials, use objects, and create visual modifications.
     1. Take photos of your experiments and outcomes as you work. Don't worry if they are rough or ambiguous.
 5. Once you you are happy with what you came up with, start to make variations.
-6. Create a materials list, tools list, and instructions so that another person can create reproduce the toy.
 
 ## Report in
 
