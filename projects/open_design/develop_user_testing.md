@@ -21,5 +21,3 @@ Carefully observe someone attempting to use the kit. Take notes of what you noti
 
 ## Report in
 After you are done testing and iterating, submit your test notes and modified instructions to the studio.
-
-
