@@ -1,3 +1,5 @@
+![Double Diamond Discover Phase graphic](/assets/dd-process-discover-1200px@2x.png)
+
 # Discover: Journey Map
 
 A journey map is great way to visualize an entire process of an interaction. By visualizing each step, you will better understand the nuances of an experience.
