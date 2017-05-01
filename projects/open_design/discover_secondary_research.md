@@ -1,3 +1,6 @@
+![Double Diamond Discover Phase graphic](/assets/dd-process-discover-1200px@2x.png)
+
+
 # Discover: Secondary research
 
 In this phase, you will research toys and physical modular systems on the Internet. Find images of interesting or inspiring ways of making, attaching, and combining parts. You will create a PDF presentation of your findings to help others understand how toys work.
