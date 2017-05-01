@@ -20,6 +20,3 @@ In this activity, you will create a short synopsis sentence to guide the story n
 ## Report in
 
 1. Submit the `.doc` to Canvas.
-
-
-
