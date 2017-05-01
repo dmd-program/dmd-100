@@ -16,8 +16,8 @@ Carefully observe someone attempting to use the kit. Take notes of what you noti
 5. After your user finished, ask them some followup questions:
     - What did you like about using the kit?
     - What didn't you like? Why is that?
-    - Is there anything that can be improved on?
-    - Do you want more or less control over the final result?
+    - What could be better?
+    - Was this fun, or frustrating?
 
 ## Report in
-After you are done testing and iterating, submit your test notes and modified instructions to the studio.
+1. After you are done testing, submit your test notes and modified instructions to the studio. Notes can be in the form of a `.doc` or a scan or image of hand-written notes in your journal.
