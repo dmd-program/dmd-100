@@ -1,6 +1,9 @@
+![Double Diamond Discover Phase graphic](/assets/dd-process-discover-1200px@2x.png)
+
 # Discover: Primary Research
 
 Primary research typically refers to "field research" or findings that you have discovered for yourself. For instance, if you installed a temperature sensor that recorded the temperature every day for a year, that would constitute primary research. If you were given temperature data by a colleague, then that would not be primary research in this case, though it may aid other primary research you are conducting.
+
 
 ## Instructions
 
