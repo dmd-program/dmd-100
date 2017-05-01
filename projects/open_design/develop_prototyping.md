@@ -8,7 +8,7 @@ You will now start prototyping with your materials to try to approximate the toy
 
 1. You must not spend more than $10.00 USD to assemble the kit.
 2. Your users must be able to assemble their kits without special skills or tools. Tools are excluded from the cost restriction.
-   1. Allowed tools: Scissors, exacto knife
+   1. Allowed tools: Scissors, X-Acto knife
    2. Allowed marking implements: Pen, pencil, marker
 
 ## Instructions
