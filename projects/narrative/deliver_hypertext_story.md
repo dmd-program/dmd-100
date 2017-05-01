@@ -26,6 +26,3 @@ Twine Tutorial: [Getting started with Twine](/topics/twine-tutorial-getting-star
 
 1. To submit the project, you will need to upload the Twine HTML file to a [box.psu.edu shared folder](https://community.box.com/t5/How-To-Guides-for-Sharing/Shared-Links-Overview-And-FAQs/ta-p/142). Be sure to set it to **People with the link** or we will not be able to access it.
 2. Post the share link of the Twine narrative to the Canvas feed for the class to review.
-
-
-
