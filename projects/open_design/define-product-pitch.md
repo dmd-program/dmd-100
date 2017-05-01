@@ -2,9 +2,11 @@
 
 # Define: Product pitch
 
-Now you will develop a one-sentence pitch.
+Now will choose a toy that will form the basis for the project. You will describe develop a one-sentence pitch to explain the changes that you would like to make.
 
 ## Product pitch document
+
+Create a `.doc` file with the following:
 
 1. Name
 2. Date
@@ -16,14 +18,13 @@ Now you will develop a one-sentence pitch.
    4. What does it do? How does it work?
    5. What materials is it made of?
    6. How much does it cost?
-5. 
+5. The Pitch
+   1. I will redesign a **\(object\)** so that now **\(describe changes\)**.
 
 ## Instructions
 
 1. Choose an existing toy that interests you
 2. Write a Toy Profile
-3. I will redesign a **\(object\)** so that now **\(describe changes\)**.
-   1. 
 
 ## Report in
 
