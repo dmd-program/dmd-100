@@ -18,6 +18,3 @@
 ## Report in
 
 1. Upload the characterization sheets to the Studio
-
-
-
