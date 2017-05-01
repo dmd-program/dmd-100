@@ -8,7 +8,7 @@ In this phase, you will research toys and physical modular systems on the Intern
 
 ### Requirements
 
-A PDF research presentation should stand on its own. You will produce a presentation with the following elements:
+You will produce a presentation with the following elements:
 
 1. Title Page
    1. Title: 
