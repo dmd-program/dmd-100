@@ -33,6 +33,3 @@ There are many descriptions available of what a ritual is, and how it functions.
 
 1. Submit photos or scans of your journal pages to the Studio.
 2. Submit the Storyboard to the studio as a scanned or well-photographed image.
-
-
-
