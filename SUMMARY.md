@@ -63,7 +63,6 @@
     * [Develop: Prototype](projects/ritual/develop_prototype.md)
     * [Develop: Test and Iterate](projects/ritual/develop_test_and_iterate.md)
     * [Deliver: Final Prototype](projects/deliver-final-prototype.md)
-    * [Discuss: Ritual Project Critique](projects/discuss-ritual-project-critique.md)
 * Lesson 3: Storytelling
   * [Introduction](lessons/narrative/introduction.md)
   * [Topics](lessons/narrative/topics.md)
@@ -125,7 +124,6 @@
     * [Develop: Test](projects/open_design/develop_user_testing.md)
     * [Develop: Iterate](projects/open_design/develop-iterate.md)
     * [Deliver: Open Toy](projects/open_design/deliver_open_toy.md)
-    * [Discuss: Open Toy Critique](projects/open_design/discuss_open_toy_critique.md)
 * [Lesson 5: Artifacts for Impact](lessons/co-generative_design.md)
   * Topics
     * [Positive Pyschology](topics/positive-pyschology.md)
