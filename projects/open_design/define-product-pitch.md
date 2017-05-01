@@ -28,6 +28,3 @@ Now you will develop a one-sentence pitch.
 ## Report in
 
 1. Upload photographs to the studio
-
-
-
