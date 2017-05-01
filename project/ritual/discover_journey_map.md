@@ -49,4 +49,3 @@ Photograph or scan your journey map and upload it to the assignment submission.
 ## Citation
 
 Adapted from: [http://www.designkit.org/methods/63](http://www.designkit.org/methods/63)
-
