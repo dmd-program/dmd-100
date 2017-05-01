@@ -19,7 +19,7 @@ A PDF research presentation should stand on its own. You will produce a presenta
    3. Who are the intended users? How do you know?
    4. What are toys and what are they for?
 
-### Exporting presentation to a PDF format
+### Exporting to a PDF format
 
 **Software applications:**
 
