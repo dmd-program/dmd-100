@@ -27,6 +27,3 @@ Twine Tutorial: [Getting started with Twine](/topics/twine-tutorial-getting-star
 1. To submit the project, you will need to upload the Twine HTML file to a box folder. 
 2. Post the web link of your Twine narrative to the Canvas feed for the class to review.
 3. Download the Twine file and submit to the Studio Project Dropbox. Post the URL to the Studio page for your classmates to review.
-
-
-
