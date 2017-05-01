@@ -1,3 +1,5 @@
+![Double Diamond Define Phase graphic](/assets/dd-process-define-1200px@2x.png)
+
 # Define: Design Principles
 
 What is it that makes your toy modular? Is the the shape of the pieces? Is it the way pieces are attached? One of the constraints of the project is that you should be able to use the same modular parts to make toy variations. How they will vary will depend on what attributes define the design. Design for consistency with attaching parts together, reusing structural patterns, and reusing shapes will help the user learn the system you have designed.
