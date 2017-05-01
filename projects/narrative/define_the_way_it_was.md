@@ -1,3 +1,5 @@
+![Double Diamond Define Phase graphic](/assets/dd-process-define-1200px@2x.png)
+
 # Define: Synopsis
 
 In this activity, you will create a short synopsis sentence to guide the story narrative.
