@@ -28,7 +28,7 @@ In this tutorial, you will be guided through the steps to create a simple hypert
 2. In [Twinery.org's editor](https://twinery.org), create a new passage for each major plot point horizontally across the screen.
 3. Move the passages vertically up and down to create a visualization for rising and falling action. If you run out of space on the screen, you can decrease the size of the grid by choosing one of the other grid/block icons on the bottom menu bar.  
    ![twine grid buttons](twinery-btns.png)  
-4. Edit each passage and write in the passage details for each.
+4. Edit each passage and write in the passage details and links.
 5. Read through your story to see if the plot points match the intended rising and falling action. Make adjustments accordingly.
 
 
