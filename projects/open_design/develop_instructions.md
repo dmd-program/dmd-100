@@ -6,6 +6,10 @@ Write instructions and make a prototype of the parts.
 
 ## Instructions
 
+1. 
+Write 
+
+
 ## Report in
 
 ## Grading
