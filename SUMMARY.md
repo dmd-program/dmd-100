@@ -118,7 +118,7 @@
   * [Project](lessons/open_design/project.md)
     * [Open Toy Project Introduction](projects/open_design/open_source_toy.md)
     * [Discover: Research](projects/open_design/discover_secondary_research.md)
-    * [Discover: Primary Research](projects/open_design/discover_primary_research.md)
+    * [Discover: Resources](projects/open_design/discover_primary_research.md)
     * [Define: Design Principles](projects/open_design/develop_design_principles.md)
     * [Develop: Instructions](projects/open_design/develop_instructions.md)
     * [Develop: Prototyping](projects/open_design/develop_prototyping.md)
