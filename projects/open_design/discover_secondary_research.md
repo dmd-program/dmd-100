@@ -21,7 +21,7 @@ A PDF research presentation should stand on its own. You will produce a presenta
 
 ### Exporting to a PDF format
 
-**Software applications:**
+**Tutorials for software applications:**
 
 * [Google Slides](https://www.youtube.com/watch?v=D1WhvsQeY6w)
 * [Microsoft Powerpoint](https://support.office.com/en-US/article/Save-PowerPoint-presentations-as-PDF-files-9B5C786B-9C6E-4FE6-81F6-9372F77C47C8)
