@@ -21,6 +21,3 @@
 7. What are the instructions?
 
 ## Report in
-
-
-
