@@ -19,4 +19,4 @@ Carefully observe someone attempting to use the kit. Take notes of what you noti
     - Was this fun, or frustrating?
 
 ## Report in
-1. After you are done testing, submit your test notes and modified instructions to the studio. Notes can be in the form of a `.doc` or a scan or image of hand-written notes in your journal.
+1. After you are done testing, submit your test notes and modified instructions to the Studio. Notes can be in the form of a `.doc` or a scan or image of hand-written notes in your journal.
