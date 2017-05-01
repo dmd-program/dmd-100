@@ -52,4 +52,3 @@ Laddering is a technique developed in the 1960s to help clinical psychologists u
 ## Citation:
 
 Adapted from: [http://www.designkit.org/methods/66](http://www.designkit.org/methods/66)
-
