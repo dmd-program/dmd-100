@@ -2,18 +2,18 @@
 
 > "Don't make the reader do the thinking you failed to do."
 
-To do:
-
-1. Critical distance
-2. Writing context
+## Checklist
+1. Concepts
+    - Support arguments with facts
+    - Avoid hyperbole and generalizations
+    - Use concise language and avoid filler
+2. Ideas are organized and structured
+3. Writing style is appropriate for the audience
+4. Consistent voice, correct grammar and spelling
 
 ## Drafts
 
 When writing a draft, composition structure, grammar, and spelling are the least important. While it is always good to strive for perfection, that should be relegated to the editing phase of writing. A good drafting session means that you were able to get as many of your ideas out as rapidly as possible, even if they are fragments or tangents. Natural language is fine in this stage, and even desired for personal stories. When providing feedback on drafts, try not to nitpick on spelling and grammar, but rather the content, insights, and direction of the concepts.
-
-## Second drafts
-
-...
 
 ## Final deliverables
 

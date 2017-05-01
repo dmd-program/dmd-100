@@ -10,7 +10,6 @@
   * [The Studio](the_studio.md)
   * Reference Guidelines
     * [Project Management](toolkit/project_management.md)
-    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
     * [Writing Guidelines](writing_guidelines.md)
     * [Feedback and critique](toolkit/feedback-and-critique.md)
 * [Lesson 1: What is Design?](lessons/introduction.md)
