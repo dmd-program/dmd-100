@@ -126,7 +126,6 @@
     * [Develop: Iterate](projects/open_design/develop-iterate.md)
     * [Deliver: Open Toy](projects/open_design/deliver_open_toy.md)
     * [Discuss: Open Toy Critique](projects/open_design/discuss_open_toy_critique.md)
-    * [Define: Design Principles](projects/open_design/develop_design_principles.md)
 * [Lesson 5: Artifacts for Impact](lessons/co-generative_design.md)
   * Topics
     * [Positive Pyschology](topics/positive-pyschology.md)

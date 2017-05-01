@@ -19,7 +19,7 @@ You will now start prototyping with your materials to try to approximate the toy
     1. Take photos of your experiments and outcomes as you work. Don't worry if they are rough or ambiguous.
     2. Five (5) photos minimum.
 5. Once you are happy with what you came up with, start to make variations.
-6. You should end up with a kit of parts that you can describe to another person how to make and assemble.
+6. You should end up with a kit of parts that you can describe to another person how to make and assemble. Take photos of individual parts, templates, connectors, fasteners, and structural elements.
 
 ## Report in
 
