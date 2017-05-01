@@ -120,14 +120,13 @@
     * [Discover: Research](projects/open_design/discover_secondary_research.md)
     * [Discover: Resources](projects/open_design/discover_primary_research.md)
     * [Define: Product pitch](projects/open_design/define-product-pitch.md)
-    * [Define: Design Principles](projects/open_design/develop_design_principles.md)
-    * [Develop: Instructions](projects/open_design/develop_instructions.md)
     * [Develop: Prototyping](projects/open_design/develop_prototyping.md)
+    * [Develop: Instructions](projects/open_design/develop_instructions.md)
     * [Develop: Test](projects/open_design/develop_user_testing.md)
     * [Develop: Iterate](projects/open_design/develop-iterate.md)
     * [Deliver: Open Toy](projects/open_design/deliver_open_toy.md)
-    * Define: Product pitch
     * [Discuss: Open Toy Critique](projects/open_design/discuss_open_toy_critique.md)
+    * [Define: Design Principles](projects/open_design/develop_design_principles.md)
 * [Lesson 5: Artifacts for Impact](lessons/co-generative_design.md)
   * Topics
     * [Positive Pyschology](topics/positive-pyschology.md)

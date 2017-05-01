@@ -4,20 +4,13 @@
 
 ## Instructions
 
-1. Revisit your primary and secondary research. Make note of any insights, themes, or opportunities that you want to explore.
-2. Experiment. Transform manipulate materials, use objects, and create aesthetic modifications.
-3. Make note and document any interesting outcomes.
-4. Make variations of your objects.
-5. Create a materials list, tools list, and instructions so that another person can create reproduce the toy.
-
-**Develop phase questions:**
-
-1. Template for users to build their own modular toys?
-2. What kind of toys will be made?
-3. What raw building materials are used, and for what parts?
-4. What tools and fasteners will be needed?
-5. Will there be standard or modular parts?
-6. What making processes will the users undergo?
-7. What are the instructions?
+1. Revisit your research, resources, and product pitch. Make note of any insights, themes, or opportunities that you want to explore.
+2. Gather an array of materials to work with.
+3. **Start experimenting.** Transform manipulate materials, use objects, and create visual modifications.
+    1. Take photos of your experiments and outcomes as you work. Don't worry if they are rough or ambiguous.
+5. Once you you are happy with what you came up with, start to make variations.
+6. Create a materials list, tools list, and instructions so that another person can create reproduce the toy.
 
 ## Report in
+
+1. Upload your images
