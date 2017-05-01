@@ -1,3 +1,5 @@
+![Double Diamond Develop Phase graphic](/assets/dd-process-develop-1200px@2x.png)
+
 # Develop: Story and plot elements
 
 You will now write a fictional, yet _**plausible**_ story that describes how this imagined future 30 years from now came to be. For example, Unicorns are not plausible to exist in 30 years \(unless you make a compelling CRISPR argument\), but autonomous flying cars are plausible.
