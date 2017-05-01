@@ -11,7 +11,7 @@ Twine Tutorial: [Getting started with Twine](/topics/twine-tutorial-getting-star
 ## Story requirements
 
 1. Your story must have a title. "Untitled" is an acceptable title. "My class project" or something similar is not an acceptable title unless the content of the story is actually about a class project.
-2. Your Twin story must have an image at the beginning.
+2. Your Twine story must have an image at the beginning.
 3. You must have a minimum of five critical pathway nodes \(events\). These nodes can correspond to the plot structure, however, this is not required. Your narrative should take a viewer no longer than 10 minutes to get through the critical pathway.
 4. Branching nodes are optional. You can use branching nodes to elaborate on backstory, settings, drill-downs into characters, to explore sub plots, and anything else you think would be interesting and contribute to the telling of the narrative.
 
