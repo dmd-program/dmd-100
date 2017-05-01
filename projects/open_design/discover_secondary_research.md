@@ -4,7 +4,7 @@
 
 In this phase, you will research toys and physical modular systems on the Internet. Find images of interesting or inspiring ways of making, attaching, and combining parts. You will create a presentation of your findings to help others understand how toys work.
 
-## PDF Presentation
+## Presentation
 
 ### Requirements
 
@@ -30,8 +30,7 @@ A PDF research presentation should stand on its own. You will produce a presenta
 ## Instructions
 
 1. Conduct desktop and field research of toy kits and models. Investigate websites that sell toys and visit physical toy and hobby stores.
-2. Produce a presentation and export it to PDF format.
-3. Choose an age that you would like to focus on. The end user does not have to be a child.
+2. Produce the presentation according to the presentation requirements and export it to PDF format.
 
 ## Report in
 
