@@ -9,12 +9,14 @@ Now you will develop a one-sentence pitch.
 1. Name
 2. Date
 3. Title
-4. Toy Profile
+4. Current Toy Profile
    1. Toy name or type
    2. Describe the basic function or essence of the toy.
    3. Who is the toy designed for?
-   4. What does it do or how does it work?
+   4. What does it do? How does it work?
    5. What materials is it made of?
+   6. How much does it cost?
+5. 
 
 ## Instructions
 
