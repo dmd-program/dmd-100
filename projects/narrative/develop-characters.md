@@ -1,3 +1,5 @@
+![Double Diamond Develop Phase graphic](/assets/dd-process-develop-1200px@2x.png)
+
 # Develop: Characters
 
 ## Tools
