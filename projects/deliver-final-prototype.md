@@ -1,4 +1,6 @@
-## Deliver: Final Prototype
+![Double Diamond Deliver Phase graphic](/assets/dd-process-deliver-1200px@2x.png)
+
+# Deliver: Final Prototype
 
 ## Instructions:
 
