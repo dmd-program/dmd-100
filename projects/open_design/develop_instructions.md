@@ -10,8 +10,10 @@ Now you will make a set of instructions to teach another person to assemble the 
 2. By line with your name
 3. Brief description of the toy
 4. List any safety hazards and/or if adult supervision is required.
-3. List of required materials
-4. Estimated time to complete the assembly
+5. Required materials and parts
+    1. Include a cost breakdown
+6. Required tools
+7. Estimated time to complete the assembly
 5. Step by step instructions
 
 ## Instructions

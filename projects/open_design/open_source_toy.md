@@ -62,10 +62,6 @@ How will you help users gain mastery of using the kit?
 2. Instructions should include any process or technique required to prepare parts and how to combine parts together. 
 
 
-### Photo Documentation should include:
-
-1. Single kit of parts image: knolling style
-2. Photos of various assemblies demonstrating the modular or reconfigurable characteristics of the kit
 
 ## Requirements:
 
