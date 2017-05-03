@@ -4,7 +4,7 @@ The Lady in the Picture: Design and Revelation in Renaissance Art (p. 88-104) in
 
 ## Writing prompt
 
-In this chapter, Grudin...
+In this chapter, Grudin talks of the design of knowledge. The way in which knowledge is communicated shapes knowledge itself. Can you describe
 
 ## Writing guidelines
 

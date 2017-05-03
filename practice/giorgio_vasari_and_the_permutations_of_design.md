@@ -4,7 +4,7 @@ Giorgio Vasari and the Permutations of Design \(p. 85-87\) in Design and Truth b
 
 ## Writing prompt
 
-In this chapter, Grudin explores implications resulting from Visari helping to establish the Accademia del Disegno in 1563. What were the results of this? Do you think this event has impacted the world into the 21st century? If not, why? If so, how? Discuss examples. 
+In this chapter, Grudin explores implications resulting from Visari helping to establish the Accademia del Disegno in 1563. What were the results of this? Do you think this event might have impacted the world into the 21st century? If not, why? If so, what could be current examples of the impact?
 
 ## Writing guidelines
 
