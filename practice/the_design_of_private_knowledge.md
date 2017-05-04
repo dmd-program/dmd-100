@@ -6,7 +6,7 @@ The Design of Private Knowledge \(p.178 - 195 \) in Design and Truth by Robert G
 
 **Prompt:**
 
-In these chapters, Grudin talks about something he calls mental design, the ability to wrap a story or experience into a narrative for the purpose of understanding the world and healing from a traumatic event. He also posits that subjectivity \(bias\) is a form of unconscious design and that the design of dreams is a means of true emotional expression. 
+In this chapters, Grudin talks about something he calls mental design, the ability to wrap a story or experience into a narrative for the purpose of understanding the world and healing from a traumatic event. He also posits that subjectivity \(bias\) is a form of unconscious design and that the design of dreams is a means of true emotional expression.
 
 **Writing guidelines:**
 
