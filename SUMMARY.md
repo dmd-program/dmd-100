@@ -128,6 +128,8 @@
     * Listening skills
     * Time
     * Set your calendar
+    * Entrepreneurship
+    * Community
   * Listening
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
   * Activities
