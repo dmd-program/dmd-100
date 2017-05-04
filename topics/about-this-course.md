@@ -2,3 +2,5 @@
 
 This course content will be available throughout your studies in the Digital Multimedia Design Program.
 
+Insert text here
+
