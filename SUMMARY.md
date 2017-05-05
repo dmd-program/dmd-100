@@ -7,7 +7,7 @@
   * [Learning Objectives](introduction/learning-objectives.md)
   * [Measuring success](introduction/measuring_success.md)
   * [The Studio](the_studio.md)
-  * Reference Guidelines
+  * [Reference Guidelines](topics/reference-guidelines.md)
     * [Writing Guidelines](writing_guidelines.md)
     * [Technology](topics/technology.md)
     * [Feedback and critique](toolkit/feedback-and-critique.md)
