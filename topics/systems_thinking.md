@@ -27,7 +27,7 @@ The [Designers Accord](http://designersaccord.org/) was a five-year project that
 
 > The “S” word
 >
-> Talking about sustainable design is not the best way to talk about it
+> Talking about sustainable design is not the best way to talk about it.
 >
 > Focus on leadership skills, participation, transparency, engagement, networks, human centered design, respect, and active listening. Ask students to rethink current paradigms and to envision a better future. \[1\]
 
@@ -63,7 +63,7 @@ Supposing this list was accurate, the next step would to be to better understand
 
 Critic Timothy Morton calls these systems **hyperobjects**. They are objects so large and complex, that humans can not perceive them in their entirety.
 
-> The problem is bigger, it’s a system.” Curtis and I briefly discussed a word coined by the critic Timothy Morton to describe a problem so vast in space and time that you are unable to apprehend it: a “hyperobject.” Global warming is a classic example of a hyperobject: it’s everywhere and nowhere, too encompassing to think about. Global markets, too. But naming a hyperobject alone is of limited use; human cognition knows all too well how to file such imminent imponderables away, on a “to-do” list that’s never consulted again. \[3\]
+> "The problem is bigger, it’s a system.” Curtis and I briefly discussed a word coined by the critic Timothy Morton to describe a problem so vast in space and time that you are unable to apprehend it: a “hyperobject.” Global warming is a classic example of a hyperobject: it’s everywhere and nowhere, too encompassing to think about. Global markets, too. But naming a hyperobject alone is of limited use; human cognition knows all too well how to file such imminent imponderables away, on a “to-do” list that’s never consulted again. \[3\]
 
 ## Citation
 
