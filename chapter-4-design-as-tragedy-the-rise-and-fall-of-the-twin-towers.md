@@ -1,6 +1,6 @@
 # Design as Tragedy: The rise and Fall of the Twin Towers
 
-Design as Tragedy: The rise and Fall of the Twin Towers \(p. 34-45\) in Design and Truth by Robert Grudin
+Design as Tragedy: The rise and Fall of the Twin Towers \(p. 34-45\) in _Design and Truth_ by Robert Grudin
 
 ## **Prompt**
 
