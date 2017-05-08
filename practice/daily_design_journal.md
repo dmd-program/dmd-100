@@ -27,14 +27,8 @@ In this activity, you will document at least one object each day for two weeks u
 
 ## Report in
 
-1. Submit scans or images in the course submission system.
-2. Submit the prompt responses to the course submission system.
-
-Journal changes
-
-1. Students are each assigned weeks to show their design journal entries
-2. Use a slack group for that
-3. Will facilitate a design discussion
+1. Submit **scans or images** in the course submission system.
+2. Submit the **prompt responses** to the course submission system.
 
 
 
