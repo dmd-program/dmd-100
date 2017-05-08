@@ -6,7 +6,7 @@
 >
 > – Udaya Patnaik, Co-Founder Jump Associates
 
-Design Thinking is the most current incarnation of terminology meant to frame and ascribe value for the role of creative problem solving within a larger system. Generally speaking, design thinking refers the methods used to strategically guide a person or group to question underlying assumptions, generate a large array of ideas, better understand user needs, synthesize prototypes, propose or build viable solutions, and more. It's roots can be traced to Participatory Design, User-Centered Design, Service Design, and Human-Centered Design. Imagining a new idea, let alone 100 new ideas, is hard and often comes with overcoming learned blocks to creative thinking. To make this process easier, modern design thinking methods tend to incorporate synectics, or methods that facilitate the connection of ideas through unrelated phenomenon.
+Design Thinking is the most current incarnation of terminology meant to frame and ascribe value for the role of creative problem solving within a larger system. Generally speaking, design thinking refers the methods used to strategically guide a person or group to question underlying assumptions, generate a large array of ideas, better understand user needs, synthesize prototypes, propose or build viable solutions, and more. Its roots can be traced to Participatory Design, User-Centered Design, Service Design, and Human-Centered Design. Imagining a new idea, let alone 100 new ideas, is hard and often comes with overcoming learned blocks to creative thinking. To make this process easier, modern design thinking methods tend to incorporate synectics, or methods that facilitate the connection of ideas through unrelated phenomenon.
 
 ## Design blocks
 
