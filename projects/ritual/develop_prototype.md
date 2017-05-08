@@ -30,7 +30,7 @@ Now that you have a storyboard that describes the various components of the ritu
 
 ### A. Making a paper prototype
 
-1. List the parts of the storyboard that can translate into mobile application functions. For instance, if the ritual has a time component, then you can build in an timed audio cue into the prototype \(represented visually\).
+1. List the parts of the storyboard that can translate into mobile application functions. For instance, if the ritual has a time component, then you can build in a timed audio cue into the prototype \(represented visually\).
 2. Find UI inspiration: [http://collectui.com/](http://collectui.com/), [https://dribbble.com/](https://dribbble.com/), [http://www.mobile-patterns.com/](http://www.mobile-patterns.com/)
 3. Create the paper interface components
    1. Download and print the Paper Prototyping PDF.
