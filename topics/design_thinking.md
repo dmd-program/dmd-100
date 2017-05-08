@@ -49,7 +49,7 @@ On page 172 in Victor Papanek's _Design for the Real World, Human Ecology and So
 > 7. Bionics and Biomechanics
 > 8. Forcing New Thinking Patterns
 
-We won't go into detail about what each of Papanek's methods are; however, we will practice a few of them when completing course projects. There are hundreds of quantitative and qualitative design and research methods to choose from. The book, _Universal Methods of Design_ by Bella Martin and Bruce Hanington is a good starting point.
+We won't go into detail about what each of Papanek's methods are; however, we will practice a few of them when completing course projects. There are hundreds of quantitative and qualitative design and research methods to choose from. The book, _Universal Methods of Design_ by Bella Martin and Bruce Hanington, is a good starting point.
 
 ## Embracing V.U.C.A.
 
