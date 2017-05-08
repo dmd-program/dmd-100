@@ -43,8 +43,6 @@
     * [Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers](chapter-4-design-as-tragedy-the-rise-and-fall-of-the-twin-towers.md)
   * [Project](project.md)
     * [Ritual Project Introduction](projects/ritual.md)
-    * Tutorials
-      * [Paper prototyping a mobile app](topics/paper_prototyping_a_mobile_app.md)
     * [Discover: Interview](projects/ritual/ritual_interview.md)
     * [Discover: Journey map](project/ritual/discover_journey_map.md)
     * [Define: HMW](projects/ritual/define_hmw.md)

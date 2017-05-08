@@ -4,7 +4,7 @@
 
 Now that your prototype is done, it is time to participate in feedback. You will be assigned a few prototypes to review. Your prototype will also be reviewed by your classmates. This is an opportunity to practice receiving and interpreting feedback. A critique of your work might be stressful at first, but it is one of the most common, and useful processes in design.
 
-## Instructions: Part 1
+## Instructions
 
 1. **Provide feedback** to your assigned prototypes based on the following criteria:
    1. Are you able to clearly understanding of the relationship between the app and the ritual? Why or why not?
@@ -14,3 +14,6 @@ Now that your prototype is done, it is time to participate in feedback. You will
 ## Report in
 
 1. Submit your feedback to the studio.
+
+
+
