@@ -98,7 +98,7 @@ The following Plot Diagram shows the Five Act plot points laid over a Three Act 
 
 ### Non-linear narrative structures
 
-A non-linear structure is not necessarily chronological or cause and effect based. Story is unfolded simultaneously and recursively. Non-linear narratives are often used to create links between things that are otherwise not connected to create meaning or tension; a device used commonly in surrealism.
+A non-linear structure is not necessarily chronological or cause-and-effect based. Story is unfolded simultaneously and recursively. Non-linear narratives are often used to create links between things that are otherwise not connected to create meaning or tension, a device used commonly in surrealism.
 
 ### Interactive narrative
 
@@ -139,13 +139,13 @@ In this linear structure, a user must complete node's requirements to continue t
 ##### Hero's journey
 
 ![Hero&apos;s Journey Strucutre](../assets/narrative-journey-structure.png)  
-In this linear structure, a user would follow the twelve stages of the hero's journey. However, there can be fewer or additional stages and still be considered a journey structure. Some stories continue around this path, creating a continuous.
+In this linear structure, a user would follow the 12 stages of the hero's journey. However, there can be fewer or additional stages and still be considered a journey structure. Some stories continue around this path, creating a continuous.
 
 ##### Parallel worlds
 
 ![Parallel Structure](../assets/narrative-parallel-structure.png)
 
-In this quasi-linear structure, users are given the opportunity to explore multiple story-lines running in parallel. There is typically no way to experience all of the stories at once, though they may intersect at opportune times.
+In this quasi-linear structure, users are given the opportunity to explore multiple storylines running in parallel. There is typically no way to experience all of the stories at once, though they may intersect at opportune times.
 
 ##### Drill-down
 
