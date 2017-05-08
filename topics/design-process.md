@@ -8,7 +8,7 @@ In this course, we will be adapting and simplifying a design process model calle
 
 ## Divergent and convergent thinking
 
-**Divergent thinking** refers to the thought processes that are used for producing an array of ideas that may quite different from each other. This kind of thinking is meant to generate an abundance possibilities to increase the likelihood of a positive outcome. Creative thinkers are particularly skilled divergent thinkers, drawing inspiration from unexpected sources and keen observations.
+**Divergent thinking** refers to the thought processes that are used for producing an array of ideas that may be quite different from each other. This kind of thinking is meant to generate an abundance of possibilities to increase the likelihood of a positive outcome. Creative thinkers are particularly skilled divergent thinkers, drawing inspiration from unexpected sources and keen observations.
 
 **Convergent thinking** refers to the thought processes involved with resolving an idea or solution. A convergent thinking will analyze an idea's viability with respect to available resources, capabilities, human-factors implications, environmental considerations, cost, efficiency, and many other metrics. Engineers tend to excel in convergent thinking, choosing the best options from set of possibilities.
 
