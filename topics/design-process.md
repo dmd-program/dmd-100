@@ -14,7 +14,9 @@ In this course, we will be adapting and simplifying a design process model calle
 
 ## The Four Phases
 
-![Double Diamond Phases Diagram](/assets/double-diamond-phases-1200w@2x.png)On the Double Diamond Phases diagram, you can see how two connected diamonds describe four phases, two divergent, and two convergent. The red arrows pointing away from each other represent divergence whereas the red arrows pointed towards each other represent convergence. In the left-most diamond, you would establish an understanding of the prompt and a solution plan. In the right-most diamond, you would construct the response to the prompt. Each diamond is divided into two parts, creating four design phases which we will refer to throughout course projects.
+![Double Diamond Phases Diagram](/assets/double-diamond-phases-1200w@2x.png)
+
+On the Double Diamond Phases diagram, you can see how two connected diamonds describe four phases, two divergent, and two convergent. The red arrows pointing away from each other represent divergence whereas the red arrows pointed towards each other represent convergence. In the left-most diamond, you would establish an understanding of the prompt and a solution plan. In the right-most diamond, you would construct the response to the prompt. Each diamond is divided into two parts, creating four design phases which we will refer to throughout course projects.
 
 The **\(1\) Discover** phase is where you will gain a better understanding of the project and its goals; the **\(2\) Define** phase is where you will narrow and form the project's direction; the **\(3\) Develop** phase is where you will explore production methodologies, prototype, and experiment; and finally the **\(4\) Deliver** phase is where you will iterate and refine your project.  This process model will be used to complete projects with an added discussion phase at the end. Though this process is not necessarily a linear methodology, we will be progressing through projects in a linear fashion.
 
