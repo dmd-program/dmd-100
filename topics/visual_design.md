@@ -1,6 +1,6 @@
 # Visual Design
 
-The visual design process is purposeful creative production using visual design elements and applying design principles within the constraints of project objectives. Much of what we know about visual design was developed and perfected by masters painters hundreds of years ago. The main goal of visual design is to take command over the viewers eye; to lead it around a canvas or page for the purpose of communicating some feeling or meaning.
+The visual design process is purposeful creative production using visual design elements and applying design principles within the constraints of project objectives. Much of what we know about visual design was developed and perfected by the masters painters hundreds of years ago. The main goal of visual design is to take command over the viewer's eye, to lead it around a canvas or page for the purpose of communicating some feeling or meaning.
 
 > A certain painter, not without some reputation at the present day, once wrote a little book on the art he practises, in which he gave a definition of that art so succinct that I take it as a point of departure for this essay. “The art of painting,” says that eminent authority, “is the art of imitating solid objects upon a flat surface by means of pigments.” It is delightfully simple, but prompts the question—Is that all? And, if so, what a deal of unnecessary fuss has been made about it. \[2\]
 
