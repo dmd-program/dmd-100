@@ -4,7 +4,7 @@
 
 Now that you have a How Might We question, it's time to brainstorm some ideas to try to solve for the question. Generating ideas by yourself \(AKA – in a vacuum\) can be fairly difficult if you are new to this process. Even experienced designers benefit from working in groups because typically the array of ideas generated in a discussion is far larger than when working alone. For this step, you will partner up with small groups to brainstorm ideas for each person's project. You will use the free tool, [https://www.webwhiteboard.com](https://www.webwhiteboard.com), to collaboratively make a whiteboard. However, if the website is not functioning when you meet with your group, you will have to record the brainstorm with sticky notes and photograph them on a large open wall or poster board.
 
-Groups should meet via video call. Available tools include Skype, [Bluejeans](http://pennstate.bluejeans.com), gChat, Apple Facetime, etc. If the video call fails do to Internet connectivity issues, follow the directions, but using a chat tool of your choice.
+Groups should meet via video call. Available tools include Skype, [Bluejeans](http://pennstate.bluejeans.com), gChat, Apple Facetime, etc. If the video call fails due to Internet connectivity issues, follow the directions, but using a chat tool of your choice.
 
 ![](/assets/k2vay57y %281%29.png)
 
@@ -20,7 +20,7 @@ Groups should meet via video call. Available tools include Skype, [Bluejeans](ht
 2. There will be one brainstorming round for each person in the group.
 3. Each group member will create their own free whiteboard space from [https://www.webwhiteboard.com](https://www.webwhiteboard.com) and send their board's URL to the assigned Team Leader.
 4. Each round will focus on a different person's HMW question.
-5. **Facilitator Role:** For each round, the person currently in focus for the discussion will be the Facilitator of the discussion, and is responsible for downloading their finished whiteboard and uploading the the image to the Studio.
+5. **Facilitator Role:** For each round, the person currently in focus for the discussion will be the facilitator of the discussion, and is responsible for downloading their finished whiteboard and uploading the image to the Studio.
    1. The facilitator is responsible for keeping time.
    2. Responsible for downloading their own How Might We...? brainstorm whiteboard image. 
 6. Spend about 10-15 minutes minutes per round.
