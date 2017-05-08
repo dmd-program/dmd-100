@@ -42,7 +42,7 @@ Gustav Freytag \(1816 - 1895\), a German dramatist and novelist, developed a str
 4. falling action
 5. dénouement/resolution
 
-This five act structure works well when describing Greek and Shakespearean plays. However, there are many ways to analyze the structure of a narrative. Most contemporary stories can be described with according to common structural breakdowns – The Three Act, Four Act, Five Act, Seven Act, and Hero's Journey. These structures can help us understand how a story is told, and act as a heuristic for writing your own story.
+This five-act structure works well when describing Greek and Shakespearean plays. However, there are many ways to analyze the structure of a narrative. Most contemporary stories can be described with according to common structural breakdowns – the Three Act, Four Act, Five Act, Seven Act, and Hero's Journey. These structures can help us understand how a story is told, and act as a heuristic for writing your own story.
 
 ### Three Act
 
