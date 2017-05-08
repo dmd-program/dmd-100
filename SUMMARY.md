@@ -4,16 +4,16 @@
   * [About this course](topics/about-this-course.md)
   * [Calendar](calendar.md)
   * [Digital Multimedia Design](topics/digital_multimedia_design.md)
-  * [Learning Objectives](introduction/learning-objectives.md)
+  * [Learning objectives](introduction/learning-objectives.md)
   * [Measuring success](introduction/measuring_success.md)
-  * [The Studio](the_studio.md)
-  * [Reference Guidelines](topics/reference-guidelines.md)
-    * [Writing Guidelines](writing_guidelines.md)
+  * [The studio](the_studio.md)
+  * [Reference guidelines](topics/reference-guidelines.md)
+    * [Writing guidelines](writing_guidelines.md)
     * [Technology](topics/technology.md)
     * [Feedback and critique](toolkit/feedback-and-critique.md)
-* [Lesson 1: What is Design?](lessons/introduction.md)
+* [Lesson 1: What is design?](lessons/introduction.md)
   * [Introduction](lessons/what-is-design/introduction.md)
-  * [Outlandish Introductions](icebreakers/outlandish_introductions.md)
+  * [Outlandish introductions](icebreakers/outlandish_introductions.md)
   * [Topics](lessons/topics.md)
     * [What is design?](topics/what_is_design.md)
     * [Design thinking](topics/design_thinking.md)
@@ -23,13 +23,13 @@
   * Readings
     * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
   * Activities
-    * [Daily Design Journal](practice/daily_design_journal.md)
+    * [Daily design journal](practice/daily_design_journal.md)
   * Listening
     * [Creative Mornings: Design is Magical](listening/creative_mornings_design_is_magical.md)
     * [99 Percent Invisible: Lawn Order](listening/lawn_order.md)
   * Discussions
     * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
-* Lesson 2: Visual and Interaction Design
+* Lesson 2: Visual and interaction design
   * [Topics](topics.md)
     * [Interaction design](topics/interaction_design.md)
     * [Inclusive design](inclusive-design.md)
@@ -39,24 +39,24 @@
     * [Semiotics](topics/semiotics.md)
   * Listening
     * [99 Percent Invisible: On Average](listening/99-percent-invisible-on-average.md)
-    * [99 Percent Invisible: 10,000 years](listening/99_percent_invisible_10,000_years.md)
-    * [Freakonomics: How to become great at just about anything](freakonomics-how-to-become-great-at-just-about-anything.md)
+    * [99 Percent Invisible: 10,000 Years](listening/99_percent_invisible_10,000_years.md)
+    * [Freakonomics: How to Become Great at Just About Anything](freakonomics-how-to-become-great-at-just-about-anything.md)
   * Readings
     * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
-    * [Chapter 3. What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
+    * [Chapter 3. What Design and Truth Say About Each Other](practice/what_design_and_truth_say_about_each_other.md)
     * [Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers](chapter-4-design-as-tragedy-the-rise-and-fall-of-the-twin-towers.md)
   * [Project](project.md)
     * [Ritual Project Introduction](projects/ritual.md)
     * Tutorials
-      * [Paper Prototyping a Mobile App](topics/paper_prototyping_a_mobile_app.md)
+      * [Paper prototyping a mobile app](topics/paper_prototyping_a_mobile_app.md)
     * [Discover: Interview](projects/ritual/ritual_interview.md)
-    * [Discover: Journey Map](project/ritual/discover_journey_map.md)
+    * [Discover: Journey map](project/ritual/discover_journey_map.md)
     * [Define: HMW](projects/ritual/define_hmw.md)
     * [Develop: Brainstorm](projects/develop-brainstorm.md)
     * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
     * [Develop: Prototype](projects/ritual/develop_prototype.md)
-    * [Develop: Test and Iterate](projects/ritual/develop_test_and_iterate.md)
-    * [Deliver: Final Prototype](projects/deliver-final-prototype.md)
+    * [Develop: Test and iterate](projects/ritual/develop_test_and_iterate.md)
+    * [Deliver: Final prototype](projects/deliver-final-prototype.md)
 * Lesson 3: Storytelling
   * [Introduction](lessons/narrative/introduction.md)
   * [Topics](lessons/narrative/topics.md)
@@ -67,8 +67,8 @@
     * [Hypertext](topics/hypertext.md)
     * [Narrative media](topics/narrative-media.md)
   * Listening
-    * [Creative Mornings: Writing your way to freedom](listening/creative_mornings_writing_your_way_to_freedom.md)
-    * [99 Percent Invisible: Of mice and men](listening/99_percent_invisible_of_mice_and_men.md)
+    * [Creative Mornings: Writing Your Way to Freedom](listening/creative_mornings_writing_your_way_to_freedom.md)
+    * [99 Percent Invisible: Of Mice and Men](listening/99_percent_invisible_of_mice_and_men.md)
   * Watching
     * [Creative Mornings: Jordan Tannahill](lessons/narrative/creative-mornings-jordan-tannahill.md)
   * Readings
@@ -76,22 +76,22 @@
     * [Chapter 6. Designs of Darkness](practice/bad_design.md)
     * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
   * Project
-    * [Hypertext Narrative Introduction](projects/narrative/narrative_project_social_design_option.md)
+    * [Hypertext Narrative introduction](projects/narrative/narrative_project_social_design_option.md)
     * [Discover: Word-pairs](projects/narrative/discover_focus_words.md)
     * [Define: Synopsis](projects/narrative/define_the_way_it_was.md)
     * [Develop: Story and plot elements](projects/narrative/develop_story_and_plot.md)
     * [Develop: Characters](projects/narrative/develop-characters.md)
-    * [Deliver: Hypertext Narrative](projects/narrative/deliver_hypertext_story.md)
+    * [Deliver: Hypertext narrative](projects/narrative/deliver_hypertext_story.md)
     * Tutorials
-      * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
+      * [Twine tutorial: Getting started](topics/twine-tutorial-getting-started.md)
     * [Deliver: Feedback](projects/narrative/develop-feedback.md)
     * [Deliver: Iterate](projects/narrative/deliver_iterate.md)
   * Discussions
     * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
-* [Lesson 4: Open Design](lessons/remix.md)
+* [Lesson 4: Open design](lessons/remix.md)
   * [Introduction](lessons/open_design/introduction.md)
   * [Topics](lessons/open_design/topics.md)
-    * [Open design](topics/open_design.md)
+    * [Open Design](topics/open_design.md)
     * [Into the Open](lessons/into-the-open.md)
     * [Authors and Owners](topics/authors-and-owners.md)
     * [The Generative Bedrock of Open Design](topics/the-generative-bedrock-of-open-design.md)
@@ -115,13 +115,13 @@
     * [Develop: Test](projects/open_design/develop_user_testing.md)
     * [Develop: Iterate](projects/open_design/develop-iterate.md)
     * [Deliver: Open Toy](projects/open_design/deliver_open_toy.md)
-* [Lesson 5: Self Design](lessons/co-generative_design.md)
+* [Lesson 5: Self design](lessons/co-generative_design.md)
   * [Topics](lessons/co-generative_design/topics.md)
     * [Design principles for human behavior](topics/design-principles-for-human-behavior.md)
     * Identity and purpose
     * [Learned helplessness](topics/learned-helplessness.md)
     * Behavioral nudging
-    * [Positive Pyschology](topics/positive-pyschology.md)
+    * [Positive psychology](topics/positive-pyschology.md)
     * Hand skills
     * Listening skills
     * Decision making
@@ -133,7 +133,7 @@
   * Listening
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
   * Activities
-    * [Design your Day](lessons/co-generative_design/design-your-day.md)
+    * [Design your day](lessons/co-generative_design/design-your-day.md)
     * [Self design](lessons/co-generative_design/self-design.md)
   * Readings
     * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
@@ -141,4 +141,6 @@
     * [Chapter 14. Designing Time](practice/designing_time.md)
     * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
 * [License](LICENSE.md)
+
+
 
