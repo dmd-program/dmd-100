@@ -29,7 +29,7 @@ Groups should meet via video call. Available tools include Skype, [Bluejeans](ht
 
 1. **Quantity over quality.** The goal is to generate as many ideas as possible.
 2. **Defer judgement.** Silly and outlandish ideas are just as useful as, and sometimes more exciting than, sensible ideas.
-3. **Be positive.** When building upon others ideas, use "yes, and also" instead of "but" or "well." These small language nuances change the tone of the discussion to feel more supportive and inclusive.
+3. **Be positive.** When building upon others' ideas, use "yes, and also" instead of "but" or "well." These small language nuances change the tone of the discussion to feel more supportive and inclusive.
 4. **Focus.** It's easy to derail a brainstorming session. If it happens, refocus on the task at hand.
 5. **Simplify.** If an idea takes two sentences to describe, try simplifying it to the core idea using as few words as possible.
 
@@ -49,9 +49,9 @@ Groups should meet via video call. Available tools include Skype, [Bluejeans](ht
 3. First Facilitator: Set a timer for 15 minutes. 
 4. The Facilitator will read the HMW question to the group.
 5. The group will spend up to 15 minutes generating ideas for the HMW question.
-   1. If the website is not functioning, the designated facilitator is responsible to write down the ideas onto sticky notes and put them on the poster-board or open wall space for photographing.
+   1. If the website is not functioning, the designated facilitator is responsible to write down the ideas onto sticky notes and put them on the poster board or open wall space for photographing.
    2. After 10 minutes: As a group, briefly discuss which ideas you like.
-6. The next Facilitator sets and timer for 15 minutes.
+6. The next facilitator sets a timer for 15 minutes.
 7. Repeat steps 4-6 until all group members have taken their turn. You are now finished the brainstorming session. Thank each other for their contributions and end the call.
 
 ## Report in
