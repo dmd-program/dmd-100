@@ -23,7 +23,7 @@ Groups should meet via video call. Available tools include Skype, [Bluejeans](ht
 5. **Facilitator Role:** For each round, the person currently in focus for the discussion will be the facilitator of the discussion, and is responsible for downloading their finished whiteboard and uploading the image to the Studio.
    1. The facilitator is responsible for keeping time.
    2. Responsible for downloading their own How Might We...? brainstorm whiteboard image. 
-6. Spend about 10-15 minutes minutes per round.
+6. Spend about 10-15 minutes per round.
 
 ### Brainstorming
 
