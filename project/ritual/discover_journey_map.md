@@ -25,7 +25,7 @@ A journey map is great way to visualize an entire process of an interaction. By 
 ## Materials
 
 * Pen
-* paper
+* Paper
 * Post-its
 * Markers
 * Poster-board or open wall space
@@ -36,8 +36,8 @@ A journey map is great way to visualize an entire process of an interaction. By 
 
 ## Instructions
 
-1. In the interview, your participant answered questions about a challenge they face. This will be the focus of the journey map.
-2. You will now assume their perspective. From the first person perspective, write short 1-5 word descriptions of the most core moment\(s\) of engagement on Post-its. **For example:** "I realized the grass was too long."
+1. In the interview, your participant answered questions about a challenge they face or faced. This will be the focus of the journey map.
+2. You will now assume their perspective. From the first-person perspective, write short 1-5 word descriptions of the most core moment\(s\) of engagement on Post-its. **For example:** "I realized the grass was too long."
 3. Write down the name of any other key moments on separate Post-it notes. Try to identify as many as you can. Consider what the most critical aspects of what the experience might be. 
 4. Place the Post-it notes in order as you would likely experience them.
 5. This journey map is useful to help you communicate your experience to others and identify moments for intervention, change, and adaptation.
