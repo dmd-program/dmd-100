@@ -1,8 +1,6 @@
 # Character
 
-In fictional film or literature, character types are used to help viewers to empathize with the story. A person's character typically refers to the qualities they possess. However, a character can also be an animal, object, or abstraction in a story. Objects are often represented through anthropomorphism, where human attributes are applied to a non-human. According to an [explainer video about animated light](https://www.youtube.com/watch?v=xf0WjeE6eyM) for the movie, Akira, the city itself was considered to be a character. Other examples of non-human characters include an Lightning McQueen from [Cars \(2006\)](http://www.imdb.com/title/tt0317219/) and a homicidal car tire named Robert in the movie [Rubber \(2010\)](http://www.imdb.com/title/tt1612774/).
-
-In video games, if a main character is present, usually the role of that
+In fictional film or literature, character types are used to help viewers to empathize with the story. A person's character typically refers to the qualities they possess. However, a character can also be an animal, object, or abstraction in a story. Objects are often represented through anthropomorphism, where human attributes are applied to a non-human. According to an [explainer video about animated light](https://www.youtube.com/watch?v=xf0WjeE6eyM) for the movie, Akira, the city itself was considered to be a character. Other examples of non-human characters include Lightning McQueen from [Cars \(2006\)](http://www.imdb.com/title/tt0317219/) and a homicidal car tire named Robert in the movie [Rubber \(2010\)](http://www.imdb.com/title/tt1612774/).
 
 ## Characterization
 
@@ -27,7 +25,7 @@ Character types are often one or a combination of the following:
 11. **Foil character:** Typically contrasts the main character in qualities and values so that we may learn more about the main character.
 12. **Symbolic character:** This character represents an abstract concept like "hope" or "justice."
 
-## Character profile
+## Character profiling
 
 Creating a character profile is helpful to describe the way in which a character connects with and supports the telling of a story.
 
