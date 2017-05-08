@@ -30,7 +30,7 @@ A speculative near-future science fiction television series produced in the UK, 
 
 > Open design heralds new possibilities for artists, scholars, and interested citizens to engage in a simultaneously conceptual and material critique of technologies and information systems in society.\[4\]
 
-The term 'critical making' is intended to highlight the interwoven material and conceptual work that making involves. As a teaching and research strategy, critical making shares an emphasis on values with both critical design and critical practices — such as the critical technical practice\[5\] from which it derives, as well as value-sensitive-design\[6\] and values-in-design\[7\].
+The term 'critical making' is intended to highlight the interwoven material and conceptual work that making involves. As a teaching and research strategy, critical making shares an emphasis on values with both critical design and critical practices — such as the critical technical practice\[5\] from which it derives, as well as value-sensitive-design\[6\] and values-in-design.\[7\]
 
 ## Citation
 
