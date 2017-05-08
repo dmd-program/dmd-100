@@ -21,7 +21,7 @@ Now that you have a storyboard that describes the various components of the ritu
 * [Windows](http://www.tech-recipes.com/rx/56624/how-to-rotate-crop-photos-in-windows-10/)
 * [Mac OS](http://osxdaily.com/2014/06/16/crop-image-mac-preview/)
 
-**Working InVisionApp:**
+**Working with InVisionApp:**
 
 * Lynda: [InVision Prototyping](https://www.lynda.com/Flinto-tutorials/Invision-prototyping/452520/493200-4.html) \([PSU Login](https://lynda.psu.edu)\)
 * [InvisionApp Tutorials](https://projects.invisionapp.com/d/main#/learn)
@@ -31,20 +31,20 @@ Now that you have a storyboard that describes the various components of the ritu
 ### A. Making a paper prototype
 
 1. List the parts of the storyboard that can translate into mobile application functions. For instance, if the ritual has a time component, then you can build in an timed audio cue into the prototype \(represented visually\).
-3. Find UI inspiration: [http://collectui.com/](http://collectui.com/), [https://dribbble.com/](https://dribbble.com/), [http://www.mobile-patterns.com/](http://www.mobile-patterns.com/)
-4. Create the paper interface components
+2. Find UI inspiration: [http://collectui.com/](http://collectui.com/), [https://dribbble.com/](https://dribbble.com/), [http://www.mobile-patterns.com/](http://www.mobile-patterns.com/)
+3. Create the paper interface components
    1. Download and print the Paper Prototyping PDF.
    2. Draw and cut out interface elements including buttons, images, icons, navigation, text, and other elements needed to prototype your app interface.
    3. Cut out reusable interface elements so they can be rearranged for each application screen.
    4. Arrange the components for each screen and take a picture with your phone's camera.
-5. Crop all images to the crop marks.
-6. Upload images to a project folder on box.psu.edu to keep a backup.
+4. Crop all images to the crop marks.
+5. Upload images to a project folder on box.psu.edu to keep a backup.
 
 ### B. Making an interactive prototype
 
 ![InvisionApp project view](/assets/invision-proj-view.png)
 
-1. See example prototype: https://invis.io/V8BEQKLWN 
+1. See example prototype: [https://invis.io/V8BEQKLWN](https://invis.io/V8BEQKLWN) 
 2. Upload prototype interfaces to InvisionApp
    1. Move the image files from your phone or camera to your computer.
    2. Crop each image to the screen border using the cropping methods suggested in the technical resources
@@ -71,3 +71,6 @@ Now that you have a storyboard that describes the various components of the ritu
 ## Report in
 
 1. Upload the ZIP archive file, Public Share Link, and the design document to the Studio.
+
+
+
