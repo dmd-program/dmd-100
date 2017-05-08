@@ -39,7 +39,6 @@
     * [99 Percent Invisible: 10,000 Years](listening/99_percent_invisible_10,000_years.md)
     * [Freakonomics: How to Become Great at Just About Anything](freakonomics-how-to-become-great-at-just-about-anything.md)
   * Readings
-    * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
     * [Chapter 3. What Design and Truth Say About Each Other](practice/what_design_and_truth_say_about_each_other.md)
     * [Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers](chapter-4-design-as-tragedy-the-rise-and-fall-of-the-twin-towers.md)
   * [Project](project.md)
