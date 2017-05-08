@@ -1,6 +1,6 @@
 # Good Design Tells the Truth
 
-Sen no Rikyu and the Paradox of Innovation, Good Design Tells the Truth \(p. 3-26\) in Design and Truth by Robert Grudin
+Sen no Rikyu and the Paradox of Innovation, Good Design Tells the Truth \(p. 3-26\) in _Design and Truth_ by Robert Grudin
 
 ## **Prompt**
 
