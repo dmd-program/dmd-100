@@ -1,15 +1,15 @@
 # Interaction Design \(IxD\)
 
-Designing for interaction is the process of understanding, accounting for, and sometimes altering a user\(s\) mental model \(what they know and how they think\) to facilitate a dialogue between that user and an object, system, or event. In this way, the designer shapes the user. This does not have to be software. You could be designing an conversation between two people by providing discussion topics, a voting ballot to reduce voter confusion and errors, or a new device to make virtual reality feel more like physical reality.
+Designing for interaction is the process of understanding, accounting for, and sometimes altering a user\(s\) mental model \(what they know and how they think\) to facilitate a dialogue between that user and an object, system, or event. In this way, the designer shapes the user. This does not have to be software. You could be designing a conversation between two people by providing discussion topics, a voting ballot to reduce voter confusion and errors, or a new device to make virtual reality feel more like physical reality.
 
 > ... changes will be realized by designers, and by a specific breed of designers: those creative designers who are both artists and engineers and who are able to balance, over an extended period of time, technology and aesthetics without ever losing sight of the most important facet of design: humanity. \[3\]
 
-Consumer product design is located in a field called Industrial Design, a term coined in the early 20th century. In the mid-20th century, ergonomics, or the interaction between people and equipment, emerged. After microcomputers were invented, product design began to inlude software. This shifted design away from ergonomics into interaction design.
+Consumer product design is located in a field called Industrial Design, a term coined in the early 20th century. In the mid-20th century, ergonomics, or the interaction between people and equipment, emerged. After microcomputers were invented, product design began to include software. This shifted design away from ergonomics into interaction design.
 
 To design an interaction, a designer must seek to know:
 
 * True goals of the interaction \(this is sometimes different than stated goals\)
-* User's abilities, constraints, and mental models
+* Users' abilities, constraints, and mental models
 * Where and how it will happen
 * Constraints of the environment it's happening in
 * How the interaction went
