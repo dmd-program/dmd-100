@@ -6,13 +6,13 @@ Now that you have a storyboard that describes the various components of the ritu
 
 ## Tools and Materials
 
-1. Pen or Marker
+1. Pen or marker
 2. Assorted paper
 3. Scissors
 4. Ruler
 5. Cellphone Camera
-6. InVision App \(Free account\)
-7. InVision Mobile App \(free download\)
+6. [Invisionapp.com](https://www.invisionapp.com/) \(free account\)
+7. InVision mobile app \(free download\)
 
 ## Technical resources
 
