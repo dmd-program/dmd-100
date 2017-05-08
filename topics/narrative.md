@@ -12,7 +12,7 @@ A person can now read, watch, interact with, or listen to a new story every day 
 
 ## Story and object
 
-Semiotics, the study of signs and symbols, has produced models for describing how meaning is communicated; Ferdinand de Saussure's dyadic model consists of the signifier and the signified, and the Charles Sanders Peirce triadic model consists of a icons, indices, and symbols. Just like [Forest Gump's shoes](https://www.youtube.com/watch?v=egkrxkiUnoo), objects are "sign vehicles," targets of mental acts but these objects do [not have to be physical things](https://vimeo.com/133160620). From the perspective of storytelling, objects are the medium by which a story is told. The authors of the book, _The Axemaker's Gift_, remind us that humans figured out how to do this with writing approximately 12,000 years ago.
+Semiotics, the study of signs and symbols, has produced models for describing how meaning is communicated; Ferdinand de Saussure's dyadic model consists of the signifier and the signified, and the Charles Sanders Peirce triadic model consists of icons, indices, and symbols. Just like [Forest Gump's shoes](https://www.youtube.com/watch?v=egkrxkiUnoo), objects are "sign vehicles," targets of mental acts but these objects do [not have to be physical things](https://vimeo.com/133160620). From the perspective of storytelling, objects are the medium by which a story is told. The authors of the book, _The Axemaker's Gift_, remind us that humans figured out how to do this with writing approximately 12,000 years ago.
 
 > "The first examples of writing occurred in the Near East at the time when animals and plants were being domesticated. They took the form of clay tokens, smaller than an inch in size, used to represent different commodities." \[1\]
 
@@ -24,10 +24,9 @@ Because story is ubiquitous to the human experience, you find it embedded in alm
 
 In product and service design, graphic designers use visual design elements to communicate simple ideas like how to use a voting ballot or abstract ideas like company brand identities. Industrial designers use visual and sculptural elements to communicate what a product does and how it should be used. Story can help businesses empathize with customers to create better products and services, recognize new ways of approaching solutions, and help customers choose between similar products.
 
-Journalists working for televised news stations, newspapers, magazines, blogs, and other publications combine photography, video, and investigative reporting techniques to communicate information about events. War of the Worlds, a book written by H. G. Wells and adapted by Orson Welles to simulate a live news broadcast, was read on the live radio on Halloween in 1938, causing some listeners to panic, believing that there was a real alien invasion occurring. Similar in format to radio shows, podcast shows now combine journalism techniques, creative writing, and sound editing to tell compelling audio stories.
+Journalists working for televised news stations, newspapers, magazines, blogs, and other publications combine photography, video, and investigative reporting techniques to communicate information about events. _War of the Worlds_, a fiction written by H. G. Wells and adapted by Orson Welles to simulate a live news broadcast, was read on the live radio on Halloween in 1938, causing some listeners to panic, believing that there was a real alien invasion occurring. Similar in format to radio shows, podcast shows now combine journalism techniques, creative writing, and sound editing to tell compelling audio stories.
 
 Politicians use stories to gain public support for proposed policies and actions whereas activists use coordinated gatherings with signage, music, song, dance, and other types of performance to communicate their stories to the general public. Social change agents use stories to create empathy through all forms of media, helping bring attention to marginalized members of society.
-
 
 ## Citations
 
