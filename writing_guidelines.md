@@ -8,16 +8,18 @@ When writing a draft, composition structure, grammar, and spelling are the least
 
 ## Final deliverables
 
-Typically, a final deliverable will be evaluated according to all possible metrics. Ensure that you leave time for editing, this will help you catch embarrassing spelling and grammar errors. You should always ask someone to give you feedback on your writing and to proofread before you submit. This will help you communicate your ideas free from the distraction of careless mistakes.
+Typically, a final deliverable will be evaluated according to all possible metrics. Ensure that you leave time for editing—this will help you catch embarrassing spelling and grammar errors. You should always ask someone to give you feedback on your writing and to proofread before you submit. This will help you communicate your ideas free from the distraction of careless mistakes.
 
 ## Proofreading checklist
+
 1. Concepts
-    - Ideas are organized and structured
-    - Support arguments with facts
-    - Avoid hyperbole and generalizations
-    - Use concise language and avoid filler
-    - Avoid awkward sentences
+   * Ideas are organized and structured
+   * Support arguments with facts
+   * Avoid hyperbole and generalizations
+   * Use concise language and avoid filler
+   * Avoid awkward sentences
 2. Writing style is appropriate for the audience
 3. Consistent voice, correct grammar and spelling
+
 
 
