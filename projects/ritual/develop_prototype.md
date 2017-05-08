@@ -64,8 +64,8 @@ Now that you have a storyboard that describes the various components of the ritu
 ## Instructions
 
 1. Create the interactive prototype using the prototyping instructions
-2. Download a ZIP archive of your prototype from InvisionApp
-3. Copy the InvisionApp project's  Public Share Link
+2. Download a ZIP archive of your prototype from InVision
+3. Copy the InVision project's  Public Share Link
 4. Write a design document according to the document requirements
 
 ## Report in
