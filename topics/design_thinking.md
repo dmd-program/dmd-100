@@ -28,7 +28,7 @@ On page 158 in Victor Papanek's _Design for the Real World, Human Ecology and So
 
 ## Beginner's mindset
 
-A designer's approach to questioning of assumptions, known as the beginners mindset, is helpful for bypassing stereotypes an misconceptions that often inhibit empathetic discoveries. How a person acquires the beginner's mindset can vary. Here is an example from the Hasso Plattner Institute of Design at Stanford: \[2\]
+A designer's approach to questioning of assumptions, known as the beginner's mindset, is helpful for bypassing stereotypes and misconceptions that often inhibit empathetic discoveries. How a person acquires the beginner's mindset can vary. Here is an example from the Hasso Plattner Institute of Design at Stanford: \[2\]
 
 1. **Don’t judge.** Just observe and engage users without the influence of value judgments upon their actions, circumstances, decisions, or “issues.”
 2. **Question everything.** Question even \(and especially\) the things you think you already understand. Ask questions to learn about how the user perceives the world. Think about how a 4-year-old asks “Why?” about everything. Follow up an answer to one “why” with a second “why.”
