@@ -8,7 +8,7 @@ When writing a draft, composition structure, grammar, and spelling are the least
 
 ## Final deliverables
 
-Typically, a final deliverable will be evaluated according to all possible metrics. Ensure that you leave time for editing—this will help you catch embarrassing spelling and grammar errors. You should always ask someone to give you feedback on your writing and to proofread before you submit. This will help you communicate your ideas free from the distraction of careless mistakes.
+Typically, a final deliverable will be evaluated according to all possible metrics. Ensure that you leave time for editing — this will help you catch embarrassing spelling and grammar errors. You should always ask someone to give you feedback on your writing and to proofread before you submit. This will help you communicate your ideas free from the distraction of careless mistakes.
 
 ## Proofreading checklist
 
