@@ -18,11 +18,11 @@ Below, I have written a story \(based on real events\). I then described the plo
 
 #### **Plot**
 
-Simon and Mary, along with their newborn child, plan to cross the Pacific Ocean in their sailboat–a journey they have done many times. They take all necessary precautions before the trip. Despite being cleared for travel, their baby gets a fever. There is a harsh storm that damages their sailboat and it begins taking on water. With a damaged boat, a sick child, and no means of communication, they turn on a rescue beacon. The rescue team arrives in helicopter and they abandon their sailboat. They must then defend themselves from public scrutiny related to child endangerment and the high cost of a rescue at sea.
+Simon and Mary, along with their newborn child, plan to cross the Pacific Ocean in their sailboat–a journey they have done many times. They take all necessary precautions before the trip. Despite being cleared for travel, their baby gets a fever. There is a harsh storm that damages their sailboat and it began taking on water. With a damaged boat, a sick child, and no means of communication, they turn on a rescue beacon. The rescue team arrives in helicopter and they abandon their sailboat. They must then defend themselves from public scrutiny related to child endangerment and the high cost of a rescue at sea.
 
 #### **Written story narrative**
 
-"The waves have been crashing against the hull for hours. This has to be the worst storm we've ever sailed through," Simon thought to himself. To his horror, sea water begin to pour in through a crack at the base of the mast. He pulled the bright orange emergency beacon out of it's case and looked at it. He looked over at Mary, who was sitting at the back of the cabin, cradling their infant. "If we turn the beacon on, it's all over," he yelled. She nodded, confirming the heavy weight of the decision. After all, it wasn't just a boat, it was also their home and they were about to abandon it. Forever.
+"The waves have been crashing against the hull for hours. This has to be the worst storm we've ever sailed through," Simon thought to himself. To his horror, sea water begin to pour in through a crack at the base of the mast. He pulled the bright orange emergency beacon out of its case and looked at it. He looked over at Mary, who was sitting at the back of the cabin, cradling their infant. "If we turn the beacon on, it's all over," he yelled. She nodded, confirming the heavy weight of the decision. After all, it wasn't just a boat, it was also their home and they were about to abandon it. Forever.
 
 ### Narrative structure
 
