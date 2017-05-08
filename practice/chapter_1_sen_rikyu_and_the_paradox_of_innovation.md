@@ -1,8 +1,8 @@
-# Chapter 1. Sen Rikyu and the Paradox of Innovation
+# Chapter 1&2. Sen Rikyu and the Paradox of Innovation
 
 ## Book chapter:
 
-Sen no Rikyu and the Paradox of Innovation, Good Design Tells the Truth (p. 3-26) in Design and Truth by Robert Grudin
+Sen no Rikyu and the Paradox of Innovation, Good Design Tells the Truth \(p. 3-26\) in Design and Truth by Robert Grudin
 
 ## Writing prompt:
 
@@ -10,7 +10,7 @@ In this chapter, Grudin hypothesizes what good design is and what it should be. 
 
 ## Writing guidelines:
 
-1. Length: (150-300 words)
+1. Length: \(150-300 words\)
 2. Check for spelling and grammar.
 3. Choose clear and concise wording.
 
@@ -18,3 +18,6 @@ In this chapter, Grudin hypothesizes what good design is and what it should be. 
 
 1. Follow the writing guidelines to write a response to the prompt.
 2. Upload the writing to course space for Reading Response Submissions. 
+
+
+
