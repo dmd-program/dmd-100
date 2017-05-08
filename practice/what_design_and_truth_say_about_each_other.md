@@ -1,6 +1,6 @@
 # What Design and Truth Say about Each Other
 
-What Design and Truth Say about Each Other (p. 27-33) in Design and Truth by Robert Grudin.
+What Design and Truth Say about Each Other \(p. 27-33\) in _Design and Truth_ by Robert Grudin.
 
 ## Prompt
 
@@ -9,6 +9,9 @@ In this chapter, Grudin talks about the transition of design from close dialogue
 ## Writing guidelines
 
 1. Write a response to the writing prompt.
-2. Length: (150-300 words)
+2. Length: \(150-300 words\)
 3. Check for spelling and grammar.
 4. Choose clear and concise wording.
+
+
+
