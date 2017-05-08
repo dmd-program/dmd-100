@@ -2,15 +2,13 @@
 
 * [Introduction](README.md)
   * [About this course](topics/about-this-course.md)
-  * [Calendar](calendar.md)
   * [Digital Multimedia Design](topics/digital_multimedia_design.md)
   * [Learning objectives](introduction/learning-objectives.md)
   * [Measuring success](introduction/measuring_success.md)
+  * [Feedback and critique](toolkit/feedback-and-critique.md)
   * [The studio](the_studio.md)
-  * [Reference guidelines](topics/reference-guidelines.md)
-    * [Writing guidelines](writing_guidelines.md)
-    * [Technology](topics/technology.md)
-    * [Feedback and critique](toolkit/feedback-and-critique.md)
+  * [Technology](topics/technology.md)
+  * [Writing guidelines](writing_guidelines.md)
 * [Lesson 1: What is design?](lessons/introduction.md)
   * [Introduction](lessons/what-is-design/introduction.md)
   * [Outlandish introductions](icebreakers/outlandish_introductions.md)
@@ -141,6 +139,4 @@
     * [Chapter 14. Designing Time](practice/designing_time.md)
     * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
 * [License](LICENSE.md)
-
-
 
