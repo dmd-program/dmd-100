@@ -15,7 +15,7 @@ See Martin Seligman's TED Talk on the subject of positive psychology and its rel
 
 * Camera \(a smartphone camera is fine\)
 * InVisionApp account \(free\)
-* Graph Paper
+* Graph paper
 * Pens, pencils, markers
 * Scissors
 * Post-It notes
