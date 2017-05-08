@@ -10,8 +10,8 @@ In this activity, you will document at least one object each day for two weeks u
 
 * Pencil, pen, marker
 * Sketching Journal
-* tape
-* glue
+* Tape
+* Glue
 
 ## Prompt
 
