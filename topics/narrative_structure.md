@@ -59,9 +59,9 @@ The following Plot Diagram shows the Five Act plot points laid over a Three Act 
 ### Four Act
 
 1. Inciting incident
-2. First act turn to Second Act Turn
-3. Second act turn to Third Act Turn
-4. Third Act turn to Resolution
+2. First Act Turn to Second Act Turn
+3. Second Act Turn to Third Act Turn
+4. Third Act Turn to Resolution
 
 ### Five Act
 
@@ -83,7 +83,7 @@ The following Plot Diagram shows the Five Act plot points laid over a Three Act 
 
 ### Hero's Journey
 
-1. The Ordinary world
+1. The ordinary world
 2. Call to adventure
 3. Refusal of the call
 4. Meeting with the mentor
