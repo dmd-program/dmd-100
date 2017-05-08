@@ -17,7 +17,7 @@ In this activity, you will document at least one object each day for two weeks u
 
 1. What are your favorite objects. Why?
 2. Did you notice anything in common with the objects you selected?
-3. Select three objects. What role to these objects play in your life? What would be the result if you did not have them any more?
+3. Select three objects. What role do these objects play in your life? What would be the result if you did not have them anymore?
 4. Do you generally take the objects we are surrounded by for granted? Why is that?
 
 ## Instructions
