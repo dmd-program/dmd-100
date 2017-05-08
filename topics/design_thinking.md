@@ -28,10 +28,10 @@ On page 158 in Victor Papanek's _Design for the Real World, Human Ecology and So
 
 ## Beginner's mindset
 
-A designer's approach to questioning of assumptions, known as the beginner's mindset, is helpful for bypassing stereotypes and misconceptions that often inhibit empathetic discoveries. How a person acquires the beginner's mindset can vary. Here is an example from the Hasso Plattner Institute of Design at Stanford: \[2\]
+A designer's approach to questioning of assumptions, known as the beginners mindset, is helpful for bypassing stereotypes and misconceptions that often inhibit empathetic discoveries. How a person acquires the beginner's mindset can vary. Here is an example from the Hasso Plattner Institute of Design at Stanford: \[2\]
 
 1. **Don’t judge.** Just observe and engage users without the influence of value judgments upon their actions, circumstances, decisions, or “issues.”
-2. **Question everything.** Question even \(and especially\) the things you think you already understand. Ask questions to learn about how the user perceives the world. Think about how a 4-year-old asks “Why?” about everything. Follow up an answer to one “why” with a second “why.”
+2. **Question everything.** Question even \(and especially\) the things you think you already understand. Ask questions to learn about how the user perceives the world. Follow up an answer to one “why” with a second “why.”
 3. **Be truly curious.** Strive to assume a posture of wonder and curiosity, especially in circumstances that seem either familiar or uncomfortable.
 4. **Find patterns.** Look for interesting threads and themes that emerge across interactions with users.
 5. **Listen.** Really.
@@ -49,7 +49,7 @@ On page 172 in Victor Papanek's _Design for the Real World, Human Ecology and So
 > 7. Bionics and Biomechanics
 > 8. Forcing New Thinking Patterns
 
-We won't go into detail about what each of Papanek's methods are, however we will practice a few of them when completing course projects. There are hundreds of quantitative and qualitative design and research methods to choose from. The book, _Universal Methods of Design_ by Bella Martin and Bruce Hanington is a good starting point.
+We won't go into detail about what each of Papanek's methods are; however, we will practice a few of them when completing course projects. There are hundreds of quantitative and qualitative design and research methods to choose from. The book, _Universal Methods of Design_ by Bella Martin and Bruce Hanington is a good starting point.
 
 ## Embracing V.U.C.A.
 
