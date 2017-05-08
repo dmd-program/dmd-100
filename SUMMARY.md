@@ -11,7 +11,6 @@
   * [Writing guidelines](writing_guidelines.md)
 * [Lesson 1: What is design?](lessons/introduction.md)
   * [Introduction](lessons/what-is-design/introduction.md)
-  * [Outlandish introductions](icebreakers/outlandish_introductions.md)
   * [Topics](lessons/topics.md)
     * [What is design?](topics/what_is_design.md)
     * [Design thinking](topics/design_thinking.md)
