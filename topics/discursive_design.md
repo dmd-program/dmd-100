@@ -12,9 +12,9 @@ We find a similar definition from Dunne and Raby's, _Design Noir: The Secret Lif
 
 ## Speculative design
 
-If discursive design is "design as thought catalyst" then, speculative design is design as _possibility_ catalyst—that is, design for the purpose of imagining new possible futures—enabling ourselves to have real conversations about what kind of world we want to build. In the 1960s, an architecture group, called Superstudio, imagined new kinds of radical architectural design, which helped push design from problem-solving to problem-seeking. This form of design has autonomy from the constraints of the market, and has the benefit of self-reflection.
+If discursive design is "design as thought catalyst," then speculative design is design as _possibility_ catalyst—that is, design for the purpose of imagining new possible futures—enabling ourselves to have real conversations about what kind of world we want to build. In the 1960s, an architecture group, called Superstudio, imagined new kinds of radical architectural design, which helped push design from problem-solving to problem-seeking. This form of design has autonomy from the constraints of the market, and has the benefit of self-reflection.
 
-> And, whereas traditional design actually legitimizes the status quo, speculative design envisages and anticipates the future, at the same time help- ing us to understand and re-think the world of today. This approach is most often based on the question “what if?”, examining the interrelation between potential changes in the technological development and social relations. \[3\]
+> And, whereas traditional design actually legitimizes the status quo, speculative design envisages and anticipates the future, at the same time helping us to understand and re-think the world of today. This approach is most often based on the question “what if?”, examining the interrelation between potential changes in the technological development and social relations. \[3\]
 
 ### Potential Futures and the Theory of Change
 
