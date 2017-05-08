@@ -16,8 +16,8 @@ Character types are often one or a combination of the following:
 2. **Supporting character:** These characters help us understand the main character, advance the story.
 3. **Protagonist character:** The story typically follows this character most closely. They are needed to resolve the conflict and typically have heroic qualities.
 4. **Antagonist character:** Tries to prevent the story goal. Opposes the protagonist.
-5. **Dynamic character:** Shows development and change over time
-6. **Static character:** Does not develop or change over time
+5. **Dynamic character:** Shows development and change over time.
+6. **Static character:** Does not develop or change over time.
 7. **Anti-hero character:** Protagonist who lacks heroic qualities.
 8. **Round character:** Well developed, complex, sometimes contradictory traits.
 9. **Flat character:** Not well developed, static.
@@ -32,11 +32,11 @@ Creating a character profile is helpful to describe the way in which a character
 1. Importance to story
    * What role does the character play?
    * Characterization types
-2. Physical Attributes
-   * Name, Age, Gender
+2. Physical attributes
+   * Name, age, gender
    * Markings, tattoos
    * Abilities, disabilities
-   * Race/Ethnicity
+   * Race/ethnicity
 3. Inner struggle and journey
    * What motivates the character?
    * What does the character want more than anything?
