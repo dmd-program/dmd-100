@@ -58,7 +58,6 @@
     * [Story structure](topics/narrative_structure.md)
     * [Story development](topics/organizing_story_development.md)
     * [Character](topics/character.md)
-    * [Hypertext](topics/hypertext.md)
     * [Narrative media](topics/narrative-media.md)
   * Listening
     * [Creative Mornings: Writing Your Way to Freedom](listening/creative_mornings_writing_your_way_to_freedom.md)
