@@ -1,10 +1,10 @@
 # Story development
 
-Story development is a generative process where ideas, themes, and unique characteristics tend to surface through iteration and reflection. It is also a technical process, where common elements are added subtracted, combined, and transformed to convey meaning, encourage insights, and intensify excitement or tension.
+Story development is a generative process where ideas, themes, and unique characteristics tend to surface through iteration and reflection. It is also a technical process, where common elements are added, subtracted, combined, and transformed to convey meaning, encourage insights, and intensify excitement or tension.
 
 ### Show, don't tell.
 
-When drafting a story, it is often best to convey information and ideas indirectly. For instance, you could write, "Xavier was a very nice person." Alternatively, you could write, "Xavier spent his weekends volunteering at a local shelter and worked part time as a nurse." Both methods communicate the kind of person Xavier is, but the latter is more engaging for the reader.
+When drafting a story, it is often best to convey information and ideas indirectly. For instance, you could write, "Xavier was a very nice person." Alternatively, you could write, "Xavier spent his weekends volunteering at a local shelter and working part time as a nurse." Both methods communicate the kind of person Xavier is, but the latter is more engaging for the reader.
 
 You can extrapolate this concept to practically everything you make. You want to let your viewers choose to connect the dots or leave some dots unconnected. If you don't give their brain any work to do, it can make for an extremely dull experience. Ask them to do too much work, and you risk giving them an experience that is confusing and frustrating.
 
@@ -16,7 +16,7 @@ The audience is who are you writing the story for, and the way you put together 
 
 #### Setting/environment
 
-The setting is the environment that the story takes place. The setting helps establish the tone, story genre, and often foreshadows future events in the plot. In some video games, the environment is also a narrative device, providing context for the world the characters inhabit.
+The setting is the environment in which the story takes place. The setting helps establish the tone, story genre, and often foreshadows future events in the plot. In some video games, the environment is also a narrative device, providing context for the world the characters inhabit.
 
 #### Point of View \(PoV\)
 
@@ -54,6 +54,4 @@ Who is telling the story? Who are you experiencing the story through? Depending 
 ## Writing a narrative
 
 Introduce characters. Describe setting. State the problem.
-
-
 
