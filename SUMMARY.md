@@ -111,6 +111,8 @@
 * [Lesson 5: Self design](lessons/co-generative_design.md)
   * [Topics](lessons/co-generative_design/topics.md)
     * [Design principles for human behavior](topics/design-principles-for-human-behavior.md)
+    * [Communities of practice](topics/community.md)
+    * [Dealing with ambiguity](topics/dealing-with-ambiguity.md)
     * [Identity and purpose](topics/identity-and-purpose.md)
     * [Learned helplessness](topics/learned-helplessness.md)
     * [Behavioral nudging](topics/behavioral-nudging.md)
@@ -121,9 +123,8 @@
     * Listening skills
     * Time
     * [Set your calendar](topics/set-your-calendar.md)
-    * [Entrepreneurship](topics/entrepreneurship.md)
     * [Communities of practice](topics/community.md)
-    * [Lifelong Learning](topics/lifelong-learning.md)
+    * Dealing with ambiguity
   * Listening
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
   * Activities
