@@ -111,7 +111,7 @@
 * [Lesson 5: Self design](lessons/co-generative_design.md)
   * [Topics](lessons/co-generative_design/topics.md)
     * [Design principles for human behavior](topics/design-principles-for-human-behavior.md)
-    * Identity and purpose
+    * [Identity and purpose](topics/identity-and-purpose.md)
     * [Learned helplessness](topics/learned-helplessness.md)
     * Behavioral nudging
     * [Positive psychology](topics/positive-pyschology.md)
@@ -120,8 +120,8 @@
     * Decision making
     * Listening skills
     * Time
-    * Set your calendar
-    * Entrepreneurship
+    * [Set your calendar](topics/set-your-calendar.md)
+    * [Entrepreneurship](topics/entrepreneurship.md)
     * Community
     * [Lifelong Learning](topics/lifelong-learning.md)
   * Listening
