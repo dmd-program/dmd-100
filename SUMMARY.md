@@ -37,7 +37,6 @@
   * Listening
     * [99 Percent Invisible: On Average](listening/99-percent-invisible-on-average.md)
     * [99 Percent Invisible: 10,000 Years](listening/99_percent_invisible_10,000_years.md)
-    * [Freakonomics: How to Become Great at Just About Anything](freakonomics-how-to-become-great-at-just-about-anything.md)
   * Readings
     * [Chapter 3. What Design and Truth Say About Each Other](practice/what_design_and_truth_say_about_each_other.md)
     * [Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers](chapter-4-design-as-tragedy-the-rise-and-fall-of-the-twin-towers.md)
@@ -125,6 +124,7 @@
     * Lifelong Learning
   * Listening
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
+    * [Freakonomics: How to Become Great at Just About Anything](freakonomics-how-to-become-great-at-just-about-anything.md)
   * Activities
     * [Design your day](lessons/co-generative_design/design-your-day.md)
     * [Self design](lessons/co-generative_design/self-design.md)
