@@ -9,8 +9,8 @@
 
 ## Report in
 
-1. Submit a `.zip` file of the prototype to Canvas.
-2. Submit a `changelog.doc` file to Canvas.
+1. Submit a `.zip` file of the prototype to Studio.
+2. Submit a `changelog.doc` file to Studio.
 
 
 
