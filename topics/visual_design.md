@@ -10,7 +10,7 @@ Why would someone want to take up their desk space with a small potted plant? Wh
 
 ### Language of aesthetics
 
-In visual design, an aesthetic language is constructed from elements that are organized based upon how humans see with their eyes. Common **elements** of Visual Design include:
+In visual design, an aesthetic language is constructed from elements that are organized based upon how humans see with their eyes. Common **elements of design** include:
 
 1. Line
 2. Shape
@@ -20,7 +20,7 @@ In visual design, an aesthetic language is constructed from elements that are or
 6. Value \(tone\)
 7. Texture
 
-Common **principles** of design: \[1\]
+Common **principles of design**: \[1\]
 
 1. Balance
 2. Dominance, emphasis, and focal point
@@ -31,11 +31,26 @@ Common **principles** of design: \[1\]
 7. Unity/harmony
 8. Contrast
 
+Gestalt principles of perception:
+
+The following principles describe how the viewer knows that visual elements are related to each other.
+
+1. Similarity
+2. Continuation
+3. Closure
+4. Proximity
+5. Figure-ground
+6. Symmetry
+7. Common fate
+8. Past experience
+
 If you have ever taken an art class in a primary or secondary education curriculum, you were most likely taught those principles and elements to make drawings or paintings. The elements may be specific to visual acuity, however, the principles of design aren't restricted image making. They can be used with sound, architecture, fashion, interactive media, experience design, and other types of design.
 
 These lists form the basis of a language around talking about design, and help us conduct a process of formal analysis with which we can then break down a work of almost any kind. This language is flexible between media and modes of creative expression. For instance, we can use the term **shape** to refer to both a geometric or organic visual element. This is its most direct and literal use. We can also use shape to describe the narrative arc of a story, where the shape of the narrative arc tells us about the high and low moments. We can even use shape to describe aspects of how an online course can be taught, indicating moments of passive and active engagement in learning. In this way, shape works as both a visual \(physical\) and a conceptual \(virtual\) idea. This ability of this language to slip between physical and virtual references makes it highly useful and adaptable for communicating about design. Creative works can develop their own unique design language, including elements and principles that emerge from the design process or appropriated from other disciplines and fields. It is often the designer's job to define the language that articulates the creative vision.
 
 If you'd like to see examples of some of the visual elements put to use, see the [Design Aesthetics for the Web course](https://www.lynda.com/Design-Techniques-tutorials/Understanding-elements-design/506078/539538-4.html) on Lynda.com. They have a slightly different list than the one listed above. I have left type out of my list because I believe that it is more of a semiotic element and I would need to include other "higher order" elements into the list–a slippery slope to an unhelpful taxonomy.
+
+
 
 ### Formal analysis
 
