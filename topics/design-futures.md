@@ -1,6 +1,6 @@
 # Design futures
 
-What does design look like in the future? Will designers exist in the future, or will they go the way of the horse, a once needed laborer put out of work by technological advancement and social change.
+What does design look like in the future? Will designers exist in the future, or will they [go the way of the horse](https://www.youtube.com/watch?v=7Pq-S557XQU), a once needed laborer put out of work by technological advancement and social change.
 
 ## Autonomy
 
