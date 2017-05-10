@@ -38,7 +38,7 @@ Csikszentmihalyi's eight characteristics of flow:
 
 Ted: [Mihaly Csikszentmihalyi: Flow, the secret to happiness](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow) **\(18:51\)**
 
-![](/assets/states-of-experience-1200w@2x.png)
+![Flow Diagram](/assets/states-of-experience-1200w@2x.png)
 
 ## Interaction Principles
 
