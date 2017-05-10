@@ -4,7 +4,7 @@
 
 ## Brief
 
-In this project, you will design a kit of parts that can be used to build a toy, model, or other object. This object will be a collection or kit of parts that can be reconfigured to create variations. This is serious \(though playful\) product design. There are two ways to approach this project. You can decide to create your own parts, create custom parts from raw materials like cardboard, wood, foam, and others. Or, you could develop creative ways of using commonly found objects like rubber bands, toothpicks, paper clips, etc. The goal of this project is to develop a kit using commonly available resources.
+In this project, you will design a kit of parts that can be used to build a toy, model, or other object. This object will be a collection or kit of parts that can be reconfigured to create variations. This is serious \(though playful\) product design. There are two ways to approach this project. You can decide to create your own parts, create custom parts from raw materials like cardboard, wood, foam, and others. Or, you could develop creative ways of using commonly found objects like rubber bands, toothpicks, paper clips, etc. The primary goal of this project is to develop a kit using commonly available resources for others to assemble. A secondary goal is to try to strike a balance between ease of assembly and level of user contribution, now commonly known as the IKEA effect. [Read more about the IKEA effect](https://uxplanet.org/design-principle-ikea-effect-2d908b2de81).
 
 ### Background
 
