@@ -14,6 +14,14 @@ A company called The Grid [ claims that an AI](https://blog.thegrid.io/the-wizar
 
 ## Autonomy
 
+### Digital machines
+
+There are many companies that have now come to exemplify the value of automation. Amazon has it's cloud platform that many of the larger social platforms rely on for service. Their infrastructure is built on the idea that servers can automatically be produced, scale to demand, replicate, and then shut down again when they aren't needed. You could not possibly hire enough people to perform these tasks manually for reasonable cost. Another company, DigitalOcean.com, allows you to create a web server in seconds according to your preferences for fractions of a dollar. An IT department at a University would require $40,000 to purchase the hardware and manually configure the machine. You may be reading this text while enrolled in a course at Penn State University. If so, the system that is serving it to the Internet relies heavily on automation, allowing one developer to manage hundreds, and possibly thousands of online courses. You can now fairly cheaply launch your own competing Facebook or Twitter.
+
+Where could it be going? Tesla is producing the [Gigafactory](https://www.tesla.com/gigafactory), a self-contained production facility. Perhaps in 15 or 20 years, you will easily be able to launch your own car production company using the services of automated factories much in the same way you can rent servers from Amazon.
+
+### Self-assembly
+
 > Self-Assembly is a process by which disordered parts build an ordered structure through local interaction.
 
 At the MIT [Self-Assembly Lab](http://www.selfassemblylab.net/), [researchers](http://www.selfassemblylab.net/laboratory_team.php) are looking to infuse materials with the ability to self-configure, respond, and change states. One of the core ideas motivating this research is that in nature, things self-arrange at the micro-scale seen in biology; and at the macro-scale as seen in visible in phenomenon throughout the Universe. People have already had some success creating self-assembling systems at a human scale, but not on other scales as seen in nature. What if a building could make or alter itself based on a a pre-programmed set of stimuli? What role does a designer play in this process?
