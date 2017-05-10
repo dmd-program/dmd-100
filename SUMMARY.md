@@ -83,12 +83,12 @@
   * [Topics](lessons/open_design/topics.md)
     * [Open Design](topics/open_design.md)
     * [Into the Open](lessons/into-the-open.md)
+    * [Orchestral Manoeuvres in Design](topics/orchestral-manoeuvres-in-design.md)
     * [Authors and Owners](topics/authors-and-owners.md)
     * [The Generative Bedrock of Open Design](topics/the-generative-bedrock-of-open-design.md)
     * [Design Literacy: Organizing Self-organization](topics/design-literacy.md)
     * [Teaching Attitudes, Approaches, Structures and Skills](topics/teaching-attitudes-approaches-structures-and-skills.md)
     * [Joris Laarman's Experiments with Open Source Design](topics/joris-laarmans-experiments-with-open-source-design.md)
-    * [Orchestral Manoeuvres in Design](topics/orchestral-manoeuvres-in-design.md)
   * Watch
     * [Open Structures: Thomas Lommee](lessons/open-structures-thomas-lommee.md)
   * Readings
