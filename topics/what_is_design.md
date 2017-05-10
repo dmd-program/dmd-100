@@ -1,4 +1,4 @@
-![](/assets/what-is-design@2x.jpg)
+![Photo of Dieter Rams 10 principles of good design](/assets/what-is-design@2x.jpg)
 
 # What is Design?
 
@@ -27,7 +27,8 @@ Famed industrial designer, Dieter Rams, has written a rather popular list of wha
 9. Good design is environmentally friendly
 10. Good design is as little design as possible
 
-![](/assets/BraunRT20Radio@2x.jpg)  
+![Photo of Braun RT 20 Radio](/assets/BraunRT20Radio@2x.jpg)
+
 Braun RT 20 Radio designed by Dieter Rams in 1961. Image by Nick Wade.\[2\]
 
 On page 29 in _Design and Truth_, Robert Grudin assembles a slightly longer list:
