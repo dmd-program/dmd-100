@@ -47,6 +47,6 @@ Who is telling the story? Who are you experiencing the story through? Depending 
 
 #### Structure
 
-1. Choose or design a structural model for the narrative
-   * Should support critical story path and desired supplemental story interaction
+1. Choose or design a structural model for the narrative.
+   * The narrative structure should support critical story path and desired supplemental story interaction
    * If developing an interactive story, the structure might be on a dynamic scale between linear and non-linear. In games, cut scenes tend to be linear while gameplay and interaction tends to be non-linear.
