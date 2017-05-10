@@ -50,7 +50,6 @@
     * [Develop: Test and iterate](projects/ritual/develop_test_and_iterate.md)
     * [Deliver: Final prototype](projects/deliver-final-prototype.md)
 * [Lesson 3: Storytelling](lesson-3-storytelling.md)
-  * [Introduction](lessons/narrative/introduction.md)
   * [Topics](lessons/narrative/topics.md)
     * [Why stories?](topics/narrative.md)
     * [Story structure](topics/narrative_structure.md)

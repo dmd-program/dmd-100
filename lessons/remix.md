@@ -1,14 +1,7 @@
-# Remix
+![Excerpt from book, Open Design Now](/assets/open-design-img@2x.jpg)
 
-- **Presentation:** Slides
-- **Read and Discuss:**
-  - Liberty as Knowledge Design (p. 1xx) in Design and Truth by Robert Grudin. 
-  - Corporate Redesign and the Business of Knowledge (p. 150-165) in Design and Truth by Robert Grudin.
-- **Terms:**
-  - [Remix](../topics/remix.md)
-  - [Media](../topics/media.md)
-  - [Sound](../topics/sound.md)
-  - [Intellectual property](../topics/intellectual-property.md)
-- **Activity:** [Curating](../practice/curating-for-an-idea.md)
-  - Demo
-- **Reflection writing:** [Blog Post](../practice/blog_post_remix_curation.md)
+# Introduction
+
+In this lesson, you will be learning about a design movement called **open design**.
+
+You will continue to practice the Double Diamond design process by creating your third course project, where you will generate a physical prototype based on some common open design principles. You will also continue reading and responding to writing prompts for  _Design and Truth_ book chapters, and have the opportunity to listen to more podcasts.
