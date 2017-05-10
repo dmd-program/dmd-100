@@ -1,4 +1,4 @@
-![](/assets/brand@2x.jpg)
+![Photo of a Coca-cola bottle on a table](/assets/brand@2x.jpg)
 
 # Identity design
 
