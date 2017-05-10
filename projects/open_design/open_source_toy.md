@@ -1,4 +1,4 @@
-# Open Toy Kit Project
+# Open Kit Project
 
 ![Paper cutting tools and tape](/assets/jo-szczepanska-57782.jpg)
 

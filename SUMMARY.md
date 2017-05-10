@@ -49,7 +49,7 @@
     * [Develop: Prototype](projects/ritual/develop_prototype.md)
     * [Develop: Test and iterate](projects/ritual/develop_test_and_iterate.md)
     * [Deliver: Final prototype](projects/deliver-final-prototype.md)
-* Lesson 3: Storytelling
+* [Lesson 3: Storytelling](lesson-3-storytelling.md)
   * [Introduction](lessons/narrative/introduction.md)
   * [Topics](lessons/narrative/topics.md)
     * [Why stories?](topics/narrative.md)
@@ -97,7 +97,7 @@
     * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
     * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
   * [Project](lessons/open_design/project.md)
-    * [Open Toy Project Introduction](projects/open_design/open_source_toy.md)
+    * [Open Kit Project Introduction](projects/open_design/open_source_toy.md)
     * [Discover: Research](projects/open_design/discover_secondary_research.md)
     * [Discover: Resources](projects/open_design/discover_primary_research.md)
     * [Define: Product pitch](projects/open_design/define-product-pitch.md)
