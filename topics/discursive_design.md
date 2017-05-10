@@ -1,4 +1,4 @@
-![](/assets/superstudio_quaderna_sitin.jpg)
+![Photo of designers sitting on Super Studio Quaderna 2600 Tables](/assets/superstudio_quaderna_sitin.jpg)
 
 # Discursive design
 
