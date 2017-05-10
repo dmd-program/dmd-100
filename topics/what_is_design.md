@@ -49,15 +49,15 @@ On page 29 in _Design and Truth_, Robert Grudin assembles a slightly longer list
 
 While inspiring, these lists do little to explain the process behind good design work. A design studio called Intrastructures has written a list that explains what actions of design means to them, and the approaches that drive their design process. From their website \[3\], "We define design as...
 
-1. **Dissecting ubiquity. **Remaining curious to the obvious
-2. **Managing complexity. **Mapping our contemporary infrastructure in order to reveal opportunities
-3. **Introducing proposition. **Changing from within rather than shouting from the outside
-4. **Abandoning the individual. **Sharing our mind, sketchbooks and hard drives
-5. **Spreading enthusiasm. **Not fearing radical optimism
-6. **Bridging disciplines. **Widening the scope of design by integrating complementary perspectives
-7. **Embracing diversity. **Accepting different solutions in order to distill wisdom from their shared mindset
-8. **Materializing opportunity. **Condensing wild ideas into applicable products, tools and models
-9. **Responding to challenge. **Acting by both thinking and doing"
+1. **Dissecting ubiquity.** Remaining curious to the obvious
+2. **Managing complexity.** Mapping our contemporary infrastructure in order to reveal opportunities
+3. **Introducing proposition.** Changing from within rather than shouting from the outside
+4. **Abandoning the individual.** Sharing our mind, sketchbooks and hard drives
+5. **Spreading enthusiasm.** Not fearing radical optimism
+6. **Bridging disciplines.** Widening the scope of design by integrating complementary perspectives
+7. **Embracing diversity.** Accepting different solutions in order to distill wisdom from their shared mindset
+8. **Materializing opportunity.** Condensing wild ideas into applicable products, tools and models
+9. **Responding to challenge.** Acting by both thinking and doing"
 
 These lists were not meant to be hard rules that apply to everything, but they can be helpful guidelines and mission statements when making or evaluating design.
 
