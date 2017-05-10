@@ -88,6 +88,7 @@
     * [Design Literacy: Organizing Self-organization](topics/design-literacy.md)
     * [Teaching Attitudes, Approaches, Structures and Skills](topics/teaching-attitudes-approaches-structures-and-skills.md)
     * [Joris Laarman's Experiments with Open Source Design](topics/joris-laarmans-experiments-with-open-source-design.md)
+    * [Orchestral Manoeuvres in Design](topics/orchestral-manoeuvres-in-design.md)
   * Watch
     * [Open Structures: Thomas Lommee](lessons/open-structures-thomas-lommee.md)
   * Readings
