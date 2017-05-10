@@ -6,3 +6,5 @@ A community of practice is a collective of people who share learning goals withi
 
 Seek these communities, find your people.
 
+
+
