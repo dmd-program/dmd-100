@@ -111,6 +111,7 @@
     * [Design principles for human behavior](topics/design-principles-for-human-behavior.md)
     * [Communities of practice](topics/community.md)
     * [Lifelong Learning](topics/lifelong-learning.md)
+    * [Design futures](topics/design-futures.md)
     * [Dealing with ambiguity](topics/dealing-with-ambiguity.md)
     * [Identity and purpose](topics/identity-and-purpose.md)
     * [Learned helplessness](topics/learned-helplessness.md)
@@ -120,7 +121,6 @@
     * Decision making
     * Listening skills
     * Time
-    * Lifelong Learning
   * Listening
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
     * [Freakonomics: How to Become Great at Just About Anything](freakonomics-how-to-become-great-at-just-about-anything.md)
