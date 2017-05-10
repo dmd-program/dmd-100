@@ -20,5 +20,5 @@ However, human beings have potential for incredible accomplishment, regardless o
 
 ### Empathy as a design tool
 
-The importance of empathy strategies for designers has changed the way products and the built environment are created. Achieving empathy means that a designer would approximate the same user experience as one of their users by deliberately simulating physical, cognitive, and environmental constraints. For user-experience designers, there are a variety of digital tools including graphics software that simulates what colors would look like if you were colorblind, javascript libraries that simulate dyslexia, visual overlays that obscure parts of a computer screen to simulate visual impairments, and many others.
+The emergence of empathy strategies for designers has changed the way products and the built environment are created. Achieving empathy means that a designer would approximate the same user experience as one of their users by deliberately simulating physical, cognitive, and environmental constraints. For user-experience designers, there are a variety of digital tools including graphics software that simulates what colors would look like if you were colorblind, javascript libraries that simulate dyslexia, visual overlays that obscure parts of a computer screen to simulate visual impairments, and many others.
 
