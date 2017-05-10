@@ -14,5 +14,21 @@ That is all well and good if you know what you want, but what if you don't know 
 
 Most people did not get to where they are without the help, guidance, support, and risk of someone else. These people form your network, and the larger and more tightly-knit your network is, the more likely you are to succeed. How does one grow a network of people? For one, you have to not be a jerk. No one likes spending time with jerks, and niche creative industries can be quite small. You never know who knows who, so it is best to always be kind to others. Second, you have to go find people. Volunteerism is a great way to meet people, particularly if it is for an event related to your career trajectory. While linkedin.com makes it easy to keep track of professional connections, those connections are fairly superficial without an in-person relationship to back it up. Don't just meet people in the industry, become close friends with people in the industry. Take advantage of portfolio review days, conferences, and other networking events. Join student groups at your college or University — they often have funding opportunities. Find some mentors who will give you a straight answer. Have social media accounts and contacts specifically for generating a professional web presence.
 
+### Networking events
+
+- [NYC Design Week](https://www.nycxdesign.com/)
+- SIGGRAPH - [Volunteer](http://s2017.siggraph.org/content/volunteering-opportunities)
+- Game Developers Conference (GDC) - [Volunteer](http://www.gdconf.com/attend/conferenceassociates.html)
+- SXSW - [Volunteer](https://volunteer.sxsw.com/register/)
+- [Creative Mornings](https://creativemornings.com/talks/upcoming)
+- [Interaction](http://ixda.org/events/interaction-week/)
+- [Tangible, Embedded, and Embodied(TEI)](https://tei.acm.org/)
+- [IDSA International Design Conference](http://www.idsa.org/International2017)
+- [London Design Festival](http://www.londondesignfestival.com/)
+- [AIGA Conference](http://www.aiga.org/2017conference)
+- [World Design Summit](http://worlddesignsummit.com/)
+
+
+
 
 
