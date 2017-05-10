@@ -4,7 +4,7 @@ Story development is a generative process where ideas, themes, and unique charac
 
 ### Show, don't tell.
 
-When drafting a story, it is often best to convey information and ideas indirectly. For instance, you could write, "Xavier was a very nice person." Alternatively, you could write, "Xavier spent his weekends volunteering at a local shelter and working part time as a nurse." Both methods communicate the kind of person Xavier is, but the latter is more engaging for the reader.
+When drafting a story, it is often best to convey information and ideas indirectly. For instance, you could write, "Xavier was a very nice person." Alternatively, you could write, "Xavier spent his weekends volunteering at a local shelter and working part time as a nurse." Both methods communicate the kind of person Xavier is, but the latter is typically more engaging for the reader.
 
 You can extrapolate this concept to practically everything you make. You want to let your viewers choose to connect the dots or leave some dots unconnected. If you don't give their brain any work to do, it can make for an extremely dull experience. Ask them to do too much work, and you risk giving them an experience that is confusing and frustrating.
 
@@ -47,11 +47,6 @@ Who is telling the story? Who are you experiencing the story through? Depending 
 
 #### Structure
 
-1. Choose or design a structural model
+1. Choose or design a structural model for the narrative
    * Should support critical story path and desired supplemental story interaction
    * If developing an interactive story, the structure might be on a dynamic scale between linear and non-linear. In games, cut scenes tend to be linear while gameplay and interaction tends to be non-linear.
-
-## Writing a narrative
-
-Introduce characters. Describe setting. State the problem.
-
