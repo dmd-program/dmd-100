@@ -26,7 +26,7 @@
     * [99 Percent Invisible: Lawn Order](listening/lawn_order.md)
   * Discussions
     * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
-* Lesson 2: Visual and interaction design
+* [Lesson 2: Visual and interaction design](lesson-2-visual-and-interaction-design.md)
   * [Topics](topics.md)
     * [Interaction design](topics/interaction_design.md)
     * [Inclusive design](inclusive-design.md)
