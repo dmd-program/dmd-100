@@ -1,4 +1,4 @@
-![](/assets/DeathtoStock_Lonely_Commute-05@2x.jpg)
+![Aerial photo of a city intersection](/assets/DeathtoStock_Lonely_Commute-05@2x.jpg)
 
 # Systems thinking
 
