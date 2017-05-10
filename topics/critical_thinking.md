@@ -1,4 +1,4 @@
-![](/assets/critical-thinking-chess.jpg)
+![Photo of a chess board](/assets/critical-thinking-chess.jpg)
 
 # Critical thinking
 
