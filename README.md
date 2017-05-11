@@ -10,16 +10,16 @@ With the aid of a standard design process, we walk through methods, tools, and m
 
 ### Offline reading
 
-**E-Book:**  
-https://www.gitbook.com/download/epub/book/dmd-program/dmd-100-sp17 **(10.5MB)**
+**E-Book:** (~11MB)  
+https://www.gitbook.com/download/epub/book/dmd-program/dmd-100-sp17 
 
-**PDF:**  
-https://www.gitbook.com/download/pdf/book/dmd-program/dmd-100-sp17 **(17.5MB)**
+**PDF:** (~18MB)  
+https://www.gitbook.com/download/pdf/book/dmd-program/dmd-100-sp17
 
-### Course art
+### DMD 100 desktop background
 
-DMD 100 Desktop Background Download:  
-[dmd-100-desktop-bg.png - 2880x1800](https://github.com/dmd-program/dmd-course-graphics/blob/master/dmd-100-desktop-bg.png?raw=true) **(8.12MB)**
+**PNG - 2880x1800:** (8.12MB)  
+[dmd-100-desktop-bg.png](https://github.com/dmd-program/dmd-course-graphics/blob/master/dmd-100-desktop-bg.png?raw=true) 
 
 ## Contributors
 
