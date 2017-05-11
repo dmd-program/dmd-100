@@ -16,7 +16,7 @@ https://www.gitbook.com/download/epub/book/dmd-program/dmd-100-sp17
 **PDF:** (~18MB)  
 https://www.gitbook.com/download/pdf/book/dmd-program/dmd-100-sp17
 
-### DMD 100 desktop background
+### Desktop background art
 
 **PNG - 2880x1800:** (8.12MB)  
 [dmd-100-desktop-bg.png](https://github.com/dmd-program/dmd-course-graphics/blob/master/dmd-100-desktop-bg.png?raw=true) 
