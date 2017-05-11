@@ -1,8 +1,12 @@
+![dmd 100 course background art](/assets/dmd100-bg-compressed-cropped.jpg)
+
 # DMD 100: Digital Multimedia Design Foundations
 
 DMD 100 introduces concepts, skills, language and principles of practice in art and design, communication, and information sciences.
 
 With the aid of a standard design process, we walk through methods, tools, and mental attitudes necessary to approach ambiguous problems. This course is not meant to be a comprehensive design process catalog, but instead should inspire and build confidence in the act of design.
+
+[Download: DMD 100 Desktop Background PNG - 2880x1800](https://github.com/dmd-program/dmd-course-graphics/blob/master/dmd-100-desktop-bg.png?raw=true) **(8.12MB)**
 
 ## Contributors
 
