@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
   * [About this course](topics/about-this-course.md)
+  * [Requirements](topics/requirements.md)
   * [Digital Multimedia Design](topics/digital_multimedia_design.md)
   * [Learning objectives](introduction/learning-objectives.md)
   * [Measuring success](introduction/measuring_success.md)
