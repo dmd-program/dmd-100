@@ -4,4 +4,5 @@ In this lesson you will learn about how design thinking, systems thinking, and c
 
 ![Photo of book, Design and Truth by Robert Grudin](/assets/design-and-truth-book@2x.jpg)
 
-You will begin reading the book, _Design and Truth_, by Robert Grudin. I chose this book because it's an easy read, introduces historical references, and has a very high insight-to-page ratio. Grudin attempts to describe what design is and connect it to philosophy, ethics, economics, governance, education, and notions of truth. I have assigned reading responses for each book chapter so you can begin connecting ideas from the book to your personal experiences and perceptions. This book is a keeper. After the course has ended, put it on your bookshelf and read it again next year.
+You will begin reading the book, _Design and Truth_, by Robert Grudin. I chose this book because it's an easy read, introduces historical references, and has a very high insight-to-page ratio. Grudin attempts to describe what design is and connect it to philosophy, ethics, economics, governance, education, and notions of truth. I have assigned reading responses for each book chapter so you can begin connecting ideas from the book to your personal experiences and perceptions.
+
