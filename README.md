@@ -8,7 +8,7 @@ With the aid of a standard design process, we walk through methods, tools, and m
 
 **Primary Course Author**
 
-Michael Collins, Assistant Professor, School of Visual Arts, The Pennsylvania State University
+Michael Collins, Assistant Professor, Penn State School of Visual Arts
 
 **Instructional Design**
 
@@ -18,8 +18,10 @@ Kate Miffitt, Assistant Director of Strategic Initiatives, Penn State College of
 
 Special thanks to:
 
-- Graeme Sullivan, Director of the Penn State School of Visual Arts for the inspiring conversations, book recommendations, and unwavering moral support;
-- Linda Collins for proofreading over 200 pages.
+* Graeme Sullivan, Director of the Penn State School of Visual Arts, for the inspiring conversations, book recommendations, and unwavering moral support;
+* Linda Collins for proofreading over 200 pages.
 
 ## Contributing
+
 Anyone can recommend additions or alterations to this course. Please, submit a [pull request on github.com](https://github.com/dmd-program/dmd-100-sp17) or file an issue in the [issue queue](https://github.com/dmd-program/dmd-100-sp17/issues).
+
