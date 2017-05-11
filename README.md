@@ -10,10 +10,11 @@ With the aid of a standard design process, we walk through methods, tools, and m
 
 ### Offline reading
 
-E-Book:  
+**E-Book:**  
 https://www.gitbook.com/download/epub/book/dmd-program/dmd-100-sp17 **(10.5MB)**
 
-PDF: https://www.gitbook.com/download/pdf/book/dmd-program/dmd-100-sp17 **(17.5MB)**
+**PDF:**  
+https://www.gitbook.com/download/pdf/book/dmd-program/dmd-100-sp17 **(17.5MB)**
 
 ### Course art
 
