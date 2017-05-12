@@ -3,15 +3,15 @@
 ## Hardware
 
 1. Computer: This fully online course will require access to a computer that meets the minimum requirements set by World Campus.
-2. Internet: You will need broadband internet to view videos and other media content.
+2. Internet: You will need broadband Internet to view videos and other media content.
 3. Camera or cameraphone: You will be asked to document various aspects of your work
 4. Printer/scanner: A printer will be helpful for printing out paper templates. A scanner is optional, but would be helpful.
 
 ## Software
 
-1. Web Browser: You will need to have the latest version of either Google Chrome, Safari, Firefox, or Microsoft Edge.
+1. Web browser: You will need to have the latest version of either Google Chrome, Safari, Firefox, or Microsoft Edge.
 2. Accounts: In addition to general University account access, you will be required to create an account with InvisionApp.com
-3. Software installs: You will need to download and install an open-source desktop application called Twine from Twinery.org. It is possible to use a web version of this software if you cannot install it for some reason.
+3. Software installs: You will need to download and install an open-source desktop application called Twine from Twinery.org. It is possible to use a web version of this software if you cannot or wish not to install it on your computer.
 
 ## Materials
 
