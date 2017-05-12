@@ -2,9 +2,9 @@
 
 # DMD 100: Digital Multimedia Design Foundations
 
-DMD 100 introduces concepts, skills, language and principles of practice in art and design, communication, and information sciences.
+DMD 100 is the first of three spine courses in the Bachelor of Design in Digital Multimedia Design (DMD) program at Penn State University. This program is the [first entirely online multi-college undergraduate bachelor's degree program](https://artsandarchitecture.psu.edu/news/e-learning-institute-launches-digital-multimedia-design-online-degree) offered at Penn State.
 
-With the aid of a standard design process, we walk through methods, tools, and mental attitudes necessary to approach ambiguous problems. This course is not meant to be a comprehensive design process catalog, but instead should inspire and build confidence in the act of design.
+Visit the [DMD Program Hub](http://dmd.psu.edu/) for more details.
 
 ## Downloads
 

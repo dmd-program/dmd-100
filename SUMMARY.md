@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
   * [About this course](topics/about-this-course.md)
+  * [Instructor](topics/instructor.md)
   * [Requirements](topics/requirements.md)
   * [Digital Multimedia Design](topics/digital_multimedia_design.md)
   * [Learning objectives](introduction/learning-objectives.md)
@@ -9,8 +10,6 @@
   * [Feedback and critique](toolkit/feedback-and-critique.md)
   * [The studio](the_studio.md)
   * [Technology](topics/technology.md)
-  * [Writing guidelines](writing_guidelines.md)
-  * [Instructor](topics/instructor.md)
 * [Lesson 1: What is design?](lessons/introduction.md)
   * [Topics](lessons/topics.md)
     * [What is design?](topics/what_is_design.md)
