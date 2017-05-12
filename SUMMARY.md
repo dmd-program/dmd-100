@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
   * [About this course](topics/about-this-course.md)
+  * [Digital Multimedia Design](topics/digital_multimedia_design.md)
   * [Instructor](topics/instructor.md)
   * [Requirements](topics/requirements.md)
-  * [Digital Multimedia Design](topics/digital_multimedia_design.md)
   * [Learning objectives](introduction/learning-objectives.md)
   * [Measuring success](introduction/measuring_success.md)
   * [Feedback and critique](toolkit/feedback-and-critique.md)
