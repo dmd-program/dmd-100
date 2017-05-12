@@ -6,6 +6,12 @@ DMD 100: Digital Multimedia Design Foundations introduces design process and thi
 
 DMD 100 is comprised of 5 lessons that introduce design topics, approaches, and considerations. Each lesson will span one to 4 weeks depending on the semester. Students will read assigned chapters and course pages, review supplemental media including podcasts and videos, and complete design exercises employing the double-diamond method, culminating in a lesson project and critique. Students are expected to practice the design process throughout the course, and therefore will be assigned several activities a week to provide opportunity for practice and iteration.
 
+## Online learning environments
+
+A course is not software or a website, but rather the delivery of pedagogy for particular subject matter over a set period of time. Without getting too far into learning theory, you can think of pedagogy as the todo list that an instructor gives students in order to meaningfully engage with and learn course content.
+  
+Delivering pedagogy online has its own set of challenges. We'll be using  a mix of online software to meet the needs of this online course. [Canvas](http://canvas.psu.edu) is a Learning Management System (LMS) that stores the assignment calendar, grades, and provides an easy way to send messages to everyone in the course. We host the core course text and image-based content in ELMS Learning Network, which is similar to an LMS, but with some custom in-house built tools. One such tool is the Studio, which allows students to more easily share project progress with each other. You will be guided to perform actions through a combination of the Canvas calendar, emails, and explicit assignment instructions. Contact your course instructor via Penn State E-Mail if you are ever confused. It is your responsibility as a student to know when assignments are due.
+
 ## Technical and material requirements
 ### Hardware
 
