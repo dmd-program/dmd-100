@@ -51,7 +51,7 @@ Groups should meet via video call. Available tools include Skype, Zoom, gChat, A
 3. First Facilitator: Set a timer for 15 minutes. 
 4. The Facilitator will read the HMW question to the group.
 5. The group will spend up to 15 minutes generating ideas for the HMW question.
-   1. If the website is not functioning, the designated facilitator is responsible to write down the ideas onto sticky notes and put them on the poster board or open wall space for photographing.
+   1. If the website is not functioning, the designated facilitator is responsible to write down the ideas onto Post-it Notes and put them on the poster board or open wall space for photographing.
    2. After 10 minutes: As a group, briefly discuss which ideas you like.
 6. The next facilitator sets a timer for 15 minutes.
 7. Repeat steps 4-6 until all group members have taken their turn. You are now finished the brainstorming session. Thank each other for their contributions and end the call.
