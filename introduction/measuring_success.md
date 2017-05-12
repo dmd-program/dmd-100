@@ -25,6 +25,7 @@ I have assembled a list that attempts to describe the attitudes and attributes t
    * Dedicate time and energy
    * Finish what you start
    * Practice unwavering optimism \(self-effacacy\)
+   * Fail fast to eventually succeed
 5. Skill
    * Develop intellectual capabilities
    * Achieve technical mastery
