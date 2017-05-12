@@ -2,7 +2,7 @@
 
 # Daily Design Journal
 
-In this activity, you will document at least one object each day for two weeks using your journal and pen or pencil. Keeping a sketchbook or journal with you is a useful habit for tracking observations and ideas. In this activity, we will use this practice to make observations about objects that are close to us every day.
+In this activity, you will document at least one object each day for two weeks \(14 object sketches total\) using your journal. Keeping a sketchbook or journal with you is a useful habit for tracking observations and ideas. In this activity, we will use this practice to make observations about objects that are close to us every day.
 
 ## Journal sketching requirements
 
@@ -17,11 +17,11 @@ In this activity, you will document at least one object each day for two weeks u
 ## Materials
 
 * Pencil, pen, marker
-* Sketching Journal
+* Sketching Journal (Recommend Moleskine Cahiers Squared Journals)
 
 ## Instructions
 
-1. Visually document one object each day for two weeks \(14 object sketches total\). You can use pen, pencil, markers, or any combination you'd like. Write contextual notes about the objects' materials, dimensions, if they were gifts, where you got it from, etc.
+1. Visually document an object each day for two weeks \(14 object sketches total\) that is typical for you to interact with in your daily life. You can use pen, pencil, markers, or any combination you'd like. Write contextual notes about the objects' materials, dimensions, if they were gifts, where you got it from, etc.
 2. Please follow the journal sketching requirements.
 
 
