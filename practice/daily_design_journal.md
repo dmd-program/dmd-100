@@ -1,32 +1,28 @@
-![Design journal](/assets/design-journal@2x.jpg)
+
 
 # Daily Design Journal
 
 In this activity, you will document at least one object each day for two weeks using your journal and pen or pencil. Keeping a sketchbook or journal with you is a useful habit for tracking observations and ideas. In this activity, we will use this practice to make observations about objects that are close to us every day.
 
-## Journaling
+## Journal sketching requirements
+
+1. Please number the object sketch at the top of the page 
+2. Draw your object in the upper 2/3 of the journal page
+3. Write details and observations in the lower 1/3 of the journal page and include the name of the object.
+
+![Design journal](/assets/design-journal@2x.jpg)
+
+**Note:** Because this course is not a life drawing course or industrial design course, the quality of your drawings are irrelevant to your grade. If you are interested in seeing how a product is typically sketched, you can take a look at [this video of Reid Schlegel of Frog Design demonstrating his technique](https://www.youtube.com/watch?v=BqqGox6Jwvk). Sketching and rendering by hand is something that anyone can learn, but it takes quite a number of years of practice. If you are interested in learning, I recommend spending some time on [Core77.com's sketching page](http://www.core77.com/Sketching).
 
 ## Materials
 
 * Pencil, pen, marker
 * Sketching Journal
 
-## Prompt
-
-1. What are your favorite objects. Why?
-2. Did you notice anything in common with the objects you selected?
-3. Select three objects. What role do these objects play in your life? What would be the result if you did not have them anymore?
-4. Do you generally take the objects we are surrounded by for granted? Why is that?
-
 ## Instructions
 
-1. Visually document one object each day for two weeks \(14 objects total\). You can draw, write, sketch, or collage about the object. Write contextual notes about the objects' materials, dimensions, if they were gifts, where you got it from, etc.
-2. Write your responses to the prompt questions at the end of the two weeks.
-
-## Report in
-
-1. Submit **scans or images** in the course submission system.
-2. Submit the **prompt responses** to the course submission system.
+1. Visually document one object each day for two weeks \(14 object sketches total\). You can use pen, pencil, markers, or any combination you'd like. Write contextual notes about the objects' materials, dimensions, if they were gifts, where you got it from, etc.
+2. Please follow the journal sketching requirements.
 
 
 
