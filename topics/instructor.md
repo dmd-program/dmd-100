@@ -1,4 +1,4 @@
-## Instructor
+## Course instructor
 
 ![Michael Collins](/assets/collins-sm-bw@2x.jpg)
 
