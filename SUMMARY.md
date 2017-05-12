@@ -21,6 +21,7 @@
     * [Chapter 1&2. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
   * Activities
     * [Daily design journal](practice/daily_design_journal.md)
+    * [Daily design journal: Report in](practice/daily-design-journal-report-in.md)
   * Listening
     * [Creative Mornings: Design Is Magical](listening/creative_mornings_design_is_magical.md)
     * [99 Percent Invisible: Lawn Order](listening/lawn_order.md)

@@ -8,14 +8,6 @@ With the aid of a standard design process, we walk through methods, tools, and m
 
 ## Downloads
 
-### Offline reading
-
-**E-Book:** (~11MB)  
-https://www.gitbook.com/download/epub/book/dmd-program/dmd-100-sp17 
-
-**PDF:** (~18MB)  
-https://www.gitbook.com/download/pdf/book/dmd-program/dmd-100-sp17
-
 ### Desktop background art
 
 **PNG - 2880x1800:** (8.12MB)  
