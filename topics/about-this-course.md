@@ -17,7 +17,7 @@ Delivering pedagogy online has its own set of challenges. We'll be using  a mix 
 
 1. **Computer:** This fully online course will require access to a computer that meets the minimum requirements set by World Campus.
 2. **Internet:** You will need broadband Internet to view videos and other media content.
-3. **Camera or cameraphone:** You will be asked to document various aspects of your work
+3. **Camera or cellphone camera:** You will be asked to document various aspects of your work
 4. **Printer/scanner:** A printer will be helpful for printing out paper templates. A scanner is optional, but would be helpful.
 
 ### Software
