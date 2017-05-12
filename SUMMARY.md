@@ -7,7 +7,6 @@
   * [Measuring success](introduction/measuring_success.md)
   * [Learning objectives](introduction/learning-objectives.md)
   * [Feedback and critique](toolkit/feedback-and-critique.md)
-  * [The studio](the_studio.md)
   * [Technology](topics/technology.md)
   * [Projects](topics/projects.md)
 * [Lesson 1: What is design?](lessons/introduction.md)

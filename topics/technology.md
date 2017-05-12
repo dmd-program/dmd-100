@@ -17,7 +17,7 @@ Therefore, in addition to an external hard drive, project files must be backed u
 
 Please practice safe and redundant data storage.
 
-### Security recommendation (not required, but a good idea)
+### Security recommendations (not required, but a good idea)
 
 These practices and software are at your own risk. These recommendations are not supported by the course author, instructor, or other learning staff in any way.
 
