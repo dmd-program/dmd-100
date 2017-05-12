@@ -2,11 +2,11 @@
 
 * [Introduction](README.md)
   * [About this course](topics/about-this-course.md)
+  * [Requirements](topics/requirements.md)
   * [Digital Multimedia Design](topics/digital_multimedia_design.md)
   * [Instructor](topics/instructor.md)
-  * [Requirements](topics/requirements.md)
-  * [Learning objectives](introduction/learning-objectives.md)
   * [Measuring success](introduction/measuring_success.md)
+  * [Learning objectives](introduction/learning-objectives.md)
   * [Feedback and critique](toolkit/feedback-and-critique.md)
   * [The studio](the_studio.md)
   * [Technology](topics/technology.md)
