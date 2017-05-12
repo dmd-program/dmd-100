@@ -1,17 +1,15 @@
+![Design journal](/assets/design-journal@2x.jpg)
+
 # Daily Design Journal
 
 In this activity, you will document at least one object each day for two weeks using your journal and pen or pencil. Keeping a sketchbook or journal with you is a useful habit for tracking observations and ideas. In this activity, we will use this practice to make observations about objects that are close to us every day.
 
 ## Journaling
 
-![Photo of a journal page with object sketches](/assets/daily-design-journal@2x.jpg)
-
 ## Materials
 
 * Pencil, pen, marker
 * Sketching Journal
-* Tape
-* Glue
 
 ## Prompt
 
@@ -22,8 +20,8 @@ In this activity, you will document at least one object each day for two weeks u
 
 ## Instructions
 
-1. Visually document one object that you come into contact with each day for two weeks \(14 objects total\). You can draw, write, sketch, or collage about the object. Write contextual notes about the objects' materials, dimensions, if they were gifts, where you got it from, etc.
-2. Write your responses to the prompt questions.
+1. Visually document one object each day for two weeks \(14 objects total\). You can draw, write, sketch, or collage about the object. Write contextual notes about the objects' materials, dimensions, if they were gifts, where you got it from, etc.
+2. Write your responses to the prompt questions at the end of the two weeks.
 
 ## Report in
 
