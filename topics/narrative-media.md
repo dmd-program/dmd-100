@@ -18,6 +18,10 @@ Unlike single-source media, **transmedia** refers to the idea that a narrative i
 
 Interactive media is communication that you can influence or control in some way. In some cases, the viewer becomes the co-author of the communication by adding their own content. One of the most notable examples of interactive fiction is video games. Most, but not all, video games follow linear stories where players perform actions to move the story forward.
 
+### Examples
+
+- http://playspent.org/
+
 ### Hypertext
 
 An early computing pioneer, Theodor H. Nelson, summed up hypertext as this:“ by hypertext, I mean non-sequential writing—text that branches and allows choices to the reader, best read at an interactive screen. As popularly conceived, this is a series of text chunks connected by links, which offer the reader different pathways.”
