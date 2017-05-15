@@ -20,6 +20,10 @@ Steven M. Johnson describes himself as "an occasional inventor, whimsicalist and
 
 ### Potential Futures and the Theory of Change
 
+> Fundamentally, design—the process of bringing into existence the unknown or invisible—envisions the future.
+>
+>– Sharon Poggenpohl
+
 Because speculative design is concerned about the future, it is helpful for us to consider something called the **Theory of Change**, which can help you map outcomes and causalities. Theory of change is concerned with figuring out what choices can to be made in order to achieve positive future outcomes. Let's consider The "Three 'Laws' of Futures," as outlined by Joseph Voros, that state **\(1\) the future is not  predetermined**, **\(2\) the future is not predictable**, and **\(3\) future outcomes can be influenced by our choices in the present**. Voros' publication,[ A Primer on Futures Studies, Foresight and the Use of Scenarios](http://thinkingfutures.net/wp-content/uploads/2010/10/A_Primer_on_Futures_Studies1.pdf) is well worth a read-through, and will better describe the logic behind these "laws." Essentially, they point to the idea that each present moment is the culmination of past choices, and therefore, future outcomes can be regarded as something to steward with thoughtful intent. It's contributing logic behind the importance of being responsible for your actions.
 
 The four classes of potential futures include **P**robable, **P**lausible, **P**ossible, and **P**referable \(referred to as **PPPP**\). In future design, _preferable_ outcomes are located within the realm of _probable_ and _plausible_. It is most likely not very useful to imagine outside of _possible_. Possible, in this case, would preclude the idea of something like a square-shaped circle or a magical power—those things are impossible \(with our current understanding of the laws of nature\) and working such a thing into a work that tries to imagine the future is not very helpful or useful.
