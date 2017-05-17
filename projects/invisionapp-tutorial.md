@@ -26,6 +26,12 @@ In the main navigation bar, choose the ellipsis button (three horizontal dots) a
 
 ![Screenshot: Download the ZIP file](/assets/10-download-prototype-3.jpg)
 
+## Share prototype link
+
+1. On the project view, click on the big green share link on the top left.
+2. Click on the public share link to copy it to your clipboard. (This sets your computer so the next time you perform a paste command, it will paste the link)
+3. Navigate to Canvas, and paste the public link to your prototype.
+
 ![Screenshot: View main project page](/assets/11-project-view.jpg)
 
 ![Screenshot: Share the project](/assets/12-share.jpg)
@@ -38,6 +44,7 @@ In the main navigation bar, choose the ellipsis button (three horizontal dots) a
 
 1. Navigation to: https://psu.app.box.com/folder/27180783259.
 2. Drag and Drop your zip file into this folder.
+
 ![Screenshot: Ritual assignment Box folder](/assets/15-upload-to-box.jpg)
 
 ![Screenshot: Uploaded ZIP Files to folder](/assets/16-upload-to-box-2.jpg)
