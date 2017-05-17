@@ -8,8 +8,17 @@ For this project, you will be designing a ritual and producing a prototype for a
 
 A ritual is an interesting design problem because it is produced for the purpose of disrupting the flow of everyday concerns to bring about new perspective. This is counter to the way we typically think about design – as something that you wouldn't notice if it is done well.
 
+## Inspiration
+
+[Ritual Design Lab](http://www.ritualdesignlab.org/)
+
 See Wade Davis TED Talk on ritual and what makes us human. **(19:08)**  
 [https://www.ted.com/talks/wade_davis_on_the_worldwide_web_of_belief_and_ritual](https://www.ted.com/talks/wade_davis_on_the_worldwide_web_of_belief_and_ritual)
+
+**Medium articles:**
+
+* [Can we design rituals to improve orgs’ culture?](https://medium.com/ritual-design/can-we-design-rituals-to-improve-orgs-culture-a876e8dee1bb)
+* [The 3 most unconventional designers of 21st century — starting with Design shaman](https://medium.com/ritual-design/a-new-breed-of-21st-century-designers-b73712963b4)
 
 ## Materials and tools
 
