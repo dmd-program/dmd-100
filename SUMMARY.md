@@ -47,7 +47,7 @@
     * [Define: HMW](projects/ritual/define_hmw.md)
     * [Develop: Brainstorm](projects/develop-brainstorm.md)
     * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
-    * [InvisionApp tutorial](https://www.gitbook.com/book/dmd-program/dmd-100-sp17/edit#)
+    * [InvisionApp tutorial](projects/invisionapp-tutorial.md)
     * [Develop: Prototype](projects/ritual/develop_prototype.md)
     * [Develop: Test and iterate](projects/ritual/develop_test_and_iterate.md)
     * [Deliver: Final prototype](projects/deliver-final-prototype.md)
