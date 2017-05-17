@@ -46,15 +46,16 @@ Now that you have a storyboard that describes the various components of the ritu
 ![InvisionApp project view](/assets/invision-proj-view.png)
 
 1. See example prototype: [https://invis.io/V8BEQKLWN](https://invis.io/V8BEQKLWN) 
-2. Upload prototype interfaces to InvisionApp
+2. If you have not already done so, view the [InvisionApp Tutorials](/projects/invisionapp-tutorial.md). 
+3. Upload prototype interfaces to InvisionApp
    1. Move the image files from your phone or camera to your computer.
    2. Crop each image to the screen border using the cropping methods suggested in the technical resources.
    3. Sign into [invisionapp.com](https://www.invisionapp.com/) and create a new project. Choose the phone portrait template.
    4. Upload your cropped images to InVision.
    5. Build interactivity using InVision's built-in hotspot and linking tools.
    6. Test that all the desired interactivity is functioning.
-3. Click on the More button \(three dots\) and click **Download Prototype.** Choose the export a ZIP file of the project.
-4. Click the share button and choose share public link at the bottom to copy the public share link.
+4. Click on the More button \(three dots\) and click **Download Prototype.** Choose the export a ZIP file of the project.
+5. Click the share button and choose share public link at the bottom to copy the public share link.
 
 ## Design Document
 

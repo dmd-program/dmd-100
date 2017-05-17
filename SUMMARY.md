@@ -47,7 +47,7 @@
     * [Define: HMW](projects/ritual/define_hmw.md)
     * [Develop: Brainstorm](projects/develop-brainstorm.md)
     * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
-    * [InvisionApp tutorial](projects/invisionapp-tutorial.md)
+    * [InvisionApp tutorials](projects/invisionapp-tutorial.md)
     * [Develop: Prototype](projects/ritual/develop_prototype.md)
     * [Develop: Test and iterate](projects/ritual/develop_test_and_iterate.md)
     * [Deliver: Final prototype](projects/deliver-final-prototype.md)
@@ -135,6 +135,4 @@
     * [Chapter 14. Designing Time](practice/designing_time.md)
     * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
 * [License](LICENSE.md)
-
-
 
