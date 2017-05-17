@@ -1,5 +1,10 @@
 # InvisionApp Tutorial
 
+1. Create a Prototype Project
+2. Select an iPhone template
+3. Upload your cropped images.
+4. Set your hotspots. You may need to watch InvisionApp tutorials to learn how to do this properly.
+
 ![Screenshot: Create a project](/assets/01-create-a-proj.jpg)
 
 ![Screenshot: Choose a project type](/assets/02-choose-proj-type.jpg)
