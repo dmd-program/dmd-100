@@ -8,8 +8,8 @@ For this project, you will be designing a ritual and producing a prototype for a
 
 A ritual is an interesting design problem because it is produced for the purpose of disrupting the flow of everyday concerns to bring about new perspective. This is counter to the way we typically think about design – as something that you wouldn't notice if it is done well.
 
-See Martin Seligman's TED Talk on the subject of positive psychology and its relation to design:  
-[https://www.ted.com/talks/martin\_seligman\_on\_the\_state\_of\_psychology](https://www.ted.com/talks/martin_seligman_on_the_state_of_psychology)
+See Wade Davis TED Talk on ritual and what makes us human. **(19:08)**  
+[https://www.ted.com/talks/wade_davis_on_the_worldwide_web_of_belief_and_ritual](https://www.ted.com/talks/wade_davis_on_the_worldwide_web_of_belief_and_ritual)
 
 ## Materials and tools
 
