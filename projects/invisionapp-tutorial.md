@@ -16,6 +16,10 @@
 
 ![Screenshot: Set hotspot templates](/assets/08-set-hotspot-template.jpg)
 
+## Download the Prototype
+
+In the main navigation bar, choose the ellipsis button (three horizontal dots) and choose **Download Prototype**. Choose to download the project as a ZIP file.
+
 ![Screenshot: Download prototype step 1](/assets/09-download-prototype-1.jpg)
 
 ![Screenshot: Select ZIP download format](/assets/09-download-prototype-2.jpg)
@@ -29,3 +33,11 @@
 ![Screenshot: Click on public share link](/assets/13-share-link.jpg)
 
 ![Screenshot: Copied link to clipboard](/assets/14-copied.jpg)
+
+## Upload ZIP file to box.psu.edu folder
+
+1. Navigation to: https://psu.app.box.com/folder/27180783259.
+2. Drag and Drop your zip file into this folder.
+![Screenshot: Ritual assignment Box folder](/assets/15-upload-to-box.jpg)
+
+![Screenshot: Uploaded ZIP Files to folder](/assets/16-upload-to-box-2.jpg)
