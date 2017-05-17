@@ -13,7 +13,7 @@ There are free image cropping tools included with Mac and Windows operating syst
 
 To keep organized, it helps to number your files. If you forgot an image and include it after the fact, you can use a decimal instead of renaming all of the files.
 
-![](/assets/Screen Shot 2017-05-17 at 6.06.06 PM.png)
+![Screenshot: File Numbering](/assets/00-file-numbering.png)
 
 ## Set up a new iPhone project
 
