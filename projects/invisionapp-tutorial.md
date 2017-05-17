@@ -1,8 +1,21 @@
 # InvisionApp Tutorials
 
-These are quick tutorials to help explain the process of setting up and distributing InvisionApp prototypes as well as submitting to box.psu.edu and ELMSLN Studio. 
+These are quick tutorials to help explain the process of setting up and distributing InvisionApp prototypes as well as submitting to box.psu.edu and ELMSLN Studio.
 
-## Set up an iPhone project prototype
+## Prepare images for upload
+
+If you are working from photos that are not the correct size and aspect ratio, you will need to crop them to prepare them for upload.
+
+There are free image cropping tools included with Mac and Windows operating systems: 
+
+* [Windows](http://www.tech-recipes.com/rx/56624/how-to-rotate-crop-photos-in-windows-10/)
+* [Mac OS](http://osxdaily.com/2014/06/16/crop-image-mac-preview/)
+
+To keep organized, it helps to number your files. If you forgot an image and include it after the fact, you can use a decimal instead of renaming all of the files.
+
+![](/assets/Screen Shot 2017-05-17 at 6.06.06 PM.png)
+
+## Set up a new iPhone project
 
 1. Create a Prototype Project
 2. Select an iPhone template
@@ -25,7 +38,7 @@ These are quick tutorials to help explain the process of setting up and distribu
 
 ![Screenshot: Set hotspot templates](/assets/08-set-hotspot-template.jpg)
 
-## Download the Prototype
+## Downloading a prototype ZIP file
 
 In the main navigation bar, choose the ellipsis button \(three horizontal dots\) and choose **Download Prototype**. Choose to download the project as a ZIP file.
 
