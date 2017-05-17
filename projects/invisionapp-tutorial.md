@@ -1,5 +1,7 @@
 # InvisionApp Tutorials
 
+These are quick tutorials to help explain the process of setting up and distributing InvisionApp prototypes as well as submitting to box.psu.edu and ELMSLN Studio. 
+
 ## Set up an iPhone project prototype
 
 1. Create a Prototype Project
