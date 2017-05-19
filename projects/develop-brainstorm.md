@@ -12,7 +12,7 @@ The whiteboard has a call and live chat feature, enabling you to discuss ideas v
 
 ## Materials and tools
 
-1. visionapp.com \(free education account\) Sign up for an education account with this code: 56-73-13-19
+1. [InVisionApp.com](https://www.invisionapp.com/education-signup) \(free education account\) Sign up for an education account
 2. Computer with microphone and steady Internet connection
 
 ## **Roles and Rules**
