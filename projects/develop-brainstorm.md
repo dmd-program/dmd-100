@@ -45,18 +45,17 @@ The whiteboard has a call and live chat feature, enabling you to discuss ideas v
 
 ### During the brainstorm session
 
-1. Introduce yourselves if you don't already all know each other.
+1. Introduce yourselves with the chat tool or the live call feature.
 2. Decide on the order you will all go.
-3. First Facilitator: Set a timer for 15 minutes. 
-4. The Facilitator will write the HMW question in the middle with the text tool.
-5. The group will spend up to 15 minutes generating ideas for the HMW question.
+1. First Facilitator: Set a timer for 15 minutes. 
+2. The Facilitator will write the HMW question in the middle with the text tool.
+3. The group will spend up to 15 minutes generating ideas for the HMW question.
    * After 10 minutes: As a group, briefly discuss which ideas you like.
-6. The next facilitator sets a timer for 15 minutes.
-7. Repeat steps 4-6 until all group members have taken their turn. You are now finished the brainstorming session.
+4. The next facilitator sets a timer for 15 minutes.
+5. Repeat steps 4-6 until all group members have taken their turn. You are now finished the brainstorming session.
    * Make sure to either screen capture or email the whiteboard image before ending the whiteboard session.
    * Thank each other for their contributions and end the session.Report in
-
-1. Download the PNG image from your whiteboard [https://www.webwhiteboard.com](https://www.webwhiteboard.com) and upload it to the Studio. Follow documentation guidelines.
+6. Download the PNG image from your whiteboard [https://www.webwhiteboard.com](https://www.webwhiteboard.com) and upload it to the Studio. Follow documentation guidelines.
 
 
 
