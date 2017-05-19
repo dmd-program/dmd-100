@@ -72,7 +72,9 @@ Now that you have a storyboard that describes the various components of the ritu
 
 ## Report in
 
-1. Upload the ZIP archive file, Public Share Link, and the design document to the Studio.
+1. Upload the ZIP archive to box.psu.edu
+2. Upload Public Share Link to Studio
+3. Upload the design document to the Studio.
 
 
 
