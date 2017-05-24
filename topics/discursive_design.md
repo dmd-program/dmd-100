@@ -34,7 +34,7 @@ The four classes of potential futures include **P**robable, **P**lausible, **P**
 
 > Beyond this lies the zone of fantasy, a zone we have very little interest in. Fantasy lives in its own world, with very few links if any to the world we live in. It is of course valuable, especially as a form of entertainment, but for us it is too far removed from how the world is." \[8\]
 
-#### ![](/assets/pppp-cones-1200w@2x.png)
+![Potential Futures PPPP](/assets/pppp-cones-1200w@2x.png)
 
 #### Applying Theory of Change:
 
