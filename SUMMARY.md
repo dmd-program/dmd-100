@@ -59,7 +59,6 @@
     * [Character](topics/character.md)
     * [Narrative media](topics/narrative-media.md)
   * Listening
-    * [Creative Mornings: Writing Your Way to Freedom](listening/creative_mornings_writing_your_way_to_freedom.md)
     * [99 Percent Invisible: Of Mice and Men](listening/99_percent_invisible_of_mice_and_men.md)
   * Watching
     * [Creative Mornings: Jordan Tannahill](lessons/narrative/creative-mornings-jordan-tannahill.md)
