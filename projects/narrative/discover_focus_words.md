@@ -41,5 +41,4 @@ Please allow at least 60-75 minutes to complete this activity.
 
 ## Report in
 
-1. Take photos or scan your journal pages. Make sure that your documentation images are clear and readable. Visit the documentation guide for more information.
-2. Post them to the Studio
+1. Submit photos or scans of your journal pages to the Studio. Make sure that your documentation images are clear and readable.
