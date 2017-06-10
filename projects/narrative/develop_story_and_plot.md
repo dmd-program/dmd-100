@@ -41,4 +41,4 @@ Produce a document with the following items:
 
 ## Report in
 
-1. Submit the plot document to Canvas.
+1. Submit the plot document to box.psu.edu.
