@@ -13,8 +13,8 @@ Please allow at least 60-75 minutes to complete this activity.
 
 1. In your journal, write three objects from your home. If you cannot think of any, choose three objects from a random object generator. Here is [one](http://roger.redevised.com/).
 2. Free association writing. \(10 mins\)
-   * On a journal page, write as many words about this object as you can.
-   * Circle **three** words.
+   * On a journal page, write as many words about each object as you can.
+   * When you are done, circle any **three** words.
 3. Choose **one** focus word from the list below. Write the adjectives circled from the previous step in front of your chosen focus word, creating three word-pairs \(I.E. - if you choose education, you would combine your adjectives with only education\):
    * education
    * economy
