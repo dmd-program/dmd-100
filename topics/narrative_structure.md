@@ -54,7 +54,7 @@ This five-act structure works well when describing Greek and Shakespearean plays
 
 The following Plot Diagram shows the Five Act plot points laid over a Three Act structure.
 
-![](plot_diagram_reverse2.png)
+![Plot diagram](plot_diagram_reverse2.png)
 
 ### Four Act
 
