@@ -41,4 +41,5 @@ Produce a document with the following items:
 
 ## Report in
 
-1. Submit the plot document to box.psu.edu.
+1. Submit the plot document to box.psu.edu:
+2. Once you have uploaded to Box, post the shared download link (The Share button in Box) to the `.doc` to Studio. Ensure the link is working and publicly accessible.
