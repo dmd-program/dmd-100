@@ -17,6 +17,5 @@ Now that your first draft is finished, and you will get peer feedback and
 
 ## Report in
 
-1. Upload the HTML project to a new box.psu.edu folder. Be sure to set it to **People with the link** or we will not be able to access it.
-2. Post the share link of the Twine narrative to the Canvas submission folder.
-3. Upload the `changelog.doc` to the Canvas submission folder.
+1. Upload the Twine HTML file (or ZIP file if you have multiple assets) to box.psu.edu: 
+3. Write the changes you made along with the URL to your Twine project.
