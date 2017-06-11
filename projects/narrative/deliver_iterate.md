@@ -18,4 +18,4 @@ Now that your first draft is finished, and you will get peer feedback and
 ## Report in
 
 1. Upload the Twine HTML file (or ZIP file if you have multiple assets) to box.psu.edu: 
-3. Write the changes you made along with the URL to your Twine project.
+2. Write the changes you made along with the URL to your Twine project as a submission to Studio.
