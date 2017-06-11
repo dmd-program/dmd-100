@@ -1,6 +1,5 @@
 # Deliver: Iterate
 
-
 Now that you have peer feedback, make necessary changes to your work and re-submit. Iterative improvement is the key to good design.
 
 ## Instructions
