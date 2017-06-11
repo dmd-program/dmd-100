@@ -4,6 +4,9 @@ You will now evaluate assigned peer work and provide feedback.
 
 ## Peer Feedback Guidelines
 
+1. Write the URL to the Twine story
+2. Include the following feedback. 
+
 For this task, we will use Feldman’s Model for criticism of creative works. Please use the following criteria to guide your feedback:
 
 1. Description
@@ -29,8 +32,8 @@ For this task, we will use Feldman’s Model for criticism of creative works. Pl
 
 ## Instructions
 
-1. Give feedback for your assigned draft\(s\) according to the Peer Feedback Guidelines.
+1. Write feedback for your assigned draft\(s\) according to the Peer Feedback Guidelines. Your group assignments are located on Canvas:
 
 ## Report in
 
-1. Feedback will be conducted on Canvas.
+1. Submit the feedback to your assigned feedback group member(s) as a **comment** on the in Open Studio assignment submission.
