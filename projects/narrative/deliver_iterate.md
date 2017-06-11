@@ -1,11 +1,7 @@
 # Deliver: Iterate
 
-Now that your first draft is finished, and you will get peer feedback and 
 
-## Reference Guidelines
-
-- [Feedback and critique](/toolkit/feedback-and-critique.md)
-- [Writing Guidelines](/writing_guidelines.md)
+Now that you have peer feedback, make necessary changes to your work and re-submit. Iterative improvement is the key to good design.
 
 ## Instructions
 
