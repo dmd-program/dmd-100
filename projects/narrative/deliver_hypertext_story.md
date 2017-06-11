@@ -25,4 +25,4 @@ Twine Tutorial: [Getting started with Twine](/topics/twine-tutorial-getting-star
 ## Report in
 
 1. To submit the project, you will need to upload the Twine HTML file to box.psu.edu: 
-2. Post the public link to the Twine narrative to Studio. If you did not use the online editor to build the story, you can go to https://twinery.org/2/#!/stories and import your HTML file to the Twine editor. When you click "Play Story", the story will be published to the Web. The link in the browser URL will be the link that you post to the Studio.
+2. Once you have uploaded to Box, post the shared download link (The Share button in Box) to the Twine narrative to Studio. Ensure the link is working and publicly accessible.
