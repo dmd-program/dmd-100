@@ -2,7 +2,7 @@
 
 # Define: Product pitch
 
-Now will choose a toy that will form the basis for the project. You will describe develop a one-sentence pitch to explain the changes that you would like to make.
+Now will choose a toy that will form the basis for the project. You will produce a one-sentence pitch to explain the changes that you would like to make.
 
 ## Product pitch document
 
@@ -26,8 +26,9 @@ Create a `.doc` file with the following:
    5. What materials is it made of?
    6. How much does it cost?
 5. The Pitch
-   1. I will redesign a(n) **\(toy name\)** so that **\(describe changes\)**. The key changes include **(list key changes)**.
-      * This pitch will guide the direction for the rest of the project.
+   1. I will design a(n) **\(toy name\)** for **\(target user\).** The key changes include **(list key changes)**.
+      * An example pitch might be, **"I will design a finger puppet game for older children. Key changes to finger puppets include a way to allow a child to alter the face of the puppet and the incorporation of game rules that foster conversational skills."**
+      * Note: This pitch will guide the direction for the rest of the project.
 
 ## Instructions
 
@@ -41,4 +42,5 @@ Create a `.doc` file with the following:
 
 ## Report in
 
-1. Upload the `.doc` to the Studio.
+1. Upload the `.doc` to the the Box folder: https://psu.app.box.com/folder/31668437181
+2. Once you have uploaded to Box, post the shared download link (The Share button in Box) to the presentation to Studio. Ensure the link is working and publicly accessible.
