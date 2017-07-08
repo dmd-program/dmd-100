@@ -25,4 +25,5 @@ Please pay special attention to the file naming conventions.
 1. Submit only the images in a compressed ZIP file named `yourname-images.zip`.
     1. Submit one (1) knolling style image showing the various parts you have assembled for the toy kit.
     2. Submit two to eight images of your assembled toy from different angles.
-2. Submit the updated PDF instructions document and name it `yourname-instructions.pdf`.
+2. Upload the updated PDF instructions document and name it `yourname-instructions.pdf`.
+3. Upload the Zip file and PDF file to the Box folder: https://psu.app.box.com/folder/31670827700
