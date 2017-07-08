@@ -13,10 +13,12 @@ Carefully observe someone attempting to use the kit. Take notes of what you noti
 3. Write notes as they go through the process. It may be helpful to ask your participant to talk through their thought process as they are putting things together. Help your user through any parts of the process that they get stuck on, and make a note of it.
 4. Keep track of how long it takes your participant to follow your instructions.
 5. After your user finished, ask them some followup questions:
-    - What did you like about using the kit?
-    - What didn't you like? Why is that?
-    - What could be better?
-    - Was this fun, or frustrating?
+  - What did you like about using the kit?
+  - What didn't you like? Why is that?
+  - What could be better?
+  - Was this fun, or frustrating?
 
 ## Report in
-1. After you are done testing, submit your test notes and modified instructions to the Studio. Notes can be in the form of a `.doc` or a scan or image of hand-written notes in your journal.
+
+1. After you are done testing, submit a `.doc` of your test notes and modified instructions to the Box folder: https://psu.app.box.com/folder/31665001585
+2. Once you have uploaded to Box, post the shared download link (The Share button in Box) to the presentation to Studio. Ensure the link is working and publicly accessible.
