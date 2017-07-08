@@ -37,3 +37,4 @@ Include between 5 to 20 slides. Pease include images where possible.
 ## Report in
 
 1. Upload the PDF presentation to the Box folder: https://psu.app.box.com/folder/31665045837
+2. Once you have uploaded to Box, post the shared download link (The Share button in Box) to the presentation to Studio. Ensure the link is working and publicly accessible.
