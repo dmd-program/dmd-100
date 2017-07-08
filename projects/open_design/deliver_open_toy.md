@@ -1,18 +1,17 @@
 ![Double Diamond Deliver Phase graphic](/assets/dd-process-deliver-1200px@2x.png)
 
-# Deliver: Open Kit
+# Deliver: Open Toy
 
-You will now take photos of the kit assemblies and make any needed adjustments to the instructions document. 
+You will now take photos of the toy assemblies and make any needed adjustments to the instructions document. 
 
 ## Documentation
+
 ### Photograph documentation
 
 1. Arrange all of the parts, [knolling style](https://en.wikipedia.org/wiki/Knolling).
 2. Photograph the kit parts from above.
 3. Assemble the kit parts into all variations of the toy.
-4. Take photographs of the assembled kit toys. If you are feeling ambitious, follow [this video tutorial](https://www.youtube.com/watch?v=T6fnHEvLyAE) to set up a light box. Demonstrating any modular or reconfigurable characteristics of the kit.
-
-
+4. Take photographs of the assembled kit toys demonstrating any modular or reconfigurable characteristics of the kit. If you are feeling ambitious, follow [this video tutorial](https://www.youtube.com/watch?v=T6fnHEvLyAE) to set up a light box. 
 
 ### Instructions document
 

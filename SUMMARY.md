@@ -107,7 +107,7 @@
     * [Develop: Instructions](projects/open_design/develop_instructions.md)
     * [Develop: Test](projects/open_design/develop_user_testing.md)
     * [Develop: Iterate](projects/open_design/develop-iterate.md)
-    * [Deliver: Open Toy](projects/open_design/deliver_open_toy.md)
+    * [Deliver: Open design](projects/open_design/deliver_open_toy.md)
 * [Lesson 5: Self design](lessons/co-generative_design.md)
   * [Topics](lessons/co-generative_design/topics.md)
     * [Design principles for human behavior](topics/design-principles-for-human-behavior.md)
