@@ -1,8 +1,8 @@
 ![Double Diamond Deliver Phase graphic](/assets/dd-process-deliver-1200px@2x.png)
 
-# Deliver: Open Toy
+# Deliver: Open Kit
 
-You will now take photos of the toy kit and make any needed adjustments to the instructions document. 
+You will now take photos of the kit assemblies and make any needed adjustments to the instructions document. 
 
 ## Documentation
 ### Photograph documentation
