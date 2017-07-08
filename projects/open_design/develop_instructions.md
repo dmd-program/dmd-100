@@ -24,4 +24,5 @@ Now you will make a set of instructions to teach another person to assemble the 
 
 ## Report in
 
-1. Upload the instructions `.pdf` file to Studio.
+1. Upload the instructions `.pdf` file to the Box folder: https://psu.app.box.com/folder/31668982798
+2. Once you have uploaded to Box, post the shared download link (The Share button in Box) to the presentation to Studio. Ensure the link is working and publicly accessible.
