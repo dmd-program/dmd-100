@@ -81,7 +81,6 @@
   * Discussions
     * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
 * [Lesson 4: Open design](lessons/remix.md)
-  * [Introduction](lessons/open_design/introduction.md)
   * [Topics](lessons/open_design/topics.md)
     * [Open Design](topics/open_design.md)
     * [Into the Open](lessons/into-the-open.md)
