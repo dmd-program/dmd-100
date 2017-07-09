@@ -50,7 +50,7 @@ The discourse on open design encompasses a multitude of considerations: for exam
 
 The discourse so far is focused on the object and process layers, with some touches upon the practice layer. However, quite surprisingly, despite its fundamental role, the infrastructure layer is virtually ignored.
 
-![](http://opendesignnow.org/wp-content/uploads/2011/05/generative2-709x1024.png)
+![Layers of Open Design](https://raw.githubusercontent.com/dmd-program/dmd-100-sp17/master/assets/generative2-709x1024.png)
 
 ### Designing Generative Infrastructure
 
