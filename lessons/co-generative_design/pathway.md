@@ -15,17 +15,20 @@ In this activity, you will consider the pathways that might help you reach a goa
 2. **Behavioral patterns**
   - Can you identify behaviors that propel you along your trajectory?
   - Can you identify behaviors that hold you back. (mental attitudes, beliefs, actions, and activities)
-  - How might you change these activities?
+  - How might you eliminate or alter behaviors that work against your goals?
+  - What new behaviors might you employ?
 3. **Resources**
   - What tools will you need to further your creative practice?
   - What steps are you taking to procure these tools?
 4. **People**
   - Who encourages and supports your trajectory?
   - Who tries to hold you back or is negative? 
-  - Can you identify communities of practice locally or virtually? 
+  - Can you identify communities of practice locally or virtually?
+  - Who can you ask for help, motivation, or advice?
 5. **Events**
   - What events, conversations, or interactions need to take place? When?
-  - Are there looming obstacles or unknowns along the path?
+  - What are the looming obstacles or unknowns?
+  - When would it be time to alter your trajectory?
   
 ## Part 2 - Deploy
 
@@ -36,3 +39,10 @@ In this activity, you will consider the pathways that might help you reach a goa
  - Expected results
 4. Accountability
   - What or who will hold you accountable? Will you include a reward or disciplinary system?
+  
+## Requirements:
+
+- Document standards
+  - Format: `.doc`
+- Trajectory complexity:
+  - It should take a few months to a few years.
