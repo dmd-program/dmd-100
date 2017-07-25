@@ -109,6 +109,7 @@
     * [Deliver: Open design](projects/open_design/deliver_open_toy.md)
 * [Lesson 5: Self design](lessons/co-generative_design.md)
   * [Topics](lessons/co-generative_design/topics.md)
+    * [Pathways](topics/pathways.md)
     * [Design principles for human behavior](topics/design-principles-for-human-behavior.md)
     * [Communities of practice](topics/community.md)
     * [Lifelong Learning](topics/lifelong-learning.md)
@@ -118,14 +119,15 @@
     * [Learned helplessness](topics/learned-helplessness.md)
     * [Behavioral nudging](topics/behavioral-nudging.md)
     * [Positive psychology](topics/positive-pyschology.md)
-    * Hand skills
-    * Decision making
-    * Listening skills
+    * [Hand skills](topics/hand-skills.md)
+    * [Decision making](topics/decision-making.md)
+    * [Listening skills](topics/listening-skills.md)
     * Time
-  * Listening
+  * [Listening](lessons/co-generative_design/listening.md)
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
     * [Freakonomics: How to Become Great at Just About Anything](freakonomics-how-to-become-great-at-just-about-anything.md)
-  * Activities
+  * [Activities](lessons/co-generative_design/activities.md)
+    * [Pathway](lessons/co-generative_design/pathway.md)
     * [Design your day](lessons/co-generative_design/design-your-day.md)
     * [Self design](lessons/co-generative_design/self-design.md)
   * Readings
