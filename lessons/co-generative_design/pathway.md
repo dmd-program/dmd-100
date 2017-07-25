@@ -2,7 +2,7 @@
 
 A **_pathway_** describes a literal or metaphorical route or series of events connecting a current condition to a future condition. In biochemistry, metabolic pathways describe sequences of chemical reactions that occur in living organisms. In physiology, neural pathways describe chains of cells that carry signals connecting one part of the nervous system to another. And in the context of education, a _learning pathway_ describes the sequence and range of knowledge a learner acquires over a duration of time.
 
-In this activity, you will consider the pathways that might help you reach a goal. This can breaking into a new career, mastery of a skill or field of inquiry, production of a body of work, or 
+In this activity, you will consider the pathways that might help you reach a goal. This can breaking into a new career, mastery of a skill or field of inquiry, production of a body of work, or the pursuit of a cause.
 
 ## Part 1: Developing a strategy
 
