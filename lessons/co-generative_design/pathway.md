@@ -11,6 +11,7 @@ In this activity, you will consider the pathways that might help you reach a goa
 2. **Domain knowledge**
   - What knowledge or skills do you already know that you don't know?
   - How will you discover what knowledge and skills you didn't know you needed to know? 
+  - What experiences do you need to help you grow?
 2. **Behavioral patterns**
   - Can you identify behaviors that propel you along your trajectory?
   - Can you identify behaviors that hold you back. (mental attitudes, beliefs, actions, and activities)
@@ -28,10 +29,10 @@ In this activity, you will consider the pathways that might help you reach a goa
   
 ## Part 2 - Deploy
 
-1. Your manifesto
+1. Mission statement
 2. Your Code of Conduct
 3. Mapping your path
  - Timeline of events
  - Expected results
 4. Accountability
-  - What or who will hold you accountable?
+  - What or who will hold you accountable? Will you include a reward or disciplinary system?
