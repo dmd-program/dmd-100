@@ -8,16 +8,18 @@ In this activity, you will respond to a series of questions aimed at helping you
 
 
 
-## Part 1: Developing a strategy
+## Part 1: Pathway Questionnaire
+
+The following questions are designed to help you think about what you may want or need related to your learning goals. Be very specific.
+
+For example, if you know that you would need to have an internship to achieve your goal, you would mention a type of internship and some possible companies: "I will need experience from a 3D animation internship at a large studio similar to Pixar or BlueSky."
 
 1. **Subject area**
-  - What skills do you want to master?
-  - What do you want or need to learn?
+  - What skills do you want to master?; OR what do you want to learn how to do?; OR What is your dream job?
 2. **Related knowledge**
-  - What do you know that is related to the trajectory?
-  - What knowledge or skills do you already know that you don't know?
-  - How will you discover what knowledge and skills you didn't know you needed to know? 
-  - What experiences do you need to help you grow?
+  - What related or foundational knowledge do you already have?
+  - What knowledge will you need to acquire?
+  - How will you gain this knowledge? (Specific courses, supplemental learning, specific books, etc.)
 2. **Behavioral patterns**
   - Can you identify behaviors that propel you along your trajectory?
   - Can you identify behaviors that hold you back. (mental attitudes, beliefs, actions, and activities)
@@ -32,16 +34,20 @@ In this activity, you will respond to a series of questions aimed at helping you
   - Can you identify communities of practice locally or virtually?
   - Who can you ask for help, motivation, or advice?
 5. **Events**
-  - What events, conversations, or interactions need to take place? When?
-  - What are the looming obstacles or unknowns?
-  - When would it be time to alter your trajectory?
+  - What events, conversations, internships,  or interactions need to take place? When?
+  - What physical experiences will help you? (internships, research trips, etc.)
   
-## Part 2 - Deploy
+## Part 2 - Learning Pathway: Statement of Intent
+
+Now that you have completed the questionnaire, 
 
 1. Mission statement
+  - Rephrase your answer to Question 1 as a mission statement.
 2. Mapping your path
- - Timeline of events
+ - **Timeline:**
+    * Of your
  - Expected results
+ 
 3. Accountability
   - What or who will hold you accountable? Will you include a reward or disciplinary system?
   
