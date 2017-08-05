@@ -4,13 +4,16 @@
 
 A **_pathway_** describes a literal or metaphorical route or series of events connecting a current condition to a future condition. In biochemistry, metabolic pathways describe sequences of chemical reactions that occur in living organisms. In physiology, neural pathways describe chains of cells that carry signals connecting one part of the nervous system to another. And in the context of education, a _learning pathway_ describes the sequence and range of knowledge a learner acquires over a duration of time. Your learning pathway is not always controllable, and can branch drastically in different directions as your values shift or constraints and opportunities emerge. With that said, to start down a pathway, it can be helpful to imagine the end point of a pathway and work backwards.
 
-In this activity, you will consider the pathways that might help you reach a goal. This can breaking into a new career, mastery of a skill or field of inquiry, production of a body of work, or the pursuit of a cause. These series of questions are meant to help you start thinking
+In this activity, you will respond to a series of questions aimed at helping you identify what you want to learn, and what you want to be really good at doing. This can breaking into a new career, mastery of a skill or field of inquiry, production of a body of work, or the pursuit of a cause, etc.
+
+
 
 ## Part 1: Developing a strategy
 
-1. **Setting a trajectory**
-  - If you could do anything, what would you want to achieve? 
-2. **Domain knowledge**
+1. **Subject area**
+  - What skills do you want to master?
+  - What do you want or need to learn?
+2. **Related knowledge**
   - What do you know that is related to the trajectory?
   - What knowledge or skills do you already know that you don't know?
   - How will you discover what knowledge and skills you didn't know you needed to know? 
