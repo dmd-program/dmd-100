@@ -2,15 +2,13 @@
 
 # Pathway design activity
 
-A **_pathway_** describes a literal or metaphorical route or series of events connecting a current condition to a future condition. In biochemistry, metabolic pathways describe sequences of chemical reactions that occur in living organisms. In physiology, neural pathways describe chains of cells that carry signals connecting one part of the nervous system to another. And in the context of education, a _learning pathway_ describes the sequence and range of knowledge a learner acquires over a duration of time. Your learning pathway is not always controllable, and can branch drastically in different directions as your values shift or constraints and opportunities emerge. With that said, to start down a pathway, it can be helpful to imagine the end point of a pathway and work backwards.
+A **_pathway_** describes a literal or metaphorical route or series of events connecting a current condition to a future condition. In biochemistry, metabolic pathways describe sequences of chemical reactions that occur in living organisms. In physiology, neural pathways describe chains of cells that carry signals connecting one part of the nervous system to another. And in the context of education, a _learning pathway_ describes the sequence and range of knowledge a learner acquires over a duration of time. Your learning pathway, often referred to as a "trajectory," is not always controllable, and can branch drastically in different directions as your values shift or constraints and opportunities emerge. With that said, to start down a pathway, it can be helpful to imagine the end-point of a learning pathway and work backwards to generate a strategy.
 
-In this activity, you will respond to a series of questions aimed at helping you identify what you want to learn, and what you want to be really good at doing. This can breaking into a new career, mastery of a skill or field of inquiry, production of a body of work, or the pursuit of a cause, etc.
-
-
+In this activity, you will respond to a series of questions aimed at helping you identify what you want to learn, and what you want to be really good at doing. This can breaking into a new career, mastery of a skill or field of inquiry, production of a body of work, or the pursuit of a cause, and more. You will then use your answers to write a document detailing your intent and a timeline of important events.
 
 ## Part 1: Pathway Questionnaire
 
-The following questions are designed to help you think about what you may want or need related to your learning goals. Be very specific.
+The following questions are designed to help you think about what you may want or need related to your learning goals. Ensure that your answers are very specific.
 
 For example, if you know that you would need to have an internship to achieve your goal, you would mention a type of internship and some possible companies: "I will need experience from a 3D animation internship at a large studio similar to Pixar or BlueSky."
 
@@ -30,30 +28,28 @@ For example, if you know that you would need to have an internship to achieve yo
   - What steps are you taking to procure these tools?
 4. **People**
   - Who encourages and supports your trajectory?
-  - Who tries to hold you back or is negative? 
+  - Is there anyone who holds you back or is negative about your aspirations?
   - Can you identify communities of practice locally or virtually?
-  - Who can you ask for help, motivation, or advice?
+  - In an ideal world, who could you ask for help, motivation, or advice?
 5. **Events**
   - What events, conversations, internships,  or interactions need to take place? When?
   - What physical experiences will help you? (internships, research trips, etc.)
-  
-## Part 2 - Learning Pathway: Statement of Intent
-
-Now that you have completed the questionnaire, 
-
-1. Mission statement
-  - Rephrase your answer to Question 1 as a mission statement.
-2. Mapping your path
- - **Timeline:**
-    * Of your
- - Expected results
- 
-3. Accountability
+6. **Accountability**
   - What or who will hold you accountable? Will you include a reward or disciplinary system?
-  
-## Requirements:
 
-- Document standards
-  - Format: `.doc`
-- Trajectory complexity:
-  - It should take a few months to a few years.
+  
+## Part 2 - Write a Learning Strategy Document
+
+Now that you have completed the questionnaire, use your answers to write a learning strategy document.
+
+1. **Statement of Intent**
+  - Rephrase your answer to **Subject Area** as a statement of intent. Example: "I intend to become... I will do this by..."
+  - Rewrite your other questionnaire responses in a few paragraphs to communicate the your learning pathway.
+  - The **_Statement of Intent_** must be a minimum of 300 words and no more than 500 words.
+2. **Pathway Schedule:**
+  - Estimate in a dated list form of the things you will need to acquire or accomplish.
+  
+## Report In:
+
+1. Upload the your completed questionnaire as `questionnaire.doc` to box.psu.edu:
+2. Upload the `learning-strategy.doc` to box.psu.edu:
