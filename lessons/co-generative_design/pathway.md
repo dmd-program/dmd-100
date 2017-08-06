@@ -48,9 +48,9 @@ Now that you have completed the questionnaire, use your answers to write a learn
   - Rewrite your other questionnaire responses as a few concise paragraphs to communicate how you will achieve your learning goals.
   - The **_Statement of Intent_** must be a minimum of 300 words and no more than 500 words.
 3. **Pathway Schedule:**
-  - Estimate in a dated list form of the things you will need to acquire or accomplish.
+  - Include a dated list of the things you will need to acquire or accomplish. Example: _"December 2018: find a list of animation studios to apply to, February 2019: Apply for 3D animation internships"_
   
 ## Report In:
 
-1. Upload the your completed questionnaire as `questionnaire.doc` to box.psu.edu:
-2. Upload the `learning-strategy.doc` to box.psu.edu:
+1. Upload the your completed questionnaire from **Part 1** as `questionnaire.doc` to box.psu.edu:
+2. Upload the `learning-strategy.doc` from **Part 2** to box.psu.edu:
