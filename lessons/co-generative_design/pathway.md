@@ -42,11 +42,12 @@ For example, if you know that you would need to have an internship to achieve yo
 
 Now that you have completed the questionnaire, use your answers to write a learning strategy document.
 
-1. **Statement of Intent**
+1. Write your name and date at the top of the document
+2. **Statement of Intent**
   - Rephrase your answer to **Subject Area** as a statement of intent. Example: "I intend to become... I will do this by..."
-  - Rewrite your other questionnaire responses in a few paragraphs to communicate the your learning pathway.
+  - Rewrite your other questionnaire responses as a few concise paragraphs to communicate how you will achieve your learning goals.
   - The **_Statement of Intent_** must be a minimum of 300 words and no more than 500 words.
-2. **Pathway Schedule:**
+3. **Pathway Schedule:**
   - Estimate in a dated list form of the things you will need to acquire or accomplish.
   
 ## Report In:
