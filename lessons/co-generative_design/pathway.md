@@ -8,6 +8,8 @@ In this activity, you will respond to a series of questions aimed at helping you
 
 ## Part 1: Pathway Questionnaire
 
+[MS Word Document File Download](https://github.com/dmd-program/dmd-100-sp17/raw/aa1852a1f5fa257c4c6c794d3071bc5f4dca586d/assets/pathway-questionnaire.docx) 
+
 The following questions are designed to help you think about what you may want or need related to your learning goals. For example, if you know that you would need to have an internship to achieve your goal, you would mention a type of internship and some possible companies: "I will need experience from a 3D animation internship at a large studio similar to Pixar or BlueSky." Ensure that your answers are very specific.
 
 1. **Subject area**
