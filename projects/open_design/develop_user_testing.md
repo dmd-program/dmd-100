@@ -20,5 +20,5 @@ Carefully observe someone attempting to use the kit. Take notes of what you noti
 
 ## Report in
 
-1. After you are done testing, submit a `.doc` of your test notes to the Box folder: https://psu.app.box.com/folder/31665001585
+1. After you are done testing, submit a `.doc` of your test notes to the Box folder. Be sure to include your name on the document.
 2. Once you have uploaded to Box, post the shared download link (The Share button in Box) to the Studio. Ensure the link is working and publicly accessible.
