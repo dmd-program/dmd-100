@@ -102,7 +102,7 @@
     * [Discover: Research](projects/open_design/discover_secondary_research.md)
     * [Discover: Resources](projects/open_design/discover_primary_research.md)
     * [Define: Product pitch](projects/open_design/define-product-pitch.md)
-    * [Develop: Prototyping](projects/open_design/develop_prototyping.md)
+    * [Develop: MVP Prototype](projects/open_design/develop_prototyping.md)
     * [Develop: Instructions](projects/open_design/develop_instructions.md)
     * [Develop: Test](projects/open_design/develop_user_testing.md)
     * [Develop: Iterate](projects/open_design/develop-iterate.md)

@@ -1,8 +1,8 @@
 ![Double Diamond Develop Phase graphic](/assets/dd-process-develop-1200px@2x.png)
 
-# Develop: Kit prototyping
+# Develop: MVP Prototype
 
-You will now start prototyping with your materials to try to approximate the toy from your product pitch.
+You will now start prototyping with your materials to try to approximate the toy from your product pitch. You will develop an MVP or **Minimum Viable Product** to use in later user testing.
 
 ## Constraints
 
