@@ -66,7 +66,9 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
 
 
 ## Report in
-8. Download the doc in markdown format. Open the `.md` documentCopy the content of the md document upload it to the Studio. Follow documentation guidelines.
+
+1. Download the doc in markdown format. Open the `.md` document
+2. Copy the content of the md document upload it to the Studio.
 
 
 
