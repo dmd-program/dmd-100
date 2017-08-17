@@ -14,18 +14,20 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
 
 1. Sign up for a free account on [https://paper.dropbox.com/](https://paper.dropbox.com/)
 2. Computer with microphone and steady Internet connection
+3. Video conference: [Penn State Zoom](https://psu.zoom.us/)
 
 ## Roles and Rules
 
 ### Discussion Rounds
 
-1. **Team Leader:** A Team Leader is randomly assigned, and is responsible for coordinating the group's brainstorm session.
+1. **Team Leader:** A Team Leader is randomly assigned and is responsible for coordinating the group's brainstorm session.
+   1. The Team Leader will coordinate a meeting time and send out a video meeting link with the group.
 2. There will be one brainstorming round for each person in the group.
-3. The Team Leader will send out a link to access the collaborative whiteboard.
+3. Each member should access the Paper website ahead of the brainstorm session and locate the document's share link.
 4. Each round will focus on a different person's HMW question.
 5. **Facilitator Role:** For each round, the person currently in focus for the discussion will be the facilitator of the discussion, and is responsible for downloading their finished whiteboard and uploading the image to the Studio.
    1. The facilitator is responsible for keeping time.
-   2. Responsible for downloading their own How Might We...? brainstorm whiteboard image. 
+   2. Responsible for downloading their own How Might We...? document in markdown format. 
 6. Spend about 10-15 minutes per round.
 
 ### Brainstorming
@@ -40,9 +42,9 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
 
 ### Before the brainstorm session
 
-1. Ensure that you have read the Roles and Rules.
+1. Read the Roles and Rules.
 2. Access [https://paper.dropbox.com/](https://paper.dropbox.com/).
-3. **Team Leader:** Collect whiteboard links to share with group \(contact group members prior to the call via email if needed\). Setup a group video, and invite group members. 
+3. **Team Leader:** ContactCollect group member links to share with group \(contact group members prior to the call via email if needed\). Setup a group video, and invite group members. 
 
 ### During the brainstorm session
 
@@ -56,6 +58,12 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
 7. Repeat steps 4-6 until all group members have taken their turn. You are now finished the brainstorming session.
    * Make sure download the Paper doc, in markdown format.
    * Thank each other for their contributions and end the session.
+   
+![Paper markdown download menu](/assets/paper-download-menu.png)
+
+![Paper markdown download link](/assets/paper-download-link.png)
+
+
 
 ## Report in
 8. Download the doc in markdown format. Open the `.md` documentCopy the content of the md document upload it to the Studio. Follow documentation guidelines.
