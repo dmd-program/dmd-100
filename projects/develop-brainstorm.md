@@ -59,6 +59,8 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
    * Make sure download the Paper doc, in markdown format.
    * Thank each other for their contributions and end the session.
    
+#### Download and export
+   
 ![Paper markdown download menu](/assets/paper-download-menu.png)
 
 ![Paper markdown download link](/assets/paper-download-link.png)
