@@ -41,7 +41,7 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
 ### Before the brainstorm session
 
 1. Ensure that you have read the Roles and Rules.
-2. Access [InVisionApp.com's whiteboard](https://www.invisionapp.com/blog/the-whiteboard-draw-up-some-teamwork/).
+2. Access [https://paper.dropbox.com/](https://paper.dropbox.com/).
 3. **Team Leader:** Collect whiteboard links to share with group \(contact group members prior to the call via email if needed\). Setup a group video, and invite group members. 
 
 ### During the brainstorm session
@@ -49,14 +49,16 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
 1. Introduce yourselves with the chat tool or the live call feature.
 2. Decide on the order you will all go.
 3. First Facilitator: Set a timer for 15 minutes. 
-4. The Facilitator will write the HMW question in the middle with the text tool.
+4. The Facilitator will write the HMW question at the top of the document.
 5. The group will spend up to 15 minutes generating ideas for the HMW question.
    * After 10 minutes: As a group, briefly discuss which ideas you like.
 6. The next facilitator sets a timer for 15 minutes.
 7. Repeat steps 4-6 until all group members have taken their turn. You are now finished the brainstorming session.
-   * Make sure to either screen capture or email the whiteboard image before ending the whiteboard session.
-   * Thank each other for their contributions and end the session.Report in
-8. Download the PNG image from your whiteboard [https://www.webwhiteboard.com](https://www.webwhiteboard.com) and upload it to the Studio. Follow documentation guidelines.
+   * Make sure download the Paper doc, in markdown format.
+   * Thank each other for their contributions and end the session.
+
+## Report in
+8. Download the doc in markdown format. Open the `.md` documentCopy the content of the md document upload it to the Studio. Follow documentation guidelines.
 
 
 
