@@ -2,20 +2,20 @@
 
 # Brainstorm
 
-Now that you have a How Might We question, it's time to brainstorm some ideas to try to solve for the question. Generating ideas by yourself \(AKA – in a vacuum\) can be fairly difficult if you are new to this process. Even experienced designers benefit from working in groups because typically the array of ideas generated in a discussion is far larger than when working alone. For this step, you will partner up with small groups to brainstorm ideas for each person's project. You will use the free tool included with InvisionApp, to collaboratively make a whiteboard.
-
-The whiteboard has a call and live chat feature, enabling you to discuss ideas verbally as you put them down.
+Now that you have a How Might We question, it's time to brainstorm some ideas to try to solve for the question. Generating ideas by yourself can be fairly difficult if you are new to this process. Even experienced designers benefit from working in groups because typically the array of ideas generated in a discussion is far larger than when working alone. For this step, you will partner up with small groups to brainstorm ideas for each person's project. You will use the free Dropbox tool called [Paper](https://paper.dropbox.com/), to collaboratively contribute ideas to your group members projects.
 
 **Note:** If there is a timezone issue, and your group can not find an agreeable meeting time, contact your instructor.
 
-![](/assets/invision-whiteboard-3.jpg)
+View: [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-brainstorm-session-LXePCzDG128wgby37An36)
+
+![Example brainstorm on Dropbox Paper](/assets/example-brainstorm.png)
 
 ## Materials and tools
 
-1. [InVisionApp.com](https://www.invisionapp.com/education-signup) \(free education account\) Sign up for an education account
+1. Sign up for a free account on [https://paper.dropbox.com/](https://paper.dropbox.com/)
 2. Computer with microphone and steady Internet connection
 
-## **Roles and Rules**
+## Roles and Rules
 
 ### Discussion Rounds
 
