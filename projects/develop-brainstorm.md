@@ -6,7 +6,7 @@ Now that you have a How Might We question, it's time to brainstorm some ideas to
 
 **Note:** If there is a timezone issue, and your group can not find an agreeable meeting time, contact your instructor.
 
-View: [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-brainstorm-session-LXePCzDG128wgby37An36)
+View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-brainstorm-session-LXePCzDG128wgby37An36).
 
 ![Example brainstorm on Dropbox Paper](/assets/example-brainstorm.png)
 
