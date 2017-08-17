@@ -64,7 +64,6 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
 ![Paper markdown download link](/assets/paper-download-link.png)
 
 
-
 ## Report in
 
 1. Download the doc in markdown format. Open the `.md` document
