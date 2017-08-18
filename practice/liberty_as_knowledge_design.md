@@ -8,10 +8,10 @@ In this chapter, Grudin dissects the design challenges inherent in a society bui
 
 ## **Writing guidelines**
 
-1. Write a response to the writing prompt on your course blog.
-2. Length: \(150-300 words\)
+1. Length: \(150-300 words\)
+2. Cite sources where applicable.
 3. Check for spelling and grammar.
-4. Choose clear and concise wording.
+4. Avoid generalizing language. Choose clear and concise wording.
 
 
 
