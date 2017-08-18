@@ -34,7 +34,6 @@ Include between 5 to 20 slides. Pease include images where possible.
 1. Conduct desktop and field research of toy kits and models. Investigate websites that sell toys and visit physical toy and hobby stores.
 2. Produce the presentation according to the presentation requirements and export it to PDF format.
 
-## Report in
+## Post work to the Studio
 
-1. Upload the PDF presentation to the Box folder: https://psu.app.box.com/folder/31665045837
-2. Once you have uploaded to Box, post the shared download link (The Share button in Box) to the Studio. Ensure the link is working and publicly accessible.
+1. Upload the PDF presentation.
