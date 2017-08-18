@@ -59,17 +59,18 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
    * Make sure download the Paper doc, in markdown format.
    * Thank each other for their contributions and end the session.
    
-#### Download and export
-   
+#### Download and export instructions
+
+1. Once you have finished with the brainstorm, click on the more menu button and choose "Download."
+2. Select Markdown format and again choose "Download."
+3. Once the file has been generated, choose "Download" again.
+
 ![Paper markdown download menu](/assets/paper-download-menu.png)
 
 ![Paper markdown download link](/assets/paper-download-link.png)
 
 
-## Report in
+## Post work to the Studio
 
-1. Download the doc in markdown format. Open the `.md` document.
-2. Copy the content of the md document upload it to the Studio.
-
-
-
+1. Follow Download and export instructions. the doc in markdown format. Open the `.md` document.
+2. Copy the content of the `.md` document and paste it into the Studio.
