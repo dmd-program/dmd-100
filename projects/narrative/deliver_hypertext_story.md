@@ -22,7 +22,6 @@ Twine Tutorial: [Getting started with Twine](/topics/twine-tutorial-getting-star
 3. You can add as many supporting events or nodes as you want. If you are unsure of what type of story to produce, start with a linear narrative model. Refer back to the topic on story structure for more information.
 4. [Publish the Twine story](https://twinery.org/wiki/twine2:playing_testing_proofing_and_publishing_stories) to an HTML file.
 
-## Report in
+## Post work to the Studio
 
-1. To submit the project, you will need to upload the Twine HTML file to box.psu.edu: 
-2. Once you have uploaded to Box, post the shared download link (The Share button in Box) to the Twine narrative to Studio. Ensure the link is working and publicly accessible.
+1. Upload the exported Twine HTML file.
