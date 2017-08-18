@@ -72,7 +72,7 @@ Now that you have a storyboard that describes the various components of the ritu
 
 ## Report in
 
-1. Upload the ZIP archive file to box.psu.edu: 
+1. Upload the ZIP archive file to Studio 
 2. Submit the URL of the Public Share Link to the InvisionApp Live Prototype to the Studio together with Prototype Description to the Studio.
 
 
