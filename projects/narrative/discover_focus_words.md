@@ -39,6 +39,6 @@ Please allow at least 60-75 minutes to complete this activity.
 
 ![narrative word pairs](/assets/narrative-discover-wordpairs.jpg)
 
-## Report in
+## Post work to the Studio
 
-1. Submit photos or scans of your journal pages to the Studio. Make sure that your documentation images are clear and readable.
+1. Upload photos or scans of your journal pages. Make sure that your documentation images are clear and readable.
