@@ -10,7 +10,6 @@ Now that you have peer feedback, make necessary changes to your work and re-subm
 4. Record the changes that you made to the hypertext narrative.
 4. Publish the HTML file.
 
-## Report in
+## Post work to the Studio
 
-1. Upload the Twine HTML file (or ZIP file if you have multiple assets) to box.psu.edu: 
-2. Once you have uploaded to Box, write the changes you made along with shared download link (The Share button in Box) to Studio. Ensure the link is working and publicly accessible.
+1. Upload the exported Twine HTML file (or ZIP file if you have multiple assets).
