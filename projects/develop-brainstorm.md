@@ -72,5 +72,5 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
 
 ## Post work to the Studio
 
-1. Follow Download and export instructions. the doc in markdown format. Open the `.md` document.
-2. Copy the content of the `.md` document and paste it into the Studio.
+1. Follow **download and export** instructions to download the brainstorm document in Markdown format. 
+2. Open the `.md` document. Copy the content of the `.md` document and paste it into the assignment submission text box.
