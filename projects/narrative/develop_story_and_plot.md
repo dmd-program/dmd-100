@@ -33,13 +33,13 @@ Produce a document with the following items:
    4. Moment of change
    5. World as it is now
 
-## Instructions
+## Document instructions
 
 1. Make a new text document in `.doc` format.
 2. Write the document according the document guidelines.
 3. Double-check that you've met all other listed requirements.
 
-## Report in
+## Post work to the Studio
 
-1. Submit the plot document to box.psu.edu:
-2. Once you have uploaded to Box, post the shared download link (The Share button in Box) to the `.doc` to Studio. Ensure the link is working and publicly accessible.
+1. Follow the document instructions.
+2. Upload the plot document.
