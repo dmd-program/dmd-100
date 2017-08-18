@@ -8,7 +8,6 @@ Review your notes from the user test and make adjustments, clarifications, and r
 
 1. Make changes and improvements to your kit and instructions based on your feedback in the user test.
 
-## Report in
+## Post work to the Studio
 
-1. Upload the new instructions to the Box folder: https://psu.app.box.com/folder/31670023184.
-2. Once you have uploaded to Box, post the shared download link (The Share button in Box) to the Studio. Ensure the link is working and publicly accessible.
+1. Upload the new instructions document.
