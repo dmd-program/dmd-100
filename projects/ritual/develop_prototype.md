@@ -70,7 +70,7 @@ Now that you have a storyboard that describes the various components of the ritu
 3. Copy the InVision project's  Public Share Link
 4. Write a design document according to the document requirements
 
-## Report in
+## Post work to the Studio
 
 1. Upload the ZIP archive file to Studio 
 2. Submit the URL of the Public Share Link to the InvisionApp Live Prototype to the Studio together with Prototype Description to the Studio.
