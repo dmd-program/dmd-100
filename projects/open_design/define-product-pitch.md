@@ -40,7 +40,6 @@ Create a `.doc` file with the following:
    3. Aesthetics
    4. Operation, assembly, use, or purpose
 
-## Report in
+## Post work to the Studio
 
-1. Upload the `.doc` to the the Box folder: https://psu.app.box.com/folder/31668437181
-2. Once you have uploaded to Box, post the shared download link (The Share button in Box) to the Studio. Ensure the link is working and publicly accessible.
+1. Upload the pitch document.
