@@ -23,4 +23,4 @@ You will now start prototyping with your materials to try to approximate the toy
 
 ## Post work to the Studio
 
-1. Upload your photos.
+1. Upload photos of the prototype(s).
