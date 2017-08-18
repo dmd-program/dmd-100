@@ -74,7 +74,7 @@
     * [Develop: Story and plot elements](projects/narrative/develop_story_and_plot.md)
     * [Develop: Characters](projects/narrative/develop-characters.md)
     * [Deliver: Hypertext narrative](projects/narrative/deliver_hypertext_story.md)
-    * Tutorials
+    * [Tutorials](projects/narrative/tutorials.md)
       * [Twine tutorial: Getting started](topics/twine-tutorial-getting-started.md)
     * [Deliver: Feedback](projects/narrative/develop-feedback.md)
     * [Deliver: Iterate](projects/narrative/deliver_iterate.md)
