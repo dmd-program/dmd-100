@@ -29,7 +29,7 @@ There are many descriptions available of what a ritual is and how it functions. 
 
 ![Storyboard example image](/assets/ritual-storyboard.jpg)
 
-## Report in
+## Post work to the Studio
 
 1. Submit the Storyboard to the studio as a scanned or well-photographed image.
 
