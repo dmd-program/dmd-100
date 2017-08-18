@@ -24,7 +24,6 @@ Now you will make a set of instructions to teach another person to assemble the 
     - Include photos, drawings, figures, diagrams, templates, and any other visual information that may aid the understanding of the instructions. 
 2. Export the instructions in `.pdf` format.
 
-## Report in
+## Post work to the Studio
 
-1. Upload the instructions `.pdf` file to the Box folder: https://psu.app.box.com/folder/31668982798
-2. Once you have uploaded to Box, post the shared download link (The Share button in Box) to the Studio. Ensure the link is working and publicly accessible.
+1. Upload the instructions PDF document.
