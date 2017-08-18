@@ -61,7 +61,7 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
    
 #### Download and export instructions
 
-1. Once you have finished with the brainstorm, click on the more menu button and choose "Download."
+1. Once you have finished with the brainstorm, click on the 'more' menu button (three dots) and choose "Download."
 2. Select Markdown format and again choose "Download."
 3. Once the file has been generated, choose "Download" again.
 
