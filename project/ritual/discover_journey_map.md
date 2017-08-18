@@ -44,7 +44,7 @@ A journey map is great way to visualize an entire process of an interaction. By 
 
 ## Post work to the Studio
 
-Photograph or scan your journey map and upload it to the Studio.
+1. Upload photograph or scan of your journey map.
 
 ## Citation
 
