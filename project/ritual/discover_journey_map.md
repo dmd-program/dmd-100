@@ -42,7 +42,7 @@ A journey map is great way to visualize an entire process of an interaction. By 
 4. Place the Post-it notes in order as you would likely experience them.
 5. This journey map is useful to help you communicate your experience to others and identify moments for intervention, change, and adaptation.
 
-## Report in
+## Post work to the Studio
 
 Photograph or scan your journey map and upload it to the Studio.
 
