@@ -15,10 +15,3 @@ In this chapter, Grudin hypothesizes what good design is and what it should be. 
 3. Check for spelling and grammar.
 4. Avoid generalizing language. Choose clear and concise wording.
 
-## Deliverables
-
-1. Follow the writing guidelines to write a response to the prompt.
-2. Upload the writing to course space for Reading Response Submissions. 
-
-
-
