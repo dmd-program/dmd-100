@@ -23,7 +23,7 @@ How might we **\( relieve the stress of social interaction from \)** **\( a pers
 2. Review your sentences and _**circle**_ the one you think works best.
 3. Document your HMW question with a photograph or scan.
 
-## Report in
+## Post work to the Studio
 
-Upload the photograph or scan of your HMW questions to the Studio.
+1. Upload the photograph or scan of your HMW questions.
 
