@@ -18,12 +18,9 @@ You will now take photos of the toy assemblies and make any needed adjustments t
 1. Add the knolling-style image to the title page of the document. If used as a background, ensure all text is still legible.
 2. Add at least one of the other images to the end of the instructions to show the final result.
 
-## Instructions
+## Post work to the Studio
 
-Please pay special attention to the file naming conventions.
-
-1. Submit only the images in a compressed ZIP file named `yourname-images.zip`.
+1. Submit the following images:
     1. Submit one (1) knolling style image showing the various parts you have assembled for the toy kit.
     2. Submit two to eight images of your assembled toy from different angles.
 2. Upload the updated PDF instructions document and name it `yourname-instructions.pdf`.
-3. Upload the Zip file and PDF file to the Box folder: https://psu.app.box.com/folder/31670827700
