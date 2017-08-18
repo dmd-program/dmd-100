@@ -27,7 +27,7 @@ There are many descriptions available of what a ritual is and how it functions. 
 2. Write the **frame** and list all of the **triggers**, **events**, and **scripts **that comprise the ritual on the storyboard. Number the sequence to indicate the flow of the storyboard.
    1. You can print the Ritual Storyboard PDF or use a markup tool to write directly on the digital file.
 
-![](/assets/ritual-storyboard.jpg)
+![Storyboard example image](/assets/ritual-storyboard.jpg)
 
 ## Report in
 
