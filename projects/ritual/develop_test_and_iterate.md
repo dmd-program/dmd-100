@@ -13,7 +13,7 @@ Now that your prototype is done, it is time to participate in feedback. You will
 
 ## Post work to the Studio
 
-1. Submit your feedback to the studio.
+1. Submit your feedback as a comment to your group members' assignments on their Studio Prototype submission.
 
 
 
