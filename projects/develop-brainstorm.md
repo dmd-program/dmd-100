@@ -44,7 +44,7 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
 
 1. Read the Roles and Rules.
 2. Access [https://paper.dropbox.com/](https://paper.dropbox.com/).
-3. **Team Leader:** ContactCollect group member links to share with group \(contact group members prior to the call via email if needed\). Setup a group video, and invite group members. 
+3. **Team Leader:** Collect group member links to share with group \(contact group members prior to the call via email if needed\). Setup a group video, and invite group members. 
 
 ### During the brainstorm session
 
