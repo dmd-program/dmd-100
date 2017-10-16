@@ -36,4 +36,5 @@ For this task, we will use Feldman’s Model for criticism of creative works. Pl
 
 ## Post work to the Studio
 
-1. Post feedback to your assigned feedback group member(s) as a **comment** on the Studio assignment submission.
+1. Post the corresponding feedback to your assigned feedback group member's assignment submission as a **comment** in Studio.
+2. Combine all the feedback you've written and upload to this assignment's submission text field or upload a MS Word document.
