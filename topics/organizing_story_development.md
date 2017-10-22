@@ -8,6 +8,18 @@ When drafting a story, it is often best to convey information and ideas indirect
 
 You can extrapolate this concept to practically everything you make. You want to let your viewers choose to connect the dots or leave some dots unconnected. If you don't give their brain any work to do, it can make for an extremely dull experience. Ask them to do too much work, and you risk giving them an experience that is confusing and frustrating.
 
+#### Direct vs informed conversation:
+
+When using direct conversation, a writer can more easily use the show don't tell method.
+
+"Bob, stop that! I hate it when you do that!" yelled Linda.
+
+This dialogue is an example of direct conversation,  where we are shown that Linda is upset because Bob is doing something that she disapproves of. Alternatively, the audience can be told the same information like this:
+
+"Linda yelled at Bob in a loud voice. She wanted him to stop and told Bob that she didn't approve of what he was doing."
+
+Arguably, the direct conversation method is more engaging and can let us see the personality and emotion of the characters.
+
 ### Audience
 
 The audience is who are you writing the story for, and the way you put together the story elements should have your audience in mind. Story genre fan bases are essentially consumer markets. When a storyteller is complicit with fan service \(fulfills the expectations of fans\), it means they are catering to a market that buys a particular kind of story, which tend to be valued more by publishers as products rather than creative and expressive works. This exists heavily in literature, film, cartoons, video games, and other forms of media.
