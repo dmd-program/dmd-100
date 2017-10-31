@@ -2,7 +2,7 @@
 
 # Discover: Research
 
-This assignment will ask you to explore and explain some aspects the existing market for modular kit toys. To do this, first research toys and their physical modular systems on the Internet. Find images of interesting or inspiring ways of making, attaching, and combining parts. You will create a presentation of your findings to help others understand how modular kits work.
+This assignment will ask you to explore and explain some aspects the existing market for modular kit toys. To do this, first research toys and their physical modular systems on the Internet. Find images of interesting or inspiring ways of making, attaching, and combining parts. You will create a presentation of your findings to help others understand how modular kits work. 
 
 ## Presentation
 
@@ -14,7 +14,7 @@ You will produce a presentation with the following elements:
    1. Title: 
    2. Include your name 
 2. Research areas
-   1. What toy categories did you find? You can identify your own categories.
+   1. What toy categories did you find? You can identify your own categories. Please include at least four categories.
    2. What materials are the toys made from?
    3. Who are the intended users? How do you know?
    4. What are toys and what are they for?
