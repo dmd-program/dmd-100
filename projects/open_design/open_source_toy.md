@@ -14,27 +14,9 @@ Originally conceived by the Institute Without Boundaries, the [Open Structures p
 
 ## Requirements:
 
-1. Parts should be simple \( avoid parts that are difficult to construct or provide instructions for constructing.\)
-2. A kit should have more than one part \(parts may be the same\)
+1. Parts should be simple \(avoid parts that are difficult to construct or provide instructions for constructing\).
+2. A kit should have more than one part \(parts may be the same\).
+3. Materials should not cost more than $10.
 
 There are many examples of modular toys and kits in stores and on the Internet. If you decide to take direct inspiration and remix other works and ideas, you must ensure that there is a good balance between copying, transforming, and combining. There must be some novelty in your work, and it should be obvious that this project came from you.
-
-**Develop phase questions:**
-
-1. Template for users to build their own modular objects?
-2. What kind of objects will be made? (Toys, models, etc.)
-3. What raw building materials are used, and for what parts?
-4. What tools and fasteners will be needed?
-5. Will there be standard or modular parts?
-6. What making processes will the users undergo?
-7. What are the instructions?
-
-**Deliver phase notes:**
-
-1. Prototype
-2. Test run/feedback/refine
-
-**Documentation:**
-
-The kit should be documented in a photography style known as _**knolling**_: [Examples](http://theultralinx.com/2013/09/50-amazing-examples-knolling-photography/)
 
