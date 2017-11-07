@@ -34,7 +34,7 @@ Create a `.doc` file with the following:
 
 1. Choose an existing toy that interests you.
 2. Write a profile for this toy in the product pitch document.
-2. Consider how you will change the toy to suit the requirements of the project brief. Write a pitch and include a description of the attributes you will modify. Examples include:
+2. **Consider how you will change the toy to suit the requirements of the Open Kit Project brief.** Write a pitch and include a description of the attributes you will modify. Examples include:
    1. Target audience (from child to adult for instance)
    2. Materials, fasteners
    3. Aesthetics
