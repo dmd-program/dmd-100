@@ -2,7 +2,7 @@
 
 # Define: Product pitch
 
-Now will choose a product that will form the basis for the project. To do this, you will highlight an existing toy product and produce a one-sentence pitch to explain how you might alter or make design changes, particularly if you find aspects of the product problematic ecologically, culturally, etc.
+Now will choose a product that will form the basis for the project. To do this, you will highlight an existing toy product and produce a one-sentence pitch to explain how you might alter or make design changes, particularly if you find aspects of the product problematic ecologically, culturally, etc. You will be building this project yourself and producing instructions for others. It must be feasible for someone without special skills to re-create.
 
 ## Product pitch document
 
