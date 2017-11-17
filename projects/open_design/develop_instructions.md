@@ -16,7 +16,7 @@ Now you will make a set of instructions to teach another person to assemble the 
 7. Estimated time to complete the assembly
 8. Parts manifest
   1. List and name each distinct part that will be constructed or used and how many will be needed.
-9. Step by step instructions
+9. Step by step instructions for one object variant.
 
 ## Instructions
 
