@@ -2,7 +2,7 @@
 
 # Develop: Instructions
 
-Now you will make a set of instructions to teach another person to assemble the toy(s) you have designed.
+Now you will make a set of instructions to teach another person to create and assemble the toy(s) you have designed.
 
 ## Document requirements
 
