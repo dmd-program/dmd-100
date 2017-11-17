@@ -2,11 +2,11 @@
 
 # Define: Product pitch
 
-Now will choose a product that will form the basis for the project. To do this, you will highlight an existing toy product and produce a one-sentence pitch to explain how you might alter or make design changes, particularly if you find aspects of the product problematic ecologically, culturally, etc. You will be building this project yourself and producing instructions for others. It must be feasible for someone without special skills to re-create.
+Now is a good time to re-read the project brief. After you reacquaint yourself with the project, choose a product that will form the basis for the project. To do this, you will describe an existing toy product and produce a one-sentence pitch to explain how you might alter or make design changes, particularly if you find aspects of the product problematic ecologically, culturally, etc. You will be building this project yourself and producing instructions for others. It must be feasible for someone without special skills to re-create.
 
 ## Product pitch document
 
-Create a `.doc` file with the following:
+Create a document file with the following:
 
 1. Name
 2. Date
@@ -28,19 +28,19 @@ Create a `.doc` file with the following:
 5. The Pitch
    1. I will design a(n) **\(toy name\)** for **\(target user\).** The key changes include **(list key changes)**.
       * An example pitch might be, **"I will design a finger puppet game for older children. Key changes to finger puppets include a way to allow a child to alter the face of the puppet and the incorporation of game rules that foster conversational skills."**
-      * Note: This pitch will guide the direction for the rest of the project. This is not a speculative project, you will be creating this object and producing instructions for others.
+      * Note: This pitch will guide the direction for the rest of the project. This is not a speculative project, you will be creating this object and producing instructions for others to follow.
 
 ## Instructions
 
 1. Choose an existing toy that interests you.
 2. Write a profile for this toy in the product pitch document.
-3. **Consider how you will change the toy to suit the requirements of the Open Kit Project brief.** Write a pitch and include a description of the attributes you will modify. Examples include:
+3. Consider how you will change the toy to suit the requirements of the Open Kit Project brief. If the existing toy is modular in nature, how will you alter it or use it in novel ways to make it your own? If the existing toy is not modular in nature, what aspects of it can become modular? Your user should be able to make three different objects from the same set of parts. **Write a pitch and include a description of the attributes you will modify.** Examples include:
    1. Target audience (from child to adult for instance)
    2. Materials, fasteners
    3. Aesthetics
    4. Operation, assembly, use, or purpose
-4. Mention how the kit will enable the user to create three different objects.
+   5. Added variants or unconventional uses for an existing system.
 
 ## Post work to the Studio
 
-1. Upload the pitch document.
+1. Export and upload the pitch document in `.pdf` format.
