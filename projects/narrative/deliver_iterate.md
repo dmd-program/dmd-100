@@ -14,7 +14,7 @@ Iterative improvement is the key to good design. Now that you have peer feedback
 
 ## Post work to the Studio
 
-1. Write the changes that you made
+1. Write a short description about the changes and improvements that were made
 2. Upload the exported Twine HTML file \(or ZIP file if you have multiple assets\).
 
 
