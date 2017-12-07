@@ -10,8 +10,8 @@ Now that you have documented at least one object each day for two weeks, it's ti
 
 ## Instructions
 
-1. Respond to the prompt questions on canvas' forum
-2. Upload an image of your  sketch
+1. Respond to the prompt questions in Studio
+2. Upload all 14 of your  sketches
     - Please either use a scanner or take a clear and well lit photograph.
 2. Write your responses to the prompt questions at the end of the two weeks.
 
