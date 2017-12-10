@@ -4,13 +4,13 @@
 
 ## Instructions:
 
-1. Make changes based on the peer feedback and download the prototype file from InVision.
+1. Make changes based on the peer and instructor feedback and **download** the prototype file from InVision.
 2. Write a description of the changes made to the prototype in a `.doc` file.
 
 ## Post work to the Studio
 
-1. Upload a `.zip` file of the prototype.
-2. Write all changes that were made in the assignment submission text box.
+1. Upload a `prototype-USERID.zip` file of the prototype.
+2. Upload a `changelog.doc` with all changes that were made.
 
 
 
