@@ -10,6 +10,8 @@ This object will be a collection or kit of parts that can be reconfigured to cre
 
 The primary goal of this project is to apply open design concepts to creating object using commonly available resources, and empower others to do the same. Secondary goals are to become familiar with product and market research, gain experience with user testing and feedback, practice presenting design process, produce knowledge design, and explore the IKEA effect for products. [Read more about the IKEA effect](https://uxplanet.org/design-principle-ikea-effect-2d908b2de81).
 
+**Note:** Remember, none of this is fiction. You are creating a real instruction set with everything needed for the end user to do this on their own. If you are incorporating templates, include them in the instructions for your users.
+
 ### Background
 
 According to the most [recent and comprehensive data](http://www.worldbank.org/en/publication/poverty-and-shared-prosperity), 10.7% of the world's population lives in poverty, so the easier and cheaper it is for others to create or obtain your parts, the more accessible your project will be.
