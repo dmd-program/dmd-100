@@ -24,6 +24,7 @@ Originally conceived by the Institute Without Boundaries, the [Open Structures p
 2. A kit should have more than one part \(parts may be the same\).
 3. Materials should not cost more than $10.
 4. You should be able to create three distinctly different objects with the same kit, tools, and assembly processes.
+5. You must design everything, and everything needed for another person to follow your instructions must be included in the PDF. This includes templates.
 
 There are many examples of modular toys and kits in stores and on the Internet. If you decide to take direct inspiration and remix other works and ideas, you must ensure that there is a good balance between copying, transforming, and combining. There must be some novelty in your work, and it should be obvious that this project came from you.
 
