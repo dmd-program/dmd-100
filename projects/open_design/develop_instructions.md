@@ -4,6 +4,8 @@
 
 Now you will make a set of instructions to teach another person to create and assemble the toy(s) you have designed.
 
+**Note:** Remember, none of this is fiction. You are creating a real instruction manual with everything needed for the end user to do this on their own. If you are incorporating templates, they will be printing those templates out from your instructions.
+
 ## Document requirements
 
 1. Title of your toy design
