@@ -32,7 +32,7 @@ Kate Miffitt, Assistant Director of Strategic Initiatives, Penn State College of
 Special thanks to:
 
 * Graeme Sullivan, Director of the Penn State School of Visual Arts, for the inspiring conversations, book recommendations, and unwavering moral support;
-* Linda Collins for proofreading over 200 pages.
+* Linda Collins, for proofreading over 200 pages.
 
 ## License
 
