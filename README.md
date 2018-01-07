@@ -36,7 +36,11 @@ Special thanks to:
 
 ## License
 
-This book is licensed as [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Some content is taken from other sources and cited. However, this work is always a working draft and presented as is.
+This book is licensed as [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Some content is taken from other sources and cited throughout. However, this work is a living draft, presented as is, and may be changed or updated without notice.
+
+
+
+
 
 ## Contributing
 
