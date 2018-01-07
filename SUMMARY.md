@@ -114,7 +114,7 @@
     * [Freakonomics: How to Become Great at Just About Anything](freakonomics-how-to-become-great-at-just-about-anything.md)
   * [Activities](lessons/co-generative_design/activities.md)
     * [Pathway design](lessons/co-generative_design/pathway.md)
-  * Readings
+  * [Readings](lessons/co-generative_design/readings.md)
     * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
     * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
     * [Chapter 14. Designing Time](practice/designing_time.md)

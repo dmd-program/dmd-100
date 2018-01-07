@@ -1,3 +1,7 @@
+**Notice:** This book has been replaced by an updated version: https://www.gitbook.com/book/dmd-program/dmd-100-sp18/details
+
+***
+
 ![dmd 100 course background art](/assets/dmd100-bg-compressed-cropped.jpg)
 
 # DMD 100: Digital Multimedia Design Foundations
@@ -29,6 +33,10 @@ Special thanks to:
 
 * Graeme Sullivan, Director of the Penn State School of Visual Arts, for the inspiring conversations, book recommendations, and unwavering moral support;
 * Linda Collins for proofreading over 200 pages.
+
+## License
+
+This book is licensed as [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Some content is taken from other sources and cited. However, this work is always a working draft and presented as is.
 
 ## Contributing
 
